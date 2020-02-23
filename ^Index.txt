@@ -1,0 +1,299 @@
+
+Manufacturers
+-----------------------------------------------
+Ace Novelty
+	Tales from the Cryptkeeper, 1993.
+
+Bandai
+	Terrahawks, 1983.
+
+Burger King
+	Burger King Universal Monsters, 1997.
+
+Ertl
+	Star Trek III, 1984.
+
+Gabriel
+	The Legend of the Lone Ranger, 1982.
+	Zorro, 1982.
+
+Galoob
+	A-Team, 1984.
+	Star Trek the Next Generation, 1988-89.
+
+Hasbro
+	Visionaries, 1987.
+
+Kenner
+	Butch & Sundance the Early Days, 1979.
+	Adventures of Indiana Jones in Raiders of the Lost Ark, 1982-83.
+	Star Wars, 1978-85.
+	Star Wars: Droids. The Adventures of R2-D2 and C-3PO, 1985.
+	Star Wars: Ewoks, 1985.
+	Super Powers Collection, 1984-1986.
+	Indiana Jones, 2008-2011.
+
+Knickerbocker
+	Lord of the Rings, 1979.
+
+LJN
+	Advanced Dungeons & Dragons, 1983-84.
+	Indiana Jones and The Temple of Doom, 1984.
+
+Mego
+	The Black Hole, 1979-80.
+	Buck Rogers in the 25th Century, 1979.
+	CHiPs, 1979.
+	Comic Action Heroes, 1975.
+	The Dukes of Hazzard, 1981.
+	The Greatest American Hero, 1982.
+	The Love Boat, 1981.
+	Pocket Super Heroes, 1979-80.
+	Star Trek the Motion Picture, 1979-80.
+
+Matchbox
+	Robotech, 1985.
+
+Mattel
+	Battlestar Galactica, 1978-79.
+	Clash of the Titans, 1980.
+	The New Adventures of Flash Gordon, 1979-80.
+	Mork and Mindy, 1980.
+	Marvel Super Heroes Secret Wars, 1984-1985.
+	Captain Power, 1987-88.
+
+Monstarz
+	It! The Terror from Beyond Space, 2016.
+	The Day the Earth Stood Still, 2014.
+
+Multi Toys
+	The Wizard of Oz, 1989.
+
+Neca
+	Tron, 2002.
+
+Panosh Place
+	Voltron, 1985.
+
+Popy
+	Battle of the Planets, 1979.
+
+Remco
+	The Saga of Crystar Crysal Warrior, 1982.
+	Universal Monsters Mini-Monsters, 1979.
+
+Tomy
+	Tron, 1981.
+
+Tonka
+	Super Naturals, 1987.
+
+Toy Biz
+	DC Comics Super Heroes, 1989-1991.
+
+Toy Island
+	Rambo: Champion of Liberty, 1995.
+	Robocop: The Series, 1995.
+	Terminator 2: Judgment Day, 1995.
+
+Tri-Star
+	M*A*S*H, 1982.
+
+Zica
+	The Six Million Dollar Man, 2013.
+
+
+Toy Lines
+-----------------------------------------------
+A-Team
+	Galoob, 1984
+
+Advanced Dungeons & Dragons
+	LJN, 1983-84.
+
+Battle of the Planets
+	Popy, 1979.
+
+Battlestar Galactica
+	Mattel, 1978-79.
+
+The Black Hole
+	Mego, 1979-80.
+
+Buck Rogers in the 25th Century
+	Mego, 1979.
+
+Burger King Universal Monsters
+	Burger King, 1997.
+
+Butch & Sundance the Early Days
+	Kenner, 1979.
+
+Captain Power
+	Mattel, 1987-88.
+
+CHiPs
+	Mego, 1979.
+
+Clash of the Titans
+	Mattel, 1980.
+
+Comic Action Heroes
+	Mego, 1975.
+
+The Saga of Crystar Crysal Warrior
+	Remco, 1982.
+
+The Day the Earth Stood Still
+	Monstarz, 2014.
+
+DC Comics Super Heroes
+	Toy Biz, 1989-1991.
+
+The Dukes of Hazzard
+	Mego, 1981.
+
+The New Adventures of Flash Gordon
+	Mattel, 1979-80.
+
+The Greatest American Hero
+	Mego, 1982.
+
+Indiana Jones
+	Hasbro, 2008-2011.
+
+Indiana Jones and The Temple of Doom
+	LJN, 1984.
+
+It! The Terror from Beyond Space
+	Monstarz, 2016.
+
+The Legend of the Lone Ranger
+	Gabriel, 1982.
+
+Lord of the Rings
+	Knickerbocker, 1979.
+
+The Love Boat
+	Mego, 1981.
+
+M*A*S*H
+	Tri-Star, 1982.
+
+Marvel Super Heroes Secret Wars
+	Mattel, 1984-1985.
+
+Mork and Mindy
+	Mattel, 1980.
+
+Pocket Super Heroes
+	Mego, 1979-80.
+
+Adventures of Indiana Jones in Raiders of the Lost Ark
+	Kenner, 1982-83.
+
+Rambo: Champion of Liberty
+	Toy Island, 1995.
+
+Robocop: The Series
+	Toy Island, 1995.
+
+Robotech
+	Matchbox, 1985.
+
+The Six Million Dollar Man
+	Zica, 2013.
+
+Star Trek the Motion Picture
+	Mego, 1979-80.
+
+Star Trek the Next Generation
+	Galoob, 1988-89.
+
+Star Trek III
+	Ertl, 1984.
+
+Star Wars
+	Kenner, 1978-85.
+
+Star Wars: Droids. The Adventures of R2-D2 and C-3PO.
+	Kenner, 1985.
+
+Star Wars: Ewoks
+	Kenner, 1985.
+
+Super Naturals
+	Tonka, 1987.
+
+Super Powers Collection
+	Kenner, 1984-1986.
+
+Tales from the Cryptkeeper
+	Ace Novelty, 1993.
+
+Terminator 2: Judgment Day
+	Toy Island, 1995.
+
+Terrahawks
+	Bandai, 1983.
+
+Tron
+	Tomy, 1981.
+	Neca, 2002.
+
+Universal Monsters Mini-Monsters
+	Remco, 1979.
+
+Visionaries
+	Hasbro, 1987.
+
+Voltron
+	Panosh Place, 1985.
+
+The Wizard of Oz
+	Multi Toys, 1989.
+
+Zorro
+	Gabriel, 1982.
+
+
+
+Genres
+-----------------------------------------------
+
+Action/Adventure
+~~~~~~
+
+Military
+~~~~~~
+
+Fantasy
+~~~~~~
+
+Science Fiction
+~~~~~~
+
+Comedy
+~~~~~~
+
+Horror
+~~~~~~
+
+Super Heroes
+~~~~~~
+
+
+Media
+-----------------------------------------------
+
+Movies
+
+TV
+
+Comics
+
+
+
+
+
+
