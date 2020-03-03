@@ -82,6 +82,9 @@ Remco
 	The Saga of Crystar Crysal Warrior, 1982.
 	Universal Monsters Mini-Monsters, 1979.
 
+Spinmaster
+	Tron: Legacy, 2010.
+
 Tomy
 	Tron, 1981.
 
@@ -240,6 +243,9 @@ Terrahawks
 Tron
 	Tomy, 1981.
 	Neca, 2002.
+
+Tron: Legacy
+	Spinmaster, 2010.
 
 Universal Monsters Mini-Monsters
 	Remco, 1979.

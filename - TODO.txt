@@ -8,13 +8,13 @@
 -- Add LJN ET figures
 -- Add Terminator Salvation from Playmates
 -- Add Eagle Force from Mego
--- Add Tron Legacy from Spin Master
 -- Add Hasbro 3.75 Marvel lines
 
 -- list out unique accessories in Kenner Star Wars
 
 -- Add View-Master reels connected to each toyline
 -- Add Golden Books connected to each toyline
+-- Add Disney read-along books
 
 
 
