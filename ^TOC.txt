@@ -52,8 +52,8 @@
 		~ Robotech
 		~ Voltron
 	** Gerry Anderson
-		~ Terrahawks
 		~ Space Precinct
+		~ Terrahawks
 	** Film and Television
 		~ A-Team
 		~ CHiPs
