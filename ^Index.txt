@@ -102,6 +102,9 @@ Toy Island
 Tri-Star
 	M*A*S*H, 1982.
 
+Vivid Imaginations
+	Space Precinct, 1994.
+
 Zica
 	The Six Million Dollar Man, 2013.
 
@@ -206,6 +209,9 @@ Robotech
 
 The Six Million Dollar Man
 	Zica, 2013.
+
+Space Precinct
+	Vivid Imaginations, 1994.
 
 Star Trek the Motion Picture
 	Mego, 1979-80.

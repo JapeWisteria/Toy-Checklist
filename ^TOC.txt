@@ -42,6 +42,7 @@
 		~ The New Adventures of Flash Gordon
 		~ Toy Island Movie Tie-ins
 		~ Tron
+		~ Tron: Legacy
 	** Horror
 		~ Burger King Universal Monsters
 		~ Tales from the Cryptkeeper
@@ -52,6 +53,7 @@
 		~ Voltron
 	** Gerry Anderson
 		~ Terrahawks
+		~ Space Precinct
 	** Film and Television
 		~ A-Team
 		~ CHiPs
@@ -70,6 +72,7 @@
 -- Trading Cards
 -- View-Master Reels
 -- Golden Books
+-- Disney Read-Along
 
 
 -- Index
