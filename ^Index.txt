@@ -65,6 +65,7 @@ Mattel
 Monstarz
 	It! The Terror from Beyond Space, 2016.
 	The Day the Earth Stood Still, 2014.
+	The Time Machine, 2017.
 
 Multi Toys
 	The Wizard of Oz, 1989.
@@ -245,6 +246,9 @@ Terminator 2: Judgment Day
 
 Terrahawks
 	Bandai, 1983.
+
+The Time Machine
+	Monstarz, 2017.
 
 Tron
 	Tomy, 1981.
