@@ -53,7 +53,9 @@
 		~ Voltron
 	** Gerry Anderson
 		~ Space Precinct
+		~ Stingray
 		~ Terrahawks
+		~ Thunderbirds
 	** Film and Television
 		~ A-Team
 		~ CHiPs

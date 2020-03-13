@@ -40,6 +40,19 @@ LJN
 	Advanced Dungeons & Dragons, 1983-84.
 	Indiana Jones and The Temple of Doom, 1984.
 
+Matchbox
+	Robotech, 1985.
+	Stingray, 1992.
+	Thunderbirds, 1994.
+
+Mattel
+	Battlestar Galactica, 1978-79.
+	Clash of the Titans, 1980.
+	The New Adventures of Flash Gordon, 1979-80.
+	Mork and Mindy, 1980.
+	Marvel Super Heroes Secret Wars, 1984-1985.
+	Captain Power, 1987-88.
+
 Mego
 	The Black Hole, 1979-80.
 	Buck Rogers in the 25th Century, 1979.
@@ -50,17 +63,6 @@ Mego
 	The Love Boat, 1981.
 	Pocket Super Heroes, 1979-80.
 	Star Trek the Motion Picture, 1979-80.
-
-Matchbox
-	Robotech, 1985.
-
-Mattel
-	Battlestar Galactica, 1978-79.
-	Clash of the Titans, 1980.
-	The New Adventures of Flash Gordon, 1979-80.
-	Mork and Mindy, 1980.
-	Marvel Super Heroes Secret Wars, 1984-1985.
-	Captain Power, 1987-88.
 
 Monstarz
 	It! The Terror from Beyond Space, 2016.
@@ -232,6 +234,9 @@ Star Wars: Droids. The Adventures of R2-D2 and C-3PO.
 Star Wars: Ewoks
 	Kenner, 1985.
 
+Stingray
+	Matchbox, 1992.
+
 Super Naturals
 	Tonka, 1987.
 
@@ -249,6 +254,9 @@ Terrahawks
 
 The Time Machine
 	Monstarz, 2017.
+
+Thunderbirds
+	Matchbox, 1994.
 
 Tron
 	Tomy, 1981.
