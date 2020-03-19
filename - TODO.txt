@@ -11,6 +11,8 @@
 -- Add Hasbro 3.75 Marvel lines
 -- Add Star Trek trading cards
 
+-- list 'army builder' figures
+
 -- list out unique accessories in Kenner Star Wars
 
 -- Add View-Master reels connected to each toyline

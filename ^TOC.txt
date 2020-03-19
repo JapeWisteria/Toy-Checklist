@@ -52,6 +52,7 @@
 		~ Robotech
 		~ Voltron
 	** Gerry Anderson
+		~ Captain Scarlet and the Mysterons
 		~ Space Precinct
 		~ Stingray
 		~ Terrahawks
