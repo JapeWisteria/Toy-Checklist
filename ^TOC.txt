@@ -1,7 +1,7 @@
 
 -- Introduction
 -- Table of Contents
--- Glossary
+
 
 -- Toys
 	** Star Wars
@@ -13,16 +13,17 @@
 		~ III
 		~ TNG
 	** G.I. Joe A Real American Hero
-	** Indiana Jones
-		~ Adventures of Indiana Jones in Raiders of the Lost Ark
-		~ Indiana Jones and The Temple of Doom
-		~ Indiana Jones (Hasbro)
+	** ReAction\Super 7
 	** Super Heroes
 		~ Mego Comic Action Heroes
 		~ Mego Pocket Super Heroes
 		~ Marvel Super Heroes Secret Wars
 		~ Super Powers Collection
 		~ DC Comics Super Heroes
+	** Indiana Jones
+		~ Adventures of Indiana Jones in Raiders of the Lost Ark
+		~ Indiana Jones and The Temple of Doom
+		~ Indiana Jones (Hasbro)
 	** Westerns
 		~ Butch & Sundance the Early Days
 		~ The Legend of the Lone Ranger
@@ -71,7 +72,6 @@
 		~ Mork and Mindy
 		~ The Six Million Dollar Man
 		~ The Wizard of Oz
-	** ReAction\Super 7
 
 -- Trading Cards
 -- View-Master Reels
@@ -86,6 +86,7 @@
 	-- by genre
 	-- by media
 -- Toyline
+-- Glossary
 -- Resources
 	-- Links
 	-- Books
