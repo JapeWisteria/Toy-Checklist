@@ -4,259 +4,553 @@ Waves: 13. Figures: .
 -----------------------------------------------
 Almost all figures have o-ring construction, with a few exceptions. Several figures have action features.
 
-Figures are organized by faction, team, and whether they shipped carded or with vehicles/playsets.
+Figures are organized by faction, sub-team, and whether they shipped carded or with vehicles/playsets.
+
+Characters were re-issued often, sometimes with different military specialties, or added to different sub-teams (Rock 'n Roll had 5 different vintage figures, for instance). To track versions, I'm using the versioning information used by yojoe.com.
+
+All figures were released with a file card, listing their names, specialties and biographies. This is listed as an accessory. Details were often changed based on the country the figure was issued in (Rock 'n Roll birthplace was changed from Malibu, California to Ottawa, Canada, for instance).
+
+From 1983 to 1987, Hasbro re-issued accessories as "Battle Gear" packs...these typically contained all accessories from the previous year's figures in different coloured plastic. If Battle Gear accessories were issued for a figure, it's listed next to the first release of the figure.
 
 All figures in the 1982 release were missing the 'battle grip' point of articulation.
 
 Wave 1 1982 (16)
 ~~~~~~
-Breaker
-Flash
-Grunt
+Breaker v1
+	File card
+	Green helmet, black communications headset, green radio backpack
+Flash v1
+	File card
+	Dark green helmet, clear visor, dark green power pack, XMLR-1A Laser Rifle
+Grunt v1
+	File card
+	Dark green helmet, dark green backpack, M-16 rifle
 Rock n' Roll v1
-Scarlett
-Short-Fuze
-Snake Eyes
-Stalker
-Zap
-Cobra
-Cobra Officer
-Cobra Commander (helmet)
+	File card
+	Dark green helmet, M-60 heavy machine gun, black bipod
+Scarlett v1
+	File card
+	Black XK-1 Power Crossbow
+Short-Fuze v1
+	File card
+	Dark green helmet, clear visor, dark green ammo backpack, black M-1 81mm medium mortar, black mortar stand
+Snake Eyes v1
+	File card
+	Black Uzi submachine gun, black explosives pack
+Stalker v1
+	File card
+	Black M-32 submachine gun
+Zap v1
+	File card
+	Light green helmet, light green ammo backpack, light green bazooka (3 variations)
 
-Clutch -- VAMP
-Grand Slam -- HAL
-Hawk -- MMS
-Steeler -- MOBAT
+Cobra v1
+	File card
+	Dragunov sniper rifle
+Cobra Officer v1
+	File card
+	AK-47 assault rifle
+Cobra Commander (helmet) v1
+	File card
+	Black venom laser pistol
+
+Clutch v1 -- VAMP
+	File card
+	Dark green helmet
+Grand Slam v1 -- HAL
+	File card
+	Dark green helmet, clear visor
+Hawk v1 -- MMS
+	File card
+	Dark green helmet, clear visor
+Steeler v1 -- MOBAT
+	File card
+	Light green helmet, black binocular headset, black Uzi submachine gun
 
 Wave 2 1983 (31)
 ~~~~~~
-Breaker -- battle grip re-issue
-Flash -- battle grip re-issue
-Grunt -- battle grip re-issue
-Rock n' Roll v1 -- battle grip re-issue
-Scarlett -- battle grip re-issue
-Short-Fuze -- battle grip re-issue
-Snake Eyes -- battle grip re-issue
-Stalker -- battle grip re-issue
-Zap -- battle grip re-issue
-Airborne
-Doc
+Breaker v1.5 -- battle grip re-issue
+	File card
+	Green helmet, black communications headset, green radio backpack
+Flash v1.5 -- battle grip re-issue
+	File card
+	Dark green helmet, clear visor, dark green power pack, XMLR-1A Laser Rifle
+Grunt v1.5 -- battle grip re-issue
+	File card
+	Dark green helmet, dark green backpack, M-16 rifle
+Rock n' Roll v1.5 -- battle grip re-issue
+	File card
+	Dark green helmet, M-60 heavy machine gun, black bipod
+Scarlett v1.5 -- battle grip re-issue
+	File card
+	Black XK-1 Power Crossbow
+Short-Fuze v1.5 -- battle grip re-issue
+	File card
+	Dark green helmet, clear visor, dark green ammo backpack, black M-1 81mm medium mortar, black mortar stand
+Snake Eyes v1.5 -- battle grip re-issue
+	File card
+	Black Uzi submachine gun, black explosives pack
+Stalker v1.5 -- battle grip re-issue
+	File card
+	Black M-32 submachine gun
+Zap v1.5 -- battle grip re-issue
+	File card
+	Light green helmet, light green ammo backpack, light green bazooka (3 variations)
+Airborne v1
+	File card
+	Light green helmet with goggles, tan assault backpack, black XM-16 rifle with bayonet
+Doc v1
+	File card
+	Tan helmet with two flares, black rescue flare launcher, dark gray stretcher
 Gung-Ho v1
-Snow Job
-Torpedo
-Trip-Wire
-Cobra -- battle grip re-issue
-Cobra Officer -- battle grip re-issue
-Cobra Commander (helmet) -- battle grip re-issue
-Destro
-Major Bludd
+	File card
+	Teal jungle pack, black XM-76 grenade launcher
+Snow Job v1
+	File card
+	White polar backpack, black XMLR-3A laser rifle, two white skis, and two black ski poles
+Torpedo v1
+	File card
+	Gray and orange scuba tank, two gray swim fins, and a black harpoon rifle
+Trip-Wire v1
+	File card
+	Light green mine detector backpack, black minesweeper, three light green land mines
 
-Clutch -- VAMP; battle grip re-issue
-Grand Slam -- HAL; battle grip re-issue
-Hawk -- MMS; battle grip re-issue
-Steeler -- MOBAT; battle grip re-issue
-Ace -- Sky-Striker
-Cover Girl -- Wolverine
-Grand Slam -- JUMP Jet Pack
-Grunt -- Falcon Attack Glider
-Wild Bill -- Dragonfly
-Cobra HISS Driver -- HISS
-Viper Pilot -- Viper Attack Glider
+Cobra v1.5 -- battle grip re-issue
+	File card
+	Dragunov sniper rifle
+Cobra Officer v1.5 -- battle grip re-issue
+	File card
+	AK-47 assault rifle
+Cobra Commander (helmet) v1.5 -- battle grip re-issue
+	File card
+	Black venom laser pistol
+Destro v1
+	File card
+	Black high-density laser gun, black armed attache case
+Major Bludd v1
+	File card
+	Black missile backpack, black rocket launcher
+
+Clutch v1 v1.5 -- VAMP; battle grip re-issue
+	File card
+	Dark green helmet
+Grand Slam v1.5 -- HAL; battle grip re-issue
+	File card
+	Dark green helmet, clear visor
+Hawk v1.5 -- MMS; battle grip re-issue
+	File card
+	Dark green helmet, clear visor
+Steeler v1.5 -- MOBAT; battle grip re-issue
+	File card
+	Light green helmet, black binocular headset, black Uzi submachine gun
+Ace v1 -- Sky-Striker
+	File card
+	Flight helmet 
+Cover Girl v1 -- Wolverine
+	File card
+	No accessories
+Grand Slam v2 -- JUMP Jet Pack
+	File card
+	Dark gray helmet, clear visor
+Grunt v2 -- Falcon Attack Glider
+	File card
+	Tan helmet
+Wild Bill v1 -- Dragonfly
+	File card
+
+Cobra HISS Driver v1 -- HISS
+	File card
+	No accessories
+Viper Pilot v1 -- Viper Attack Glider
+	File card
+	No accessories
 
 Wave 3 1984 (20)
 ~~~~~~
-Blowtorch
-Duke
-Mutt & Junkyard
-Recondo
-Rip Cord
+Blowtorch v1
+	File card
+	Yellow helmet, yellow oxygen mask, yellow M-7 manpack, light green flamethrower
+Duke v1
+	File card
+	Light green helmet, light green M-32 submachine gun, black binoculars, tan assault backpack, US flag sticker (mail-in version only)
+Mutt & Junkyard v1
+	File card
+	Black helmet, black face mask, black Ingram Mac-11, black night stick, black leash, Junkyard
+Recondo v1
+	File card
+	Green cross country backpack, green M-14E2X rifle
+Rip Cord v1
+	File card
+	Black helmet, black oxygen mask, light green parachute pack, light green SLR-W1L1 rifle
 Roadblock v1
+	File card
+	Light green helmet, brown backpack, brown ammo box, light green M-2X machine gun, light green tripod
 Spirit v1
-Baroness
-Firefly
-Scrap Iron
-Storm Shadow
-Cobra Commander (hooded)
+	File card
+	Brown and red belt, light green arrow cassette backpack, light green auto-arrow launcher, Freedom
 
-Clutch -- VAMP MK II
-Cutter -- WHALE Hovercraft
-Deep Six -- SHARC; missing bellows
-Thunder -- Slugger self-propelled cannon
-Cobra Stinger Driver -- Stinger Jeep
-Copperhead -- Cobra Water Moccasin
-Wild Weasel -- Cobra Rattler
-Zartan -- Chameleon Swamp Skier
+Baroness v1
+	File card
+	Black high-density laser rifle, black backpack
+Firefly v1
+	File card
+	Gray demolition backpack, gray backpack cover, light green submachine gun, light green walkie-talkie
+Scrap Iron v1
+	File card
+	Missile launcher top, missile launcher bottom, 2 missile system legs, missile system base, remote activator, 2 red missiles, black RAR pistol
+
+Storm Shadow v1
+	File card
+	Black quiver backpack, black long bow, two black samurai swords, black nunchuku
+Cobra Commander (hooded) v2
+	File card
+	Black venom laser pistol
+
+Clutch v2 -- VAMP MK II
+	File card
+	Tan helmet
+Cutter v1 -- WHALE Hovercraft
+	File card
+	No accessories
+Deep Six v1 -- SHARC
+	File card
+	Black bellows, black one-way valve, black connector, clear tubing, black string, bellows instructions
+Thunder v1 -- Slugger self-propelled cannon
+	File card
+	Light green helmet, green radio headset, black visor, black monocular
+
+Cobra Stinger Driver v1 -- Stinger Jeep
+	File card
+	No accessories
+Copperhead v1 -- Cobra Water Moccasin
+	File card
+	No accessories
+Wild Weasel v1 -- Cobra Rattler
+	File card
+	No accessories
+Zartan v1 -- Chameleon Swamp Skier
+	File card
+	Black pistol, chest shield, two knee pads, face mask, black backpack, heat sensitive sticker sheet
 
 Wave 4 1985 (27)
 ~~~~~~
-Airtight
-Alpine
-Barbecue
-Bazooka
-Dusty
-Flint
-Footloose
-Lady Jaye
-Quick Kick
-Shipwreck
+Airtight v1
+	File card
+	Black air hoses, black sniffer rifle, green compressor pack, black hose
+Alpine v1
+	File card
+	Tan mountain backpack, black GR8-88 grappling gun, black Barretta SMG-12 submachine gun, black climbing axe, two black grappling hooks connected by black string
+Barbecue v1
+	File card
+	Gray tank bracket, orange foam tanks, gray nozzle gun, gray fire axe, black hose
+Bazooka v1
+	File card
+Dusty v1
+	File card
+Flint v1
+	File card
+Footloose v1
+	File card
+Lady Jaye v1
+	File card
+Quick Kick v1
+	File card
+Shipwreck v1
+	File card
 Snake Eyes V2
-Buzzer
-Crimson Guard
-Cobra Eels
-Ripper
-Snow Serpent
-Tele-Vipers
-Tomax
-Torch
-Xamot
+	File card
+Buzzer v1
+	File card
+Crimson Guard v1
+	File card
+Cobra Eels v1
+	File card
+Ripper v1
+	File card
+Snow Serpent v1
+	File card
+Tele-Vipers v1
+	File card
+Tomax v1
+	File card
+Torch v1
+	File card
+Xamot v1
+	File card
 
-Crankcase -- AWE Striker
-Frostbite -- Snow Cat
-Heavy Metal -- Mauler Tank
-Keel-Haul -- USS Flag
-Tollbooth -- Bridge Layer
-Lampreys -- Cobra Moray Hydrofoil
+Crankcase v1 -- AWE Striker
+	File card
+Frostbite v1 -- Snow Cat
+	File card
+Heavy Metal v1 -- Mauler Tank
+	File card
+Keel-Haul v1 -- USS Flag
+	File card
+Tollbooth v1 -- Bridge Layer
+	File card
+Lampreys v1 -- Cobra Moray Hydrofoil
+	File card
 
-Listen n Fun Tripwire
+Listen n Fun Tripwire v2
+	File card
 
 Wave 5 1986 (32)
 ~~~~~~
 Beach Head
+	File card
 Dial-Tone
+	File card
 Gen Hawk
+	File card
 Iceberg
+	File card
 Leatherneck
+	File card
 Lifeline
+	File card
 Low-Light v1
+	File card
 Mainframe
+	File card
 Roadblock V2
+	File card
 Sci-Fi
+	File card
 Wet-Suit
+	File card
 Sgt. Slaughter (USA shirt)
+	File card
 BATS
+	File card
 Dr. Mindbender
+	File card
 Monkeywrench
+	File card
 Vipers
+	File card
 Zandar
+	File card
 Zarana
+	File card
 
 Claymore -- Special Mission: Brazil
+	File card
 Dial-Tone -- Special Mission: Brazil
+	File card
 Leatherneck -- Special Mission: Brazil
+	File card
 Mainframe -- Special Mission: Brazil
+	File card
 Wet-Suit -- Special Mission: Brazil
+	File card
 
 Cross-Country -- HAVOC
+	File card
 Lift-Ticket -- Tomahawk
+	File card
 Sgt. Slaughter (plain shirt) -- Triple-T Tank
+	File card
 Slip-Stream -- Conquest X-30
+	File card
 AVAC -- Cobra Terror Drome Firebat Pilot
+	File card
 Motor Viper -- Cobra STUN
+	File card
 Serpentor -- Air Chariot
+	File card
 Strato-Viper -- Night Raven
+	File card
 Thrasher -- Dreadnok Thunder Machine
+	File card
 
 Wave 5 1987 (42)
 ~~~~~~
 Chuckles
+	File card
 Crazylegs
+	File card
 Falcon
+	File card
 Fast Draw
+	File card
 Gung-Ho Marine Dress
+	File card
 Jinx
+	File card
 Law & Order
+	File card
 Outback
+	File card
 Psyche-Out
+	File card
 Sneak Peek
+	File card
 Tunnel Rat v1
+	File card
 Big Boa
+	File card
 Cobra Commander (battle armor)
+	File card
 Croc Master
+	File card
 Crystal Ball
+	File card
 Raptor
+	File card
 Techno-Viper
+	File card
 
 Backstop -- Persuader
+	File card
 Hardtop -- Defiant Space Vehicle Complex
+	File card
 Payload -- Defiant Space Vehicle Complex
+	File card
 Rumbler -- R/C Crossfire
-Steam-Roller v1 -- Mobile Command Center; missing knife; stripped torso screw
+	File card
+Steam-Roller v1 -- Mobile Command Center
+	File card
 Gyro-Viper -- Mamba Helicopter
-Ice Viper -- Cobra WOLF; missing all accessories; weak knee
+	File card
+Ice Viper -- Cobra WOLF
+	File card
 Sea Slug -- Cobra Sea Ray
+	File card
 WORMS -- Cobra Maggot
+	File card
 Zanzibar -- Dreadnok Air Skiff
+	File card
 
 Mercer -- Sgt. Slaughter's Renegades
+	File card
 Red Dog -- Sgt. Slaughter's Renegades
+	File card
 Taurus -- Sgt. Slaughter's Renegades
+	File card
 
-Golobulus -- Cobra-La Team 
-Nemesis Enforcer -- Cobra-La Team 
-Royal Guard -- Cobra-La Team 
+Golobulus -- Cobra-La Team
+	File card
+Nemesis Enforcer -- Cobra-La Team
+	File card
+Royal Guard -- Cobra-La Team
+	File card
 
 Avalanche -- Battle Force 2000; Dominator
+	File card
 Blaster -- Battle Force 2000; Vindicator
+	File card
 Blocker -- Battle Force 2000; Eliminator
+	File card
 Dodger -- Battle Force 2000; Marauder
+	File card
 Knockdown -- Battle Force 2000; Sky-Sweeper
+	File card
 Maverick -- Battle Force 2000; Jet Fighter
+	File card
 
 Starduster
+	File card
 Steel Brigade
+	File card
 The Fridge
+	File card
 
 Wave 6 1988 (45)
 ~~~~~~
 Blizzard
+	File card
 Budo
+	File card
 Charbroil
+	File card
 Hardball
+	File card
 Hit & Run
+	File card
 Lightfoot
+	File card
 Muskrat v1
+	File card
 Repeater
+	File card
 Shockwave
+	File card
 Spearhead & Max
+	File card
 Storm Shadow V2
+	File card
 Astro Viper
+	File card
 Hydro-Viper
+	File card
 Iron Grenadiers
+	File card
 Road Pig
+	File card
 Toxo-Viper
+	File card
 Voltar
+	File card
 
 Armadillo -- Rolling Thunder
+	File card
 Ghostrider -- X-19 Stealth Fighter
+	File card
 Sgt. Slaughter V3 -- Warthog AIFV
+	File card
 Skidmark -- Desert Fox
+	File card
 Wild Card -- Mean Dog
+	File card
 Windmill -- Skystorm Helicopter
+	File card
 Destro V2 -- Despoiler
-Ferret -- Iron Grenadiers D.E.M.O.N. 
+	File card
+Ferret -- Iron Grenadiers D.E.M.O.N.
+	File card
 Nullifier -- Iron Grenadiers AGP
+	File card
 Secto-Viper -- Cobra BUGG
+	File card
 Star-Viper  -- Cobra Stellar Stiletto
+	File card
 
 Bazooka -- Tiger Force
+	File card
 Duke -- Tiger Force
+	File card
 Dusty -- Tiger Force
+	File card
 Flint -- Tiger Force
+	File card
 Lifeline -- Tiger Force
+	File card
 Roadblock -- Tiger Force
+	File card
 Trip-Wire -- Tiger Force
+	File card
 Frostbite -- Tiger Force; Tiger Cat
+	File card
 Recondo -- Tiger Force; Tiger Fly
+	File card
 Skystriker -- Tiger Force; Tiger Rat
+	File card
 
 Crazylegs -- Night Force
+	File card
 Lt. Falcon -- Night Force
+	File card
 Outback -- Night Force
+	File card
 Psyche-Out -- Night Force
+	File card
 Sneak Peek -- Night Force
+	File card
 Tunnel Rat -- Night Force
+	File card
 
 Super Trooper
+	File card
 
 Wave 7 1989
 ~~~~~~
