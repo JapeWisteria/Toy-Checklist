@@ -245,122 +245,151 @@ Barbecue v1
 	Gray tank bracket, orange foam tanks, gray nozzle gun, gray fire axe, black hose
 Bazooka v1
 	File card
+	Green helmet, green missile pack, black M.A.T. missile launcher
 Dusty v1
 	File card
+	Tan backpack, black FAMAS submachine gun, black W-Bi Pod, non-removable fabric attached to helmet
 Flint v1
 	File card
+	Green backpack, green shotgun I-12 short barrel
 Footloose v1
 	File card
+	Green PASGT helmet, tan backpack, black M-16 rifle with shoulder strap, black M73-A1 LAWS rocket launcher with shoulder strap
 Lady Jaye v1
 	File card
+	Green backpack, gray power javelin, green surveillance camera
 Quick Kick v1
 	File card
+	Gray backpack, silver samurai sword, silver nunchaku
 Shipwreck v1
 	File card
+	Silver percussion pistol, silver boarding hooks with (black string) and handle, Polly
 Snake Eyes V2
 	File card
-Buzzer v1
-	File card
+	Black Uzi, black backpack, black sword, Timber
+
 Crimson Guard v1
 	File card
+	Red dress backpack, black AK48A rifle with bayonet
 Cobra Eels v1
 	File card
-Ripper v1
-	File card
+	Black air hose, 2 black flippers, black air tank backpack, black jet pack, black JLS double harpoon
 Snow Serpent v1
 	File card
+	White survival backpack, blue parachute pack, 2 white snow shoes, gray AK-47 rifle, gray anti-tank EK99 missile, gray missile stand
 Tele-Vipers v1
 	File card
+	Black VS-11 Scanner, black Communipac backpack, black hose
+
 Tomax v1
 	File card
-Torch v1
-	File card
+	Black laser pistol, gray sky hook and string (shared with Xamot)
 Xamot v1
 	File card
+	Black laser pistol, gray sky hook and string (shared with Tomax)
+
+Buzzer v1 -- Dreadnok
+	File card
+	Silver backpack frame, silver gas can, silver diamond toothed chain saw, silver nunchuka axe
+Ripper v1 -- Dreadnok
+	File card
+	Silver power pack, silver power jaws, silver assault rifle bayonet, black hydraulic hose
+Torch v1 -- Dreadnok
+	File card
+	Silver BP-47 tanks, silver acetylene torch
 
 Crankcase v1 -- AWE Striker
 	File card
+	Gray helmet, black rifle
 Frostbite v1 -- Snow Cat
 	File card
+	Black M-16 with scope
 Heavy Metal v1 -- Mauler Tank
 	File card
+	Black submachine gun, thin brown helmet microphone
 Keel-Haul v1 -- USS Flag
 	File card
+	Silver automatic pistol
 Tollbooth v1 -- Bridge Layer
 	File card
+	Gray sledgehammer
+
 Lampreys v1 -- Cobra Moray Hydrofoil
 	File card
+	Silver submachine gun with strap
 
 Listen n Fun Tripwire v2
 	File card
+	Gray mine detector, 3 gray mines, gray mine detector backpack, cassette tape
 
 Wave 5 1986 (32)
 ~~~~~~
-Beach Head
+Beach Head v1
 	File card
-Dial-Tone
+Dial-Tone v1
 	File card
-Gen Hawk
+Gen Hawk v2
 	File card
-Iceberg
+Iceberg v1
 	File card
-Leatherneck
+Leatherneck v1
 	File card
-Lifeline
+Lifeline v1
 	File card
 Low-Light v1
 	File card
-Mainframe
+Mainframe v1
 	File card
 Roadblock V2
 	File card
-Sci-Fi
+Sci-Fi v1
 	File card
-Wet-Suit
+Wet-Suit v1
 	File card
-Sgt. Slaughter (USA shirt)
-	File card
-BATS
-	File card
-Dr. Mindbender
-	File card
-Monkeywrench
-	File card
-Vipers
-	File card
-Zandar
-	File card
-Zarana
+Sgt. Slaughter (USA shirt) v1
 	File card
 
-Claymore -- Special Mission: Brazil
+BATS v1
 	File card
-Dial-Tone -- Special Mission: Brazil
+Dr. Mindbender v1
 	File card
-Leatherneck -- Special Mission: Brazil
+Monkeywrench v1
 	File card
-Mainframe -- Special Mission: Brazil
+Vipers v1
 	File card
-Wet-Suit -- Special Mission: Brazil
+Zandar v1
+	File card
+Zarana v1
 	File card
 
-Cross-Country -- HAVOC
+Claymore v1 -- Special Mission: Brazil
 	File card
-Lift-Ticket -- Tomahawk
+Dial-Tone v2 -- Special Mission: Brazil
 	File card
-Sgt. Slaughter (plain shirt) -- Triple-T Tank
+Leatherneck v2 -- Special Mission: Brazil
 	File card
-Slip-Stream -- Conquest X-30
+Mainframe v2 -- Special Mission: Brazil
 	File card
-AVAC -- Cobra Terror Drome Firebat Pilot
+Wet-Suit v2 -- Special Mission: Brazil
 	File card
-Motor Viper -- Cobra STUN
+
+Cross-Country v1 -- HAVOC
 	File card
-Serpentor -- Air Chariot
+Lift-Ticket v1 -- Tomahawk
 	File card
-Strato-Viper -- Night Raven
+Sgt. Slaughter (plain shirt) v2 -- Triple-T Tank
 	File card
-Thrasher -- Dreadnok Thunder Machine
+Slip-Stream v1 -- Conquest X-30
+	File card
+AVAC v1 -- Cobra Terror Drome Firebat Pilot
+	File card
+Motor Viper v1 -- Cobra STUN
+	File card
+Serpentor v1 -- Air Chariot
+	File card
+Strato-Viper v1 -- Night Raven
+	File card
+Thrasher v1 -- Dreadnok Thunder Machine
 	File card
 
 Wave 5 1987 (42)
