@@ -326,259 +326,367 @@ Wave 5 1986 (32)
 ~~~~~~
 Beach Head v1
 	File card
+	Gray 9mm XF-7 Wasp submachine gun, large black utility backpack, black ammo case
 Dial-Tone v1
 	File card
+	Light gray 9mm parabellum submachine pistol, light gray anti-scrambler communications backpack with rotating microphone
 Gen Hawk v2
 	File card
+	Green helmet, green fieldpack, black pistol, gold submachine gun (mail-away only)
 Iceberg v1
 	File card
+	White rifle
 Leatherneck v1
 	File card
+	Gray rifle, green backpack
 Lifeline v1
 	File card
+	Silver handgun, silver backpack, white medical case, black airmask
 Low-Light v1
 	File card
+	Black sniper rifle, black bipod, black uzi, black backpack
 Mainframe v1
 	File card
+	Black telephone, gray backpack, gray handheld computer, black hose
 Roadblock V2
 	File card
+	Silver L7A21 GPMG heavy machine gun, silver tripod
 Sci-Fi v1
 	File card
+	Black laser rifle, green backpack, black hose
+Sgt. Slaughter (USA shirt, mail-away version) v1
+	File card
+	Brown baton
 Wet-Suit v1
 	File card
-Sgt. Slaughter (USA shirt) v1
-	File card
+	Black mouthpiece with hoses, orange scuba tanks, 2 black flippers, orange underwater sea sled, orange underwater searchlight
 
-BATS v1
+B.A.T.S. v1
 	File card
+	Black backpack, silver hand, silver gripper attachment, silver laser attachment, silver torch attachment, lenticular chest piece
 Dr. Mindbender v1
 	File card
-Monkeywrench v1
-	File card
+	Black fabric cape with painted silver Cobra logo, gray .45 caliber pistol, silver electric prod, black generator, black hose
 Vipers v1
 	File card
-Zandar v1
-	File card
-Zarana v1
-	File card
+	Black fieldpack, light gray RDT 7 rifle
 
+Monkeywrench v1 -- Dreadnok
+	File card
+	Gray harpoon gun
+Zandar v1 -- Dreadnok
+	File card
+	Black rifle, blue backpack
+Zarana v1 -- Dreadnok
+	File card
+	Black "razor honed spur cutting weapon", red backpack
+
+Special Mission: Brazil
+All 5 figures were packaged together with a cassette tape.
 Claymore v1 -- Special Mission: Brazil
 	File card
+	Green helmet, black uzi
 Dial-Tone v2 -- Special Mission: Brazil
 	File card
+	Light gray 9mm parabellum submachine pistol, light gray anti-scrambler communications backpack with rotating microphone
 Leatherneck v2 -- Special Mission: Brazil
 	File card
+	Gray rifle, green backpack
 Mainframe v2 -- Special Mission: Brazil
 	File card
+	Black telephone, gray backpack, gray handheld computer, black hose
 Wet-Suit v2 -- Special Mission: Brazil
 	File card
+	Black mouthpiece with hoses, orange scuba tanks, 2 black flippers, orange underwater sea sled, orange underwater searchlight
 
 Cross-Country v1 -- HAVOC
 	File card
+	No accessories
 Lift-Ticket v1 -- Tomahawk
 	File card
+	Black microphone
 Sgt. Slaughter (plain shirt) v2 -- Triple-T Tank
 	File card
+	Brown baton
 Slip-Stream v1 -- Conquest X-30
 	File card
+	No accessories
+
 AVAC v1 -- Cobra Terror Drome Firebat Pilot
 	File card
+	Black parachute with Cobra logo
 Motor Viper v1 -- Cobra STUN
 	File card
+	No accessories
 Serpentor v1 -- Air Chariot
 	File card
+	Gold snake headdress, green fabric cape, silver dagger, gold pet cobra
 Strato-Viper v1 -- Night Raven
 	File card
-Thrasher v1 -- Dreadnok Thunder Machine
+	No accessories
+
+Thrasher v1 -- Dreadnok; Dreadnok Thunder Machine
 	File card
+	Black lacrosse stick
 
 Wave 5 1987 (42)
 ~~~~~~
-Chuckles
+Chuckles v1
 	File card
-Crazylegs
+	Brown shoulder harness, black Colt .45 pistol
+Crazylegs v1
 	File card
-Falcon
+	Tan parachute backpack, black EM-4 assault rifle, black rifle stock
+Falcon v1
 	File card
-Fast Draw
+	Green backpack, green backpack antenna, black shotgun, black knife
+Fast Draw v1
 	File card
-Gung-Ho Marine Dress
+	2 white hand controls, 2 white missiles, green backpack, face shield, blue hose, 2 black hoses
+Gung-Ho Marine Dress v2
 	File card
-Jinx
+	Gold Dress Sabre, decal sheet with 2 stripes and medal strip
+Jinx v1
 	File card
-Law & Order
+	Black backpack, 2 ninja-to swords, silver naginata
+Law & Order v1
 	File card
-Outback
+	White helmet, black leash, black uzi, black nightstick, Order
+Outback v1
 	File card
-Psyche-Out
+	Tan web belt, tan survival backpack, black H&K G3 rifle, green flashlight
+Psyche-Out v1
 	File card
-Sneak Peek
+	Black handgun, silver antenna, silver backpack, silver handheld box red radar dish, 2 silver wristpieces with red radar dishes
+Sneak Peek v1
 	File card
+	Green tower, green tower handle, black walkie-talkie, black binoculars, black M-16 with strap, black microphone
 Tunnel Rat v1
 	File card
-Big Boa
-	File card
-Cobra Commander (battle armor)
-	File card
-Croc Master
-	File card
-Crystal Ball
-	File card
-Raptor
-	File card
-Techno-Viper
-	File card
+	Black rifle, dark green backpack, dark green bag, 2 dark green flashlights
 
-Backstop -- Persuader
+Big Boa v1
 	File card
-Hardtop -- Defiant Space Vehicle Complex
+	Silver mouthpiece, 2 red flexsteel-mesh boxing gloves, brown punching bag, black punching bag stand
+Cobra Commander (battle armor) v3
 	File card
-Payload -- Defiant Space Vehicle Complex
+	Black mouthpiece, silver life support backpack, black auto-assault pistol
+Croc Master v1
 	File card
-Rumbler -- R/C Crossfire
+	Green crocodile, tan whip, black leash, black breather hose
+Crystal Ball v1
 	File card
+	Hypno-shield
+Raptor v1
+	File card
+	Brown falcon, brown fabric cape with plastic backpack
+Techno-Viper v1
+	File card
+	Silver rifle, silver claw arm, silver wrench arm, silver hammer arm, black backpack, 2 black hoses
+
+Backstop v1 -- Persuader
+	File card
+	Gray helmet, silver pistol
+Hardtop v1 -- Defiant Space Vehicle Complex
+	File carded
+	White microphone, black pistol
+Payload v1 -- Defiant Space Vehicle Complex
+	File card
+	White helmet, white backpack, 2 white control arms
+Rumbler v1 -- R/C Crossfire
+	File card
+	Brown helmet, gray submachine gun with strap
 Steam-Roller v1 -- Mobile Command Center
 	File card
-Gyro-Viper -- Mamba Helicopter
-	File card
-Ice Viper -- Cobra WOLF
-	File card
-Sea Slug -- Cobra Sea Ray
-	File card
-WORMS -- Cobra Maggot
-	File card
-Zanzibar -- Dreadnok Air Skiff
-	File card
+	Gray knife
 
-Mercer -- Sgt. Slaughter's Renegades
+Gyro-Viper v1 -- Mamba Helicopter
 	File card
-Red Dog -- Sgt. Slaughter's Renegades
+	Maroon helmet
+Ice Viper v1 -- Cobra WOLF
 	File card
-Taurus -- Sgt. Slaughter's Renegades
+	Gray helmet, 2 silver sais
+Sea Slug v1 -- Cobra Sea Ray
 	File card
+	Silver handgun
+W.O.R.M.S. v1 -- Cobra Maggot
+	File card
+	Brown helmet, brown antenna
 
-Golobulus -- Cobra-La Team
+Zanzibar v1 -- Dreadnok, Dreadnok Air Skiff
 	File card
-Nemesis Enforcer -- Cobra-La Team
-	File card
-Royal Guard -- Cobra-La Team
-	File card
+	Black handgun, brown hammer, brown spear, black non-removable head hair
 
-Avalanche -- Battle Force 2000; Dominator
+Sgt. Slaughter's Renegades
+All 3 figures were packed together.
+Mercer v1 -- Sgt. Slaughter's Renegades
 	File card
-Blaster -- Battle Force 2000; Vindicator
+	Black backpack, light gray .45 caliber pistol with silencer
+Red Dog v1 -- Sgt. Slaughter's Renegades
 	File card
-Blocker -- Battle Force 2000; Eliminator
+	Brown backpack, dark gray .45 caliber pistol
+Taurus v1 -- Sgt. Slaughter's Renegades
 	File card
-Dodger -- Battle Force 2000; Marauder
-	File card
-Knockdown -- Battle Force 2000; Sky-Sweeper
-	File card
-Maverick -- Battle Force 2000; Jet Fighter
-	File card
+	Brown backpack, silver pistol with stock
 
-Starduster
+Cobra-La Team
+All 3 figures were packed together.
+Golobulus v1 -- Cobra-La Team
 	File card
-Steel Brigade
+	Red bio-rifle
+Nemesis Enforcer v1 -- Cobra-La Team
 	File card
-The Fridge
+	Dark gray wings, green tentacles
+Royal Guard v1 -- Cobra-La Team
 	File card
+	Gray handgun, silver scythe, red antenna
+
+Avalanche v1 -- Battle Force 2000; Dominator
+	File card
+	Silver rifle, silver microphone
+Blaster v1 -- Battle Force 2000; Vindicator
+	File card
+	Green mouthpiece, silver gun
+Blocker v1 -- Battle Force 2000; Eliminator
+	File card
+	Silver pistol
+Dodger v1 -- Battle Force 2000; Marauder
+	File card
+	Silver "laser sonic photon rifle", silver microphone
+Knockdown v1 -- Battle Force 2000; Sky-Sweeper
+	File card
+	Gold helmet, silver experimental ground-to-air pistol
+Maverick v1 -- Battle Force 2000; Jet Fighter
+	File card
+	Blue helmet, silver gun
+
+The Fridge v1 (mail-away)
+	File card
+	Black football flail
+Starduster v1 (mail-away)
+	File card
+	Silver grenade launcher, light blue helmet, black visor, green jetpack
+Steel Brigade v1 (mail-away)
+	File card
+	Gray rifle, green backpack, Steel Brigade iron-on patch
 
 Wave 6 1988 (45)
 ~~~~~~
-Blizzard
+Blizzard v1
 	File card
-Budo
+	White and blue helmet, black backpack sled, 2 black ice shoes, 2 black skis, white machine gun, white pistol, 2 black handles
+Budo v1
 	File card
-Charbroil
+	Silver samurai helmet, brown backpack, crimson sword, silver ornamental sword, silver sai
+Charbroil v1
 	File card
-Hardball
+	Silver thermo-insulated helmet, silver thermochemical backpack (with hologram sticker), silver flamethrower, large thick black hose
+Hardball v1
 	File card
-Hit & Run
+	Green backpack, gray multi-shot grenade launcher, grenade magazine
+Hit & Run v1
 	File card
-Lightfoot
+	Black Colt 9mm submachine gun, green knife, black duffel bag front and back, black grappling hook and crank connected by black string, green backpack (Target exclusive), working parachute (Target exclusive)
+Lightfoot v1
 	File card
+	blue night vision helmet, green backpack (with lenticular sticker), green mine detector unit, green hose, orange robot (with lenticular sticker)
 Muskrat v1
 	File card
-Repeater
+	Black Super 90 shotgun, blue machete, green "swamp skimmer"
+Repeater v1
 	File card
-Shockwave
+	Black machine gun, black stabilizing arm, green backpack
+Shockwave v1
 	File card
-Spearhead & Max
+	Dark blue submachine gun, dark blue handgun, silver knife, dark blue backpack
+Spearhead & Max v1
 	File card
+	Orange helmet, orange backpack, large gray rifle, gray knife, Max
 Storm Shadow V2
 	File card
-Astro Viper
-	File card
-Hydro-Viper
-	File card
-Iron Grenadiers
-	File card
-Road Pig
-	File card
-Toxo-Viper
-	File card
-Voltar
-	File card
+	Red backpack, black bow, red sword, black claw
 
-Armadillo -- Rolling Thunder
+Astro Viper v1
 	File card
-Ghostrider -- X-19 Stealth Fighter
+	Black space helmet, silver backpack, 2 silver handles, two silver laser guns, 2 black hoses
+Hydro-Viper v1
+	File card
+	black regulator helmet, 2 red fins, black scuba pack, black harpoon gun, black dagger, 2 black hoses, black devil ray
+Toxo-Viper v1
+	File card
+	Brown environmental helmet, large black environmental backpack, black pistol, black hose
+
+Voltar v1 -- Iron Grenadiers
+	File card
+	Gold communications backpack, gold modified uzi submachine gun, black condor
+Iron Grenadiers v1 -- Iron Grenadiers
+	File card
+	Gold sword, black submachine gun, red laser pistol
+
+Road Pig v1 -- Dreadnok
+	File card
+	Gray cinderblock hammer, black spiked shoulder pads, black spiked forearm shield, black arm crossbow
+
+Armadillo v1 -- Rolling Thunder
+	File card
+Ghostrider v1 -- X-19 Stealth Fighter
 	File card
 Sgt. Slaughter V3 -- Warthog AIFV
 	File card
-Skidmark -- Desert Fox
+Skidmark v1 -- Desert Fox
 	File card
-Wild Card -- Mean Dog
+Wild Card v1 -- Mean Dog
 	File card
-Windmill -- Skystorm Helicopter
-	File card
-Destro V2 -- Despoiler
-	File card
-Ferret -- Iron Grenadiers D.E.M.O.N.
-	File card
-Nullifier -- Iron Grenadiers AGP
-	File card
-Secto-Viper -- Cobra BUGG
-	File card
-Star-Viper  -- Cobra Stellar Stiletto
+Windmill v1 -- Skystorm Helicopter
 	File card
 
-Bazooka -- Tiger Force
+Destro V2 -- Iron Grenadiers; Despoiler
 	File card
-Duke -- Tiger Force
+Ferret v1 -- Iron Grenadiers; Iron Grenadiers D.E.M.O.N.
 	File card
-Dusty -- Tiger Force
-	File card
-Flint -- Tiger Force
-	File card
-Lifeline -- Tiger Force
-	File card
-Roadblock -- Tiger Force
-	File card
-Trip-Wire -- Tiger Force
-	File card
-Frostbite -- Tiger Force; Tiger Cat
-	File card
-Recondo -- Tiger Force; Tiger Fly
-	File card
-Skystriker -- Tiger Force; Tiger Rat
+Nullifier v1 -- Iron Grenadiers; Iron Grenadiers AGP
 	File card
 
-Crazylegs -- Night Force
+Secto-Viper v1 -- Cobra BUGG
 	File card
-Lt. Falcon -- Night Force
-	File card
-Outback -- Night Force
-	File card
-Psyche-Out -- Night Force
-	File card
-Sneak Peek -- Night Force
-	File card
-Tunnel Rat -- Night Force
+Star-Viper v1  -- Cobra Stellar Stiletto
 	File card
 
-Super Trooper
+Bazooka v2 -- Tiger Force
+	File card
+Duke v2 -- Tiger Force
+	File card
+Dusty v2 -- Tiger Force
+	File card
+Flint v2 -- Tiger Force
+	File card
+Lifeline v2 -- Tiger Force
+	File card
+Roadblock v3 -- Tiger Force
+	File card
+Trip-Wire v3 -- Tiger Force
+	File card
+Frostbite v2 -- Tiger Force; Tiger Cat
+	File card
+Recondo v2 -- Tiger Force; Tiger Fly
+	File card
+Skystriker v1 -- Tiger Force; Tiger Rat
+	File card
+
+Crazylegs v2 -- Night Force
+	File card
+Lt. Falcon v1 -- Night Force
+	File card
+Outback v2 -- Night Force
+	File card
+Psyche-Out v2 -- Night Force
+	File card
+Sneak Peek v2 -- Night Force
+	File card
+Tunnel Rat v2 -- Night Force
+	File card
+
+Super Trooper v1
 	File card
 
 Wave 7 1989
