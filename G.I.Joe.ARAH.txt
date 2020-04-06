@@ -16,6 +16,8 @@ All figures in the 1982 release were missing the 'battle grip' point of articula
 
 Wave 1 1982 (16)
 ~~~~~~
+Joes
+******
 Breaker v1
 	File card
 	Green helmet, black communications headset, green radio backpack
@@ -44,6 +46,8 @@ Zap v1
 	File card
 	Light green helmet, light green ammo backpack, light green bazooka (3 variations)
 
+Cobra
+******
 Cobra v1
 	File card
 	Dragunov sniper rifle
@@ -54,6 +58,8 @@ Cobra Commander (helmet) v1
 	File card
 	Black venom laser pistol
 
+Vehicle Drivers
+******
 Clutch v1 -- VAMP
 	File card
 	Dark green helmet
@@ -69,6 +75,9 @@ Steeler v1 -- MOBAT
 
 Wave 2 1983 (31)
 ~~~~~~
+
+Joes
+******
 Breaker v1.5 -- battle grip re-issue
 	File card
 	Green helmet, black communications headset, green radio backpack
@@ -115,6 +124,8 @@ Trip-Wire v1
 	File card
 	Light green mine detector backpack, black minesweeper, three light green land mines
 
+Cobra
+******
 Cobra v1.5 -- battle grip re-issue
 	File card
 	Dragunov sniper rifle
@@ -131,6 +142,8 @@ Major Bludd v1
 	File card
 	Black missile backpack, black rocket launcher
 
+Vehicle Drivers Joes
+******
 Clutch v1 v1.5 -- VAMP; battle grip re-issue
 	File card
 	Dark green helmet
@@ -158,6 +171,8 @@ Grunt v2 -- Falcon Attack Glider
 Wild Bill v1 -- Dragonfly
 	File card
 
+Vehicle Drivers Cobra
+******
 Cobra HISS Driver v1 -- HISS
 	File card
 	No accessories
@@ -167,6 +182,9 @@ Viper Pilot v1 -- Viper Attack Glider
 
 Wave 3 1984 (20)
 ~~~~~~
+
+Joes
+******
 Blowtorch v1
 	File card
 	Yellow helmet, yellow oxygen mask, yellow M-7 manpack, light green flamethrower
@@ -189,6 +207,8 @@ Spirit v1
 	File card
 	Brown and red belt, light green arrow cassette backpack, light green auto-arrow launcher, Freedom
 
+Cobra
+******
 Baroness v1
 	File card
 	Black high-density laser rifle, black backpack
@@ -198,14 +218,15 @@ Firefly v1
 Scrap Iron v1
 	File card
 	Missile launcher top, missile launcher bottom, 2 missile system legs, missile system base, remote activator, 2 red missiles, black RAR pistol
-
 Storm Shadow v1
 	File card
 	Black quiver backpack, black long bow, two black samurai swords, black nunchuku
-Cobra Commander (hooded) v2
+Cobra Commander v2 (hooded, mail-away)
 	File card
 	Black venom laser pistol
 
+Vehicle Drivers Joes
+******
 Clutch v2 -- VAMP MK II
 	File card
 	Tan helmet
@@ -219,6 +240,8 @@ Thunder v1 -- Slugger self-propelled cannon
 	File card
 	Light green helmet, green radio headset, black visor, black monocular
 
+Vehicle Drivers Cobra
+******
 Cobra Stinger Driver v1 -- Stinger Jeep
 	File card
 	No accessories
@@ -234,6 +257,9 @@ Zartan v1 -- Chameleon Swamp Skier
 
 Wave 4 1985 (27)
 ~~~~~~
+
+Joes
+******
 Airtight v1
 	File card
 	Black air hoses, black sniffer rifle, green compressor pack, black hose
@@ -268,6 +294,8 @@ Snake Eyes V2
 	File card
 	Black Uzi, black backpack, black sword, Timber
 
+Cobra
+******
 Crimson Guard v1
 	File card
 	Red dress backpack, black AK48A rifle with bayonet
@@ -280,7 +308,6 @@ Snow Serpent v1
 Tele-Vipers v1
 	File card
 	Black VS-11 Scanner, black Communipac backpack, black hose
-
 Tomax v1
 	File card
 	Black laser pistol, gray sky hook and string (shared with Xamot)
@@ -288,6 +315,8 @@ Xamot v1
 	File card
 	Black laser pistol, gray sky hook and string (shared with Tomax)
 
+Dreadnoks
+******
 Buzzer v1 -- Dreadnok
 	File card
 	Silver backpack frame, silver gas can, silver diamond toothed chain saw, silver nunchuka axe
@@ -298,6 +327,8 @@ Torch v1 -- Dreadnok
 	File card
 	Silver BP-47 tanks, silver acetylene torch
 
+Vehicle Drivers Joes
+******
 Crankcase v1 -- AWE Striker
 	File card
 	Gray helmet, black rifle
@@ -314,6 +345,8 @@ Tollbooth v1 -- Bridge Layer
 	File card
 	Gray sledgehammer
 
+Vehicle Drivers Cobra
+******
 Lampreys v1 -- Cobra Moray Hydrofoil
 	File card
 	Silver submachine gun with strap
@@ -324,6 +357,9 @@ Listen n Fun Tripwire v2
 
 Wave 5 1986 (32)
 ~~~~~~
+
+Joes
+******
 Beach Head v1
 	File card
 	Gray 9mm XF-7 Wasp submachine gun, large black utility backpack, black ammo case
@@ -361,6 +397,8 @@ Wet-Suit v1
 	File card
 	Black mouthpiece with hoses, orange scuba tanks, 2 black flippers, orange underwater sea sled, orange underwater searchlight
 
+Cobra
+******
 B.A.T.S. v1
 	File card
 	Black backpack, silver hand, silver gripper attachment, silver laser attachment, silver torch attachment, lenticular chest piece
@@ -371,6 +409,8 @@ Vipers v1
 	File card
 	Black fieldpack, light gray RDT 7 rifle
 
+Dreadnoks
+******
 Monkeywrench v1 -- Dreadnok
 	File card
 	Gray harpoon gun
@@ -382,6 +422,7 @@ Zarana v1 -- Dreadnok
 	Black "razor honed spur cutting weapon", red backpack
 
 Special Mission: Brazil
+******
 All 5 figures were packaged together with a cassette tape.
 Claymore v1 -- Special Mission: Brazil
 	File card
@@ -399,6 +440,8 @@ Wet-Suit v2 -- Special Mission: Brazil
 	File card
 	Black mouthpiece with hoses, orange scuba tanks, 2 black flippers, orange underwater sea sled, orange underwater searchlight
 
+Vehicle Drivers Joes
+******
 Cross-Country v1 -- HAVOC
 	File card
 	No accessories
@@ -412,6 +455,8 @@ Slip-Stream v1 -- Conquest X-30
 	File card
 	No accessories
 
+Vehicle Drivers Cobra
+******
 AVAC v1 -- Cobra Terror Drome Firebat Pilot
 	File card
 	Black parachute with Cobra logo
@@ -431,6 +476,9 @@ Thrasher v1 -- Dreadnok; Dreadnok Thunder Machine
 
 Wave 5 1987 (42)
 ~~~~~~
+
+Joes
+******
 Chuckles v1
 	File card
 	Brown shoulder harness, black Colt .45 pistol
@@ -465,6 +513,8 @@ Tunnel Rat v1
 	File card
 	Black rifle, dark green backpack, dark green bag, 2 dark green flashlights
 
+Cobra
+******
 Big Boa v1
 	File card
 	Silver mouthpiece, 2 red flexsteel-mesh boxing gloves, brown punching bag, black punching bag stand
@@ -484,6 +534,8 @@ Techno-Viper v1
 	File card
 	Silver rifle, silver claw arm, silver wrench arm, silver hammer arm, black backpack, 2 black hoses
 
+Vehicle Drivers Joes
+******
 Backstop v1 -- Persuader
 	File card
 	Gray helmet, silver pistol
@@ -500,6 +552,8 @@ Steam-Roller v1 -- Mobile Command Center
 	File card
 	Gray knife
 
+Vehicle Drivers Cobra
+******
 Gyro-Viper v1 -- Mamba Helicopter
 	File card
 	Maroon helmet
@@ -518,6 +572,7 @@ Zanzibar v1 -- Dreadnok, Dreadnok Air Skiff
 	Black handgun, brown hammer, brown spear, black non-removable head hair
 
 Sgt. Slaughter's Renegades
+******
 All 3 figures were packed together.
 Mercer v1 -- Sgt. Slaughter's Renegades
 	File card
@@ -530,6 +585,7 @@ Taurus v1 -- Sgt. Slaughter's Renegades
 	Brown backpack, silver pistol with stock
 
 Cobra-La Team
+******
 All 3 figures were packed together.
 Golobulus v1 -- Cobra-La Team
 	File card
@@ -541,6 +597,8 @@ Royal Guard v1 -- Cobra-La Team
 	File card
 	Gray handgun, silver scythe, red antenna
 
+Battle Force 2000
+******
 Avalanche v1 -- Battle Force 2000; Dominator
 	File card
 	Silver rifle, silver microphone
@@ -567,11 +625,14 @@ Starduster v1 (mail-away)
 	File card
 	Silver grenade launcher, light blue helmet, black visor, green jetpack
 Steel Brigade v1 (mail-away)
-	File card
+	This figure didn't come with a pre-written file card...children were allowed to write their own to become a 'member' of G.I. Joe.
 	Gray rifle, green backpack, Steel Brigade iron-on patch
 
 Wave 6 1988 (45)
 ~~~~~~
+
+Joes
+******
 Blizzard v1
 	File card
 	White and blue helmet, black backpack sled, 2 black ice shoes, 2 black skis, white machine gun, white pistol, 2 black handles
@@ -606,6 +667,8 @@ Storm Shadow V2
 	File card
 	Red backpack, black bow, red sword, black claw
 
+Cobra
+******
 Astro Viper v1
 	File card
 	Black space helmet, silver backpack, 2 silver handles, two silver laser guns, 2 black hoses
@@ -616,6 +679,8 @@ Toxo-Viper v1
 	File card
 	Brown environmental helmet, large black environmental backpack, black pistol, black hose
 
+Iron Grenadiers
+******
 Voltar v1 -- Iron Grenadiers
 	File card
 	Gold communications backpack, gold modified uzi submachine gun, black condor
@@ -627,70 +692,250 @@ Road Pig v1 -- Dreadnok
 	File card
 	Gray cinderblock hammer, black spiked shoulder pads, black spiked forearm shield, black arm crossbow
 
+Vehicle Drivers Joes
+******
 Armadillo v1 -- Rolling Thunder
 	File card
+	No accessories
 Ghostrider v1 -- X-19 Stealth Fighter
 	File card
+	Red cloth scarf
 Sgt. Slaughter V3 -- Warthog AIFV
 	File card
+	Light green hat
 Skidmark v1 -- Desert Fox
 	File card
+	No accessories
 Wild Card v1 -- Mean Dog
 	File card
+	Dark green helmet, gray machete, gray backpack/sheath
 Windmill v1 -- Skystorm Helicopter
 	File card
+	Black revolver
 
+Vehicle Drivers Iron Grenadiers
+******
 Destro V2 -- Iron Grenadiers; Despoiler
 	File card
+	Gold sword, red fabric cape
 Ferret v1 -- Iron Grenadiers; Iron Grenadiers D.E.M.O.N.
 	File card
+	No accessories	
 Nullifier v1 -- Iron Grenadiers; Iron Grenadiers AGP
 	File card
+	Pink visor
 
+Vehicle Drivers Cobra
+******
 Secto-Viper v1 -- Cobra BUGG
 	File card
+	Clear bubble helmet, black laser pistol
 Star-Viper v1  -- Cobra Stellar Stiletto
 	File card
+	No accessories
 
+Tiger Force
+******
 Bazooka v2 -- Tiger Force
 	File card
+	Brown helmet, dark green backpack, black bazooka
 Duke v2 -- Tiger Force
 	File card
+	Tan helmet, black submachine gun, black binoculars, green backpack
 Dusty v2 -- Tiger Force
 	File card
+	Green backpack, black FAMAS submachine gun, black W-Bi Pod, non-removable fabric attached to helmet
 Flint v2 -- Tiger Force
 	File card
+	Gray backpack, gray shotgun I-12 short barrel
 Lifeline v2 -- Tiger Force
 	File card
+	Black handgun, black backpack, green medical case, black airmask
 Roadblock v3 -- Tiger Force
 	File card
+	Yellow helmet, green backpack, green ammo box, black M-2X machine gun, black tripod
 Trip-Wire v3 -- Tiger Force
 	File card
+	Dark gray mine detector backpack, black minesweeper, three dark gray land mines
+
+Vehicle Drivers Tiger Force
+******
 Frostbite v2 -- Tiger Force; Tiger Cat
 	File card
+	Black M-16 with scope
 Recondo v2 -- Tiger Force; Tiger Fly
 	File card
+	Dark green cross country backpack, black M-14E2X rifle
 Skystriker v1 -- Tiger Force; Tiger Rat
 	File card
+	Reddish brown helmet, reddish brown radio headset, clear visor
 
+Night Force
+******
 Crazylegs v2 -- Night Force
 	File card
+	Black parachute backpack, black EM-4 assault rifle, black rifle stock
 Lt. Falcon v1 -- Night Force
 	File card
+	Black backpack, black backpack antenna, black shotgun, black knife
 Outback v2 -- Night Force
 	File card
+	Black web belt, black survival backpack, black H&K G3 rifle, black flashlight
 Psyche-Out v2 -- Night Force
 	File card
+	Black handgun, black antenna, black backpack, black handheld box red radar dish, 2 black wristpieces with red radar dishes
 Sneak Peek v2 -- Night Force
 	File card
+	Black tower, black tower handle, black walkie-talkie, black binoculars, black M-16 with strap, black microphone
 Tunnel Rat v2 -- Night Force
 	File card
+	Black rifle, black backpack, black bag, 2 black flashlights
 
-Super Trooper v1
+Super Trooper v1 (mail-away)
 	File card
+	Chrome helmet, chrome submachine gun, chrome shield
 
-Wave 7 1989
+Wave 7 1989 (45)
 ~~~~~~
+
+Joes
+******
+Backblast v1
+Countdown v1
+Dee-Jay v1
+Deep Six v2
+Downtown v1
+Recoil v1
+Rock 'n Roll v2
+Scoop v1
+Snake-Eyes v3
+Stalker v2
+
+Cobra
+******
+Alley Viper v1
+Frag-Viper v1
+H.E.A.T. Viper v1
+Night-Viper v1
+
+Dreadnoks
+******
+Gnawgahyde v1 -- Dreadnok
+
+Iron Grenadiers
+******
+Annihilator v1 -- Iron Grenadier
+T.A.R.G.A.T. v1 -- Iron Grenadier
+
+Vehicle Drivers Joes
+******
+Dogfight v1 -- Mudfighter bomber
+Hot Seat v1 -- Raider 4-track assault vehicle
+Long Range v1 -- Thunderclap long-range targeting cannon
+Payload v2 -- Crusader Space Shuttle
+Windchill v1 -- Arctic Blast tundra assault sled
+
+Vehicle Drivers Cobra
+******
+Aero-Viper v1 -- Cobra Condor Z-25
+Track Viper v1 -- Cobra H.I.S.S. II tank
+
+Vehicle Drivers Iron Grenadiers
+******
+Darklon v1 -- Iron Grenadier; Darklon's Evader
+Wild Boar v1 -- Iron Grenadier; Destro's Razorback tank
+
+Slaughter's Marauders
+******
+Barbecue v2
+Footloose v2
+Low-Light v2
+Mutt & Junkyard v2
+Sgt. Slaughter v4
+Spirit v2
+
+Python Patrol
+******
+Copperhead v2
+Crimson Guard v2
+Python Officer v1
+Tele-Viper v2
+Python Trooper v1
+Viper v2
+
+Night Force
+******
+Charbroil v2
+Lightfoot v2
+Muskrat v2
+Repeater v2
+Shockwave v2
+Spearhead & Max v2
+
+Rampage v1 (mail-away)
+
+Wave 8 1990 (36)
+~~~~~~
+
+Joes
+******
+Ambush
+Bullhorn
+Captain Grid-Iron
+Major Storm
+Freefall
+Pathfinder
+Rampart
+Rapid-Fire
+Salvo
+Stretcher
+Sub-Zero
+Topside
+
+Cobra
+******
+Laser-Viper
+Night Creeper
+Range-Viper
+Rock-Viper
+S.A.W.-Viper
+
+Iron Grenadiers
+******
+Metal-Head -- Iron Grenadiers
+Undertow -- Iron Grenadiers
+
+Vehicle Drivers Joes
+******
+Cold Front -- Avalanche
+Updraft -- Retaliator
+
+Vehicle Drivers Cobra
+******
+Decimator -- Hammerhead
+Overlord -- Dictator
+Vapor -- Hurricane
+
+Sky Patrol
+******
+Airborne
+Airwave
+Altitude
+Drop Zone
+Skydive
+Static Line
+
+Sonic Fighters
+******
+Dial-Tone
+Dodger
+Law
+Tunnel Rat
+
+Lampreys
+Viper
+
+
 
 
 
