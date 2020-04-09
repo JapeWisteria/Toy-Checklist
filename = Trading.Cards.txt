@@ -2,6 +2,9 @@ Trading Cards
 -----------------------------------------------
 
 Star Wars
+===============================================
+
+Star Wars
 Topps, 1977-1978
 ~~~~~~
 Series 1 (Blue) - 66 cards (#1-66), 11 stickers (#1-11)
@@ -23,6 +26,10 @@ Topps, 1983
 Series 1 (Red and Yellow borders) - 132 cards (#1-132), 33 stickers (#1-33)
 Series 2 (Blue and Yellow borders) - 88 cards (#133-220), 22 stickers (#34-55)
 
+
+Film
+===============================================
+
 The Black Hole
 Topps, 1979
 ~~~~~~
@@ -33,10 +40,15 @@ Topps, 1982
 ~~~~~~
 Series 1 - 87 cards, 12 stickers
 
-Buck Rogers in the 25th Century
-Topps, 1979
+Raiders Of The Lost Ark
+O-Pee-Chee, 1981
 ~~~~~~
-Series 1 - 88 cards, 22 stickers
+Series 1 - 88 cards
+
+Indiana Jones & the Temple of Doom
+Topps, 1984
+~~~~~~
+Series 1 - 88 cards, 11 stickers
 
 Planet of the Apes
 Topps, 1969, 1975
@@ -44,10 +56,54 @@ Topps, 1969, 1975
 Series 1 (1969) - 44 cards
 Series 2 (1975) - 66 cards
 
+Rambo First Blood Part II
+Topps, 1985
+~~~~~~
+Series 1 - 66 cards, 22 stickers
+
+RoboCop 2
+Topps, 1990
+~~~~~~
+Series 1 - 110 cards (#1-88, A-V), 11 stickers
+
+Terminator 2
+Impel, 1991
+~~~~~~
+Series 1 - 140 cards
+
+Tron
+Donruss, 1982
+~~~~~~
+Series 1 - 66 cards, 8 stickers
+
+Wizard of Oz
+Pacific, 1990
+~~~~~~
+Series 1 - 110 cards
+
+
+TV
+===============================================
+
 The A-Team
 Topps, 1983
 ~~~~~~
 Series 1 - 66 cards, 12 stickers
+
+Battlestar Galactica
+Topps, 1978
+~~~~~~
+Series 1 - 132 cards, 22 stickers
+
+Battlestar Galactica
+Wonder Bread, 1978
+~~~~~~
+Series 1 - 36 stickers
+
+Buck Rogers in the 25th Century
+Topps, 1979
+~~~~~~
+Series 1 - 88 cards, 22 stickers
 
 CHiPS Patrol
 Donruss, 1979
@@ -61,6 +117,11 @@ Series 1 (1980, blue border) - 66 cards
 Series 2 (1981, white border) - 60 cards, 6 stickers
 Series 3 (1983, wood border) - 44 cards
 
+Lost in Space
+Topps, 1966
+~~~~~~
+Series 1 - 55 cards
+
 Mork & Mindy
 Topps, 1978
 ~~~~~~
@@ -71,55 +132,11 @@ Donruss, 1975
 ~~~~~~
 Series 1 - 66 cards
 
-Wizard of Oz
-Pacific, 1990
-~~~~~~
-Series 1 - 110 cards
 
-Lost in Space
-Topps, 1966
-~~~~~~
-Series 1 - 55 cards
 
-Raiders Of The Lost Ark
-O-Pee-Chee, 1981
-~~~~~~
-Series 1 - 88 cards
 
-Indiana Jones & the Temple of Doom
-Topps, 1984
-~~~~~~
-Series 1 - 88 cards, 11 stickers
 
-Battlestar Galactica
-Topps, 1978
-~~~~~~
-Series 1 - 132 cards, 22 stickers
 
-Battlestar Galactica
-Wonder Bread, 1978
-~~~~~~
-Series 1 - 36 stickers
-
-Rambo First Blood Part II
-Topps, 1985
-~~~~~~
-Series 1 - 66 cards, 22 stickers
-
-Terminator 2
-Impel, 1991
-~~~~~~
-Series 1 - 140 cards
-
-RoboCop 2
-Topps, 1990
-~~~~~~
-Series 1 - 110 cards (#1-88, A-V), 11 stickers
-
-Tron
-Donruss, 1982
-~~~~~~
-Series 1 - 66 cards, 8 stickers
 
 
 

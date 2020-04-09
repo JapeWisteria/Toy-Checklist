@@ -474,7 +474,7 @@ Thrasher v1 -- Dreadnok; Dreadnok Thunder Machine
 	File card
 	Black lacrosse stick
 
-Wave 5 1987 (42)
+Wave 6 1987 (42)
 ~~~~~~
 
 Joes
@@ -628,7 +628,7 @@ Steel Brigade v1 (mail-away)
 	This figure didn't come with a pre-written file card...children were allowed to write their own to become a 'member' of G.I. Joe.
 	Gray rifle, green backpack, Steel Brigade iron-on patch
 
-Wave 6 1988 (45)
+Wave 7 1988 (45)
 ~~~~~~
 
 Joes
@@ -795,7 +795,7 @@ Super Trooper v1 (mail-away)
 	File card
 	Chrome helmet, chrome submachine gun, chrome shield
 
-Wave 7 1989 (45)
+Wave 8 1989 (45)
 ~~~~~~
 
 Joes
@@ -874,75 +874,81 @@ Spearhead & Max v2
 
 Rampage v1 (mail-away)
 
-Wave 8 1990 (36)
+Wave 9 1990 (36)
 ~~~~~~
 
 Joes
 ******
-Ambush
-Bullhorn
-Captain Grid-Iron
-Major Storm
-Freefall
-Pathfinder
-Rampart
-Rapid-Fire
-Salvo
-Stretcher
-Sub-Zero
-Topside
+Ambush v1
+Bullhorn v1
+Captain Grid-Iron v1
+Freefall v1
+Pathfinder v1
+Rampart v1
+Rapid-Fire v1
+Salvo v1
+Stretcher v1
+Sub-Zero v1
+Topside v1
 
 Cobra
 ******
-Laser-Viper
-Night Creeper
-Range-Viper
-Rock-Viper
-S.A.W.-Viper
+Laser-Viper v1
+Night Creeper v1
+Range-Viper v1
+Rock-Viper v1
+S.A.W.-Viper v1
 
 Iron Grenadiers
 ******
-Metal-Head -- Iron Grenadiers
-Undertow -- Iron Grenadiers
+Metal-Head v1 -- Iron Grenadiers
+Undertow v1 -- Iron Grenadiers
 
 Vehicle Drivers Joes
 ******
-Cold Front -- Avalanche
-Updraft -- Retaliator
+Cold Front v1 -- Avalanche
+Major Storm v1 -- General mobile assault fort
+Updraft v1 -- Retaliator
 
 Vehicle Drivers Cobra
 ******
-Decimator -- Hammerhead
-Overlord -- Dictator
-Vapor -- Hurricane
+Decimator v1 -- Hammerhead
+Overlord v1 -- Dictator
+Vapor v1 -- Hurricane
 
 Sky Patrol
 ******
-Airborne
-Airwave
-Altitude
-Drop Zone
-Skydive
-Static Line
+Airborne v2
+Airwave v1
+Altitude v1
+Drop Zone v1
+Skydive v1
+Static Line v1
 
 Sonic Fighters
 ******
-Dial-Tone
-Dodger
-Law
-Tunnel Rat
+Dial-Tone v3
+Dodger v2
+Law v2
+Tunnel Rat v3
 
-Lampreys
-Viper
+Lampreys v2
+Viper v3
 
-
-
-
-
+Wave 10 1991 ()
+~~~~~~
 
 
+Wave 11 1992 ()
+~~~~~~
 
 
+Wave 12 1993 ()
+~~~~~~
+
+
+Wave 13 1994 ()
+~~~~~~
 
 
 
