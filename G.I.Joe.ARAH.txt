@@ -50,10 +50,10 @@ Cobra
 ******
 Cobra v1
 	File card
-	Dragunov sniper rifle
+	Black Dragunov sniper rifle
 Cobra Officer v1
 	File card
-	AK-47 assault rifle
+	Black AK-47 assault rifle
 Cobra Commander (helmet) v1
 	File card
 	Black venom laser pistol
@@ -801,78 +801,170 @@ Wave 8 1989 (45)
 Joes
 ******
 Backblast v1
+	File card
+	Green missile launcher system, green missile tubes, 3 red missiles, gray knife, black monocular, orange bandolier
 Countdown v1
-Dee-Jay v1
+	File card
+	Silver gun, silver backpack, silver grappling hook and silver weight attached by black string, silver helmet
 Deep Six v2
+	File card
+	Orange helmet, gray rifle, black backpack, black hose, gray buoy
 Downtown v1
+	File card
+	Red helmet, black backpack, mortar, mortar mount, mortar tripod, black revolver, 6 black mortar shells
 Recoil v1
+	File card
+	Blue rifle, blue pistol, dark gray backpack, backpack antenna, green mine case
 Rock 'n Roll v2
+	File card
+	2 gray Gatling guns, 2 gray bandoliers, gray ammo-feeding backpack, gray rifle
 Scoop v1
+	File card
+	Green helmet, green microphone, gray satellite relay station backpack, gray hi-tech camera, black pistol, black hose
 Snake-Eyes v3
+	File card
+	Black backpack, silver sword, gray submachine gun, 3 silver nunchuk pieces, silver blow gun
 Stalker v2
+	File card
+	White rifle, white mask, gray knife, white paddle, white kayak, white kayak arm, white kayak counterweight, brown kayak machine gun
+
+Battle Force 2000
+******
+Dee-Jay v1
+	File card
+	Red laser rifle, blue loudspeaker backpack, black hose, 2 white plugs, white antenna.
 
 Cobra
 ******
 Alley Viper v1
+	File card
+	Orange/blue face shield, black rifle, orange/blue shield, black backpack, grappling hook
 Frag-Viper v1
+	File card
+	Black submachine gun, black backpack, black cesta, black hose, black tube, 3 black grenades
 H.E.A.T. Viper v1
+	File card
+	Gray bazooka, gray hose, gray backpack, 6 gray bazooka shells, black hose
 Night-Viper v1
+	File card
+	Black rifle, black backpack, green monocle, green goggles
 
 Dreadnoks
 ******
 Gnawgahyde v1 -- Dreadnok
+	File card
+	Black rifle, black bipod, silver machete, silver knife, black bow, black quiver, tan hat, boar
 
 Iron Grenadiers
 ******
 Annihilator v1 -- Iron Grenadier
+	File card
+	Black hand gun, gray helicopter backpack, gray helicopter blade, gray helicopter post, black machine gun, and a black handle
 T.A.R.G.A.T. v1 -- Iron Grenadier
+	File card
+	Blue face shield, gray jetpack shell, gold laser gun, gray joystick, black hose
 
 Vehicle Drivers Joes
 ******
 Dogfight v1 -- Mudfighter bomber
+	File card
+	Black handgun
 Hot Seat v1 -- Raider 4-track assault vehicle
+	File card
+	Black helmet
 Long Range v1 -- Thunderclap long-range targeting cannon
+	File card
+	Gray helmet, black pistol
 Payload v2 -- Crusader Space Shuttle
+	File card
+	Yellow helmet, gray Manned Maneuvering Unit Backpack, 2 gray control arms
 Windchill v1 -- Arctic Blast tundra assault sled
+	File card
+	Black rifle, 2 black skis
 
 Vehicle Drivers Cobra
 ******
 Aero-Viper v1 -- Cobra Condor Z-25
+	File card
+	Gold helmet
 Track Viper v1 -- Cobra H.I.S.S. II tank
+	File card
+	Black pistol
 
 Vehicle Drivers Iron Grenadiers
 ******
 Darklon v1 -- Iron Grenadier; Darklon's Evader
+	File card
+	Black rifle
 Wild Boar v1 -- Iron Grenadier; Destro's Razorback tank
+	File card
+	Black helmet, black hose
 
 Slaughter's Marauders
 ******
 Barbecue v2
+	File card
+	Gray fire axe, gray nozzle gun, silver foam tanks, gray backpack, black hose
 Footloose v2
+	File card
+	Black PASGT helmet, black backpack, black M-16 rifle with shoulder strap, black M73-A1 LAWS rocket launcher with shoulder strap
 Low-Light v2
+	File card
+	Black sniper rifle, black bipod, black uzi, black backpack
 Mutt & Junkyard v2
+	File card
+	Black helmet, black face mask, black Ingram Mac-11, black night stick, black leash, Junkyard
 Sgt. Slaughter v4
+	File card
+	Brown baton
 Spirit v2
+	File card
+	Black and brown belt, black arrow cassette backpack, black auto-arrow launcher, Freedom
 
 Python Patrol
 ******
 Copperhead v2
+	File card
+	Black M16/M203 rifle, black backpack
 Crimson Guard v2
+	File card
+	Black dress backpack, black AK48A rifle with bayonet
 Python Officer v1
+	File card
+	Dragunov sniper rifle
 Tele-Viper v2
+	File card
+	Black VS-11 Scanner, black Communipac backpack, black hose
 Python Trooper v1
+	File card
+	Black AK-47 assault rifle
 Viper v2
+	File card
+	Black fieldpack, light gray RDT 7 rifle
 
 Night Force
 ******
 Charbroil v2
+	File card
+	Dark blue thermo-insulated helmet, black thermochemical backpack (with hologram sticker), black flamethrower, large thick black hose
 Lightfoot v2
+	File card
+	Black night vision helmet, black backpack (with lenticular sticker), black mine detector unit, black hose, black robot (with lenticular sticker)
 Muskrat v2
+	File card
+	Black Super 90 shotgun, black machete, black "swamp skimmer"
 Repeater v2
+	File card
+	Black machine gun, black stabilizing arm, black backpack
 Shockwave v2
+	File card
+	Black submachine gun, black handgun, black knife, black backpack
 Spearhead & Max v2
+	File card
+	Black helmet, black backpack, large black rifle, black knife, Max
 
-Rampage v1 (mail-away)
+Rampage v1 (mail-away, same character as Heavy Metal)
+	Black submachine gun
 
 Wave 9 1990 (36)
 ~~~~~~
@@ -880,63 +972,229 @@ Wave 9 1990 (36)
 Joes
 ******
 Ambush v1
+	File card
+	Gray helmet, gray pistol, black rifle, dark gray backpack, 4 brown tent poles, body fabric, tent fabric
 Bullhorn v1
+	File card
+	Black helmet, black rifle, green gas gun, green bullhorn, black rifle stock, black rifle barrel, black rifle scope, gray backpack case
 Captain Grid-Iron v1
+	File card
+	Green football helmet, clear visor, 2 orange elbow pads, green backpack, gray missile launcher, 4 gray missiles, light gray shotgun, 3 gray football grenades
 Freefall v1
+	File card
+	Dark gray rifle, green helmet, black airmask, dark gray backpack, black hose
 Pathfinder v1
+	File card
+	2 white machine guns, 2 gray ammo belts, white ammo backpack, black arm for the "weed eater", silver "weed eater" blade, black hose
 Rampart v1
+	File card
+	Black rifle, 2 black stands, light gray missile launcher, gray control cable, 2 black missiles
 Rapid-Fire v1
+	File card
+	Bright green helmet, bright green submachine gun, VHS tape
 Salvo v1
+	File card
+	Brown helmet, brown missile backpack, brown mine launcher, black cache, 5 brown missiles, 5 brown mines
 Stretcher v1
+	File card
+	Light gray sled, clear sled windshield, light gray control stick, green backpack, thin green antenna, dark gray gun, dark gray flashlight, black hose
 Sub-Zero v1
+	File card
+	Gray machine gun, gray machine gun bipod, gold ammo belt, 2 gray snowshoes, white mortar, white mortar stand, 4 gray mortar shells, white backpack
 Topside v1
+	File card
+	White submachine gun, light-gray helmet, light gray backpack, light gray backpack bipod, 3 red missiles
 
 Cobra
 ******
 Laser-Viper v1
+	File card
+	Silver helmet, silver backpack, silver control arm, 2 black hoses, 2 silver laser gun bases, 2 silver laser gun barrels
 Night Creeper v1
+	File card
+	Black crossbow, black kris sword, black barbed sword, maroon backpack
 Range-Viper v1
+	File card
+	Black grenade launcher, black grenade launcher chamber, dark gray backpack, black knife, black hose, gray missile launcher, gray missile
 Rock-Viper v1
+	File card
+	Tan rifle, tan pistol, black hose, black backpack, black grappling hook with black string
 S.A.W.-Viper v1
+	File card
+	Black machine gun, black bipod, purple backpack, gray ammo-belt
 
 Iron Grenadiers
 ******
 Metal-Head v1 -- Iron Grenadiers
+	File card
+	Light gray helmet, light gray backpack frame, light gray missile launcher, light gray pistol, 2 light gray leg missile packs, 6 yellow missiles, 2 black hoses
 Undertow v1 -- Iron Grenadiers
+	File card
+	Gray mask, black harpoon, dark gray sled, red missile, 2 gray flippers, black hose, silver barracuda
 
 Vehicle Drivers Joes
 ******
 Cold Front v1 -- Avalanche
+	File card
+	White handgun, orange visor, white helmet microphone
 Major Storm v1 -- General mobile assault fort
+	File card
+	Gold pistol, gold helmet
 Updraft v1 -- Retaliator
+	File card
+	Gray helmet, dark gray pistol
 
 Vehicle Drivers Cobra
 ******
 Decimator v1 -- Hammerhead
+	File card
+	Light gray helmet, dark gray speargun
 Overlord v1 -- Dictator
+	File card
+	Gold helmet, 2 gold claws
 Vapor v1 -- Hurricane
+	File card
+	No accessories
 
 Sky Patrol
 ******
 Airborne v2
+	File card
+	Dark gray helmet, black rifle, gray backpack/parachute case, working silver parachute, parachute instructions
 Airwave v1
+	File card
+	Silver helmet, tan visor, silver rifle, brown backpack/parachute case, working silver parachute, parachute instructions
 Altitude v1
+	File card
+	Silver helmet, gold visor, black pistol, black missile launcher, black missile, green backpack/parachute case, working silver parachute, parachute instructions
 Drop Zone v1
+	File card
+	Gray helmet, brown visor, brown chest guns, brown backpack/parachute case, working silver parachute, parachute instructions
 Skydive v1
+	File card
+	Gray rifle, gray handgun, dark gray helmet, blue backpack/parachute case, working silver parachute, parachute instructions
 Static Line v1
+	File card
+	Silver chest gun, gray helmet, silver handgun, white backpack/parachute case, working silver parachute, parachute instructions
 
 Sonic Fighters
 ******
 Dial-Tone v3
+	File card
+	Black machine gun, black laser pistol, black grenade launcher, black grenade launcher chamber, black laser gun, large black electronic backpack, battery cover
 Dodger v2
+	File card
+	Black photon rifle, black submachine gun, black rifle, black laser rifle, large blue electronic backpack, battery cover
 Law v2
+	File card
+	White helmet, black machine gun, black tripod, black futuristic rifle, futuristic black pistol, black pistol, large tan electronic backpack, battery cover
 Tunnel Rat v3
+	File card
+	Black laser pistol, black futuristic anti-aircraft pistol, black machine gun, black missile launcher, black missile launcher stand, large drab green electronic backpack, battery cover
 
 Lampreys v2
+	File card
+	Black sniper rifle, black assult rifle, black futuristic gun, black submachine gun, large black electronic backpack, battery cover
 Viper v3
+	File card
+	Gold machine gun, gold laser pistol, gold pistol, gold grenade launcher, gold grenade launcher mount, gold grenade launcher tripod, large gold electronic backpack, battery cover
 
-Wave 10 1991 ()
+Wave 10 1991 (35)
 ~~~~~~
+
+Joes
+******
+Big Ben v1
+	File card
+Dusty & Sandstorm v3
+	File card
+General Hawk v1
+	File card
+Grunt v3
+	File card
+Heavy Duty v1
+	File card
+Low-Light v3
+	File card
+Mercer v2
+	File card
+Red Star (Oktober Guard) v1
+	File card
+Sci-Fi v2
+	File card
+Snake Eyes v4
+	File card
+Tracker v1
+	File card
+
+Cobra
+******
+B.A.T. v2
+	File card
+Cobra Commander v4
+	File card
+Crimson Guard Immortal v1
+	File card
+Desert Scorpion v1
+	File card
+Incinerators v1
+	File card
+Snow Serpent v2
+	File card
+
+Vehicle Drivers Joes
+******
+Major Altitude
+	File card
+
+Vehicle Drivers Cobra
+******
+Interrogator
+	File card
+
+Eco-Warriors
+******
+Clean-Sweep v1
+	File card
+Flint v3
+	File card
+Ozone v1
+	File card
+
+Cesspool v1
+	File card
+Sludge Viper v1
+	File card
+Toxo-Viper v2
+	File card
+
+Sonic Fighters
+******
+Lt. Falcon v2
+	File card
+Psyche-Out v3
+	File card
+Rock n' Roll v3
+	File card
+Zap v2
+	File card
+
+Major Bludd v2
+	File card
+Road Pig v2
+	File card
+
+Air Commandos
+******
+Cloudburst v1
+	File card
+Skymate v1
+	File card
+
+Night Vulture v1
+	File card
+Sky Creeper v1
+	File card
 
 
 Wave 11 1992 ()
