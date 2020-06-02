@@ -126,34 +126,34 @@ Trip-Wire v1
 
 Cobra
 ******
-Cobra v1.5 -- battle grip re-issue
+Cobra v1.5 THE ENEMY -- battle grip re-issue
 	File card
 	Dragunov sniper rifle
-Cobra Officer v1.5 -- battle grip re-issue
+Cobra Officer v1.5 THE ENEMY -- battle grip re-issue
 	File card
 	AK-47 assault rifle
-Cobra Commander (helmet) v1.5 -- battle grip re-issue
+Cobra Commander (helmet) v1.5 ENEMY LEADER -- battle grip re-issue
 	File card
 	Black venom laser pistol
-Destro v1
+Destro v1 ENEMY WEAPONS SUPPLIER 
 	File card
 	Black high-density laser gun, black armed attache case
-Major Bludd v1
+Major Bludd v1 MERCENARY
 	File card
 	Black missile backpack, black rocket launcher
 
 Vehicle Drivers Joes
 ******
-Clutch v1 v1.5 -- VAMP; battle grip re-issue
+Clutch v1 v1.5 VAMP DRIVER -- VAMP; battle grip re-issue
 	File card
 	Dark green helmet
-Grand Slam v1.5 -- HAL; battle grip re-issue
+Grand Slam v1.5 LASER ARTILLERY SOLDIER -- HAL; battle grip re-issue
 	File card
 	Dark green helmet, clear visor
-Hawk v1.5 -- MMS; battle grip re-issue
+Hawk v1.5 MISSILE COMMANDER -- MMS; battle grip re-issue
 	File card
 	Dark green helmet, clear visor
-Steeler v1.5 -- MOBAT; battle grip re-issue
+Steeler v1.5 TANK COMMANDER -- MOBAT; battle grip re-issue
 	File card
 	Light green helmet, black binocular headset, black Uzi submachine gun
 Ace v1 -- Sky-Striker
@@ -1106,41 +1106,58 @@ Joes
 ******
 Big Ben v1
 	File card
+	Black machine gun, black machine gun bipod, dark green backpack, dark green grenade pouch with strap, 2 black grenades
 Dusty & Sandstorm v3
 	File card
+	Brown submachine gun, brown submachine gun sliding stock, brown pistol, brown backpack, gray coyote Sandstorm
 General Hawk v1
 	File card
+	Gold helmet, clear helmet visor, dark gray machine gun, dark gray jet pack, 4 gold missiles
 Grunt v3
 	File card
+	Black rifle, dark green helmet, black missile launcher, bright orange missile, orange missile stand
 Heavy Duty v1
 	File card
+	Dark green backpack, dark green launcher base, red missile site, black center mount cannon, dark green side-mount missile launchers, 2 light green missiles
 Low-Light v3
 	File card
+	Black rifle, black knife, black helmet, black helmet visor, black flashlight, black backpack
 Mercer v2
 	File card
+	2 different orange rifles, blue backpack/missile launcher, light orange missile, black figure stand
 Red Star (Oktober Guard) v1
 	File card
+	Blue hat, black assault rifle, black knife, black double-barrelled hand cannon, brown backpack, black ammo belt, black antenna, black missile launcher, red missile
 Sci-Fi v2
 	File card
+	Black helmet, silver gun, silver backpack, silver missile launcher, 2 black hoses, yellow missile
 Snake Eyes v4
 	File card
+	Red machine gun, 2 red swords, blue backpack with grappling hook launcher, red grappling hook, black string, black figure stand
 Tracker v1
 	File card
+	Black visor, orange submachine gun, 2 orange oars, inflatable orange and black raft, black figure stand
 
 Cobra
 ******
 B.A.T. v2
 	File card
+	Orange right hand attachment, orange grenade launcher attachment, black modular missile launcher, green missile, black battle stand, lenticular chest piece
 Cobra Commander v4
 	File card
+	Gold machine gun, two-piece plastic glider, blue spring-loaded flying surveillance launcher, orange launcher bipod, black battle stand
 Crimson Guard Immortal v1
 	File card
+	Black gun\missile launcher, black double-missile launcher, black backpack, black ammo belt, 6 black missiles
 Desert Scorpion v1
 	File card
+	Black machine pistol, black backpack, black missile rack, a black hose, 2 black digger devices, light orange missile, black scorpion
 Incinerators v1
 	File card
+	Silver flamethrower, black backpack, silver catapult, orange rubber band, 2 orange "flame" projectiles, black hose
 Snow Serpent v2
 	File card
+	White rifle, white handgun, purple snowboard, purple backpack, purple missile launcher, white missile, 2 black hoses
 
 Vehicle Drivers Joes
 ******
@@ -1156,43 +1173,58 @@ Eco-Warriors
 ******
 Clean-Sweep v1
 	File card
+	Yellow helmet, green pistol, yellow "sweeper", green sweeper control panel, green backpack
 Flint v3
 	File card
+	Yellow-orange helmet, blue rifle, blue water rifle, blue and orange backpack, orange hose
 Ozone v1
 	File card
+	Green "vacuum" gun, blue and yellow helmet, green water rifle with an orange hose, green and yellow backpack
 
 Cesspool v1
 	File card
+	Gold and orange helmet, gold helmet breather, gold chainsaw, blue rifle, blue and orange backpack, orange hose
 Sludge Viper v1
 	File card
+	Purple pistol, purple backpack, purple water-firing cannon, black figure stand
 Toxo-Viper v2
 	File card
+	Purple gun, purple backpack, green cannon, black figure stand
 
 Sonic Fighters
 ******
 Lt. Falcon v2
 	File card
+	Blue electronic backpack, battery cover, black copter blades, black assault rifle, black laser rifle, black display stand
 Psyche-Out v3
 	File card
+	black E.C.M. microphone, 2 small blue E.C.M. dishes, black laser rifle, large blue E.C.M. dish, white electronic backpack, battery cover, black antenna, black radar dish, black radar screen, black hose, black figure stand.
 Rock n' Roll v3
 	File card
+	Brown machine gun, brown cannon, green stand, green electronic backpack, battery cover
 Zap v2
 	File card
+	Gray helmet, gray electronic backpack, battery cover, small gray backpack gun, gray double barreled rocket launcher, gray sonic rocket launcher, gray muzzle, black figure stand
 
 Major Bludd v2
 	File card
+	Yellow rifle, dark gray sonic disruptor, dark gray muzzle, dark gray electronic backpack, battery cover, black figure stand
 Road Pig v2
 	File card
+	Orange machine gun, orange double-barreled flamethrower, orange shoulder pads, green electronic backpack, battery cover, black figure stand
 
 Air Commandos
 ******
+Each figure came carded with a soft plastic glider with hard supports and weapons. Accessories listed below are for the figure without the glider.
 Cloudburst v1
 	File card
+	Blue visor, red/pink submachine gun
 Skymate v1
 	File card
 
 Night Vulture v1
 	File card
+	Purple crossbow
 Sky Creeper v1
 	File card
 
