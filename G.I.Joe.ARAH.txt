@@ -1119,6 +1119,9 @@ Grunt v3
 Heavy Duty v1
 	File card
 	Dark green backpack, dark green launcher base, red missile site, black center mount cannon, dark green side-mount missile launchers, 2 light green missiles
+Lifeline v3 (mail-away only; different leg molds than previous 2 Lifeline figures)
+	File card
+	Silver backpack, White medical case
 Low-Light v3
 	File card
 	Black rifle, black knife, black helmet, black helmet visor, black flashlight, black backpack
@@ -1163,11 +1166,13 @@ Vehicle Drivers Joes
 ******
 Major Altitude
 	File card
+	Light green helmet, silver rifle
 
 Vehicle Drivers Cobra
 ******
 Interrogator
 	File card
+	Black rifle with a claw at the end
 
 Eco-Warriors
 ******
@@ -1221,16 +1226,49 @@ Cloudburst v1
 	Blue visor, red/pink submachine gun
 Skymate v1
 	File card
+	Blue visor, red/pink boomerang, yellow bow
 
 Night Vulture v1
 	File card
 	Purple crossbow
 Sky Creeper v1
 	File card
+	Blue pistol
 
 
-Wave 11 1992 ()
+Wave 11 1992 (37)
 ~~~~~~
+
+Joes
+******
+
+Cobra
+******
+
+Vehicle Drivers Joes
+******
+
+Vehicle Drivers Cobra
+******
+
+DEF
+******
+
+Eco-Warriors
+******
+
+Ninja Force
+******
+
+Talking Battle Commanders
+******
+
+Air Commandos
+******
+
+Mail-Aways
+******
+
 
 
 Wave 12 1993 ()
