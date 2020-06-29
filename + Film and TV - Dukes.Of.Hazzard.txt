@@ -4,19 +4,19 @@ Waves: 1. Figures: 8.
 -----------------------------------------------
 The figures are a mix of o-ring and solid construction.
 
-Bo Duke (o-ring)
+Bo Duke [John Schneider] (o-ring)
 	No accessories
-Boss Hogg (solid)
+Boss Hogg [Sorrell Booke] (solid)
 	White hat
-Cletus (solid)
+Cletus [Rick Hurst] (solid)
 	No accessories
-Cooter (solid)
+Cooter [Ben Jones] (solid)
 	No accessories
-Daisy Duke (solid)
+Daisy Duke [Catherine Bach] (solid)
 	No accessories
-Luke Duke (o-ring)
+Luke Duke [Tom Wopat] (o-ring)
 	No accessories
-Sheriff Rosco Coltrane (solid)
+Sheriff Rosco Coltrane [James Best] (solid)
 	Sheriff hat
-Uncle Jesse
+Uncle Jesse [Denver Pyle]
 	No accessories

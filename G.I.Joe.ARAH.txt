@@ -1241,34 +1241,157 @@ Wave 11 1992 (37)
 
 Joes
 ******
+Barricade v1
+	File card
+	Gold and red helmet, dark blue submachine gun, dark blue missile launcher, dark blue backpack, yellow "battering ram" missile, black figure stand
+Big Bear v1
+	File card
+	Black rifle, black backpack, black missile launcher, 2 yellow missiles, black figure stand
+Duke v3
+	File card
+	Tan helmet, tan cannon, red seat, brown cannon tripod, red missile, brown submachine gun, brown knife, black figure stand
+General Flagg v1
+	File card
+	Black rifle, brown hat, black missile, black figure stand, catapult: green base, green arm, black lever, rubber band
+Gung-Ho v3
+	File card
+	Black backpack, black missile launcher, blue missile, black machine gun, American flag, black figure stand
+Roadblock v4
+	This version of Roadblock had a product recall due to accessories. It was released in both 1992 and 1993 with different accessories (figure identical). The 1992 version had the recall and it's accessories are rarer as a result.
+	File card
+	1992: Black machine gun, black knife, blue rotor launcher, black rotor, black figure stand
+	1993: Light blue missile launcher, black plastic "tree" of weapons: 2 rifles, pistol, knife, 2 missiles, black figure stand
+Wet-Suit v3
+	File card
+	Yellow harpoon gun, yellow helmet, 2 yellow fins, black sled, 3 orange missiles, black figure stand
+Wild Bill v2
+	File card
+	Brown pistol, brown knife, brown backpack, blue cowboy hat, blue missile launcher, brown missile, black figure stand
 
 Cobra
 ******
+Destro v3
+	File card
+	Black rifle, black disc launcher, 2 red discs, black figure stand
+Eels v2
+	File card
+	2 silver flippers, silver shark with removable upper jaw, dorsal fin, and tail, yellow missile, yellow trident/harpoon gun, black figure stand
+Firefly v2
+	File card
+	Green rifle, gold "blade launcher," green top, green zipcord, black figure stand
+Flak-Viper v1
+	File card
+	Light blue rifle, green backpack/missile launcher, 2 light blue missiles, black figure stand
+
 
 Vehicle Drivers Joes
 ******
+Ace v2
+	File card
+	White helmet, black airmask, black submachine gun
 
 Vehicle Drivers Cobra
 ******
+Heli-Vipers v1
+	File card
+	Purple rifle
 
 DEF
 ******
+All the DEF missile launchers had electronic features.
+Bullet-Proof v1
+	File card
+	Green helmet, removable green helmet microphone, green assault rifle, green backpack, green Electronic Battle-Flash Missile Launcher, green missile, black figure stand
+Cutter v2
+	File card
+	White submachine gun, white flashlight, white grappling hook, black string, red Electronic Battle-Flash grappling Hook Launcher, white tripod, black figure stand
+Mutt & Junkyard v3
+	File card
+	Black handgun, blue Electronic Battle-Flash Net Launcher, net with 2 black launching poles and 2 black weights, Junkyard, black figure stand
+Shockwave v3
+	File card
+	Black helmet, black assault rifle, yellow Electronic Battle-Flash Battering Ram Tank, black battering-ram missile, black figure stand
+
+Headhunters v1
+	File card
+	Black shotgun, black backpack, purple Electronic Battle-Flash Rocket Launcher, black missile, black figure stand
+Headman v1
+	File card
+	Red Electronic Battle-Flash Missile Launcher, gold missile, gold rifle, black figure stand
 
 Eco-Warriors
 ******
+Barbecue v3
+	File card
+	Yellow water rifle with orange hose, red and yellow backpack, clear yellow helmet visor, black figure stand
+Deep Six v3
+	File card
+	Black rifle, 2 pink flippers, gray dolphin Finback, black figure stand
+
+Toxo-Zombie v1
+	File card
+	Green water cannon, removable black plunger, black figure stand
 
 Ninja Force
 ******
+All Ninja Force figures came with fabric belts and headbands attached to the figure.
+Dojo v1
+	File card
+	Blue sword, blue two-piece sickle (handle and blade with black string), black figure stand
+Nunchuk v1
+	File card
+	Black sword, black nunchuks, black figure stand
+Storm Shadow v3
+	File card
+	White sword, white sickle, black figure stand
+T'Jbang v1
+	File card
+	Light blue sword, light blue double-edge battle axe, black figure stand
+
+Dice v1
+	File card
+	Silver axe, silver bo-staff, black figure stand
+Slice v1
+	File card
+	Butterfly knife, black heavy sword, black figure stand
 
 Talking Battle Commanders
 ******
+All 4 figures had the backpack permanently attached to the figure. All backpacks were electronic. 
+General Hawk v2
+	File card
+	Gold pistol, gold rifle, gold antenna, black figure stand
+Stalker v3
+	File card
+	Black rifle, black laser pistol, black figure stand
+
+Cobra Commander v5
+	File card
+	Black missile launcher, 2 removable black missiles, black rifle, black figure stand
+Overkill v1
+	File card
+	Red right hand, red claw attachment, hand-held red rifle/cannon, black figure stand
 
 Air Commandos
 ******
+Each figure came carded with a soft plastic glider with hard supports and weapons. Accessories listed below are for the figure without the glider.
+Spirit v3
+	File card
+	Black pistol
+
+Cobra Air Devil v1
+	File card
+	Clear face shield, black rifle
 
 Mail-Aways
 ******
+Steel Brigade v2
+	File card
+	Dark gray rifle, dark green backpack, special Steel Brigade patch
 
+Cobra Ninja Viper v1
+	File card
+	2 dark gray swords
 
 
 Wave 12 1993 ()

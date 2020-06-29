@@ -4,27 +4,27 @@ Waves: 1. Figures: 12.
 -----------------------------------------------
 All figures featured solid construction. Brogan (dress shirt), Snake, and Cyborg were Kellog's mail-in premiums. 
 
-Brogan (leather jacket)
+Brogan [Ted Shackelford] (leather jacket)
 	ID card, rifle
-Brogan (dress shirt)
+Brogan [Ted Shackelford] (dress shirt)
 	ID card, bazooka
-Castle
+Castle [Simone Bendix]
 	ID card, shield, pistol
-Cyborg
+Cyborg [Glenn Marks]
 	ID card, shotgun
-Fredo
+Fredo [David Quilter]
 	ID card, shoulder bag, pistol
-Haldane
+Haldane [Rob Youngblood]
 	ID card, net launcher
-Morgo
+Morgo [Anthony Venditti]
 	ID card, heavy rifle
-Orrin
+Orrin [Richard James]
 	ID card, gizmo, pistol
-Podly
+Podly [Jerome Willis]
 	ID card, pointer, video screen
-Slomo
+Slomo [Gary Martin]
 	ID card, 2 gadgets, replacement arm
-Snake
+Snake [Ken Whitfield]
 	ID card, bomb, knife
-Took
+Took [Mary Woodvine]
 	ID card, briefcase, pistol

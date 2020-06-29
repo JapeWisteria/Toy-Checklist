@@ -4,11 +4,11 @@ Waves: 1. Figures: 5.
 -----------------------------------------------
 Jimmy Squeaks (solid)
 	No accessories
-Jon (o-ring)
+Jon [Larry Wilcox] (o-ring)
 	Helmet
-Ponch (o-ring)
+Ponch [Erik Estrada] (o-ring)
 	Helmet
-Sarge (o-ring)
+Sarge [Robert Pine] (o-ring)
 	Helmet
 Wheels Willie (solid)
 	No accessories
