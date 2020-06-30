@@ -4,12 +4,12 @@ Waves: 1. Figures: 4.
 -----------------------------------------------
 All figures have o-ring construction.
 
-Captain Kirk
+Captain Kirk [William Shatner]
 	Tricorder
-Klingon Leader
+Klingon Leader [Christopher Lloyd]
 	Klingon dog
-Mr. Spock
+Mr. Spock [Leonard Nimoy]
 	Phaser
-Scotty
+Scotty [James Doohan]
 	Phaser
 

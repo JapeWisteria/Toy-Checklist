@@ -327,8 +327,12 @@ Actors
 
 A
 ~~~~~~
+Marc Alaimo
+	Romulan, Star Trek the Next Generation
 Alan Alda
 	Hawkeye, M*A*S*H
+Michael Ansara
+	Killer Kane, Buck Rogers in the 25th Century
 
 B
 ~~~~~~
@@ -338,14 +342,32 @@ Simone Bendix
 	Castle, Space Precinct
 Dirk Benedict
 	Face, The A-Team
+	Starbuck, Battlestar Galactica
 James Best
 	Sheriff Rosco Coltrane, The Dukes of Hazzard
+Mel Blanc
+	Twiki, Buck Rogers in the 25th Century
 Ray Bolger
 	Scarecrow, The Wizard of Oz
 Sorrell Booke
 	Boss Hogg, The Dukes of Hazzard
+Ernest Borgnine
+	Harry Booth, The Black Hole
+Joseph Bottoms
+	Charlie Pizer, The Black Hole
+Bruce Boxleitner
+	Tron, Tron (Tomy, Neca)
+	Rinzler, Tron: Legacy
+Jeff Bridges
+	Flynn, Tron (Tomy, Neca)
+	Clu, Tron: Legacy
+Ricou Browning
+	Gill-Man, Burger King Universal Monsters
+	Creature from the Black Lagoon, Universal Monsters Mini-Monsters (2 figures)
 Billie Burke
 	Glinda, The Wizard of Oz
+LeVar Burton
+	Geordi La Forge, Star Trek the Next Generation
 
 C
 ~~~~~~
@@ -354,16 +376,42 @@ Lon Chaney
 Lon Chaney Jr.
 	The Wolfman, Burger King Universal Monsters
 	The Wolfman, Universal Monsters Mini-Monsters (2 figures)
+Ben Chapman
+	Gill-Man, Burger King Universal Monsters
+	Creature from the Black Lagoon, Universal Monsters Mini-Monsters (2 figures)
+Anis Cheurfa
+	Rinzler, Tron: Legacy
 William Christopher
 	Father Mulcahy, M*A*S*H
+John Colicos
+	Baltar, Battlestar Galactica
+Stephen Collins
+	Decker, Star Trek the Motion Picture
+Denise Crosby
+	Tasha Yar, Star Trek the Next Generation
 Robert Culp
 	Bill, The Greatest American Hero
 
 D
 ~~~~~~
+John S. Davies
+	Blastarr Ground Gaurdian, Captain Power
+John de Lancie
+	Q, Star Trek the Next Generation
+James Doohan
+	Scotty, Star Trek III
+	Scotty, Star Trek the Motion Picture
+Michael Dorn
+	Worf, Star Trek the Next Generation
+Tim Dunigan
+	Captain Power, Captain Power
 
 E
 ~~~~~~
+Richard Eden
+	Robocop, Robocop: The Series
+Bob Elyea
+	Twiki, Buck Rogers in the 25th Century
 Erik Estrada
 	Ponch, CHiPs
 
@@ -373,22 +421,46 @@ Jamie Farr
 	Klinger, M*A*S*H (2 figures)
 Mike Farrell
 	B.J., M*A*S*H
+Robert Forster
+	Captain Holland, The Black Hole
+James Frain
+	Jarvis, Tron: Legacy
+Jonathan Frakes
+	William Riker, Star Trek the Next Generation
 
 G
 ~~~~~~
 Judy Garland
 	Dorothy, The Wizard of Oz
+Gil Gerard
+	Buck Rogers, Buck Rogers in the 25th Century
 Fred Grandy
 	Gopher, The Love Boat
+Erin Gray
+	Wilma Deering, Buck Rogers in the 25th Century
+Lorne Greene
+	Commander Adama, Battlestar Galactica
 
 H
 ~~~~~~
+H.B. Haggerty
+	Tiger Man, Buck Rogers in the 25th Century
 Jack Haley
 	Tinman, The Wizard of Oz
 Margaret Hamilton
 	Wicked Witch, The Wizard of Oz
 Harry Hamlin
 	Perseus, Clash of the Titans
+Jonathan Harris
+	Lucifer, Battlestar Galactica
+Deryck Hazel
+	Soaron Sky Sentry, Captain Power
+Garrett Hedlund
+	Sam Flynn, Tron: Legacy
+David Hemblen
+	Lord Dread, Captain Power
+Pamela Hensley
+	Ardella (Ardala), Buck Rogers in the 25th Century
 Rick Hurst
 	Cletus, The Dukes of Hazzard
 
@@ -410,6 +482,10 @@ Boris Karloff
 	Mummy, Universal Monsters Mini-Monsters (2 figures)
 William Katt
 	Ralph, The Greatest American Hero
+DeForest Kelley
+	McCoy, Star Trek the Motion Picture
+Persis Khambatta
+	Ilia, Star Trek the Motion Picture
 Bernie Kopell
 	"Doc" Bricker, The Love Boat
 
@@ -419,6 +495,10 @@ Bert Lahr
 	Cowardly Lion, The Wizard of Oz
 Ted Lange
 	Isaac, The Love Boat
+Mark Lenard
+	Klingon, Star Trek the Motion Picture
+Christopher Lloyd
+	Klingon Leader, Star Trek III
 Bela Lugosi
 	Dracula, Burger King Universal Monsters
 	Dracula, Universal Monsters Mini-Monsters (2 figures)
@@ -435,21 +515,44 @@ Lock Martin
 	Gort, The Day the Earth Stood Still
 Gavin MacLeod
 	Captain Stubing, The Love Boat
+Patrick Macnee
+	Imperious Leader, Battlestar Galactica
+Peter MacNeill
+	Major Hawk Masterson, Captain Power
 Neil McCarthy
 	Calibos, Clash of the Titans
+Roddy McDowall
+	V.I.N.Cent, The Black Hole
+Tom McLoughlin
+	S.T.A.R., The Black Hole
+Yvette Mimieux
+	Kate McCrae, The Black Hole
 Harry Morgan
 	Col. Potter, M*A*S*H
 
 N
 ~~~~~~
+Gary Nelson
+	Humanoid, The Black Hole
+Leonard Nimoy
+	Mr. Spock, Star Trek III
+	Spock, Star Trek the Motion Picture
 
 O
 ~~~~~~
+Tim O'Connor
+	Dr. Huer, Buck Rogers in the 25th Century
 
 P
 ~~~~~~
+Robert Patrick
+	T-1000, Terminator 2: Judgment Day
 George Peppard
 	Hannibal, The A-Team
+Anthony Perkins
+	Alex Durant, The Black Hole
+Slim Pickens
+	Old B.O.B., The Black Hole
 Tim Pigott-Smith
 	Thallo, Clash of the Titans
 Robert Pine
@@ -471,12 +574,31 @@ André the Giant (André René Roussimoff)
 
 S
 ~~~~~~
+Maximilian Schell
+	Dr. Hans Reinhart, The Black Hole
 John Schneider
 	Bo Duke, The Dukes of Hazzard
 Dwight Schultz
 	Murdock, The A-Team
 Ted Shackelford
 	Brogan, Space Precinct (2 figures)
+Arnold Schwarzenegger
+	Endoskeleton, Terminator 2: Judgment Day
+William Shatner
+	Captain Kirk, Star Trek III
+	Kirk, Star Trek the Motion Picture
+Armin Shimerman
+	Ferengi, Star Trek the Next Generation
+Felix Silla
+	Twiki, Buck Rogers in the 25th Century
+Brent Spiner
+	Data, Star Trek the Next Generation
+Sylvester Stallone
+	Rambo, Rambo: Champion of Liberty
+Jessica Steen
+	Corporal Pilot Chase, Captain Power
+Patrick Stewart
+	Jean-Luc Picard, Star Trek the Next Generation
 David Ogden Stiers
 	Winchester, M*A*S*H
 Loretta Swit
@@ -488,6 +610,8 @@ Mr. T
 	B.A. Baracus, The A-Team
 Lauren Tewes
 	Julie, The Love Boat
+Sven-Ole Thorsen
+	Lt. Tank Ellis, Captain Power
 
 U
 ~~~~~~
@@ -499,16 +623,24 @@ Anthony Venditti
 
 W
 ~~~~~~
+David Warner
+	Sark, Tron (Tomy, Neca)
+Wil Wheaton
+	Wesley Crusher, Star Trek the Next Generation
 Jill Whelan
 	Vicky, The Love Boat
 Ken Whitfield
 	Snake, Space Precinct
 Larry Wilcox
 	Jon, CHiPs
+Olivia Wilde
+	Quorra, Tron: Legacy
 Robin Williams
 	Mork, Mork and Mindy
 Jerome Willis
 	Podly, Space Precinct
+Maurice Dean Wint
+	Sergeant Scout Baker, Captain Power
 Mary Woodvine
 	Took, Space Precinct
 Tom Wopat

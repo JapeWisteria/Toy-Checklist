@@ -6,39 +6,30 @@ All figures have solid construction.
 
 Wave 1 1988
 ~~~~~~
-Jean-Luc Picard
+Jean-Luc Picard [Patrick Stewart]
 	Tricorder
-William Riker
+William Riker [Jonathan Frakes]
 	Tricorder
-Data
+Data [Brent Spiner]
 	Tricorder
-Geordi La Forge
+Geordi La Forge [LeVar Burton]
 	Tricorder
-Worf
+Worf [Michael Dorn]
 	Tricorder
-Tasha Yar
+Tasha Yar [Denise Crosby]
 	Tricorder
 
 Wave 2 1989
 ~~~~~~
 Antican
-Ferengi
+Ferengi [Armin Shimerman]
 	Energy whip
-Q
+Q [John de Lancie]
 Selay
 
 Prototype
 ~~~~~~
-Romulan
+Romulan [Marc Alaimo]
 	Tricorder
-Wesley Crusher
-
-
-
-
-
-
-
-
-
+Wesley Crusher [Wil Wheaton]
 

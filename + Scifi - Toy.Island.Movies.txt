@@ -2,7 +2,7 @@ Rambo: Champion of Liberty
 Toy Island. 1995. 1:18 Scale (3.75").
 Waves: 1. Figures: 1.
 -----------------------------------------------
-Rambo (solid)
+Rambo (o-ring) [Sylvester Stallone]
 	Crossbow
 
 
@@ -10,7 +10,7 @@ Robocop: The Series
 Toy Island. 1995. 1:18 Scale (3.75").
 Waves: 1. Figures: 1.
 -----------------------------------------------
-Robocop (solid)
+Robocop (solid) [Richard Eden]
 	M-16 'future' rifle
 
 
@@ -18,9 +18,9 @@ Terminator 2: Judgment Day
 Toy Island. 1995. 1:18 Scale (3.75").
 Waves: 1. Figures: 2.
 -----------------------------------------------
-Endoskeleton (solid)
+Endoskeleton (solid) [Arnold Schwarzenegger]
 	Phase Plasma Rifle
-T-1000 (solid)
+T-1000 (solid) [Robert Patrick]
 	Shotgun
 
 
