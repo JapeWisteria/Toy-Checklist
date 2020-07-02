@@ -331,6 +331,9 @@ Marc Alaimo
 	Romulan, Star Trek the Next Generation
 Alan Alda
 	Hawkeye, M*A*S*H
+Karen Allen
+	Marion Ravenwood, Adventures of Indiana Jones in Raiders of the Lost Ark
+	Marion Ravenwood, Indiana Jones (3 figures)
 Michael Ansara
 	Killer Kane, Buck Rogers in the 25th Century
 Annie Arbogast
@@ -365,6 +368,8 @@ Paul Blake
 	Greedo, Star Wars
 Mel Blanc
 	Twiki, Buck Rogers in the 25th Century
+Cate Blanchett
+	Irina Spalko, Indiana Jones
 Ray Bolger
 	Scarecrow, The Wizard of Oz
 Richard Bonehill
@@ -396,9 +401,13 @@ Jane Busby
 	Chief Chirpa, Star Wars
 Maurice Bush
 	Dengar, Star Wars
+Michael Byrne
+	Colonel Vogel, Indiana Jones
 
 C
 ~~~~~~
+Kate Capshaw
+	Willie Scott, Indiana Jones
 Debbie Lee Carrington
 	Romba, Star Wars
 Michael Carter
@@ -419,6 +428,8 @@ John Colicos
 	Baltar, Battlestar Galactica
 Stephen Collins
 	Decker, Star Trek the Motion Picture
+Sean Connery
+	Dr. Henry Jones, Indiana Jones
 Jeff Corey
 	Sheriff Bledsoe, Butch & Sundance the Early Days
 Ray Corrigan
@@ -448,6 +459,8 @@ Brian Dennehy
 	O.C. Hanks, Butch & Sundance the Early Days
 Mark Dodson
 	Salacious Crumb, Star Wars
+Alison Doody
+	Dr. Elsa Schneider, Indiana Jones
 James Doohan
 	Scotty, Star Trek III
 	Scotty, Star Trek the Motion Picture
@@ -460,6 +473,8 @@ E
 ~~~~~~
 Marjorie Eaton
 	The Emperor, Star Wars
+Robert Eddison
+	Grail Knight, Indiana Jones
 Richard Eden
 	Robocop, Robocop: The Series
 Mike Edmonds
@@ -481,6 +496,9 @@ Ted Flicker
 	Buffalo Bill Cody, The Legend of the Lone Ranger
 Harrison Ford
 	Han Solo, Star Wars (5 figues)
+	Indiana Jones, Adventures of Indiana Jones in Raiders of the Lost Ark (3 figures)
+	Indiana Jones, Indiana Jones and The Temple of Doom
+	Indiana Jones, Indiana Jones (12 figures)
 Robert Forster
 	Captain Holland, The Black Hole
 Ernie Fosselius
@@ -489,6 +507,9 @@ James Frain
 	Jarvis, Tron: Legacy
 Jonathan Frakes
 	William Riker, Star Trek the Next Generation
+Paul Freeman
+	Belloq, Adventures of Indiana Jones in Raiders of the Lost Ark (2 figures)
+	Belloq, Indiana Jones
 
 G
 ~~~~~~
@@ -551,6 +572,8 @@ J
 ~~~~~~
 Richard James
 	Orrin, Space Precinct
+Igor Jijikine
+	Colonel Dovchenko, Indiana Jones
 Ben Jones
 	Cooter, The Dukes of Hazzard
 James Earl Jones
@@ -578,6 +601,11 @@ Bernie Kopell
 
 L
 ~~~~~~
+Shia LaBeouf
+	Mutt Williams, Indiana Jones (3 figures)
+Ronald Lacey
+	Toht, Adventures of Indiana Jones in Raiders of the Lost Ark
+	Toht, Indiana Jones
 Bert Lahr
 	Cowardly Lion, The Wizard of Oz
 Ted Lange
@@ -621,6 +649,8 @@ Tom McLoughlin
 	S.T.A.R., The Black Hole
 Yvette Mimieux
 	Kate McCrae, The Black Hole
+Alfred Molina
+	Satipo, Indiana Jones
 Harry Morgan
 	Col. Potter, M*A*S*H
 Temuera Morrison
@@ -653,6 +683,8 @@ George Peppard
 	Hannibal, The A-Team
 Anthony Perkins
 	Alex Durant, The Black Hole
+River Phoenix
+	Young Indy, Indiana Jones
 Slim Pickens
 	Old B.O.B., The Black Hole
 Tim Pigott-Smith
@@ -661,6 +693,9 @@ Robert Pine
 	Sarge, CHiPs
 David Prowse
 	Darth Vader, Star Wars
+Amrish Puri
+	Mola Ram, Indiana Jones and The Temple of Doom
+	Mola Ram, Indiana Jones
 Jack Purvis
 	Jawa, Star Wars
 	Ugnaught, Star Wars
@@ -670,6 +705,8 @@ Denver Pyle
 
 Q
 ~~~~~~
+Ke Huy Quan
+	Short Round, Indiana Jones
 David Quilter
 	Fredo, Space Precinct
 Mike Quinn
@@ -683,6 +720,17 @@ Michael Rennie
 	Klaatu, The Day the Earth Stood Still
 Clive Revill
 	The Emperor, Star Wars
+John Rhys-Davies
+	Sallah, Adventures of Indiana Jones in Raiders of the Lost Ark
+	Sallah, Indiana Jones
+Terry Richards
+	Cairo Swordsman, Adventures of Indiana Jones in Raiders of the Lost Ark
+	Cairo Swordsman, Indiana Jones
+Pat Roach
+	German Mechanic, Adventures of Indiana Jones in Raiders of the Lost Ark
+	German Mechanic, Indiana Jones
+	Giant Huggee, Indiana Jones and The Temple of Doom
+	Giant Huggee (Chief Temple Guard), Indiana Jones
 Peter Ross-Murray
 	Nikto, Star Wars
 Tim Rose
@@ -737,6 +785,9 @@ T
 ~~~~~~
 Mr. T
 	B.A. Baracus, The A-Team
+Vic Tablian
+	Monkey Man, Adventures of Indiana Jones in Raiders of the Lost Ark
+	Monkey Man, Indiana Jones
 Lincoln Tate
 	General George Custer, The Legend of the Lone Ranger
 Lauren Tewes
