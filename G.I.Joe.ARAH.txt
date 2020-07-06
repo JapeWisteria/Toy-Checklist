@@ -126,34 +126,34 @@ Trip-Wire v1
 
 Cobra
 ******
-Cobra v1.5 THE ENEMY -- battle grip re-issue
+Cobra v1.5 -- battle grip re-issue
 	File card
 	Dragunov sniper rifle
-Cobra Officer v1.5 THE ENEMY -- battle grip re-issue
+Cobra Officer v1.5 -- battle grip re-issue
 	File card
 	AK-47 assault rifle
-Cobra Commander (helmet) v1.5 ENEMY LEADER -- battle grip re-issue
+Cobra Commander (helmet) v1.5 -- battle grip re-issue
 	File card
 	Black venom laser pistol
-Destro v1 ENEMY WEAPONS SUPPLIER 
+Destro v1 
 	File card
 	Black high-density laser gun, black armed attache case
-Major Bludd v1 MERCENARY
+Major Bludd v1
 	File card
 	Black missile backpack, black rocket launcher
 
 Vehicle Drivers Joes
 ******
-Clutch v1 v1.5 VAMP DRIVER -- VAMP; battle grip re-issue
+Clutch v1 v1.5 -- VAMP; battle grip re-issue
 	File card
 	Dark green helmet
-Grand Slam v1.5 LASER ARTILLERY SOLDIER -- HAL; battle grip re-issue
+Grand Slam v1.5 -- HAL; battle grip re-issue
 	File card
 	Dark green helmet, clear visor
-Hawk v1.5 MISSILE COMMANDER -- MMS; battle grip re-issue
+Hawk v1.5 -- MMS; battle grip re-issue
 	File card
 	Dark green helmet, clear visor
-Steeler v1.5 TANK COMMANDER -- MOBAT; battle grip re-issue
+Steeler v1.5 -- MOBAT; battle grip re-issue
 	File card
 	Light green helmet, black binocular headset, black Uzi submachine gun
 Ace v1 -- Sky-Striker
@@ -1164,13 +1164,13 @@ Snow Serpent v2
 
 Vehicle Drivers Joes
 ******
-Major Altitude
+Major Altitude -- G.I. Joe Battle Copter
 	File card
 	Light green helmet, silver rifle
 
 Vehicle Drivers Cobra
 ******
-Interrogator
+Interrogator -- Cobra Battle Copter
 	File card
 	Black rifle with a claw at the end
 
@@ -1286,13 +1286,13 @@ Flak-Viper v1
 
 Vehicle Drivers Joes
 ******
-Ace v2
+Ace v2 -- G.I. Joe Battle Copter
 	File card
 	White helmet, black airmask, black submachine gun
 
 Vehicle Drivers Cobra
 ******
-Heli-Vipers v1
+Heli-Vipers v1 -- Cobra Battle Copter
 	File card
 	Purple rifle
 
@@ -1394,9 +1394,282 @@ Cobra Ninja Viper v1
 	2 dark gray swords
 
 
-Wave 12 1993 ()
+Wave 12 1993 (108)
 ~~~~~~
 
+Battle Corps Joes
+******
+Backblast v2
+	File card
+Barricade v2
+	File card
+Bazooka v3
+	File card
+Beach-Head v2
+	File card
+Bullet-Proof v2
+	File card
+Colonel Courage v1
+	File card
+Cross-Country v2
+	File card
+Duke v4
+	File card
+Frostbite v3
+	File card
+General Flagg v2
+	File card
+Gung-Ho v4
+	File card
+Iceberg v2
+	File card
+Keel-Haul v2
+	File card
+Law v3
+	File card
+Leatherneck v3
+	File card
+Long Arm v1
+	File card
+Mace v1
+	File card
+Muskrat v3
+	File card
+Mutt & Junkyard v4
+	File card
+Outback v3
+	File card
+Outback v4
+	File card
+Roadblock v5
+	File card
+Snow Storm v1
+	File card
+Snow Storm v2
+	File card
+Wet-Suit v4
+	File card
+Wild Bill v3
+	File card
+
+Battle Corps Cobra
+******
+Alley Viper v2
+	File card
+Cobra Commander v6
+	File card
+Crimson Guard Commander v1
+	File card
+Dr. Mindbender v2
+	File card
+Eels v3
+	File card
+Firefly v3
+	File card
+Flak-Viper v2
+	File card
+Gristle v1
+	File card
+Headhunters v2
+	File card
+Headhunter Stormtroopers v1
+	File card
+H.E.A.T. Viper v2
+	File card
+
+Battle Corps Vehicle Drivers
+******
+Ace v3
+	File card
+Cutter v3
+	File card
+
+Nitro-Viper v1
+	File card
+
+Dino Hunters
+******
+Ambush v2
+	File card
+Low-Light v4
+	File card
+
+Mega Marines
+******
+Blast-Off v1
+	File card
+Clutch v3
+	File card
+Gung-Ho v5
+	File card
+Mirage v1
+	File card
+
+Bio-Vipers v1
+	File card
+Cyber-Vipers v1
+	File card
+Mega-Vipers v1
+	File card
+Monstro-Vipers v1
+	File card
+
+Ninja Force
+******
+Banzai v1
+	File card
+Bushido v1
+	File card
+Scarlett v2
+	File card
+Snake Eyes v5
+	File card
+
+Night Creeper v2
+	File card
+Slice v2
+	File card
+Zartan v2
+	File card
+
+Ninja Force Vehicle Drivers
+******
+T'Gin-Zu v1
+	File card
+
+Red Ninjas v1
+	File card
+
+Star Brigade
+******
+Countdown v2
+	File card
+Duke v5
+	File card
+Heavy Duty v2
+	File card
+Heavy Duty v3
+	File card
+Ozone v2
+	File card
+Payload v3
+	File card
+Roadblock v6
+	File card
+Robo-JOE v1
+	File card
+Rock n' Roll v4
+	File card
+
+Astro-Viper v2
+	File card
+Cobra B.A.A.T. v1
+	File card
+Destro v4
+	File card
+T.A.R.G.A.T. v2
+	File card
+
+Star Brigade Vehicle Drivers
+******
+General Hawk v4
+	File card
+Sci-Fi v3
+	File card
+
+Arctic Commandos (Mail-away)
+******
+Dee-Jay v2
+	File card
+Stalker v4
+	File card
+Sub-Zero v2
+	File card
+
+Snow Serpent v3
+	File card
+
+Battle Copter Pilots (Mail-away)
+******
+Major Altitude v2
+	File card
+
+Interrogator v2
+	File card
+
+International Action Force (Mail-away)
+******
+Big Bear v2
+	File card
+Big Ben v2
+	File card
+Budo v2
+	File card
+Spirit v4
+	File card
+
+Rapid Deployment Force (Mail-away)
+******
+Fast Draw v1
+	File card
+Repeater v2
+	File card
+Shockwave v2
+	File card
+
+Capcom Street Fighter II
+******
+Balrog v1
+	File card
+Blanka v1
+	File card
+Chun Li v1
+	File card
+Dhalsim v1
+	File card
+Edmond Honda v1
+	File card
+Guile v1
+	File card
+Ken Masters v1
+	File card
+Ryu v1
+	File card
+Sagat v1
+	File card
+Zangief v1
+	File card
+
+M. Bison v1
+	File card
+Vega v1
+	File card
+
+Capcom Street Fighter II Vehicle Drivers
+******
+Blanka v2
+	File card
+Chun Li v2
+	File card
+Guile v2
+	File card
+Ken Masters v2
+	File card
+Ryu v2
+	File card
+
+M. Bison v2
+	File card
+
+Mail-Away
+******
+Deep Six v4
+	File card
+General Hawk v3
+	File card
+
+Create-a-Cobra v1
+	File card
 
 Wave 13 1994 ()
 ~~~~~~
