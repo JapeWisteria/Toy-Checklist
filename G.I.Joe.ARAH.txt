@@ -1394,188 +1394,317 @@ Cobra Ninja Viper v1
 	2 dark gray swords
 
 
-Wave 12 1993 (108)
+Wave 12 1993 (109)
 ~~~~~~
+Most figures in wave 12 had all or most of their accessories included on plastic sprues, similar to a model kit. These are marked in each figure's entry. If only accessories are listed, no sprue was used.
 
 Battle Corps Joes
 ******
 Backblast v2
 	File card
+	Sprue: black submachine gun, black rifle, black knife, 2 black missiles, black figure stand
+	Loose: black missile launcher
 Barricade v2
 	File card
+	Gold and red helmet, blue submachine gun, blue backpack, blue missile launcher, yellow battering ram missile, black figure stand
 Bazooka v3
 	File card
+	Sprue: 3 different light green guns, 2 light green missiles, light green figure stand
+	Loose: blue missile launcher
 Beach-Head v2
 	File card
+	Sprue: 3 different yellow guns, 2 yellow missiles, yellow knife, yellow figure stand
+	Loose: black missile launcher
 Bullet-Proof v2
 	File card
+	Green helmet, green rifle, green backpack, green missile launcher, green missile, black figure stand
 Colonel Courage v1
 	File card
+	Sprue: 4 light green guns, light green machete, light green knife, light green missile, light green figure stand
+	Loose: gold missile launcher
 Cross-Country v2
 	File card
+	Sprue: 3 black guns, black knife, 2 black missiles, black figure stand
+	Loose: blue missile launcher, orange backpack
 Duke v4
 	File card
+	Sprue: 3 black guns, black machete, 2 black missiles, black figure stand
+	Loose: gold missile launcher
 Frostbite v3
 	File card
+	Sprue: White mask, 3 white guns, white machete, 2 white missiles, white figure stand
+	Loose: orange missile launcher
 General Flagg v2
 	File card
+	Black rifle, brown hat, black missile, black figure stand, catapult: green base, green arm, black lever, rubber band
 Gung-Ho v4
 	File card
+	Black backpack, black missile launcher, blue missile, black machine gun, American flag, black figure stand
 Iceberg v2
 	File card
+	Sprue: White rifle, white handgun, white knife, white machete, white snowboard, 2 white missiles
+	Loose: green missile launcher
 Keel-Haul v2
 	File card
+	Sprue: Blue rifle, blue submachine gun, blue knife, 2 blue missiles, blue figure stand
+	Loose: brown missile launcher
 Law v3
 	File card
+	Sprue: 2 yellow guns, yellow knife, yellow shield, 2 yellow missiles, yellow figure stand
+	Loose: blue missile launcher
 Leatherneck v3
 	File card
+	Sprue: 3 black rifles, black handgun, black knife, black missile, black figure stand
+	Loose: orange missile launcher
 Long Arm v1
 	File card
+	Sprue: 2 red guns, red knife, red shield, 2 red missiles, red figure stand
+	Loose: orange helmet, black missile launcher
 Mace v1
 	File card
+	Sprue: 2 yellow rifles, yellow pistol, yellow knife, 2 yellow missiles, yellow figure stand
+	Loose: yellow helmet, black missile launcher
 Muskrat v3
 	File card
+	Sprue: 3 dark blue guns, dark blue knife, 2 dark blue missiles, dark blue figure stand
+	Loose: green helmet, orange missile launcher
 Mutt & Junkyard v4
 	File card
+	Black handgun, gold rifle, red missile launcher, gold missile, Junkyard, black figure stand
 Outback v3
 	File card
-Outback v4
+	Sprue: 3 red rifles, 2 red missiles, red figure stand
+	Loose: dark blue/purple missile launcher
+Outback v4 (repaint of Outback v3)
 	File card
+	Sprue: 3 red rifles, 2 red missiles, red figure stand
+	Loose: dark blue/purple missile launcher
 Roadblock v5
 	File card
+	Sprue: 2 rifles, pistol, knife, 2 missiles, figure stand
+	Loose: light blue missile launcher
 Snow Storm v1
 	File card
-Snow Storm v2
+	Sprue: 2 white rifles, white handgun, white knife, 2 white missiles, white figure stand
+	Loose: brown missile launcher
+Snow Storm v2 (repaint of Outback v1)
 	File card
+	Sprue: 2 white rifles, white handgun, white knife, 2 white missiles, white figure stand
+	Loose: brown missile launcher
 Wet-Suit v4
 	File card
+	Orange helmet, orange harpoon gun, 2 orange fins, black sled/missile launcher, 3 orange missiles, black figure stand
 Wild Bill v3
 	File card
+	Brown pistol, brown knife, brown backpack, blue cowboy hat, blue missile launcher, brown missile, black figure stand
 
 Battle Corps Cobra
 ******
 Alley Viper v2
 	File card
+	Black face mask, 2 black rifles, black backpack, yellow missile launcher, 2 black missiles, black Cobra shield, black figure stand
 Cobra Commander v6
 	File card
+	Sprue: 4 silver guns, 2 silver missiles, silver figure stand
+	Loose: red missile launcher
 Crimson Guard Commander v1
 	File card
+	Sprue: 4 black guns, 2 black missiles, black figure stand
+	Loose: yellow missile launcher
 Dr. Mindbender v2
 	File card
+	Sprue: 5 different yellow guns, yellow knife, yellow figure stand
+	Loose: purple missile launcher, yellow missile
 Eels v3
 	File card
+	Sprue: 4 red guns, 2 red missiles, red figure stand
+	Loose: 2 yellow flippers, yellow missile launcher
 Firefly v3
 	File card
+	Green rifle, black "blade launcher," green top, green zipcord, black figure stand
 Flak-Viper v2
 	File card
+	Orange rifle, green backpack/missile launcher, 2 orange missiles, black figure stand
 Gristle v1
 	File card
+	Sprue: 2 maroon rifles, maroon knife, 2 maroon missiles, maroon figure stand
+	Loose: yellow missile launcher
 Headhunters v2
 	File card
+	Black shotgun, black backpack, purple rocket launcher, black missile, black figure stand
 Headhunter Stormtroopers v1
 	File card
+	Sprue: 2 black rifles, black knife, 2 black missiles, black figure stand
+	Loose: orange missile launcher
 H.E.A.T. Viper v2
 	File card
+	Sprue: 3 light green guns, 2 green missiles, green figure stand
+	Loose: black missile launcher
+Night Creeper Leader v1
+	File card
+	Sprue: 2 orange swords, orange knife, 2 orange crossbows, orange shield, orange figure stand
+	Loose: black missile launcher, orange missile,
 
 Battle Corps Vehicle Drivers
 ******
-Ace v3
+Ace v3 -- Ghoststriker X-16
 	File card
-Cutter v3
+	Black uzi submachine gun, black helmet, black airmask
+Cutter v3 -- SHARK 9000
 	File card
+	Black submachine gun
 
-Nitro-Viper v1
+Nitro-Viper v1 -- Cobra Detonator
 	File card
+	Black handgun
 
-Dino Hunters
+Dino Hunters (Toys R Us exclusive; both figures were bundled with a vehicle and dinosaur)
 ******
 Ambush v2
 	File card
+	Tan helmet, 2 green rifles, green laser pistol, green handgun, green machete, green knife, green figure stand
 Low-Light v4
 	File card
+	3 black rifles, black handgun, black knife, black helmet, black visor, black figure stand
 
 Mega Marines
+Several figures came with a jar of Play-Doh and a mold for shaping it directly onto the figure Hasbro called moldable bio-armor...it's listed as an accessory for each figure that had it.
 ******
 Blast-Off v1
 	File card
+	Sprue: 
+	Loose: orange helmet, red missile launcher, red armor mold, jar of moldable bio-armor
+	2 blue guns, blue knife, 2 blue missiles, blue figure stand
 Clutch v3
 	File card
+	Sprue: 
+	Loose: yellow missile launcher, yellow armor mold, jar of moldable bio-armor
+	3 black guns, black machete, 2 black missiles, black figure stand
 Gung-Ho v5
 	File card
+	Sprue: 3 black rifles, black machete, 2 black missiles, black figure stand
+	Loose: orange helmet, orange missile launcher, yellow armor mold, jar of moldable bio-armor
 Mirage v1
 	File card
+	Sprue: Green submachine gun, green rifle, green knife, 2 green missiles, green figure stand
+	Loose: blue missile launcher, a blue armor mold, jar of moldable bio-armor
 
 Bio-Vipers v1
 	File card
+	Red missile launcher, black missile
 Cyber-Vipers v1
 	File card
+	Sprue: 4 gray guns, 2 gray missiles, gray figure stand
+	Loose: yellow missile launcher, light green armor mold, jar of moldable bio-armor
 Mega-Vipers v1
 	File card
+	Sprue: 4 yellow guns, 2 yellow missiles, yellow figure stand
+	Loose: pink missile launcher, black armor mold, jar of moldable bio-armor
 Monstro-Vipers v1
 	File card
+	Gold rifle, gold flail, jar of moldable bio-armor
 
 Ninja Force
+Most figures came with a spring-loaded action feature. As a result, most of these figures are solid construction.
 ******
 Banzai v1
 	File card
+	Sprue: 2 pink swords, pink wide knife, 2 pink dueling knives, pink sickle, pink axe, pink figure stand
 Bushido v1
 	File card
+	Sprue: 2 white swords, white wide knife, 2 white dueling knives, white sickle, white axe, white figure stand
 Scarlett v2
 	File card
+	Sprue: 3 different yellow swords, yellow knife, 2 yellow claws, yellow nunchuks, yellow figure stand
 Snake Eyes v5
 	File card
+	Sprue: 3 different blue swords, blue knife, 2 blue claws, blue nunchuks, blue figure stand
 
 Night Creeper v2
 	File card
+	Sprue: light blue bow, light blue sword, light blue machete, light blue sickle, 2 light blue dueling knives, light blue figure stand
 Slice v2
 	File card
+	Sprue: Black bisento spear, black wide knife, black axe, 2 black double sided knives, black hooked sword, black figure stand
 Zartan v2
 	File card
+	Sprue: Orange bow, orange sword, orange machete, orange sickle, 2 orange knives, orange figure stand
 
 Ninja Force Vehicle Drivers
 ******
-T'Gin-Zu v1
+T'Gin-Zu v1 -- Pile Driver
 	File card
+	Black sword
 
-Red Ninjas v1
+Red Ninjas v1 -- Battle Ax
 	File card
+	Orange axe
 
 Star Brigade
+Several figures featured solid construction.
 ******
 Countdown v2
 	File card
+	Sprue: 2 yellow guns, yellow knife, 2 yellow missiles, yellow figure stand
+	Loose: red helmet, brown or black missile launcher
 Duke v5
 	File card
+	Sprue: 2 different red guns, red knife, 2 red missiles, red figure stand
+	Loose: silver helmet
 Heavy Duty v2
 	File card
-Heavy Duty v3
-	File card
+	Sprue: 2 black guns, black knife, 2 black missiles, black figure stand
+	Loose: green helmet
 Ozone v2
 	File card
+	Sprue: 3 black guns, knife, 2 black missiles, black figure stand
+	Loose: red helmet, orange missile launcher
+Ozone v3 (repaint of Ozone v2)
+	File card
+	Sprue: 3 black guns, knife, 2 black missiles, black figure stand
+	Loose: red helmet, orange missile launcher
 Payload v3
 	File card
+	Sprue: 3 pink guns, pink knife, 2 pink missiles, pink figure stand
+	Loose: gold missile launcher
 Roadblock v6
 	File card
+	Sprue: 3 gold guns, gold machete, 2 gold missiles, gold figure stand
+	Loose: blue helmet with red face shield, dark blue missile launcher
 Robo-JOE v1
 	File card
+	Sprue: 3 different gold guns, gold machete, 2 gold missiles, gold figure stand
+	Loose: black helmet, orange missile launcher
 Rock n' Roll v4
 	File card
+	Sprue: 3 yellow guns, yellow machete, 2 yellow missiles, yellow figure stand
+	Loose: silver helmet, silver missile launcher
 
 Astro-Viper v2
 	File card
+	Sprue: 2 orange rifles, orange knife, 2 orange missiles, orange figure stand
+	Loose: black helmet, gold missile launcher
 Cobra B.A.A.T. v1
 	File card
+	Sprue: 4 different yellow guns, yellow knife, 2 yellow missiles, yellow figure stand
+	Loose: red missile launcher
 Destro v4
 	File card
+	Sprue: 4 different silver guns, silver knife, 2 silver missiles, silver figure stand
+	Loose: clear helmet
 T.A.R.G.A.T. v2
 	File card
+	Sprue: 2 pink missiles, pink rifle, pink submachine gun, pink pistol, pink figure stand
+	Loose: purple face shield, a red missile launcher
 
 Star Brigade Vehicle Drivers
 ******
-General Hawk v4
+General Hawk v4 -- Armor-bot
 	File card
-Sci-Fi v3
+	gold helmet, pink or black laser rifle
+Sci-Fi v3 -- Starfighter Space Jet
 	File card
+	Silver rifle, white helmet
 
 Arctic Commandos (Mail-away)
 ******
