@@ -1,6 +1,6 @@
 G.I. Joe A Real American Hero
 Hasbro. 1982-94. 1:18 Scale (3.75").
-Waves: 13. Figures: .
+Waves: 13. Figures: 519.
 -----------------------------------------------
 Almost all figures have o-ring construction, with a few exceptions. Several figures have action features.
 
@@ -1572,14 +1572,12 @@ Several figures came with a jar of Play-Doh and a mold for shaping it directly o
 ******
 Blast-Off v1
 	File card
-	Sprue: 
+	Sprue: 2 blue guns, blue knife, 2 blue missiles, blue figure stand
 	Loose: orange helmet, red missile launcher, red armor mold, jar of moldable bio-armor
-	2 blue guns, blue knife, 2 blue missiles, blue figure stand
 Clutch v3
 	File card
-	Sprue: 
+	Sprue: 3 black guns, black machete, 2 black missiles, black figure stand
 	Loose: yellow missile launcher, yellow armor mold, jar of moldable bio-armor
-	3 black guns, black machete, 2 black missiles, black figure stand
 Gung-Ho v5
 	File card
 	Sprue: 3 black rifles, black machete, 2 black missiles, black figure stand
@@ -1710,35 +1708,46 @@ Arctic Commandos (Mail-away)
 ******
 Dee-Jay v2
 	File card
+	Gold submachine gun, white helmet antenna, black figure stand
 Stalker v4
 	File card
+	Silver knife, black figure stand
 Sub-Zero v2
 	File card
+	Black rifle, black figure stand
 
 Snow Serpent v3
 	File card
+	Black rifle, black figure stand
 
 Battle Copter Pilots (Mail-away)
 ******
 Major Altitude v2
 	File card
+	Gray submachine gun, orange helmet, black figure stand
 
 Interrogator v2
 	File card
+	Gray knife, black figure stand
 
 International Action Force (Mail-away)
 ******
 Big Bear v2
 	File card
+	Black rifle, black figure stand
 Big Ben v2
 	File card
+	Black rifle, black figure stand
 Budo v2
 	File card
+	Blue and orange helmet, silver sword, black figure stand
 Spirit v4
 	File card
+	Green knife, black figure stand
 
 Rapid Deployment Force (Mail-away)
 ******
+Fast Draw is a re-issue of the original figure with no changes; Repeater and Shockwave are re-issues of the original figures with a new colour scheme. A bag of loose weapons was included that could be mixed and matched to any figure and is listed separately below.
 Fast Draw v1
 	File card
 Repeater v2
@@ -1746,65 +1755,203 @@ Repeater v2
 Shockwave v2
 	File card
 
+All: Gold submachine gun, black sniper's rifle, black rifle, 6 black figure stands
+
 Capcom Street Fighter II
 ******
 Balrog v1
 	File card
+	Sprue: 2 black rifles, a black knife, 2 black missiles, black figure stand
+	Loose: 2 red boxing gloves, orange missile launcher, black grappling hook, a black string
 Blanka v1
 	File card
+	Sprue: 2 purple rifles, a purple knife, 2 purple missiles, purple figure stand
+	Loose: Orange missile launcher, black grappling hook, black string
 Chun Li v1
 	File card
+	Sprue: 3 different yellow swords, yellow knife, 2 yellow claws, yellow nunchuks, yellow figure stand
 Dhalsim v1
 	File card
+	Sprue: purple bow, purple sword, purple machete, purple sickle, 2 purple knives, purple figure stand
 Edmond Honda v1
 	File card
+	Sprue: 2 dark blue swords, dark blue axe, dark blue sickle, dark blue wide knife, 2 dark blue dueling knives, dark blue figure stand
+	Loose: Blue mawashi 
 Guile v1
 	File card
+	Sprue: 2 black guns, black shield, 2 black missiles, black knife, black figure stand
+	Loose: orange missile launcher, bright yellow grappling hook, black string
 Ken Masters v1
 	File card
+	Sprue: Black sword, black machete, 2 black knives, black sickle, black bow, black figure stand
 Ryu v1
 	File card
+	Sprue: 2 blue swords, blue axe, 2 blue dueling knives, blue wide knife, blue sickle, blue figure stand
 Sagat v1
 	File card
+	Sprue: 3 different purple swords, purple nunchuks, purple knife, 2 purple claws, purple figure stand
 Zangief v1
 	File card
+	Sprue: 3 orange rifles, 2 orange missiles, orange figure stand
+	Loose: orange missile launcher, black string, orange grappling hook
 
 M. Bison v1
 	File card
+	Sprue: Black rifle, black submachine gun, black pistol, 2 black missiles, black figure stand
+	Loose: Green missile launcher, orange grappling hook, a black string
 Vega v1
 	File card
+	Sprue: 2 different gold swords, gold axe, gold knife, 2 gold dueling knives, gold sickle, gold figure stand
 
 Capcom Street Fighter II Vehicle Drivers
 ******
-Blanka v2
+Blanka v2 -- Street Fighter Beast Blaster
 	File card
-Chun Li v2
+	No accessories
+Chun Li v2 -- Street Fighter Beast Blaster
 	File card
-Guile v2
+	No accessories
+Guile v2 -- Street Fighter Sonic Boom Tank
 	File card
-Ken Masters v2
+	No accessories
+Ken Masters v2 -- Street Fighters Dragon Fortress
 	File card
-Ryu v2
+	No accessories
+Ryu v2 -- Street Fighters Dragon Fortress
 	File card
+	No accessories
 
-M. Bison v2
+M. Bison v2 -- Crimson Cruiser
 	File card
+	No accessories
 
 Mail-Away
 ******
 Deep Six v4
 	File card
+	Yellow helmet, gold gun, black figure stand
 General Hawk v3
 	File card
+	Green rifle, black electronic backpack, yellow helmet, gold faceplate, black figure stand
 
 Create-a-Cobra v1
 	File card
+	Silver rifle, black figure stand
 
-Wave 13 1994 ()
+Wave 13 1994 (44)
 ~~~~~~
 
+Battle Corps
+******
+Beach-Head v3
+	File card
+Dial-Tone v4
+	File card
+Flint v4
+	File card
+Ice Cream Soldier v1
+	File card
+Lifeline v4
+	File card
+Shipwreck v2
+	File card
+Snow Storm v3
+	File card
+Stalker v5
+	File card
+Windchill v2
+	File card
 
+Alley Viper v3
+	File card
+Major Bludd v3
+	File card
+Metal-Head v2
+	File card
+Night Creeper Leader v2
+	File card
+Viper v4
+	File card
 
+Star Brigade
+******
+Countdown v3
+	File card
+Duke v6
+	File card
+Effects v1
+	File card
+Gears v1
+	File card
+Ozone v4
+	File card
+Payload v4
+	File card
+Payload v5
+	File card
+Roadblock v7
+	File card
+Sci-Fi v4
+	File card
+Space Shot v1
+	File card
 
+Cobra Blackstar v1
+	File card
+Cobra Commander v7
+	File card
+Techno-Viper v2
+	File card
 
+Carcass v1
+	File card
+Lobotomaxx v1
+	File card
+Predacon v1
+	File card
+
+Shadow Ninjas
+******
+Figures came with light and water sensitive plastic that changed colours; most also had a spring-loaded attack.
+Bushido v2
+	File card
+Nunchuk v2
+	File card
+Snake-Eyes v6
+	File card
+Storm Shadow v4
+	File card
+
+Night Creeper v3
+	File card
+Slice v3
+	File card
+
+30th Anniversary
+******
+Tribute to the original figures, the file cards didn't describe any character.
+Action Marine v1
+	File card
+Action Pilot v1
+	File card
+Action Pilot v2
+	File card
+Action Pilot Astronaut v1
+	File card
+Action Sailor v1
+	File card
+Action Sailor v2
+	File card
+Action Soldier v1
+	File card
+
+Mail-Away
+******
+G.I. Joe v1
+	File card
+
+1994 G.I. Joe Convention Exclusive
+******
+Fighter Pilot v1
+	File card
 
