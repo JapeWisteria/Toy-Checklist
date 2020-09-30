@@ -21,8 +21,6 @@
 -- Add Disney read-along books
 -- Add Star Trek trading cards
 
--- Add actors to Indiana Jones
--- Add actors to Star Wars
 
 
 
