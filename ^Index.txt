@@ -22,6 +22,7 @@ Galoob
 	Star Trek the Next Generation, 1988-89.
 
 Hasbro
+	G.I. Joe A Real American Hero, 1982-1994.
 	Indiana Jones, 2008-2011.
 	Visionaries, 1987.
 
@@ -112,6 +113,9 @@ Vivid Imaginations
 	Space Precinct, 1994.
 	Captain Scarlet and the Mysterons, 1993.
 
+Vivid Toy Group
+	Thunderbirds are Go!, 2014.
+
 Zica
 	The Six Million Dollar Man, 2013.
 
@@ -171,6 +175,9 @@ The Dukes of Hazzard
 
 The New Adventures of Flash Gordon
 	Mattel, 1979-80.
+
+G.I. Joe A Real American Hero
+	Hasbro, 1982-1994.
 
 The Greatest American Hero
 	Mego, 1982.
@@ -267,6 +274,9 @@ The Time Machine
 
 Thunderbirds
 	Matchbox, 1994.
+
+Thunderbirds are Go!
+	Vivid Toy Group, 2014.
 
 Tron
 	Tomy, 1981.

@@ -1991,28 +1991,47 @@ Slice v3
 30th Anniversary
 ******
 Tribute to the original figures, the file cards didn't describe any character.
-Action Marine v1
+
+Most figures came individually boxed or available in a 5 figure commemorative set. The Astronaut was the only figure that didn't come individually, and the commemorative set included a space capsule.
+
+Action Marine v1 -- both
 	File card
-Action Pilot v1
+	Sprue: Black rifle, black missile, two-piece black raft, black oar, black rifle post
+	Loose: Green backpack, green missile launcher
+Action Pilot v1 -- boxed
 	File card
-Action Pilot v2
+	Sprue: Green rifle, green pistol, green parachute backpack, 
+	Loose: White helmet, a black air mask, white parachute, black parachute strap
+Action Pilot v2 -- set
 	File card
-Action Pilot Astronaut v1
+	Sprue: Green rifle, green pistol, green parachute backpack, 
+	Loose: White helmet, a black air mask, white parachute, black parachute strap
+Action Pilot Astronaut v1 -- set only
 	File card
-Action Sailor v1
+	White helmet, clear visor
+Action Sailor v1 -- set
 	File card
-Action Sailor v2
+	Sprue: blue spear gun, blue missile, blue flashlight, two-piece blue scuba tank, two-piece blue sea sled
+	Loose: Black hose, 2 black flippers, blue missile launcher
+Action Sailor v2 -- boxed
 	File card
-Action Soldier v1
+	Sprue: Black spear gun, black missile, black flashlight, two-piece black scuba tank, two-piece black sea sled
+	Loose: Black hose, 2 black flippers, black missile launcher
+Action Soldier v1 -- both
 	File card
+	Sprue (boxed): Brown rifle, brown handgun, brown missile, five-piece brown wall
+	Sprue (set): Black rifle, black handgun, black missile, five-piece black wall
+	Loose: green backpack, a green missile launcher
 
 Mail-Away
 ******
 G.I. Joe v1
 	File card
+	Black machine gun
 
 1994 G.I. Joe Convention Exclusive
 ******
 Fighter Pilot v1
 	File card
+	Black helmet, gray airmask, black backpack, parachute (either silver/black or white/blue)
 
