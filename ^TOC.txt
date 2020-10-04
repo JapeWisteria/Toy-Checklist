@@ -50,7 +50,8 @@
 		~ Universal Monsters Mini-Monsters
 	** Anime
 		~ Battle of the Planets
-		~ Robotech
+		~ Robotech Matchbox
+		~ Robotech Harmony Gold
 		~ Voltron
 	** Gerry Anderson
 		~ Captain Scarlet and the Mysterons
@@ -58,6 +59,7 @@
 		~ Stingray
 		~ Terrahawks
 		~ Thunderbirds
+		~ Thunderbirds are Go!
 	** Film and Television
 		~ A-Team
 		~ CHiPs

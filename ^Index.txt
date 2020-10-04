@@ -21,6 +21,9 @@ Galoob
 	A-Team, 1984.
 	Star Trek the Next Generation, 1988-89.
 
+Harmony Gold
+	Robotech, 1992.
+
 Hasbro
 	G.I. Joe A Real American Hero, 1982-1994.
 	Indiana Jones, 2008-2011.
@@ -226,6 +229,7 @@ Robocop: The Series
 
 Robotech
 	Matchbox, 1985.
+	Harmony Gold, 1992.
 
 The Six Million Dollar Man
 	Zica, 2013.
