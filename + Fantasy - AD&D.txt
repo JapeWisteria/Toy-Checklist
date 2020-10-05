@@ -24,7 +24,7 @@ Strongheart (Good Paladin)
 	Blue cape and sword
 Warduke (Evil Fighter)
 	Shield, cape and sword
-Young Male Titan (Good Titan)
+Young Male Titan (Good Titan) |Trooper|
 	Helmet, shield, belt, sword and spear
 Zarak (Evil-Half Orc Assassin)
 	Knife
@@ -55,7 +55,7 @@ Strongheart "BM" (Good Paladin)
 	Blue cape and sword
 Warduke "BM" (Evil Fighter)
 	Shield, cape and sword
-Young Male Titan "Shield Shooter" (Good Titan)
+Young Male Titan "Shield Shooter" (Good Titan) |Trooper|
 	Helmet, shield, belt, sword and spear
 Zarak "BM" (Evil-Half Orc Assassin)
 	Knife

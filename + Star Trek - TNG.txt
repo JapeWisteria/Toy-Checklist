@@ -21,15 +21,15 @@ Tasha Yar [Denise Crosby]
 
 Wave 2 1989
 ~~~~~~
-Antican
-Ferengi [Armin Shimerman]
+Antican |Trooper|
+Ferengi |Trooper| [Armin Shimerman]
 	Energy whip
 Q [John de Lancie]
-Selay
+Selay |Trooper|
 
 Prototype
 ~~~~~~
-Romulan [Marc Alaimo]
+Romulan |Trooper| [Marc Alaimo]
 	Tricorder
 Wesley Crusher [Wil Wheaton]
 

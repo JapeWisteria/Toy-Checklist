@@ -8,13 +8,13 @@ Wave 1 1978
 ~~~~~~
 Commander Adama [Lorne Greene]
 	Laser pistol, blue cape
-Cylon Centurian
+Cylon Centurian |Trooper|
 	Laser rifle
 Daggit
 	No accessories
 Imperious Leader [Patrick Macnee]
 	Purple cape
-Ovion
+Ovion |Trooper|
 	Webbed cape
 Starbuck [Dirk Benedict]
 	Laser pistol, brown cape
@@ -25,7 +25,7 @@ Baltar [John Colicos]
 	Laser pistol
 Boray
 	Brown club
-Cylon Commander
+Cylon Commander |Trooper|
 	Laser rifle
 Lucifer [Jonathan Harris]
 	No accessories

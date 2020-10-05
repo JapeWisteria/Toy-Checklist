@@ -18,15 +18,15 @@ Miriya (red flight suit)
 	Helmet, pistol
 Miriya (black flight suit)
 	Helmet, pistol
-Micronized Zentraedi
+Micronized Zentraedi |Trooper|
 	Helmet, blaster
 Dana Sterling
 	Helmet, rifle, wings
 Zor Prime
 	Knife and artifact
-Bioroid Terminator
+Bioroid Terminator |Trooper|
 	Rifle
-Robotech Master
+Robotech Master |Trooper|
 	No accessories
 Scott Bernard
 	Helmet and blaster
@@ -46,7 +46,7 @@ Exedore
 Khyron
 Dolza
 Miriya
-Armoured Zentraedi Warrior
+Armoured Zentraedi Warrior |Trooper|
 	Helmet
 
 
@@ -55,7 +55,7 @@ Robotech.
 Harmony Gold. 1992. 1:18 Scale (3.75").
 Waves: 1. Figures: 15.
 -----------------------------------------------
-Harmony Gold re-released the Matchbox 1:18 scale figures in 1992. No 8" figures were released, 1 new figure was added (Lynn Minmei), 1 was re-sculpted (Miriya), Max Sterline was issued with 2 different paint applications, and several figures were dropped (Lunk, Corg). All figures exhibit o-ring construction.
+Harmony Gold re-released the Matchbox 1:18 scale figures in 1992. No 8" figures were released, 1 new figure was added (Lynn Minmei), 1 was re-sculpted (Miriya), Max Sterling was issued with 2 different paint applications, and several figures were dropped (Lunk, Corg). All figures exhibit o-ring construction.
 
 3.75" figures
 ~~~~~~
@@ -71,15 +71,15 @@ Max Sterling (Yellow/blue flight suit)
 	Helmet, pistol
 Miriya (purple flight suit)
 	Helmet, pistol
-Micronized Zentraedi
+Micronized Zentraedi |Trooper|
 	Helmet, blaster
 Dana Sterling
 	Helmet, rifle, wings
 Zor Prime
 	Knife and artifact
-Bioroid Terminator
+Bioroid Terminator |Trooper|
 	Rifle
-Robotech Master
+Robotech Master |Trooper|
 	No accessories
 Scott Bernard
 	Helmet and blaster

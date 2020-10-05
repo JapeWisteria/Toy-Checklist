@@ -28,7 +28,7 @@ Monkey Man [Vic Tablian]
 Sallah [John Rhys-Davies]
 	Relic: Terracotta Horse
 	Torch, shovel
-German Soldier
+German Soldier |Trooper|
 	Relic: Sankara Stone
 	German submachine gun
 Belloq (ceremonial robes) [Paul Freeman]
@@ -66,7 +66,7 @@ Short Round [Ke Huy Quan]
 Mola Ram [Amrish Puri]
 	Relic: Chinese Lion
 	Knife, flaming heart, monkey brains, robes
-Temple Guard
+Temple Guard |Trooper|
 	Relic: Sun Dial
 	Scimitar, punching knife
 Chief Temple Guard [Pat Roach]
@@ -114,13 +114,13 @@ Irina Spalko [Cate Blanchett]
 Colonel Dovchenko [Igor Jijikine]
 	Relic: Chalice of Kali
 	AK-47, pistol
-Russian Soldier
+Russian Soldier |Trooper|
 	Relic: Ankh of Osirus
 	AK-47 (wooden stock with bayonet)
-Cemetery Warrior
+Cemetery Warrior |Trooper|
 	Relic: Funerary Mask
 	Blowgun, satchel
-Ugha Warrior
+Ugha Warrior |Trooper|
 	Relic: Ancient Arrowhead
 	Stone axe, whip flail
 Crystal Skeleton Figure with Throne (mail-away exclusive)
@@ -134,15 +134,15 @@ Indiana Jones with Temple Pitfall [Harrison Ford]
 	Temple pitfall playset, custom whip, revolver
 Marion Ravenwood and Cairo Henchman (figures identical to individual carded, with cairo thug having different paint apps) [Karen Allen]
 	2 scimitars, knife, monkey
-Cairo Thugs (2 identical figures)
+Cairo Thugs |Trooper| (2 identical figures)
 	Scimitar, German submachine gun
 Indiana Jones with Ark [Harrison Ford]
 	Ark, revolver, coiled whip, satchel, fabric robes and belt
-German Soldiers (1 soldier tan coat, 1 soldier green coat)
+German Soldiers |Trooper| (1 soldier tan coat, 1 soldier green coat)
 	German submachine gun (2)
 Indiana Jones with Horse [Harrison Ford]
 	Fedora, revolver, horse and bridle, satchel
-German Soldier with Motorcycle
+German Soldier with Motorcycle |Trooper|
 	German submachine gun with strap
 Mutt Williams with Motorcycle [Shia LaBeouf]
 	Comes with motorcycle

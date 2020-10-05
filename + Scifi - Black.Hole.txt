@@ -25,11 +25,11 @@ V.I.N.Cent [Roddy McDowall] (solid)
 
 Wave 2
 ~~~~~~
-Humanoid [Gary Nelson] (o-ring)
+Humanoid |Trooper| [Gary Nelson] (o-ring)
 	Brown cloth cape, brown cloth boots
 Old B.O.B. [Slim Pickens] (solid)
 	Clear plastic stand
 S.T.A.R. [Tom McLoughlin] (o-ring)
 	Laser pistol
-Sentry (o-ring)
+Sentry |Trooper| (o-ring)
 	Laser pistol

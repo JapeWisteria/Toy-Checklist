@@ -10,7 +10,7 @@ Sark [David Warner]
 	Identity disc
 Tron [Bruce Boxleitner]
 	Identity disc
-Warrior
+Warrior |Trooper|
 	Staff
 
 Tron
@@ -25,7 +25,7 @@ Sark [David Warner]
 	Identity disc
 Tron [Bruce Boxleitner]
 	Identity disc
-Warrior
+Warrior |Trooper|
 	Staff
 
 Tron: Legacy
@@ -36,11 +36,11 @@ All figures feature solid construction. All figures were packaged with batteries
 
 Series 1
 ~~~~~~
-Black Guard
+Black Guard |Trooper|
 	Identity disc, 2 batons, display stand
 Clu [Jeff Bridges]
 	Identity disc, sword, display stand
-Clu's Sentry
+Clu's Sentry |Trooper|
 	Identity disc, staff, display stand
 Kevin Flynn [Jeff Bridges]
 	Identity disc, white baton, display stand

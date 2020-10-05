@@ -15,12 +15,12 @@ Scotty [James Doohan]
 
 Wave 2 1980
 ~~~~~~
-Arcturian
-Betelgusian
+Arcturian |Trooper|
+Betelgusian |Trooper|
 	Red cloth cape
-Klingon [Mark Lenard]
-Megarite
+Klingon |Trooper| [Mark Lenard]
+Megarite |Trooper|
 	Black cloth cape
-Rigellian
-Zaranite 
+Rigellian |Trooper|
+Zaranite |Trooper|
 

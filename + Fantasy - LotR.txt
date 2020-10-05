@@ -12,7 +12,7 @@ Samwise
 	Sheath and short sword
 Gandalf
 	Hat and staff
-Ringwraith
+Ringwraith |Trooper|
 	Sheath, sword and battle-axe
 Gollum
 	No accessories

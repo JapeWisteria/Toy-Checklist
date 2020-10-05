@@ -34,13 +34,13 @@ Han Solo (mail-away coin) [Harrison Ford]
 	Heavy blaster pistol
 C-3PO (re-issue coin, Droids coin) [Anthony Daniels]
 	No accessories
-Stormtrooper (re-issue coin)
+Stormtrooper |Trooper| (re-issue coin)
 	Imperial blaster
-Death Squad\Star Destroyer Commander (mail-away coin)
+Death Squad\Star Destroyer Commander |Trooper| (mail-away coin)
 	Imperial blaster
-Jawa (re-issue coin) [Jack Purvis]
+Jawa (re-issue coin) |Trooper| [Jack Purvis]
 	Brown vinyl cape or brown cloth cape, Ion blaster
-Tusken Raider (mail-away coin)
+Tusken Raider |Trooper| (mail-away coin)
 	Gaffi stick, beige vinyl cape
 
 Star Wars Wave 2 1978-79
@@ -57,11 +57,11 @@ Walrus Man [Tommy Ilsley]
 	Imperial blaster
 R5-D4
 	Sticker sheet on body
-Death Star Droid
+Death Star Droid |Trooper|
 	No accessories
 Luke Skywalker (X-Wing Pilot) (re-issue coin) [Mark Hamill]
 	Heavy blaster pistol
-Power Droid
+Power Droid |Trooper|
 	Two sticker sheets on body
 Boba Fett (mail-away coin, Droids coin) [Mark Anthony Austin, Jeremy Bulloch, Temuera Morrison, Jason Wingreen]
 	Imperial blaster
@@ -70,7 +70,7 @@ Empire Strikes Back Wave 1 1980
 ~~~~~~
 Bossk [Alan Harris]
 	Mortar gun
-Bespin Security Guard (mustache)
+Bespin Security Guard |Trooper| (mustache)
 	Bespin blaster
 FX-7 (mail-away coin)
 	No accessories
@@ -86,11 +86,11 @@ Luke Skywalker (Bespin Fatigues) (mail-away coin) [Mark Hamill]
 	Yellow lightsaber, heavy blaster pistol
 Leia Organa (Bespin Gown) [Carrie Fisher]
 	Pink vinyl cape with pattern, Long-barrel blaster pistol
-Rebel Soldier (Hoth Battle Gear)
+Rebel Soldier |Trooper| (Hoth Battle Gear)
 	Bespin blaster
 Yoda (re-issue coin) [Frank Oz]
 	White cloth robe, belt, cane, snake
-Probe Droid (bundled with Turret/Probot playset)
+Probe Droid |Trooper| (bundled with Turret/Probot playset)
 	No accessories
 
 Empire Strikes Back Wave 2 1980
@@ -101,36 +101,36 @@ Han Solo (Bespin Outfit) [Harrison Ford]
 	Bespin blaster
 Lobot [John Hollis]
 	Bespin blaster
-Ugnaught [Jack Purvis]
+Ugnaught |Trooper| [Jack Purvis]
 	Blue apron with ties, repair kit
-AT-AT Driver
+AT-AT Driver |Trooper|
 	Blaster rifle with strap
 Leia Organa (Hoth Outfit) [Carrie Fisher]
 	Long-barrel blaster pistol
-Imperial Commander (mail-away coin)
+Imperial Commander |Trooper| (mail-away coin)
 	Imperial blaster
-Rebel Commander (Hoth)
+Rebel Commander |Trooper| (Hoth)
 	Rebel blaster with strap
 2-1B (mail-away coin)
 	Mouth attachment with hose, medical staff
 
 Empire Strikes Back Wave 3 1980-82
 ~~~~~~
-AT-AT Commander (General Veers) [Julian Glover]
+AT-AT Commander |Trooper| (General Veers) [Julian Glover]
 	Imperial blaster
 Luke Skywalker (Hoth) (mail-away coin) [Mark Hamill]
 	Rebel blaster with strap
 R2-D2 with Sensorscope [Kenny Baker]
 	Sticker sheet on body, sensorscope
-Bespin Security Guard (African-American)
+Bespin Security Guard |Trooper| (African-American)
 	Bespin blaster
-Cloud Car Pilot
+Cloud Car Pilot |Trooper|
 	Comm device, pilot blaster
 Zuckess (4-LOM on original card) (mail-away coin) [Catherine Munroe]
 	Beige leather cloak, chest harness, snare rifle
 C-3PO with removable limbs [Anthony Daniels]
 	Black vinyl backpack, removable arms and legs
-Imperial TIE Fighter Pilot (mail-away coin)
+Imperial TIE Fighter Pilot |Trooper| (mail-away coin)
 	Pilot blaster
 4-LOM (Zuckess on original card) [Chris Parsons]
 	Unique blaster rifle
@@ -145,13 +145,13 @@ Nien Nunb [Richard Bonehill, Mike Quinn, Kipsang Rotich]
 	Pilot blaster
 Bib Fortuna (mail-away coin) [Michael Carter, Erik Bauersfeld]
 	Brown fabric coat, chest armor, staff
-Biker Scout (re-issue coin)
+Biker Scout |Trooper| (re-issue coin)
 	Hold-out blaster pistol
 Chief Chirpa (mail-away coin) [Jane Busby]
 	Staff, hood
-Emperor's Royal Guard (mail-away coin)
+Emperor's Royal Guard |Trooper| (mail-away coin)
 	Red fabric cloak, red fabric apron, vibro-pike
-Gamorrean Guard (re-issue coin)
+Gamorrean Guard |Trooper| (re-issue coin)
 	Axe
 General Madine [Dermot Crowley]
 	Battle staff
@@ -163,7 +163,7 @@ Luke Skywalker (Jedi Knight Outfit) (re-issue coin) [Mark Hamill]
 	Brown cloak with hood (came sewn or with metal fastener), green or blue lightsaber, palace blaster
 Leia Organa (Boushh Disguise) (mail-away coin) [Carrie Fisher]
 	Helmet, electrostaff
-Rebel Commando
+Rebel Commando |Trooper|
 	Rebel commando blaster with strap
 Ree-Yees [Mike Quinn]
 	Blaster staff
@@ -192,9 +192,9 @@ Return of the Jedi Wave 2 1984
 ~~~~~~
 The Emperor (re-issue coin) [Marjorie Eaton, Ian McDiarmid, Clive Revill]
 	Grey cane
-AT-ST Driver (re-issue coin)
+AT-ST Driver |Trooper| (re-issue coin)
 	Pilot blaster
-B-Wing Pilot (re-issue coin)
+B-Wing Pilot |Trooper| (re-issue coin)
 	Pilot blaster
 Han Solo (Trenchcoat) (re-issue coin) [Harrison Ford]
 	Brown fabric camo pattern coat, heavy blaster pistol
@@ -218,13 +218,13 @@ Power of The Force Wave 1 -- 1984
 (all figures come with collector's coin)
 R2-D2 with pop-up lightsaber (coin on card, Droids coin) [Kenny Baker]
 	Green lightsaber
-A-Wing Pilot (coin on card, Droids coin)
+A-Wing Pilot |Trooper| (coin on card, Droids coin)
 	Pilot blaster
 Han Solo in Carbonite Chamber (coin on card) [Harrison Ford]
 	Carbonite chamber
-Imperial Dignatary (coin on card)
+Imperial Dignatary |Trooper| (coin on card)
 	No accessories
-Imperial Gunner (coin on card)
+Imperial Gunner |Trooper| (coin on card)
 	Pilot blaster
 Luke Skywalker in stormtrooper outfit (coin on card) [Mark Hamill]
 	Stormtrooper helmet, Imperial blaster

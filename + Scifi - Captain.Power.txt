@@ -15,9 +15,9 @@ Major Hawk Masterson [Peter MacNeill]
 	Wings, harpoon gun
 Lord Dread [David Hemblen]
 	Purple cape, sword
-Soaron Sky Sentry [Deryck Hazel]
+Soaron Sky Sentry |Trooper| [Deryck Hazel]
 	Wings, energy rifle
-Blastarr Ground Gaurdian [John S. Davies]
+Blastarr Ground Gaurdian |Trooper| [John S. Davies]
 	Rifle with hose
 
 Wave 2 1988

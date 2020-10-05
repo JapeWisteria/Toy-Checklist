@@ -8,7 +8,7 @@ Wave 1
 ~~~~~~
 Flash Gordon
 	White gun
-Lizard Woman
+Lizard Woman |Trooper|
 	White staff
 Ming
 	White gun
@@ -19,7 +19,7 @@ Wave 2
 ~~~~~~
 Dr. Zarkov
 	No accessories
-Beastman
+Beastman |Trooper|
 	No accessories
 
 Wave 3

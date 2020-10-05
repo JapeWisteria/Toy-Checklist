@@ -12,6 +12,7 @@
 		~ TMP
 		~ III
 		~ TNG
+		~ Playmates
 	** G.I. Joe A Real American Hero
 	** ReAction\Super 7
 	** Super Heroes
