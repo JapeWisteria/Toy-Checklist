@@ -68,6 +68,7 @@ Mego
 	The Dukes of Hazzard, 1981.
 	The Greatest American Hero, 1982.
 	The Love Boat, 1981.
+	Micronauts, 1976-1981.
 	Pocket Super Heroes, 1979-80.
 	Star Trek the Motion Picture, 1979-80.
 
@@ -211,6 +212,9 @@ M*A*S*H
 
 Marvel Super Heroes Secret Wars
 	Mattel, 1984-1985.
+
+Micronauts
+	Mego, 1976-1981.
 
 Mork and Mindy
 	Mattel, 1980.

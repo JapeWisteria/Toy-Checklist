@@ -41,6 +41,7 @@
 		~ The Black Hole
 		~ Buck Rogers in the 25th Century
 		~ Captain Power
+		~ Micronauts
 		~ The New Adventures of Flash Gordon
 		~ Toy Island Movie Tie-ins
 		~ Tron
@@ -84,6 +85,7 @@
 -- MOTU/She-Ra Mini-Comics
 -- Amurol Bubble Funnies
 -- Fantasy Book Series
+-- Arcade Cabinets
 
 
 -- Index
@@ -97,4 +99,5 @@
 	-- Links
 	-- Books
 	-- Documentaries
+	-- Physical Stores
 
