@@ -1,5 +1,8 @@
  |Trooper|
- 
+
+
+	Carded: 
+	Battle Gear: 
 
 A
 ******

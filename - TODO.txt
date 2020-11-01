@@ -1,4 +1,6 @@
 
+-- SPELLING! Get grey/gray sorted out
+
 -- Finish GI Joe
 -- Finish Trading cards
 -- Finish Bibliography
@@ -24,7 +26,7 @@
 
 
 
- |Trooper|
+
 -- Voltron??
 
 

@@ -10,7 +10,7 @@ Characters were re-issued often, sometimes with different military specialties, 
 
 All figures were released with a file card, listing their names, specialties and biographies. This is listed as an accessory. Details were often changed based on the country the figure was issued in (Rock 'n Roll's birthplace was changed from Malibu, California to Ottawa, Canada, for instance).
 
-From 1983 to 1987, Hasbro re-issued accessories as "Battle Gear" packs...these typically contained all accessories from the previous year's figures in different coloured plastic. If Battle Gear accessories were issued for a figure, it's listed next to the first release of the figure.
+From 1983 to 1988, Hasbro re-issued accessories as "Battle Gear" packs...these typically contained some accessories from the previous year's figures in different coloured plastic. If Battle Gear accessories were issued for a figure, I list original release accessories as "carded" and re-issues as "Battle Gear". If a carded accessory isn't listed under Battle Gear, it was never re-issued that way.
 
 All figures in the 1982 release were missing the 'battle grip' point of articulation.
 
@@ -20,58 +20,74 @@ Joes
 ******
 Breaker; COMMUNICATIONS OFFICER; v1
 	File card
-	Green helmet, black communications headset, green radio backpack
+	Carded: green helmet, black communications headset, green radio backpack
+	Battle Gear: brown or grey helmet, grey communications headset, tan radio backpack
 Flash; LASER RIFLE TROOPER; v1 
 	File card
-	Dark green helmet, clear visor, dark green power pack, XMLR-1A Laser Rifle
+	Carded: dark green helmet, clear visor, dark green power pack, black XMLR-1A Laser Rifle
+	Battle Gear: brown or grey helmet, clear visor, tan power pack, grey XMLR-1A Laser Rifle
 Grunt; INFANTRY TROOPER; v1 
 	File card
-	Dark green helmet, dark green backpack, M-16 rifle
-Rock n' Roll; MACHINE GUNNER; v1 
+	Carded: dark green helmet, dark green backpack, black M-16 rifle
+	Battle Gear:  brown or grey helmet, tan backpack, grey M-16 rifle
+Rock n' Roll; MACHINE GUNNER; v1
 	File card
-	Dark green helmet, M-60 heavy machine gun, black bipod
+	Carded: dark green helmet, black M-60 heavy machine gun, black bipod
+	Battle Gear: brown or grey helmet, grey M-60 heavy machine gun, grey bipod
 Scarlett; COUNTER INTELLIGENCE; v1 
 	File card
-	Black XK-1 Power Crossbow
-Short-Fuze; MORTAR SOLDIER; v1 
+	Carded: black XK-1 Power Crossbow
+	Battle Gear: grey XK-1 Power Crossbow
+Short-Fuze; MORTAR SOLDIER; v1
 	File card
-	Dark green helmet, clear visor, dark green ammo backpack, black M-1 81mm medium mortar, black mortar stand
+	Carded: dark green helmet, clear visor, dark green ammo backpack, black M-1 81mm medium mortar, black mortar stand
+	Battle Gear: brown or grey helmet, clear visor, tan backpack, light grey M-1 81mm medium mortar, light grey mortar stand
 Snake Eyes; COMMANDO; v1 
 	File card
-	Black Uzi submachine gun, black explosives pack
+	Carded: black Uzi submachine gun, black explosives pack
+	Battle Gear: grey Uzi submachine gun, grey explosives pack
 Stalker; RANGER; v1 
 	File card
-	Black M-32 submachine gun
+	Carded: black M-32 submachine gun
+	Battle Gear: grey M-32 submachine gun
 Zap; BAZOOKA SOLDIER; v1 
 	File card
-	Light green helmet, light green ammo backpack, light green bazooka (3 variations)
+	Carded: light green helmet, light green ammo backpack, light green bazooka (3 variations)
+	Battle Gear: brown or grey helmet, tan ammo backpack, light grey bazooka (1 variations)
 
 Cobra
 ******
 Cobra; THE ENEMY; v1 |Trooper| 
 	File card
-	Black Dragunov sniper rifle
+	Carded: black Dragunov sniper rifle
+	Battle Gear: dark or light blue Dragunov sniper rifle
 Cobra Officer; THE ENEMY; v1 |Trooper| 
 	File card
-	Black AK-47 assault rifle
+	Carded: black AK-47 assault rifle
+	Battle Gear: dark blue or white AK-47 assault rifle
 Cobra Commander (helmet, mail-away); ENEMY LEADER; v1 
 	File card
-	Black venom laser pistol
+	Carded: black venom laser pistol
+	Battle Gear: dark or light blue venom laser pistol
 
 Vehicle Drivers
 ******
 Clutch; VAMP DRIVER; v1 -- VAMP 
 	File card
-	Dark green helmet
+	Carded: dark green helmet
+	Battle Gear: brown or grey helmet
 Grand Slam; LASER ARTILLERY SOLDIER; v1 -- HAL 
 	File card
-	Dark green helmet, clear visor
+	Carded: dark green helmet, clear visor
+	Battle Gear: brown or grey helmet, clear visor
 Hawk; MISSILE COMMANDER; v1 -- MMS 
 	File card
-	Dark green helmet, clear visor
+	Carded: dark green helmet, clear visor
+	Battle Gear: brown or grey helmet, clear visor
 Steeler; TANK COMMANDER; v1 -- MOBAT 
 	File card
-	Light green helmet, black binocular headset, black Uzi submachine gun
+	Carded: light green helmet, black binocular headset, black Uzi submachine gun
+	Battle Gear: brown or grey helmet, grey binocular headset, grey Uzi submachine gun
 
 Wave 2 1983 (31)
 ~~~~~~
@@ -80,96 +96,124 @@ Joes
 ******
 Breaker; COMMUNICATIONS OFFICER; v1.5 -- battle grip re-issue
 	File card
-	Green helmet, black communications headset, green radio backpack
+	Carded: green helmet, black communications headset, green radio backpack
+	Battle Gear: brown or grey helmet, grey communications headset, tan radio backpack
 Flash; LASER RIFLE TROOPER; v1.5 -- battle grip re-issue
 	File card
-	Dark green helmet, clear visor, dark green power pack, XMLR-1A Laser Rifle
+	Carded: dark green helmet, clear visor, dark green power pack, black XMLR-1A Laser Rifle
+	Battle Gear: brown or grey helmet, clear visor, tan power pack, grey XMLR-1A Laser Rifle
 Grunt; INFANTRY TROOPER; v1.5 -- battle grip re-issue
 	File card
-	Dark green helmet, dark green backpack, M-16 rifle
+	Carded: dark green helmet, dark green backpack, black M-16 rifle
+	Battle Gear:  brown or grey helmet, tan backpack, grey M-16 rifle
 Rock n' Roll; MACHINE GUNNER; v1.5 -- battle grip re-issue
 	File card
-	Dark green helmet, M-60 heavy machine gun, black bipod
+	Carded: dark green helmet, black M-60 heavy machine gun, black bipod
+	Battle Gear: brown or grey helmet, grey M-60 heavy machine gun, grey bipod
 Scarlett; COUNTER INTELLIGENCE; v1.5 -- battle grip re-issue
 	File card
-	Black XK-1 Power Crossbow
+	Carded: black XK-1 Power Crossbow
+	Battle Gear: grey XK-1 Power Crossbow
 Short-Fuze; MORTAR SOLDIER; v1.5 -- battle grip re-issue
 	File card
-	Dark green helmet, clear visor, dark green ammo backpack, black M-1 81mm medium mortar, black mortar stand
+	Carded: dark green helmet, clear visor, dark green ammo backpack, black M-1 81mm medium mortar, black mortar stand
+	Battle Gear: brown or grey helmet, clear visor, tan backpack, light grey M-1 81mm medium mortar, light grey mortar stand
 Snake Eyes; COMMANDO; v1.5 -- battle grip re-issue
 	File card
-	Black Uzi submachine gun, black explosives pack
+	Carded: black Uzi submachine gun, black explosives pack
+	Battle Gear: grey Uzi submachine gun, grey explosives pack
 Stalker; RANGER; v1.5 -- battle grip re-issue
 	File card
-	Black M-32 submachine gun
+	Carded: black M-32 submachine gun
+	Battle Gear: grey M-32 submachine gun
 Zap; BAZOOKA SOLDIER; v1.5 -- battle grip re-issue
 	File card
-	Light green helmet, light green ammo backpack, light green bazooka (3 variations)
+	Carded: light green helmet, light green ammo backpack, light green bazooka (3 variations)
+	Battle Gear: brown or grey helmet, tan ammo backpack, light grey bazooka (1 variations)
 Airborne; HELICOPTER ASSAULT TROOPER; v1
 	File card
-	Light green helmet with goggles, tan assault backpack, black XM-16 rifle with bayonet
+	Carded: Light green helmet with goggles, tan assault backpack, black XM-16 rifle with bayonet
+	Battle Gear: green helmet with goggles, brown assault backpack, light grey XM-16 rifle with bayonet
 Doc; MEDIC; v1
 	File card
-	Tan helmet with two flares, black rescue flare launcher, dark gray stretcher
+	Carded: Tan helmet with two flares, black rescue flare launcher, dark gray stretcher
+	Battle Gear: green helmet with two flares, light grey rescue flare launcher
 Gung-Ho; MARINE; v1
 	File card
-	Teal jungle pack, black XM-76 grenade launcher
+	Carded: Teal jungle pack, black XM-76 grenade launcher
+	Battle Gear: brown jungle pack, light grey XM-76 grenade launcher
 Snow Job; ARCTIC TROOPER; v1
 	File card
-	White polar backpack, black XMLR-3A laser rifle, two white skis, and two black ski poles
+	Carded: White polar backpack, black XMLR-3A laser rifle, two white skis, and two black ski poles
+	Battle Gear: light grey XMLR-3A laser rifle
 Torpedo; SEAL; v1
 	File card
-	Gray and orange scuba tank, two gray swim fins, and a black harpoon rifle
+	Carded: Gray and orange scuba tank, two gray swim fins, and a black harpoon rifle
+	Battle Gear: green harpoon rifle
 Trip-Wire; MINE DETECTOR; v1
 	File card
-	Light green mine detector backpack, black minesweeper, three light green land mines
+	Carded: Light green mine detector backpack, black minesweeper, 3 light green land mines
+	Battle Gear: brown mine detector backpack, 3 brown land mines
 
 Cobra
 ******
 Cobra; THE ENEMY; v1.5 -- battle grip re-issue |Trooper|
 	File card
-	Dragunov sniper rifle
+	Carded: black Dragunov sniper rifle
+	Battle Gear: dark or light blue Dragunov sniper rifle
 Cobra Officer; THE ENEMY; v1.5 -- battle grip re-issue |Trooper|
 	File card
-	AK-47 assault rifle
+	Carded: black AK-47 assault rifle
+	Battle Gear: dark blue or white AK-47 assault rifle
 Cobra Commander (helmet); ENEMY LEADER; v1.5 -- battle grip re-issue
 	File card
-	Black venom laser pistol
+	Carded: black venom laser pistol
+	Battle Gear: dark or light blue venom laser pistol
 Destro; ENEMY WEAPONS SUPPLIER; v1
 	File card
-	Black high-density laser gun, black armed attache case
+	Carded: Black high-density laser gun, black armed attache case
+	Battle Gear: dark blue or white high-density laser gun, dark blue armed attache case
 Major Bludd; MERCENARY; v1
 	File card
-	Black missile backpack, black rocket launcher
+	Carded: Black missile backpack, black rocket launcher
+	Battle Gear: dark or light blue rocket launcher
 
 Vehicle Drivers Joes
 ******
 Clutch; VAMP DRIVER; v1.5 -- VAMP; battle grip re-issue
 	File card
-	Dark green helmet
+	Carded: dark green helmet
+	Battle Gear: brown or grey helmet
 Grand Slam; LASER ARTILLERY SOLDIER; v1.5 -- HAL; battle grip re-issue
 	File card
-	Dark green helmet, clear visor
+	Carded: dark green helmet, clear visor
+	Battle Gear: brown or grey helmet, clear visor
 Hawk; MISSILE COMMANDER; v1.5 -- MMS; battle grip re-issue
 	File card
-	Dark green helmet, clear visor
+	Carded: dark green helmet, clear visor
+	Battle Gear: brown or grey helmet, clear visor
 Steeler; TANK COMMANDER; v1.5 -- MOBAT; battle grip re-issue
 	File card
-	Light green helmet, black binocular headset, black Uzi submachine gun
+	Carded: light green helmet, black binocular headset, black Uzi submachine gun
+	Battle Gear: brown or grey helmet, grey binocular headset, grey Uzi submachine gun
 Ace; FIGHTER PILOT; v1 -- Sky-Striker
 	File card
-	Flight helmet 
+	Carded: Flight helmet 
+	Battle Gear: None
 Cover Girl; WOLVERINE DRIVER; v1 -- Wolverine
 	File card
 	No accessories
 Grand Slam; LASER JET PACK SOLDIER; v2 -- JUMP Jet Pack
 	File card
-	Dark gray helmet, clear visor
+	Carded: Dark gray helmet, clear visor
+	Battle Gear: brown or grey helmet, clear visor
 Grunt; FALCON PILOT; v2 -- Falcon Attack Glider
 	File card
-	Tan helmet
+	Carded: Tan helmet
+	Battle Gear: brown or grey helmet
 Wild Bill; HELICOPTER PILOT; v1 -- Dragonfly
 	File card
+	No accessories
 
 Vehicle Drivers Cobra
 ******
@@ -187,58 +231,73 @@ Joes
 ******
 Blowtorch; FLAMETHROWER; v1
 	File card
-	Yellow helmet, yellow oxygen mask, yellow M-7 manpack, light green flamethrower
+	Carded: Yellow helmet, yellow oxygen mask, yellow M-7 manpack, light green flamethrower
+	Battle Gear: grey helmet, tan M-7 manpack, green flamethrower
 Duke; FIRST SERGEANT; v1
 	File card
-	Light green helmet, light green M-32 submachine gun, black binoculars, tan assault backpack, US flag sticker (mail-in version only)
+	Carded: Light green helmet, light green M-32 submachine gun, black binoculars, tan assault backpack, US flag sticker (mail-in version only)
+	Battle Gear: brown or grey helmet, grey M-32 submachine gun, grey binoculars, brown assault backpack
 Mutt & Junkyard; DOG HANDLER (K-9); v1
 	File card
-	Black helmet, black face mask, black Ingram Mac-11, black night stick, black leash, Junkyard
+	Carded: Black helmet, black face mask, black Ingram Mac-11, black night stick, black leash, Junkyard
+	Battle Gear: grey helmet, green Ingram Mac-11
 Recondo; JUNGLE TROOPER; v1
 	File card
-	Green cross country backpack, green M-14E2X rifle
+	Carded: Green cross country backpack, green M-14E2X rifle
+	Battle Gear: tan cross country backpack, tan M-14E2X rifle
 Rip Cord; HALO JUMPER; v1
 	File card
-	Black helmet, black oxygen mask, light green parachute pack, light green SLR-W1L1 rifle
+	Carded: Black helmet, black oxygen mask, light green parachute pack, light green SLR-W1L1 rifle
+	Battle Gear: grey helmet, green SLR-W1L1 rifle
 Roadblock; HEAVY MACHINE GUNNER; v1
 	File card
-	Light green helmet, brown backpack, brown ammo box, light green M-2X machine gun, light green tripod
+	Carded: Light green helmet, brown backpack, brown ammo box, light green M-2X machine gun, light green tripod
+	Battle Gear: tan backpack, tan ammo box
 Spirit; TRACKER; v1
 	File card
-	Brown and red belt, light green arrow cassette backpack, light green auto-arrow launcher, Freedom
+	Carded: Brown and red belt, light green arrow cassette backpack, light green auto-arrow launcher, Freedom
+	Battle Gear: tan arrow cassette backpack, tan auto-arrow launcher
 
 Cobra
 ******
 Baroness; COBRA INTELLIGENCE OFFICER; v1
 	File card
-	Black high-density laser rifle, black backpack
+	Carded: Black high-density laser rifle, black backpack
+	Battle Gear: red or white high-density laser rifle, red backpack
 Firefly; COBRA SABOTEUR; v1
 	File card
-	Gray demolition backpack, gray backpack cover, light green submachine gun, light green walkie-talkie
+	Carded: Gray demolition backpack, gray backpack cover, light green submachine gun, light green walkie-talkie
+	Battle Gear: red or white submachine gun, red or white walkie-talkie
 Scrap Iron; COBRA ANTI-ARMOR SPECIALIST; v1
 	File card
-	Missile launcher top, missile launcher bottom, 2 missile system legs, missile system base, remote activator, 2 red missiles, black RAR pistol
+	Carded: black missile launcher top, black missile launcher bottom, 2 black missile system legs, black missile system base, black remote activator, 2 red missiles, black RAR pistol
+	Battle Gear: red missile launcher top, red missile launcher bottom, 2 red missile system legs, red missile system base, dark blue remote activator, 2 dark blue missiles, red or white RAR pistol
 Storm Shadow; COBRA NINJA; v1
 	File card
-	Black quiver backpack, black long bow, two black samurai swords, black nunchuku
+	Carded: Black quiver backpack, black long bow, two black samurai swords, black nunchuku
+	Battle Gear: none
 Cobra Commander; ENEMY LEADER; v2 (hooded, mail-away)
 	File card
-	Black venom laser pistol
+	Carded: Black venom laser pistol
+	Battle Gear: dark or light blue venom laser pistol
 
 Vehicle Drivers Joes
 ******
 Clutch; VAMP MARK II DRIVER; v2 -- VAMP MK II
 	File card
-	Tan helmet
+	Carded: Tan helmet
+	Battle Gear: brown or grey helmet
 Cutter; HOVERCRAFT PILOT; v1 -- WHALE Hovercraft
 	File card
 	No accessories
 Deep Six; S.H.A.R.C. DIVER; v1 -- SHARC
 	File card
-	Black bellows, black one-way valve, black connector, clear tubing, black string, bellows instructions
+	Carded: Black bellows, black one-way valve, black connector, clear tubing, black string, bellows instructions
+	Battle Gear: none
 Thunder; SELF-PROPELLED GUN ARTILLERYMAN; v1 -- Slugger self-propelled cannon
 	File card
-	Light green helmet, green radio headset, black visor, black monocular
+	Carded: Light green helmet, green radio headset, black visor, black monocular
+	Battle Gear: green monocular
 
 Vehicle Drivers Cobra
 ******
@@ -253,7 +312,8 @@ Wild Weasel; COBRA RATTLER PILOT; v1 -- Cobra Rattler
 	No accessories
 Zartan; MASTER OF DISGUISE; v1 -- Chameleon Swamp Skier
 	File card
-	Black pistol, chest shield, two knee pads, face mask, black backpack, heat sensitive sticker sheet
+	Carded: Black pistol, chest shield, two knee pads, face mask, black backpack, heat sensitive sticker sheet
+	Battle Gear: green pistol
 
 Wave 4 1985 (27)
 ~~~~~~
@@ -280,7 +340,8 @@ Flint; WARRANT OFFICER; v1
 	Green backpack, green shotgun I-12 short barrel
 Footloose; INFANTRY TROOPER; v1
 	File card
-	Green PASGT helmet, tan backpack, black M-16 rifle with shoulder strap, black M73-A1 LAWS rocket launcher with shoulder strap
+	Carded: Green PASGT helmet, tan backpack, black M-16 rifle with shoulder strap, black M73-A1 LAWS rocket launcher with shoulder strap
+	Battle Gear: brown PASGT helmet
 Lady Jaye; COVERT OPERATIONS; v1
 	File card
 	Green backpack, gray power javelin, green surveillance camera
@@ -298,28 +359,35 @@ Cobra
 ******
 Crimson Guard; COBRA ELITE TROOPER; v1 |Trooper|
 	File card
-	Red dress backpack, black AK48A rifle with bayonet
+	Carded: Red dress backpack, black AK48A rifle with bayonet
+	Battle Gear: dark blue dress backpack, light blue AK48A rifle with bayonet
 Cobra Eels; COBRA FROGMAN; v1 |Trooper|
 	File card
-	Black air hose, 2 black flippers, black air tank backpack, black jet pack, black JLS double harpoon
+	Carded: Black air hose, 2 black flippers, black air tank backpack, black jet pack, black JLS double harpoon
+	Battle Gear: Black air hose, 2 blue flippers, blue air tank backpack, blue jet pack, blue JLS double harpoon
 Snow Serpent; COBRA POLAR ASSAULT; v1 |Trooper|
 	File card
-	White survival backpack, blue parachute pack, 2 white snow shoes, gray AK-47 rifle, gray anti-tank EK99 missile, gray missile stand
+	Carded: White survival backpack, blue parachute pack, 2 white snow shoes, gray AK-47 rifle, gray anti-tank EK99 missile, gray missile stand
+	Battle Gear: blue survival backpack, 2 blue snow shoes, brown anti-tank EK99 missile, brown missile stand
 Tele-Vipers; COBRA COMMUNICATIONS; v1 |Trooper|
 	File card
-	Black VS-11 Scanner, black Communipac backpack, black hose
+	Carded: Black VS-11 Scanner, black Communipac backpack, black hose
+	Battle Gear: brown VS-11 Scanner, blue Communipac backpack, black hose
 Tomax; CRIMSON GUARD COMMANDER; v1
 	File card
-	Black laser pistol, gray sky hook and string (shared with Xamot)
+	Carded: Black laser pistol, gray sky hook and string (shared with Xamot)
+	Battle Gear: 
 Xamot; CRIMSON GUARD COMMANDER; v1
 	File card
-	Black laser pistol, gray sky hook and string (shared with Tomax)
+	Carded: Black laser pistol, gray sky hook and string (shared with Tomax)
+	Battle Gear: 
 
 Dreadnoks
 ******
 Buzzer; DREADNOK; v1 -- Dreadnok
 	File card
-	Silver backpack frame, silver gas can, silver diamond toothed chain saw, silver nunchuka axe
+	Carded: Silver backpack frame, silver gas can, silver diamond toothed chain saw, silver nunchuka axe
+	Battle Gear: blue diamond toothed chain saw, blue nunchuka axe
 Ripper; DREADNOK; v1 -- Dreadnok
 	File card
 	Silver power pack, silver power jaws, silver assault rifle bayonet, black hydraulic hose
@@ -331,7 +399,8 @@ Vehicle Drivers Joes
 ******
 Crankcase; A.W.E. STRIKER DRIVER; v1 -- AWE Striker
 	File card
-	Gray helmet, black rifle
+	Carded: Gray helmet, black rifle
+	Battle Gear: brown helmet
 Frostbite; SNOW CAT DRIVER; v1 -- Snow Cat
 	File card
 	Black M-16 with scope
@@ -351,9 +420,10 @@ Lampreys; COBRA HYDROFOIL PILOT; v1 -- Cobra Moray Hydrofoil |Trooper|
 	File card
 	Silver submachine gun with strap
 
-Listen n Fun Tripwire; MINE DETECTOR; v2
+Listen n Fun Trip-wire; MINE DETECTOR; v2
 	File card
-	Gray mine detector, 3 gray mines, gray mine detector backpack, cassette tape
+	Carded: Gray mine detector, 3 gray mines, gray mine detector backpack, cassette tape
+	Battle Gear: brown mine detector backpack, 3 brown land mines
 
 Wave 5 1986 (32)
 ~~~~~~
@@ -362,28 +432,35 @@ Joes
 ******
 Beach Head; RANGER; v1
 	File card
-	Gray 9mm XF-7 Wasp submachine gun, large black utility backpack, black ammo case
+	Carded: Gray 9mm XF-7 Wasp submachine gun, large black utility backpack, black ammo case
+	Battle Gear: dark grey 9mm XF-7 Wasp submachine gun, large cream utility backpack, cream ammo case
 Dial-Tone; COMMUNICATIONS; v1
 	File card
 	Light gray 9mm parabellum submachine pistol, light gray anti-scrambler communications backpack with rotating microphone
 Gen Hawk; G.I. JOE COMMANDER; v2
 	File card
-	Green helmet, green fieldpack, black pistol, gold submachine gun (mail-away only)
+	Carded: Green helmet, green fieldpack, black pistol, gold submachine gun (mail-away only)
+	Battle Gear: brown helmet
 Iceberg; SNOW TROOPER; v1
 	File card
-	White rifle
+	Carded: White rifle
+	Battle Gear: dark grey rifle
 Leatherneck; MARINE; v1
 	File card
-	Gray rifle, green backpack
+	Carded: Gray rifle, green backpack
+	Battle Gear: brown rifle
 Lifeline; RESCUE TROOPER; v1
 	File card
-	Silver handgun, silver backpack, white medical case, black airmask
+	Carded: Silver handgun, silver backpack, white medical case, black airmask
+	Battle Gear: dark grey handgun, brown backpack
 Low-Light; NIGHT SPOTTER; v1
 	File card
-	Black sniper rifle, black bipod, black uzi, black backpack
+	Carded: Black sniper rifle, black bipod, black uzi, black backpack
+	Battle Gear: brown sniper rifle, brown bipod, dark grey uzi, dark grey backpack
 Mainframe; COMPUTER SPECIALIST; v1
 	File card
-	Black telephone, gray backpack, gray handheld computer, black hose
+	Carded: Black telephone, gray backpack, gray handheld computer, black hose
+	Battle Gear: dark gray backpack, dark gray handheld computer
 Roadblock; HEAVY MACHINE GUNNER; v2
 	File card
 	Silver L7A21 GPMG heavy machine gun, silver tripod
@@ -395,7 +472,8 @@ Sgt. Slaughter (USA shirt, mail-away version); DRILL INSTRUCTOR; v1
 	Brown baton
 Wet-Suit; SEAL; v1
 	File card
-	Black mouthpiece with hoses, orange scuba tanks, 2 black flippers, orange underwater sea sled, orange underwater searchlight
+	Carded: Black mouthpiece with hoses, orange scuba tanks, 2 black flippers, orange underwater sea sled, orange underwater searchlight
+	Battle Gear: cream underwater searchlight
 
 Cobra
 ******
@@ -404,22 +482,27 @@ B.A.T.S.; COBRA ANDROID TROOPER; v1 |Trooper|
 	Black backpack, silver hand, silver gripper attachment, silver laser attachment, silver torch attachment, lenticular chest piece
 Dr. Mindbender; MASTER OF MIND CONTROL; v1
 	File card
-	Black fabric cape with painted silver Cobra logo, gray .45 caliber pistol, silver electric prod, black generator, black hose
+	Carded: Black fabric cape with painted silver Cobra logo, gray .45 caliber pistol, silver electric prod, black generator, black hose
+	Battle Gear: dark gray .45 caliber pistol, brown electric prod, silver generator, black hose
 Vipers; COBRA INFANTRY; v1 |Trooper|
 	File card
-	Black fieldpack, light gray RDT 7 rifle
+	Carded: Black fieldpack, light gray RDT 7 rifle
+	Battle Gear: dark gray RDT 7 rifle
 
 Dreadnoks
 ******
 Monkeywrench; DREADNOK; v1 -- Dreadnok
 	File card
-	Gray harpoon gun
+	Carded: Gray harpoon gun
+	Battle Gear: brown harpoon gun
 Zandar; ZARTAN'S BROTHER; v1 -- Dreadnok
 	File card
-	Black rifle, blue backpack
+	Carded: Black rifle, blue backpack
+	Battle Gear: brown rifle
 Zarana; ZARTAN'S SISTER; v1 -- Dreadnok
 	File card
-	Black "razor honed spur cutting weapon", red backpack
+	Carded: Black "razor honed spur cutting weapon", red backpack
+	Battle Gear: silver "razor honed spur cutting weapon", silver backpack
 
 Special Mission: Brazil
 ******
@@ -520,7 +603,8 @@ Big Boa; COBRA TRAINER; v1
 	Silver mouthpiece, 2 red flexsteel-mesh boxing gloves, brown punching bag, black punching bag stand
 Cobra Commander (battle armor); WITH BATTLE ARMOR; v3
 	File card
-	Black mouthpiece, silver life support backpack, black auto-assault pistol
+	Carded: Black mouthpiece, silver life support backpack, black auto-assault pistol
+	Battle Gear: silver auto-assault pistol
 Croc Master; COBRA REPTILE TRAINER; v1
 	File card
 	Green crocodile, tan whip, black leash, black breather hose

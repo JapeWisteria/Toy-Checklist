@@ -274,104 +274,104 @@ All "army builder" figures are listed here.
 
 G.I. Joe
 ~~~~~~
-Action Marine 1994 |Trooper|
-Action Pilot 1994 |Trooper|
-Action Pilot 1994 |Trooper|
-Action Pilot Astronaut 1994 |Trooper|
-Action Sailor 1994 |Trooper|
-Action Sailor 1994 |Trooper|
-Action Soldier 1994 |Trooper|
-Fighter Pilot 1994 |Trooper|
-Steel Brigade 1987, 1992 |Trooper|
+Action Marine 1994
+Action Pilot 1994
+Action Pilot 1994
+Action Pilot Astronaut 1994
+Action Sailor 1994
+Action Sailor 1994
+Action Soldier 1994
+Fighter Pilot 1994
+Steel Brigade 1987, 1992
 
 
 Cobra
 ~~~~~~
 This has all enemy factions, including Cobra-La and Star Brigade aliens.
 
-Aero-Viper 1989 |Trooper|
-Alley Viper 1989, 1993, 1994 |Trooper|
-Annihilator 1989 |Trooper|
+Aero-Viper 1989
+Alley Viper 1989, 1993, 1994
+Annihilator 1989
 Astro Viper 1988, 1993
-AVAC 1986 |Trooper|
+AVAC 1986
 
-B.A.T.S. 1986, 1991 |Trooper|
-Bio-Vipers 1993 |Trooper|
+B.A.T.S. 1986, 1991
+Bio-Vipers 1993
 
-Cobra 1982, 1983 |Trooper|
-Cobra Air Devil 1992 |Trooper|
-Cobra B.A.A.T. 1993 |Trooper|
+Cobra 1982, 1983
+Cobra Air Devil 1992
+Cobra B.A.A.T. 1993
 Cobra Eels 1985, 1992, 1993
-Cobra HISS Driver 1983 |Trooper|
-Cobra Ninja Viper 1992 |Trooper|
-Cobra Officer 1982, 1983 |Trooper|
-Cobra Stinger Driver 1984 |Trooper|
-Create-a-Cobra 1993 |Trooper|
+Cobra HISS Driver 1983
+Cobra Ninja Viper 1992
+Cobra Officer 1982, 1983
+Cobra Stinger Driver 1984
+Create-a-Cobra 1993
 Crimson Guard 1985, 1989
-Crimson Guard Commander 1993 |Trooper|
-Crimson Guard Immortal 1991 |Trooper|
-Cyber-Vipers 1993 |Trooper|
+Crimson Guard Commander 1993
+Crimson Guard Immortal 1991
+Cyber-Vipers 1993
 
-Decimator 1990 |Trooper|
-Desert Scorpion 1991 |Trooper|
+Decimator 1990
+Desert Scorpion 1991
 
-Ferret 1988 |Trooper|
-Flak-Viper 1992, 1993 |Trooper|
-Frag-Viper 1989 |Trooper|
+Ferret 1988
+Flak-Viper 1992, 1993
+Frag-Viper 1989
 
-Gyro-Viper 1987 |Trooper|
+Gyro-Viper 1987
 
-H.E.A.T. Viper 1989, 1993 |Trooper|
-Headhunters 1992, 1993 |Trooper|
-Headhunter Stormtroopers 1993 |Trooper|
-Heli-Vipers 1992 |Trooper|
-Hydro-Viper 1988 |Trooper|
+H.E.A.T. Viper 1989, 1993
+Headhunters 1992, 1993
+Headhunter Stormtroopers 1993
+Heli-Vipers 1992
+Hydro-Viper 1988
 
-Ice Viper 1987 |Trooper|
-Incinerators 1991 |Trooper|
-Iron Grenadiers 1988 |Trooper|
+Ice Viper 1987
+Incinerators 1991
+Iron Grenadiers 1988
 
-Lampreys 1985, 1990 |Trooper|
-Laser-Viper 1990 |Trooper|
+Lampreys 1985, 1990
+Laser-Viper 1990
 
-Mega-Vipers 1993 |Trooper|
-Monstro-Vipers 1993 |Trooper|
-Motor Viper 1986 |Trooper|
+Mega-Vipers 1993
+Monstro-Vipers 1993
+Motor Viper 1986
 
-Night Creeper 1990, 1993, 1994 |Trooper|
-Night-Viper 1989 |Trooper|
-Night Vulture 1991 |Trooper|
-Nitro-Viper 1993 |Trooper|
-Nullifier 1988 |Trooper|
+Night Creeper 1990, 1993, 1994
+Night-Viper 1989
+Night Vulture 1991
+Nitro-Viper 1993
+Nullifier 1988
 
-Python Officer 1989 |Trooper|
-Python Trooper 1989 |Trooper|
+Python Officer 1989
+Python Trooper 1989
 
-Range-Viper 1990 |Trooper|
-Red Ninjas 1993 |Trooper|
-Rock-Viper 1990 |Trooper|
-Royal Guard 1987 |Trooper|
+Range-Viper 1990
+Red Ninjas 1993
+Rock-Viper 1990
+Royal Guard 1987
 
-S.A.W.-Viper 1990 |Trooper|
-Sea Slug 1987 |Trooper|
-Secto-Viper 1988 |Trooper|
-Sludge Viper 1991 |Trooper|
+S.A.W.-Viper 1990
+Sea Slug 1987
+Secto-Viper 1988
+Sludge Viper 1991
 Snow Serpent 1985, 1991, 1993
-Star-Viper 1988 |Trooper|
-Strato-Viper 1986 |Trooper|
+Star-Viper 1988
+Strato-Viper 1986
 
-T.A.R.G.A.T. 1989, 1993 |Trooper|
-Techno-Viper 1987, 1994 |Trooper|
+T.A.R.G.A.T. 1989, 1993
+Techno-Viper 1987, 1994
 Tele-Vipers 1985, 1989
 Toxo-Viper 1988, 1991
-Toxo-Zombie 1992 |Trooper|
-Track Viper 1989 |Trooper|
+Toxo-Zombie 1992
+Track Viper 1989
 
-Undertow 1990 |Trooper|
+Undertow 1990
 
-Viper Pilot 1983 |Trooper|
+Viper Pilot 1983
 Vipers 1986, 1989, 1990, 1994
 
-Wild Boar 1989 |Trooper|
-W.O.R.M.S. 1987 |Trooper|
+Wild Boar 1989
+W.O.R.M.S. 1987
 
