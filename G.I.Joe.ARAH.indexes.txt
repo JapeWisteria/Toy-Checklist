@@ -4,7 +4,9 @@ Characters
 =====
 Individual characters are listed alphabetically by codename. The year of release is listed afterwards. If the figure was released multiple times in the same year, the year is repeated.
 
-G.I. Joe
+Storm Shadow is listed under both G.I. Joe and Cobra. He is the only character to switch sides and join the Joes.
+
+G.I. Joe (166)
 ~~~~~~
 Ace -- 1983, 1992, 1993
 Airborne -- 1983, 1990
@@ -77,7 +79,7 @@ Frostbite -- 1985, 1988, 1993
 
 G.I. Joe -- 1994
 Gears -- 1994
-General Flagg -- 1993
+General Flagg -- 1992, 1993
 Ghostrider -- 1988
 Grand Slam -- 1982, 1983, 1983
 Grunt -- 1982, 1983, 1983, 1991
@@ -196,7 +198,7 @@ Windmill -- 1988, 1989
 Zap -- 1982, 1983, 1991
 
 
-Cobra
+Cobra (48)
 ~~~~~~
 This has all enemy factions, including Cobra-La and Star Brigade aliens.
 
@@ -272,7 +274,7 @@ Troop Builders
 =====
 All "army builder" figures are listed here.
 
-G.I. Joe
+G.I. Joe (9)
 ~~~~~~
 Action Marine 1994
 Action Pilot 1994
@@ -285,7 +287,7 @@ Fighter Pilot 1994
 Steel Brigade 1987, 1992
 
 
-Cobra
+Cobra (68)
 ~~~~~~
 This has all enemy factions, including Cobra-La and Star Brigade aliens.
 
