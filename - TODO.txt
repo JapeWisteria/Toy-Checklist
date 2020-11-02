@@ -1,13 +1,11 @@
 
--- SPELLING! Get grey/gray sorted out
+-- SPELLING! Get grey/gray sorted out: Canadian is grey
 
--- Finish GI Joe
 -- Finish Trading cards
 -- Finish Bibliography
 -- Finish Index
 -- Finish Star Trek Playmates
 
--- Add Micronauts
 -- Add LJN ET figures
 -- Add Terminator Salvation from Playmates
 -- Add Eagle Force from Mego
