@@ -6,7 +6,7 @@ Individual characters are listed alphabetically by codename. The year of release
 
 Storm Shadow is listed under both G.I. Joe and Cobra. He is the only character to switch sides and join the Joes.
 
-G.I. Joe (166)
+G.I. Joe (166 characters, 331 figures)
 ~~~~~~
 Ace -- 1983, 1992, 1993
 Airborne -- 1983, 1990
@@ -198,7 +198,7 @@ Windmill -- 1988, 1989
 Zap -- 1982, 1983, 1991
 
 
-Cobra (48)
+Cobra (48 characters, 71 figures)
 ~~~~~~
 This has all enemy factions, including Cobra-La and Star Brigade aliens.
 
