@@ -86,6 +86,9 @@ Neca
 Panosh Place
 	Voltron, 1985.
 
+Playmates
+	Star Trek, 1993.
+
 Popy
 	Battle of the Planets, 1979.
 
@@ -246,6 +249,9 @@ The Six Million Dollar Man
 
 Space Precinct
 	Vivid Imaginations, 1994.
+
+Star Trek
+	Playmates, 1993.
 
 Star Trek the Motion Picture
 	Mego, 1979-80.
