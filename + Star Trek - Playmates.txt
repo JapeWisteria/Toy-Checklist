@@ -23,8 +23,8 @@ The Next Generation: Series 1 (11)
 Captain Jean-Luc Picard (open jacket) [Patrick Stewart]
 Commander Riker (torn uniform) [Jonathan Frakes]
 Lt. Commander Data [Brent Spiner]
-Lt. Cmdr. Geordi LaForge (non-removable VISOR) [LeVar Burton]
-Lt. Cmdr. Geordi LaForge (removable VISOR) [LeVar Burton]
+Lt. Cmdr. Geordi La Forge (non-removable VISOR) [LeVar Burton]
+Lt. Cmdr. Geordi La Forge (removable VISOR) [LeVar Burton]
 Lt. Worf [Michael Dorn]
 Counselor Deanna Troi (lavender outfit) [Marina Sirtis]
 Gowron (3 different paint variations) [Robert O'Reilly]
@@ -45,7 +45,7 @@ Cadet Wesley Crusher [Wil Wheaton]
 Locutus of Borg [Patrick Stewart] (E: The Best of Both Worlds TNG 3/26 4/1)
 Klingon Warrior Worf [Michael Dorn]
 Ambassador Spock [Leonard Nimoy]
-Lt. Commander LaForge in Dress Uniform [LeVar Burton]
+Lt. Commander La Forge in Dress Uniform [LeVar Burton]
 Admiral McCoy (E: Encounter at Farpoint TNG 1/1) [DeForest Kelley]
 Captain Scott (E: Relics TNG 6/5) [James Doohan]
 Mordock the Benzite [John Putch]
@@ -58,7 +58,7 @@ Captain Jean-Luc Picard, Season One [Patrick Stewart]
 Lt. Commander Data in First Season Uniform [Brent Spiner]
 Commander Riker in S1 Uniform (same as 1992 figure with uniform rips painted over) [Jonathan Frakes]
 Lt. (JG) Worf in 1st Season Uniform [Michael Dorn]
-Lt. (JG) LaForge in 1st Season Uniform [LeVar Burton]
+Lt. (JG) La Forge in 1st Season Uniform [LeVar Burton]
 Deanna Troi, Season 2 red Outfit [Marina Sirtis]
 Borg, Ver. 2 with chrome arm |Trooper|
 
@@ -110,7 +110,7 @@ Commander Riker in Generations [Jonathan Frakes]
 Lt. Commander Data in Generations [Brent Spiner]
 Commander Troi in Generations [Marina Sirtis]
 Lt. Commander Worf in Generations [Michael Dorn]
-Lt. Commander Geordi LaForge in Generations [LeVar Burton]
+Lt. Commander Geordi La Forge in Generations [LeVar Burton]
 Dr. Soran [Malcolm McDowell]
 Dr. Crusher in Generations [Gates McFadden]
 Guinan [Whoopi Goldberg]
@@ -225,7 +225,7 @@ Starfleet Academy (4)
 ******
 Cadet Jean Luc Picard [Patrick Stewart]
 Cadet William Riker [Jonathan Frakes]
-Cadet LaForge [LeVar Burton]
+Cadet La Forge [LeVar Burton]
 Cadet Worf [Michael Dorn]
 
 Voyager : Series 2 (6)
@@ -315,7 +315,7 @@ Transporting Picard [Patrick Stewart]
 Transporting Data [Brent Spiner]
 Transporting Worf [Michael Dorn]
 Transporting Riker [Jonathan Frakes]
-Transporting Geordi LaForge [LeVar Burton]
+Transporting Geordi La Forge [LeVar Burton]
 
 
 Exclusives and Mail-Aways, all years
