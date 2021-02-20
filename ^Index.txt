@@ -126,6 +126,9 @@ Vivid Imaginations
 Vivid Toy Group
 	Thunderbirds are Go!, 2014.
 
+Warpo
+	Legends of Cthulhu, 2015.
+
 Zica
 	The Six Million Dollar Man, 2013.
 
@@ -209,6 +212,9 @@ It! The Terror from Beyond Space
 
 The Legend of the Lone Ranger
 	Gabriel, 1982.
+
+Legends of Cthulhu
+	Warpo, 2015.
 
 Lord of the Rings
 	Knickerbocker, 1979.

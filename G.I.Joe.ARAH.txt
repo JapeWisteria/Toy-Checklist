@@ -1,6 +1,6 @@
 G.I. Joe A Real American Hero
 Hasbro. 1982-94. 1:18 Scale (3.75").
-Waves: 13. Figures: 519.
+Waves: 13. Figures: 525.
 -----------------------------------------------
 Almost all figures have o-ring construction, with a few exceptions. Several figures have action features.
 
@@ -557,7 +557,7 @@ Thrasher; Dreadnok Thunder Machine Driver; v1 -- Dreadnok; Dreadnok Thunder Mach
 	File card
 	Black lacrosse stick
 
-Wave 6 1987 (42)
+Wave 6 1987 (48)
 ~~~~~~
 
 Joes
@@ -705,13 +705,21 @@ Maverick; Jet Fighter Pilot; v1 -- Battle Force 2000; Jet Fighter
 The Fridge; Physical Training Instructor; v1 (mail-away)
 	File card
 	Black football flail
-Starduster; Jet Pack Trooper; v1,1A,1B,1C (mail-away)
-	There are 4 mold and paint variations for this figure.
+Starduster; Jet Pack Trooper; v1A,1B,1C (mail-away)
+	There are 3 mold and paint variations for this figure. Starduster was a mail-away between 1987-1989; all variations are listed here.
 	File card
-	Silver grenade launcher, light blue helmet, black visor, green jetpack
+	Version A: Recondo torso, Roadblock legs, Recondo waist, Flint arms
+	Version B: Duke torso, Roadblock legs, Recondo waist, Flint arms
+	Version C: Duke torso, Roadblock legs, Iceberg waist, Flint arms
+	Silver grenade launcher, light blue helmet, black visor, green jetpack (v1A, v1B only)
 Steel Brigade; v1(A-E) (mail-away)
 	This figure didn't come with a pre-written file card...children were allowed to write their own to become a 'member' of G.I. Joe. There are 5 mold variations for this figure.
-	Grey rifle, green backpack, Steel Brigade iron-on patch
+	Version A: Airborne torso, Scrap-Iron legs, Gung-Ho waist, Flash arms
+	Version B: Duke torso, Scrap-Iron legs, Gung-Ho waist, Flash arms
+	Version C: Duke torso, Airborne legs, Gung-Ho waist, Flash arms
+	Version D: Duke torso, Airborne legs, Cobra Soldier waist, Flash arms
+	Version E: Duke torso, Scrap Iron legs, Cobra Soldier waist, Flash arms
+	Grey rifle (Airborne v1A, Crimson Guard v1B, v1C, Recoil v1D, v1E), green backpack, Steel Brigade iron-on patch
 
 Wave 7 1988 (45)
 ~~~~~~
@@ -1471,8 +1479,10 @@ Cobra Air Devil; Acrobatic Aerial Assault Trooper; v1 |Trooper|
 Mail-Aways
 ******
 Steel Brigade v2
+	This figure didn't come with a pre-written file card...children were allowed to write their own to become a 'member' of G.I. Joe. This version is identical to Steel Brigade v1E, but with different colours on the plastic.
+	Version E: Duke torso, Scrap Iron legs, Cobra Soldier waist, Flash arms
 	File card
-	Dark grey rifle, dark green backpack, special Steel Brigade patch
+	Dark grey rifle (Recoil), dark green backpack, special Steel Brigade patch
 
 Cobra Ninja Viper v1
 	File card
