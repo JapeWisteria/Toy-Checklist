@@ -9,6 +9,7 @@
 -- Add LJN ET figures
 -- Add Eagle Force from Mego
 -- Add Hasbro 3.75 Marvel lines
+-- Add Zee Toys Metal Man
 -- Add Dapol Doctor Who
 -- Maybe: Character Options Doctor Who
 
