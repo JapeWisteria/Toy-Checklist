@@ -10,6 +10,9 @@ Bandai
 Burger King
 	Burger King Universal Monsters, 1997.
 
+Dapol
+	Doctor Who, 1988-2002.
+
 Ertl
 	Star Trek III, 1984.
 
@@ -185,6 +188,9 @@ The Day the Earth Stood Still
 
 DC Comics Super Heroes
 	Toy Biz, 1989-1991.
+
+Doctor Who
+	Dapol, 1988-2002.
 
 The Dukes of Hazzard
 	Mego, 1981.
@@ -376,6 +382,8 @@ Marc Alaimo
 	Gul Dukat. Star Trek, Playmates.
 Alan Alda
 	Hawkeye. M*A*S*H, Tri-Star.
+Sophie Aldred
+	Ace. Doctor Who, Dapol.
 Karen Allen
 	Marion Ravenwood. Adventures of Indiana Jones in Raiders of the Lost Ark, Kenner.
 	Marion Ravenwood. Indiana Jones, Hasbro. (3 figures)
@@ -400,6 +408,8 @@ Catherine Bach
 Kenny Baker
 	R2-D2. Star Wars, Kenner. (4 figures)
 	Paploo. Star Wars, Kenner.
+Tom Baker
+	4th Doctor. Doctor Who, Dapol.
 Barker
 	Talosian Keeper. Star Trek, Playmates.
 Majel Barrett
@@ -548,6 +558,8 @@ Roxann Dawson
 	B'Elanna Torres. Star Trek, Playmates. (2 figures)
 Jonathan Del Arco
 	Hugh of Borg. Star Trek, Playmates.
+Roger Delgados
+	The Master. Doctor Who, Dapol.
 Brian Dennehy
 	O.C. Hanks. Butch & Sundance the Early Days, Kenner.
 Mark Dodson
@@ -742,6 +754,8 @@ Karen Landry
 	Vorgon. Star Trek, Playmates.
 Ted Lange
 	Isaac. The Love Boat, Mego.
+Bonnie Langford
+	Melanie. Doctor Who, Dapol. (2 figures)
 Mark Lenard
 	Klingon. Star Trek the Motion Picture, Mego.
 	Ambassador Sarek. Star Trek, Playmates.
@@ -785,6 +799,8 @@ Peter Mayhew
 	Chewbacca. Star Wars, Kenner.
 Neil McCarthy
 	Calibos. Clash of the Titans, Mattel.
+Sylvester McCoy
+	7th Doctor. Doctor Who, Dapol. (2 figures)
 Ian McDiarmid
 	The Emperor. Star Wars, Kenner.
 Roddy McDowall
@@ -850,6 +866,8 @@ George Peppard
 	Hannibal. The A-Team, Galoob.
 Anthony Perkins
 	Alex Durant. The Black Hole, Mego.
+Jon Pertwee
+	3rd Doctor. Doctor Who, Dapol.
 Ethan Phillips
 	Neelix. Star Trek, Playmates. (2 figures)
 River Phoenix
@@ -1008,6 +1026,8 @@ Sven-Ole Thorsen
 	Lt. Tank Ellis. Captain Power and the Soldiers of the Future, Mattel.
 Tony Todd
 	Captain Kurn. Star Trek, Playmates.
+Patrick Troughton
+	2nd Doctor. Doctor Who, Dapol.
 
 U
 ~~~~~~
@@ -1060,6 +1080,8 @@ Jason Wingreen
 	Boba Fett. Star Wars, Kenner.
 Maurice Dean Wint
 	Sergeant Scout Baker. Captain Power and the Soldiers of the Future, Mattel.
+Michael Wisher
+	Davros. Doctor Who, Dapol. (2 figures)
 Mary Woodvine
 	Took. Space Precinct, Vivid Imaginations.
 Tom Wopat

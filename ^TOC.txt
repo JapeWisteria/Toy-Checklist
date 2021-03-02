@@ -63,6 +63,8 @@
 		~ Terrahawks
 		~ Thunderbirds
 		~ Thunderbirds are Go!
+	** Doctor Who
+		~ Dapol
 	** Film and Television
 		~ A-Team
 		~ CHiPs
