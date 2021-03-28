@@ -94,6 +94,7 @@ Playmates
 
 Popy
 	Battle of the Planets, 1979.
+	Ulysses 31, 1986.
 
 Remco
 	The Saga of Crystar Crysal Warrior, 1982.
@@ -316,6 +317,9 @@ Tron
 
 Tron: Legacy
 	Spinmaster, 2010.
+
+Ulysses 31
+	Popy, 1986.
 
 Universal Monsters Mini-Monsters
 	Remco, 1979.
