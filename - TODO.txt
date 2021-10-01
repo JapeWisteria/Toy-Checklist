@@ -8,7 +8,6 @@
 
 -- Add LJN ET figures
 -- Add Hasbro 3.75 Marvel lines
--- Add Zee Toys Metal Man
 -- Maybe: Character Options Doctor Who
 -- Maybe: Remco and Lanard Joe KO's
 

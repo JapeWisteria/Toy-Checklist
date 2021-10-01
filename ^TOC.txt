@@ -1,7 +1,7 @@
 
 -- Introduction
--- Table of Contents
 
+-- Table of Contents
 
 -- Toys
 	** Star Wars
@@ -41,6 +41,7 @@
 		~ The Black Hole
 		~ Buck Rogers in the 25th Century
 		~ Captain Power
+		~ Metal-Man
 		~ Micronauts
 		~ The New Adventures of Flash Gordon
 		~ Toy Island Movie Tie-ins
@@ -72,6 +73,7 @@
 		~ The Dukes of Hazzard
 		~ The Greatest American Hero
 		~ Hanna-Barbera Collection
+		~ Jurassic World: Legacy Collection
 		~ The Love Boat
 		~ M*A*S*H
 		~ Monstarz
@@ -82,26 +84,33 @@
 		~ The Six Million Dollar Man
 		~ The Wizard of Oz
 
--- Trading Cards
--- View-Master Reels
--- Golden Books
--- Disney Read-Along
--- MOTU/She-Ra Mini-Comics
--- Amurol Bubble Funnies
--- Fantasy Book Series
--- Arcade Cabinets
+-- Books
+	** Golden Books
+	** MOTU/She-Ra Mini-Comics
+	** Amurol Bubble Funnies
+	** Fantasy Book Series
+	** Starlog Photo Guidebooks
 
+-- Cards, Records and Physical Media
+	** Trading Cards
+	** View-Master Reels
+	** Disney Read-Along
+
+-- Arcade Cabinets
 
 -- Index
 	-- by manufacturer
 	-- by toy line
 	-- by genre
 	-- by media
+
 -- Toyline
+
 -- Glossary
+
 -- Resources
-	-- Links
-	-- Books
-	-- Documentaries
-	-- Physical Stores
+	** Links
+	** Books
+	** Documentaries
+	** Physical Stores
 

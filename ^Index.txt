@@ -62,6 +62,7 @@ Mattel
 	Mork and Mindy, 1980.
 	Marvel Super Heroes Secret Wars, 1984-1985.
 	Captain Power and the Soldiers of the Future, 1987-88.
+	Jurassic World: Legacy Collection, 2018-2021.
 
 Mego
 	The Black Hole, 1979-80.
@@ -132,6 +133,9 @@ Vivid Toy Group
 
 Warpo
 	Legends of Cthulhu, 2015.
+
+Zee Toys/Zylmex
+	Metal-Man, 1976-1980.
 
 Zica
 	The Six Million Dollar Man, 2013.
@@ -217,6 +221,9 @@ Indiana Jones and The Temple of Doom
 It! The Terror from Beyond Space
 	Monstarz, 2016.
 
+Jurassic World: Legacy Collection
+	Mattel, 2018-2021.
+
 The Legend of the Lone Ranger
 	Gabriel, 1982.
 
@@ -234,6 +241,9 @@ M*A*S*H
 
 Marvel Super Heroes Secret Wars
 	Mattel, 1984-1985.
+
+Metal-Man
+	Zee Toys/Zylmex, 1976-1980.
 
 Micronauts
 	Mego, 1976-1981.
@@ -400,6 +410,8 @@ Michael Ansara
 	Kang. Star Trek, Playmates.
 Annie Arbogast
 	Sy Snootles. Star Wars, Kenner.
+Richard Attenborough
+	John Hammond. Jurassic World: Legacy Collection.
 René Auberjonois
 	Odo. Star Trek, Playmates. (3 figures)
 Mark Anthony Austin
@@ -566,6 +578,8 @@ Roger Delgados
 	The Master. Doctor Who, Dapol.
 Brian Dennehy
 	O.C. Hanks. Butch & Sundance the Early Days, Kenner.
+Laura Dern
+	Dr. Ellie Sattler. Jurassic World: Legacy Collection.
 Mark Dodson
 	Salacious Crumb. Star Wars, Kenner.
 Alison Doody
@@ -644,6 +658,8 @@ Julian Glover
 	AT-AT Commander (General Veers). Star Wars, Kenner.
 Whoopi Goldberg
 	Guinan. Star Trek, Playmates. (3 figures)
+Jeff Goldblum
+	Dr. Ian Malcolm. Jurassic World: Legacy Collection.
 Gerrit Graham
 	Hunter of Tosk. Star Trek, Playmates.
 Fred Grandy
@@ -735,6 +751,8 @@ DeForest Kelley
 Persis Khambatta
 	Ilia. Star Trek the Motion Picture, Mego.
 	Ilia Probe. Star Trek, Playmates.
+Wayne Knight
+	Dennis Nedry. Jurassic World: Legacy Collection. (2 figures)
 Walter Koenig
 	Pavel Chekov. Star Trek, Playmates. (3 figures)
 Bernie Kopell
@@ -840,6 +858,8 @@ Catherine Munroe
 
 N
 ~~~~~~
+Sam Neill
+	Dr. Alan Grant. Jurassic World: Legacy Collection.
 Gary Nelson
 	Humanoid. The Black Hole, Mego.
 Nichelle Nichols
@@ -866,6 +886,8 @@ Chris Parsons
 	4-LOM (Zuckess on original card). Star Wars, Kenner.
 Robert Patrick
 	T-1000. Terminator 2: Judgment Day, Toy Island.
+Bob Peck
+	Robert Muldoon. Jurassic World: Legacy Collection.
 George Peppard
 	Hannibal. The A-Team, Galoob.
 Anthony Perkins

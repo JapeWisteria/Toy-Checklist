@@ -5,9 +5,13 @@ Tiny Arcade Galaga Tabletop Edition
 Tiny Arcade Pac Man Tabletop Edition
 Tiny Arcade Space Invaders Tabletop Edition
 
-Tiny Arcade Dig Dug
+Tiny Arcade Hello Kitty Pac-Man
+Tiny Arcade Teenage Mutant Ninja Turtles
+Tiny Arcade Burger Time
+Tiny Arcade Mappy
+Tiny Arcade Dig Dug--
 Tiny Arcade Frogger--
-Tiny Arcade Galaga
+Tiny Arcade Galaga--
 Tiny Arcade Galaxian--
 Tiny Arcade New Rally X--
 Tiny Arcade Pac-Man--
