@@ -4,15 +4,17 @@ Waves: 9. Figures: 104.
 -----------------------------------------------
 All figures feature solid construction.
 
-Some figures were re-issued in The Power of the Force series with additional collector's coins, but otherwise are identical to previous releases. Several coins were issued for vehicles or cast ensembles, and not listed here. Although there are 3 distinct R2-D2 figures in the line, only 1 coin was issued (with the pop-up lightsaber version). All coins for the original Kenner 78-85 line are silver.
+Some figures were re-issued in The Power of the Force series with additional collector's coins, but otherwise are identical to previous releases. Several coins were issued for vehicles or cast ensembles, and not listed here. Although there are 4 distinct R2-D2 figures in the line, only 1 coin was issued (with the pop-up lightsaber version). All coins for the original Kenner 78-85 line are silver.
 
-Both the A-Wing Pilot and Boba Fett were included in the figure assortment for Star Wars: Droids, and I've added a note that they have different collector's coins issued. In addition, there were new Droids coins issued for the versions of C-3PO and R2-D2.
+Both the A-Wing Pilot and Boba Fett were included in the figure assortment for Star Wars: Droids, and I've added a note that they have different collector's coins issued. In addition, there were new Droids coins issued for those versions of C-3PO and R2-D2.
 
 Coins are listed next to the figure's first release.
 
 Accessories that are unique to a single figure are marked with (U).
 
 Figures that came with a playset are marked, but not all have been listed.
+
+Major figure variations are listed under the figure's entry, and aren't counted towards the figure total above.
 
 Star Wars Wave 1 1978
 ~~~~~~
@@ -23,14 +25,17 @@ R2-D2 (came with Droid Factory playset) [Kenny Baker]
 Chewbacca (re-issue coin) [Peter Mayhew]
 	Bowcaster
 Luke Skywalker (Tatooine) (mail-away coin) [Mark Hamill]
+	Blonde or brown hair variations.
 	Yellow lightsaber (short or telescoping)
 Princess Leia Organa (mail-away coin) [Carrie Fisher]
 	Long-barrel blaster pistol, white vinyl cape
 Ben (Obi-Wan) Kenobi (re-issue coin) [Alec Guinness]
+	White or grey hair variations.
 	Blue lightsaber (short or telescoping), brown vinyl cape
 Darth Vader (re-issue coin) [David Prowse, James Earl Jones, Sebastian Shaw]
 	Red lightsaber (short or telescoping), black vinyl cape
 Han Solo (mail-away coin) [Harrison Ford]
+	Small or large head variations.
 	Heavy blaster pistol
 C-3PO (re-issue coin, Droids coin) [Anthony Daniels]
 	No accessories
@@ -41,6 +46,7 @@ Death Squad\Star Destroyer Commander |Trooper| (mail-away coin)
 Jawa (re-issue coin) |Trooper| [Jack Purvis]
 	Brown vinyl cape or brown cloth cape, Ion blaster
 Tusken Raider |Trooper| (mail-away coin)
+	Hollow or solid cheek tube variations.
 	Gaffi stick, beige vinyl cape
 
 Star Wars Wave 2 1978-79
@@ -81,15 +87,17 @@ IG-88
 Snowtrooper (mail-away coin)
 	White vinyl skirt, Imperial rifle
 Lando Calrissian (mail-away coin) [Billy Dee Williams]
+	Painted or unpainted mouth\eyes variations.
 	Blue-grey vinyl cape, Imperial blaster
 Luke Skywalker (Bespin Fatigues) (mail-away coin) [Mark Hamill]
+	Blonde or brown hair variations.
 	Yellow lightsaber, heavy blaster pistol
 Leia Organa (Bespin Gown) [Carrie Fisher]
 	Pink vinyl cape with pattern, Long-barrel blaster pistol
 Rebel Soldier |Trooper| (Hoth Battle Gear)
 	Bespin blaster
 Yoda (re-issue coin) [Frank Oz]
-	White cloth robe, belt, cane, snake
+	White cloth robe, belt, cane, orange or brown snake
 Probe Droid |Trooper| (bundled with Turret/Probot playset)
 	No accessories
 
@@ -182,7 +190,7 @@ Droopy McCool [Deep Roy]
 Max Rebo [Simon J. Williamson]
 	Organ microphone, organ
 Sy Snootles [Annie Arbogast, Mike Quinn]
-	Microphone
+	Black or silver microphone
 Jabba the Hut (came bundled with Jabba the Hut playset) [Larry Ward]
 	No accessories
 Salacious Crumb (came bundled with Jabba the Hut playset) [Mark Dodson]
@@ -197,6 +205,7 @@ AT-ST Driver |Trooper| (re-issue coin)
 B-Wing Pilot |Trooper| (re-issue coin)
 	Pilot blaster
 Han Solo (Trenchcoat) (re-issue coin) [Harrison Ford]
+	Two different head sculpt variations.
 	Brown fabric camo pattern coat, heavy blaster pistol
 Leia Organa (in combat poncho) (re-issue coin) [Carrie Fisher]
 	Green camo pattern fabric poncho, belt, rebel commando helmet, pilot blaster
