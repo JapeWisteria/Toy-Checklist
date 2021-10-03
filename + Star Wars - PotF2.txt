@@ -37,6 +37,16 @@ Lando Calrissian ("buff" version)
 	Heavy Rifle, Blaster Pistol
 Luke Skywalker Tatooine ("buff" version)
 	Lightsaber, Grappling Hook Blaster
+Luke Skywalker X-wing Pilot ("buff" version)
+	Lightsaber, Blaster Pistol
+Ben Obi-wan Kenobi ("buff" version)
+	Lightsaber, Removable Cloak
+Princess Leia Organa ("buff" version)
+	Laser Pistol, Assault Rifle, Cape, Skirt
+R2-D2
+	Retractable Leg
+Stormtrooper ("buff" version)
+	Blaster Rifle, Heavy Infantry Cannon
 
 
 
@@ -53,6 +63,35 @@ Jawa (came in 2-pack)
 	Ionization Gun
 Jawa (came in 2-pack)
 	Ionization Gun
+Luke Skywalker in Dagobah Fatigues ("buff" version)
+	Lightsaber, Blaster Pistol
+Luke Skywalker in Stormtrooper Disguise ("buff" version)
+	Imperial Issue Blaster, Stormtrooper Helmet
+Luke Skywalker Jedi Knight ("buff" version)
+	Grey or black vest variations.
+	Lightsaber, Removable Cloak
+Momaw Nadon, Hammerhead ("buff" version)
+	Double Barreled Laser Cannon, Plastic Cloak
+R5-D4
+	Concealed Missile Launcher, Projectile
+Sandtrooper Officer ("buff" version)
+	Concussion Grenade Cannon, Heavy Blaster Rifle, Backpack, Orange Pauldron
+TIE Fighter Pilot ("buff" version)
+	Imperial Blaster Rifle, Pistol
+Tusken Raider
+	Gaderffi Stick, plastic Cloak
+Yoda
+	Jedi Trainer Backpack, brown cane
+
+Deluxe Figures
+******
+Boba Fett with Wing-Blast Rocketpack and Overhead Cannon
+	Wing-Blast Rocketpack, Overhead Cannon
+Crowd Control Stormtrooper
+	This is the same sculpt as the 1995 Stormtrooper with a differnt paint application.
+	Flight-Action Thruster Pack, Capture Claw
+Han Solo with Smuggler Flight Pack
+	Smuggler Flight Pack, Battle-Pivoting Blaster Cannons, Cargo Claw
 
 
 
@@ -96,6 +135,35 @@ Lando Calrissian in General's Gear ("buff" version)
 	Blaster Pistol, Cape
 Lando Calrissian as Skiff Guard ("buff" version)
 	Skiff Guard Force Pike, Helmet
+Luke Skywalker in Ceremonial Outfit ("buff" version)
+	Medal of Valor, Blaster Pistol, plastic Coat (sleeves are molded to the figure)
+Luke Skywalker in Hoth Gear ("buff" version)
+	Blaster Pistol, Lightsaber
+Malakili Rancor Keeper
+	Long-handled Vibro-blade, Plastic Hood
+Nien Nunb ("buff" version)
+	Blaster Pistol, Blaster Rifle
+Ponda Baba, Walrus Man ("buff" version)
+	Blaster Pistol, Rifle, plastic Jacket (sleeves are molded to the figure)
+Princess Leia Organa
+	Blaster Rifle, Long-Barreled Pistol
+Princess Leia Organa as Jabba's Prisoner
+	Neck Chain
+Rebel Fleet Trooper ("buff" version)
+	Blaster Rifle, Blaster Pistol, plastic Black Vest
+Emperor's Royal Guard
+	Plastic Robe, Force Pike
+Saelt-Marae, Yak Face
+	Battle Staff, Plastic Robe
+Snowtrooper ("buff" version)
+	Imperial Issue Blaster Rifle, Backpack
+Weequay Skiff Guard
+	Force Pike, Blaster Rifle
+
+Deluxe Figures
+******
+Hoth Rebel Soldier with googles over eyes
+	Survival Backpack, Ion Cannon, Launching Laser Missile, Exploding Energy Dish
 
 
 
@@ -134,8 +202,29 @@ Luke Skywalker Bespin fatigues
 	Lightsaber, Blaster Pistol, Detachable Hand
 Luke Skywalker with Blast Shield Helmet
 	Blast Shield Helmet, Lightsaber
-
-
+Mon Mothma
+	Baton, Plastic Robe
+Ben Obi-wan Kenobi hooded
+	Lighsaber, plastic Cloak
+Orrimaarko, Prune Face
+	Blaster Rifle, Plastic Cloak
+Princess Leia in Ceremonial Dress
+	Medal of Honor, plastic Cape
+Princess Leia in Ewok Celebration Outfit
+	Blaster Pistol
+R2-D2
+	Spring-Loaded, Pop-up Scanner, Retractable Scomp Link, Grasper Arm, Circular Saw 
+R2-D2 with Launching Lightsaber
+	Lightsaber
+Ree-Yees
+	2 different blaster pistols
+Ugnaught red hair (both Ugnaughts were packaged together but are different sculpts)
+Ugnaught grey hair (both Ugnaughts were packaged together but are different sculpts)
+	Tool Kit, Rubber Smock
+Yoda
+	Orange cane, Boiling Pot, Lamp, rooted hair
+Zuckuss
+	Heavy Assault Blaster Rifle, Plastic Robe
 
 
 Legends
@@ -150,6 +239,14 @@ Imperial Sentinel (Dark Empire Comic Books)
 	3-D Play Scene background, Battle Axe, Plastic Cloak
 Kyle Katarn (Dark Forces video game)
 	3-D Play Scene background, Blaster, Grenade Gun
+Luke Skywalker (Dark Empire Comic Books)
+	3-D Play Scene background, Lightsaber, Blaster, Plastic Cloak, Detachable Right Hand
+Mara Jade (Heir to the Empire Novel and Comics)
+	3-D Play Scene background, Lightsaber, Blaster
+Princess Leia (Dark Empire Comic Books)
+	3-D Play Scene background, Lightsaber, Blaster, Plastic Cloak
+Spacetrooper (Heir to the Empire Novel and Comics)
+	3-D Play Scene background, Movable Jetpack, Flip-Out Blaster
 
 
 
@@ -176,6 +273,15 @@ Jawa (packaged with gonk droid)
 	Ionization Gun
 Gonk Droid (packaged with jawa)
 	No accessories
+Luke Skywalker Tatooine
+	Blaster Rifle, Electrobinoculars, Floppy Hat
+Luke Skywalker with T-16 Skyhopper Model
+	T-16 Skyhopper Model, Carbon Scraper
+R2-D2
+	Holographic Princess Leia
+Stormtrooper with Blaster Damage
+	Cold water activates paint for blaster damage.
+	Blaster Rifle, Rifle Rack
 
 
 
@@ -184,6 +290,9 @@ Gonk Droid (packaged with jawa)
 ~~~~~~
 Admiral Motti
 	Imperial Blaster
+Princess Leia Organa
+	Sporting Blaster, Cloth Skirt
+
 
 
 
@@ -196,7 +305,11 @@ AT-AT Driver (1998) ("buff" version)
 	Imperial Issue Blaster
 Death Star Droid (1999)
 	MSE-6 Mouse Droid
-
-
+Pote Snitkin (1999)
+	Force Pike, Blaster Pistol, Plastic Tunic
+Princess Leia Organa in Hoth Gear (1999)
+	Blaster Pistol, Plastic Vest
+Wuher (2000)
+	Droid Detector Unit
 
 
