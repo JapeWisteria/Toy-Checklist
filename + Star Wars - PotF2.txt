@@ -85,14 +85,16 @@ Yoda
 
 Deluxe Figures
 ******
-Boba Fett with Wing-Blast Rocketpack and Overhead Cannon
+Boba Fett with Wing-Blast Rocketpack and Overhead Cannon ("buff" version)
 	Wing-Blast Rocketpack, Overhead Cannon
-Crowd Control Stormtrooper
+Crowd Control Stormtrooper ("buff" version)
 	This is the same sculpt as the 1995 Stormtrooper with a differnt paint application.
 	Flight-Action Thruster Pack, Capture Claw
-Han Solo with Smuggler Flight Pack
+Han Solo with Smuggler Flight Pack ("buff" version)
 	Smuggler Flight Pack, Battle-Pivoting Blaster Cannons, Cargo Claw
-
+Luke Skywalker with Desert Sport Skiff ("buff" version)
+	This is the same sculpt as the 1995 carded figure but with different paint applications.
+	Desert skiff, missile, 2 skiff blasters, skiff steering column
 
 
 
@@ -160,10 +162,74 @@ Snowtrooper ("buff" version)
 Weequay Skiff Guard
 	Force Pike, Blaster Rifle
 
+
+Electronic Power F/X
+******
+All figures came with a base and included batteries for electronic effects.
+Darth Vader
+	Glowing Lightsaber, Death Star Archway, Base
+Emperor Palpatine
+	2 Energy Bolts, Death Star Window, Base
+Luke Skywalker
+	Glowing Lightsaber, Death Star Archway, Base
+Ben (Obi-Wan) Kenobi
+	Glowing Lightsaber, Death Star Archway, Base
+R2-D2
+	Electronic Lights and Sounds, Tatooine Rocky Background, Base
+
+
+
+Creature Sets
+******
+Sandtrooper (came with Dewback)
+	Rifle, Electropole, Backpack, grey pauldron
+Jabba the Hutt (came with Han Solo)
+Han Solo (came with Jabba the Hutt, "buff" version)
+	Blaster
+Jawa (came with Ronto)
+	Ionization Gun
+Luke Skywalker (came with Tauntaun, "buff" version)
+	Blaster
+
+
+
+Cinema Scenes
+******
+All cinema scenes came with a plastic base and cardboard background.
+Dr. Evazan (Cantina Showdown set, "buff" version)
+	Blaster
+Ponda Baba (Cantina Showdown set, "buff" version)
+	Blaster
+Obi-Wan Kenobi (Cantina Showdown set, "buff" version)
+	Lightsaber, plastic cloak
+Han Solo (Death Star Escape set, "buff" version)
+	Blaster, helmet
+Chewbacca (Death Star Escape set, "buff" version)
+	Binders
+Luke Skywalker (Death Star Escape set, "buff" version)
+	Blaster, helmet
+Emperor Palpatine (Final Jedi Duel set, "buff" version)
+	Throne
+Darth Vader (Final Jedi Duel set, "buff" version)
+	Lightsaber
+Luke Skywalker (Final Jedi Duel set, "buff" version)
+	Lightsaber
+Uncle Owen Lars (Purchase of the Droids set)
+	No accessories
+C-3PO (Purchase of the Droids set)
+	No accessories
+Luke Skywalker (Purchase of the Droids set)
+	No accessories
+
+
 Deluxe Figures
 ******
-Hoth Rebel Soldier with googles over eyes
+Hoth Rebel Soldier with googles over eyes ("buff" version)
 	Survival Backpack, Ion Cannon, Launching Laser Missile, Exploding Energy Dish
+Snowtrooper with E-Web Heavy Repeating Blaster ("buff" version)
+	E-Web Heavy Repeating Blaster, Backpack, Missile
+Probe Droid
+	Proton Torpedo, Self-Destruct Exploding Head
 
 
 
@@ -227,6 +293,51 @@ Zuckuss
 	Heavy Assault Blaster Rifle, Plastic Robe
 
 
+
+Creature Sets
+******
+Tusken Raider (came with Bantha)
+	Gaderffi stick, cloth skirt
+Luke Skywalker (came with Rancor)
+	Bone
+Han Solo (came with Tauntaun, "buff" version)
+	Blaster
+Luke Skywalker (came with Wampa, "buff" version)
+	Lightsaber
+
+
+
+Cinema Scenes
+******
+All cinema scenes came with a plastic base and cardboard background.
+Labria (Cantina Aliens set)
+	Blaster, plastic cape
+Nabrun Leids (Cantina Aliens set)
+	Rifle
+Takeel (Cantina Aliens set)
+	Blaster
+Rystáll (Jabba's Dancers set)
+	No accessories
+Greeata (Jabba's Dancers set)
+	No accessories
+Lyn Me (Jabba's Dancers set)
+	No accessories
+Anakin (Jedi Spirits set)
+	No accessories
+Yoda (Jedi Spirits set)
+	No accessories
+Obi-Wan (Jedi Spirits set)
+	No accessories
+Chewbacca (Mynock Hunt set, "buff" version)
+	Oxygen mask, bowcaster
+Princess Leia Organa (Mynock Hunt set)
+	Oxygen mask
+Han Solo (Mynock Hunt set, "buff" version)
+	Oxygen mask, blaster pistol
+Mynock (Mynock Hunt set)
+
+
+
 Legends
 ******
 Dark Trooper (Dark Forces video game)
@@ -247,6 +358,8 @@ Princess Leia (Dark Empire Comic Books)
 	3-D Play Scene background, Lightsaber, Blaster, Plastic Cloak
 Spacetrooper (Heir to the Empire Novel and Comics)
 	3-D Play Scene background, Movable Jetpack, Flip-Out Blaster
+
+
 
 
 
@@ -283,6 +396,22 @@ Stormtrooper with Blaster Damage
 	Cold water activates paint for blaster damage.
 	Blaster Rifle, Rifle Rack
 
+
+Cinema Scenes
+******
+All cinema scenes came with a plastic base and cardboard background.
+Klaatu (Jabba's Skiff Guards set)
+	Force pike
+Barada (Jabba's Skiff Guards set)
+	Blaster
+Nikto (Jabba's Skiff Guards set)
+	Force pike
+Ten Numb (Rebel Pilots set)
+	Helmet
+Wedge Antilles (Rebel Pilots set)
+	Helmet
+Arvel Crynyd (Rebel Pilots set)
+	Helmet
 
 
 

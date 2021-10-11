@@ -88,8 +88,9 @@
 	** Golden Books
 	** MOTU/She-Ra Mini-Comics
 	** Amurol Bubble Funnies
-	** Fantasy Book Series
 	** Starlog Photo Guidebooks
+	** The How and Why Wonder Books
+	** Fantasy Book Series
 
 -- Cards, Records and Physical Media
 	** Trading Cards

@@ -10,6 +10,8 @@
 -- Add Hasbro 3.75 Marvel lines
 -- Maybe: Character Options Doctor Who
 -- Maybe: Remco and Lanard Joe KO's
+-- Maybe: FP Adventure People
+-- Maybe: Tonka Play People
 
 -- list 'army builder' figures
 
