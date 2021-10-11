@@ -48,6 +48,7 @@ Knickerbocker
 
 LJN
 	Advanced Dungeons & Dragons, 1983-84.
+	E.T. The Extra-Terrestrial, 1982.
 	Indiana Jones and The Temple of Doom, 1984.
 
 Matchbox
@@ -199,6 +200,9 @@ Doctor Who
 
 The Dukes of Hazzard
 	Mego, 1981.
+
+E.T. The Extra-Terrestrial
+	LJN, 1982.
 
 The New Adventures of Flash Gordon
 	Mattel, 1979-80.
