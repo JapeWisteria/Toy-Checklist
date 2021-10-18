@@ -1,6 +1,6 @@
 Star Wars: The Power of The Force 2
 Hasbro\Kenner. 1995-2000. 1:18 Scale (3.75").
-Waves: 6. Figures: ??.
+Waves: 6. Figures: 223.
 -----------------------------------------------
 All figures feature solid construction.
 
@@ -21,6 +21,8 @@ In addition, Hasbro released many premium figures, exclusives, mail-aways and li
 
 1995
 ~~~~~~
+Biker Scout Stormtrooper (came with Speeder Bike, "buff" version)
+	No accessories
 Boba Fett ("buff" version)
 	Sawed-off Blaster Rifle, Jet Pack, plastic Harness and Cape
 C-3PO
@@ -108,8 +110,14 @@ Admiral Ackbar
 	Comlink Wrist Blaster
 ASP-7 Droid
 	Spaceport Supply Rods
+AT-AT Driver (came with AT-AT)
+	No accessories
+AT-AT Commander General Veers (came with AT-AT)
+	No accessories
 AT-ST Driver ("buff" version)
 	Blaster Pistol, Blaster Rifle
+A-Wing Pilot (came with A-Wing)
+	No accessories
 Bib Fortuna
 	Hold-Out Blaster, Plastic Robe
 Bossk ("buff" version)
@@ -141,6 +149,8 @@ Luke Skywalker in Ceremonial Outfit ("buff" version)
 	Medal of Valor, Blaster Pistol, plastic Coat (sleeves are molded to the figure)
 Luke Skywalker in Hoth Gear ("buff" version)
 	Blaster Pistol, Lightsaber
+Luke Skywalker Endor Gear (came with Speeder Bike, "buff" version)
+	Combat Poncho, Lightsaber
 Malakili Rancor Keeper
 	Long-handled Vibro-blade, Plastic Hood
 Nien Nunb ("buff" version)
@@ -151,6 +161,8 @@ Princess Leia Organa
 	Blaster Rifle, Long-Barreled Pistol
 Princess Leia Organa as Jabba's Prisoner
 	Neck Chain
+Princess Leia Organa Endor Gear (came with Speeder Bike, "buff" version)
+	Combat Poncho, Blaster
 Rebel Fleet Trooper ("buff" version)
 	Blaster Rifle, Blaster Pistol, plastic Black Vest
 Emperor's Royal Guard
@@ -159,6 +171,8 @@ Saelt-Marae, Yak Face
 	Battle Staff, Plastic Robe
 Snowtrooper ("buff" version)
 	Imperial Issue Blaster Rifle, Backpack
+Wedge Antilles (came with Millennium Falcon carry case)
+	Blaster Pistol
 Weequay Skiff Guard
 	Force Pike, Blaster Rifle
 
@@ -178,7 +192,6 @@ R2-D2
 	Electronic Lights and Sounds, Tatooine Rocky Background, Base
 
 
-
 Creature Sets
 ******
 Sandtrooper (came with Dewback)
@@ -190,7 +203,6 @@ Jawa (came with Ronto)
 	Ionization Gun
 Luke Skywalker (came with Tauntaun, "buff" version)
 	Blaster
-
 
 
 Cinema Scenes
@@ -231,6 +243,7 @@ Snowtrooper with E-Web Heavy Repeating Blaster ("buff" version)
 Probe Droid
 	Proton Torpedo, Self-Destruct Exploding Head
 
+
 Gunners Stations
 ******
 These featured cutaway spaceship sections with firing missiles.
@@ -244,16 +257,33 @@ Princess Leia Collection
 Each figure featured extensive cloth clothing. Several figures had woven hair.
 
 Leia Organa & R2-D2 (same as carded R2)
-	Cloth Dress, Belt
+	Leia
+		Cloth Dress, Belt
+	R2-D2 (same as carded R2)
+		No accessories
 
 Leia Organa Ceremonial Dress & Ceremonial Luke Skywalker
-	Cloth Skirt, Cloth Cape, Belt, Cloth Coat, Medal of Honor
+	Leia
+		Cloth Skirt, Cloth Cape, Belt
+	Luke Skywalker
+		Cloth Coat, Medal of Honor
 
 Leia Organa Bespin Gown & Bespin Han Solo
-	Cloth Skirt, Cloth/Plastic Cape, Belt, Cloth Coat, Blaster
+	Leia
+		Cloth Skirt, Cloth/Plastic Cape, Belt
+	Han Solo
+		Cloth Coat, Blaster
 
 Leia Organa Endor Dress & Ewok
-	Cloth Skirt, Spear, Hood
+	Leia
+		Cloth Skirt
+	Ewok
+		Spear, Hood
+
+Legends
+******
+Airspeeder Pilot (McQuarrie concept art, came with concept Airspeeder)
+	No accessories
 
 
 
@@ -261,6 +291,8 @@ Leia Organa Endor Dress & Ewok
 ~~~~~~
 8D8
 	Droid Branding Device
+Battle Droid (Phantom Menace preview, came with STAP hover vehicle)
+	Backpack
 Biggs Darklighter ("buff" version)
 	Blaster Rifle, Blaster Pistol
 Captain Piett
@@ -277,6 +309,12 @@ Emperor Palpatine with Force lightning
 	2 Force Lightning Bolts, plastic cloak
 Endor Rebel Soldier
 	Survival Backpack, Blaster Rifle
+Han Solo Carbonite (came with Jabba's Palace)
+	Binders, Carbonite Block
+Han Solo Gunner's Station (came with Millennium Falcon Cockpit from PC Explorer Game)
+	No accessories
+Imperial Scanning Crew Trooper (came with Millennium Falcon carry case)
+	Blaster Rifle, Scanning Trunk
 Wicket (packaged with Logray)
 	Spear, Hood
 Logray (packaged with Wicket)
@@ -307,6 +345,8 @@ R2-D2 with Launching Lightsaber
 	Lightsaber
 Ree-Yees
 	2 different blaster pistols
+Sandtrooper (came with Cantina Pop-Up Diorama, "buff" version)
+	Rifle, Unique Sandtrooper, Patrol Droid, white pauldron
 Ugnaught red hair (both Ugnaughts were packaged together but are different sculpts)
 Ugnaught grey hair (both Ugnaughts were packaged together but are different sculpts)
 	Tool Kit, Rubber Smock
@@ -314,7 +354,6 @@ Yoda
 	Orange cane, Boiling Pot, Lamp, rooted hair
 Zuckuss
 	Heavy Assault Blaster Rifle, Plastic Robe
-
 
 
 Creature Sets
@@ -327,7 +366,6 @@ Han Solo (came with Tauntaun, "buff" version)
 	Blaster
 Luke Skywalker (came with Wampa, "buff" version)
 	Lightsaber
-
 
 
 Cinema Scenes
@@ -360,9 +398,10 @@ Han Solo (Mynock Hunt set, "buff" version)
 Mynock (Mynock Hunt set)
 
 
-
 Legends
 ******
+Cloud Car Pilot (McQuarrie concept are, came with concept Cloud Car)
+	No accessories
 Dark Trooper (Dark Forces video game)
 	3-D Play Scene background, Heavy Blaster, Jetpack
 Clone Emperor Palpatine (Dark Empire Comic Books)
@@ -381,6 +420,8 @@ Princess Leia (Dark Empire Comic Books)
 	3-D Play Scene background, Lightsaber, Blaster, Plastic Cloak
 Spacetrooper (Heir to the Empire Novel and Comics)
 	3-D Play Scene background, Movable Jetpack, Flip-Out Blaster
+Rebel Speeder Bike Pilot (McQuarrie concept are, came with concept Speeder Bike)
+	No accessories
 
 
 Complete Galaxy
@@ -411,6 +452,42 @@ TIE Fighter with Darth Vader
 	2 Laser Cannon Missiles, Retractable Landing Gear
 
 
+Millennium Minted Coins
+******
+Each set came with a coin inside a clear plastic case and display stand for both coin and figure.
+
+C-3PO
+	Coin, Coin Holder, Base
+Chewbacca (same as carded figure, "buff" version)
+	Coin, Coin Holder, Base, Bowcaster
+Emperor Palpatine (same sculpt as electronic figure with electronics removed)
+	Coin, Coin Holder, Base, Sith Lightning Bolts
+Han Solo Bespin Outfit (same as carded figure, "buff" version)
+	Coin, Coin Holder, Base, Blaster Pistol
+Luke Skywalker Endor Poncho
+	Coin, Coin Holder, Base, Combat Poncho, Lightsaber
+Princess Leia Organa Endor Poncho
+	Coin, Coin Holder, Base, Combat Poncho, Blaster
+Snowtrooper (same as carded figure, "buff" version)
+	Coin, Coin Holder, Base, Imperial Issue Blaster Rifle, Backpack
+
+Max Rebo Band Pairs
+******
+Barquin D'an & Droopy McCool (Wal-Mart exclusive)
+	Barquin D'an
+		Kloo Horn
+	Droopy McCool
+		Chidinkalu
+Joh Yowza & Sy Snootles (Wal-Mart exclusive)
+	Joh Yowza
+		No accessories
+	Sy Snootles
+		No accessories
+Max Rebo & Doda Bodonawieedo 
+	Max Rebo
+		Red Ball Organ
+	Doda Bodonawieedo
+		Slitherhorn
 
 
 1999
@@ -439,6 +516,8 @@ Luke Skywalker Tatooine
 	Blaster Rifle, Electrobinoculars, Floppy Hat
 Luke Skywalker with T-16 Skyhopper Model
 	T-16 Skyhopper Model, Carbon Scraper
+Luke Skywalker Jedi Knight (Target Exclusive, came with Tatooine Skiff)
+	Lightsaber
 R2-D2
 	Holographic Princess Leia
 Stormtrooper with Blaster Damage
@@ -470,8 +549,8 @@ Admiral Motti
 	Imperial Blaster
 Princess Leia Organa
 	Sporting Blaster, Cloth Skirt
-
-
+Rebel Alliance Pilot (Target Exclusive, came with Y-Wing)
+	No accessories
 
 
 Exclusives
@@ -481,8 +560,13 @@ Fan Club Exclusives
 ******
 AT-AT Driver (1998) ("buff" version)
 	Imperial Issue Blaster
+Cantina Band Member (1997)
+	Omni Box, Fanfar, Kloo Horn, Bandfill, Fizz, Plastic Cloak
 Death Star Droid (1999)
 	MSE-6 Mouse Droid
+Oola (1998)
+	This was also available in an exclusive limited edition celebrity signed action figure set of 1,000 at the International Collectible Toy Expo in Philadelphia in 1998, autographed by actress Femi Taylor.
+	2 net leggings, rope, Salacious Crumb figurine
 Pote Snitkin (1999)
 	Force Pike, Blaster Pistol, Plastic Tunic
 Princess Leia Organa in Hoth Gear (1999)
@@ -490,4 +574,22 @@ Princess Leia Organa in Hoth Gear (1999)
 Wuher (2000)
 	Droid Detector Unit
 
+Various Exclusives
+******
+B'omarr Monk (1997, Internet exclusive)
+	No accessories
+Han Solo Stormtrooper Disguise (1995, Kellogg's Froot Loops mail-away, "buff" version)
+	Helmet
+Kabe and Muftak (1998, Internet exclusive)
+	Kabe
+		Knife
+	Muftak
+		Blaster
+Luke Skywalker Jedi Knight Theater Edition (1997, Special Edition give-away)
+	This is identical to the 1996 figure in a special card.
+	Lightsaber, Removable Cloak
+Mace Windu (1998, mail-away, Phantom Menace preview)
+	Blue Lightsaber, Plastic Robe
+Obi-Wan Jedi Spirit (1997, Frito-Lay mail-away)
+	No accessories, no articulation
 
