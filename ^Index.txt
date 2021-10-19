@@ -30,6 +30,7 @@ Harmony Gold
 Hasbro
 	G.I. Joe A Real American Hero, 1982-1994.
 	Indiana Jones, 2008-2011.
+	Star Wars: The Power of The Force 2, 1995-2000.
 	Visionaries, 1987.
 
 Jazwares
@@ -297,6 +298,9 @@ Star Wars: Droids. The Adventures of R2-D2 and C-3PO.
 
 Star Wars: Ewoks
 	Kenner, 1985.
+
+Star Wars: The Power of The Force 2
+	Hasbro, 1995-2000.
 
 Stingray
 	Matchbox, 1992.

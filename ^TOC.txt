@@ -8,6 +8,7 @@
 		~ Kenner ANH/ESB/RTJ/PotF
 		~ Kenner Droids
 		~ Kenner Ewoks
+		~ Hasbro Power of the Force 2
 	** Star Trek
 		~ TMP
 		~ III
