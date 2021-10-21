@@ -1,16 +1,30 @@
 A-Team.
 Galoob. 1984. 1:18 Scale (3.75").
-Waves: 1. Figures: 8.
+Waves: 1. Figures: 15.
 -----------------------------------------------
 The A-Team was originally distributed in a 4-pack, and the figure colours available in that pack were blue (Hannibal), light green (B.A.), black (Face), and orange (Murdock). Variants were generally released with vehicles or playsets. The figures are a mix of o-ring and solid construction.
 
-B.A. Baracus [Mr. T] (o-ring, light green, dark green, and blue variants)
+B.A. Baracus (o-ring, light green carded) [Mr. T]
 	Tool backpack, M-60
-Face [Dirk Benedict] (o-ring, black and green variants)
+B.A. Baracus (o-ring, dark green) [Mr. T]
+	Tool backpack, M-60
+B.A. Baracus (o-ring, blue) [Mr. T]
+	Tool backpack, M-60
+Face (o-ring, black carded) [Dirk Benedict]
 	Flamethrower, M-60
-Hannibal [George Peppard] (o-ring, light green, and blue variants)
+Face (o-ring, green) [Dirk Benedict]
+	Flamethrower, M-60
+Hannibal (o-ring, light green) [George Peppard]
 	Demolition backpack, detonator, M-60
-Murdock [Dwight Schultz] (o-ring, orange, light green, and blue variants)
+Hannibal (o-ring, blue carded) [George Peppard]
+	Demolition backpack, detonator, M-60
+Murdock (o-ring, orange open vest carded) [Dwight Schultz]
+	Mortar, M-60
+Murdock (o-ring, orange closed vest) [Dwight Schultz]
+	Mortar, M-60
+Murdock (o-ring, light green) [Dwight Schultz]
+	Mortar, M-60
+Murdock (o-ring, blue) [Dwight Schultz]
 	Mortar, M-60
 Cobra (solid)
 	Demolition backpack, detonator, M-60
