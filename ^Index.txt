@@ -418,12 +418,14 @@ Michael Ansara
 	Kang. Star Trek, Playmates.
 Annie Arbogast
 	Sy Snootles. Star Wars, Kenner.
+	Sy Snootles. Star Wars The Power of the Force, Kenner/Hasbro.
 Richard Attenborough
 	John Hammond. Jurassic World: Legacy Collection.
 René Auberjonois
 	Odo. Star Trek, Playmates. (3 figures)
 Mark Anthony Austin
 	Boba Fett. Star Wars, Kenner.
+	Boba Fett. Star Wars The Power of the Force, Kenner/Hasbro. (2 figures)
 
 B
 ~~~~~~
@@ -442,7 +444,9 @@ Majel Barrett
 	Christine Chapel. Star Trek, Playmates. (2 figures)
 Erik Bauersfeld
 	Admiral Ackbar. Star Wars, Kenner.
+	Admiral Ackbar. Star Wars The Power of the Force, Kenner/Hasbro.
 	Bib Fortuna. Star Wars, Kenner.
+	Bib Fortuna. Star Wars The Power of the Force, Kenner/Hasbro.
 Dickey Beer
 	Barada. Star Wars, Kenner.
 	Barada. Star Wars The Power of the Force, Kenner/Hasbro.
@@ -476,6 +480,7 @@ Ray Bolger
 	Scarecrow. The Wizard of Oz, Multi Toys.
 Richard Bonehill
 	Nien Nunb. Star Wars, Kenner.
+	Nien Nunb. Star Wars The Power of the Force, Kenner/Hasbro.
 Brian Bonsall
 	Alexander Rozhenko. Star Trek, Playmates.
 Sorrell Booke
@@ -494,6 +499,7 @@ Jeff Bridges
 	Clu. Tron: Legacy, Spinmaster.
 Paul Brooke
 	Rancor Keeper. Star Wars, Kenner.
+	Malakili Rancor Keeper. Star Wars The Power of the Force, Kenner/Hasbro.
 Avery Brooks
 	Benjamin Sisko. Star Trek, Playmates. (7 figures)
 Phil Brown
@@ -503,6 +509,7 @@ Ricou Browning
 	Creature from the Black Lagoon. Universal Monsters Mini-Monsters, Remco. (2 figures)
 Jeremy Bulloch
 	Boba Fett. Star Wars, Kenner.
+	Boba Fett. Star Wars The Power of the Force, Kenner/Hasbro. (2 figures)
 Janice Burchette
 	Nabrun Leids. Star Wars The Power of the Force, Kenner/Hasbro.
 Billie Burke
@@ -535,6 +542,7 @@ Debbie Lee Carrington
 	Romba. Star Wars, Kenner.
 Michael Carter
 	Bib Fortuna. Star Wars, Kenner.
+	Bib Fortuna. Star Wars The Power of the Force, Kenner/Hasbro.
 Ted Cassidy
 	Gorn Captain. Star Trek, Playmates.
 Lon Chaney
@@ -580,6 +588,7 @@ Sean Crawford
 	Saelt-Marae, Yak Face. Star Wars The Power of the Force, Kenner/Hasbro.
 Adeal Crooms
 	Wicket W. Warrick. Star Wars, Kenner.
+	Wicket. Star Wars The Power of the Force, Kenner/Hasbro.
 Denise Crosby
 	Tasha Yar. Star Trek the Next Generation, Galoob.
 	Natasha Yar. Star Trek, Playmates. (3 figures)
@@ -602,6 +611,7 @@ John S. Davies
 	Blastarr Ground Gaurdian. Captain Power and the Soldiers of the Future, Mattel.
 Warwick Davis
 	Wicket W. Warrick. Star Wars, Kenner.
+	Wicket. Star Wars The Power of the Force, Kenner/Hasbro.
 Roxann Dawson
 	B'Elanna Torres. Star Trek, Playmates. (2 figures)
 Jonathan Del Arco
@@ -631,8 +641,11 @@ E
 ~~~~~~
 Marjorie Eaton
 	The Emperor. Star Wars, Kenner.
+	Emperor Palpatine. Star Wars The Power of the Force, Kenner/Hasbro. (6 figures)
 Robert Eddison
 	Grail Knight. Indiana Jones, Hasbro.
+Sadie Eddon
+	Garindan. Star Wars The Power of the Force, Kenner/Hasbro.
 Richard Eden
 	Robocop. Robocop: The Series, Toy Island.
 Walker Edmiston
@@ -672,6 +685,7 @@ Robert Forster
 	Captain Holland. The Black Hole, Mego.
 Ernie Fosselius
 	Rancor Keeper. Star Wars, Kenner.
+	Malakili Rancor Keeper. Star Wars The Power of the Force, Kenner/Hasbro.
 James Frain
 	Jarvis. Tron: Legacy, Spinmaster.
 Jonathan Frakes
@@ -786,6 +800,7 @@ Ben Jones
 	Cooter. The Dukes of Hazzard, Mego.
 James Earl Jones
 	Darth Vader. Star Wars, Kenner.
+	Darth Vader. Star Wars The Power of the Force, Kenner/Hasbro. (8 figures)
 Monty Jordan
 	Weequay. Star Wars, Kenner.
 	Weequay Skiff Guard. Star Wars The Power of the Force, Kenner/Hasbro.
@@ -893,6 +908,7 @@ Hilton McRae
 	Arvel Crynyd. Star Wars The Power of the Force, Kenner/Hasbro.
 Ian McDiarmid
 	The Emperor. Star Wars, Kenner.
+	Emperor Palpatine. Star Wars The Power of the Force, Kenner/Hasbro. (6 figures)
 Roddy McDowall
 	V.I.N.Cent. The Black Hole, Mego.
 Malcolm McDowell
@@ -917,6 +933,7 @@ Harry Morgan
 	Col. Potter. M*A*S*H, Tri-Star.
 Temuera Morrison
 	Boba Fett. Star Wars, Kenner.
+	Boba Fett. Star Wars The Power of the Force, Kenner/Hasbro. (2 figures)
 Diana Muldaur
 	Dr. Katherine Pulaski. Star Trek, Playmates.
 Kate Mulgrew
@@ -987,6 +1004,7 @@ Janos Prohaska
 	The Mugatu. Star Trek, Playmates.
 David Prowse
 	Darth Vader. Star Wars, Kenner.
+	Darth Vader. Star Wars The Power of the Force, Kenner/Hasbro. (8 figures)
 Amrish Puri
 	Mola Ram. Indiana Jones and The Temple of Doom, LJN.
 	Mola Ram. Indiana Jones, Hasbro.
@@ -1008,9 +1026,13 @@ Ke Huy Quan
 David Quilter
 	Fredo. Space Precinct, Vivid Imaginations.
 Mike Quinn
-	Ree-Yees. Star Wars, Kenner.
 	Nien Nunb. Star Wars, Kenner.
+	Nien Nunb. Star Wars The Power of the Force, Kenner/Hasbro.
+	Ree-Yees. Star Wars, Kenner.
+	Ree-Yees. Star Wars The Power of the Force, Kenner/Hasbro.
 	Sy Snootles. Star Wars, Kenner.
+	Sy Snootles. Star Wars The Power of the Force, Kenner/Hasbro.
+	Ten Numb. Star Wars The Power of the Force, Kenner/Hasbro.
 
 R
 ~~~~~~
@@ -1018,6 +1040,7 @@ Michael Rennie
 	Klaatu. The Day the Earth Stood Still, Monstarz.
 Clive Revill
 	The Emperor. Star Wars, Kenner.
+	Emperor Palpatine. Star Wars The Power of the Force, Kenner/Hasbro. (6 figures)
 John Rhys-Davies
 	Sallah. Adventures of Indiana Jones in Raiders of the Lost Ark, Kenner.
 	Sallah. Indiana Jones, Hasbro.
@@ -1036,8 +1059,10 @@ Peter Ross-Murray
 	Nikto. Star Wars The Power of the Force, Kenner/Hasbro.
 Tim Rose
 	Admiral Ackbar. Star Wars, Kenner.
+	Admiral Ackbar. Star Wars The Power of the Force, Kenner/Hasbro.
 Kipsang Rotich
 	Nien Nunb. Star Wars, Kenner.
+	Nien Nunb. Star Wars The Power of the Force, Kenner/Hasbro.
 André the Giant (André René Roussimoff)
 	Bionic Bigfoot. The Six Million Dollar Man, Zica.
 Deep Roy
@@ -1073,7 +1098,9 @@ William Shatner
 	James T. Kirk. Star Trek, Playmates. (11 figures)
 Sebastian Shaw
 	Anakin Skywalker. Star Wars, Kenner.
+	Anakin Skywalker. Star Wars The Power of the Force, Kenner/Hasbro. (2 figures)
 	Darth Vader. Star Wars, Kenner.
+	Darth Vader. Star Wars The Power of the Force, Kenner/Hasbro. (8 figures)
 Wallace Shawn
 	Grand Nagus Zek. Star Trek, Playmates.
 Mark Allen Shepherd
@@ -1088,6 +1115,7 @@ Felix Silla
 	Talosian Keeper. Star Trek, Playmates.
 John Simpkin
 	Klaatu. Star Wars, Kenner. (2 figures)
+	Klaatu. Star Wars The Power of the Force, Kenner/Hasbro.
 Marina Sirtis
 	Deanna Troi. Star Trek, Playmates. (6 figures)
 Klinton Spilsbury
@@ -1155,6 +1183,8 @@ Larry Ward
 	Jabba the Hutt. Star Wars The Power of the Force, Kenner/Hasbro.
 David Warner
 	Sark. Tron (Tomy, Neca).
+John Wayne
+	Garindan. Star Wars The Power of the Force, Kenner/Hasbro.
 Peter Weller
 	Marshall LeFors. Butch & Sundance the Early Days, Kenner.
 Wil Wheaton
@@ -1172,6 +1202,7 @@ Olivia Wilde
 	Quorra. Tron: Legacy, Spinmaster.
 Corey Dee Williams
 	Klaatu. Star Wars, Kenner. (2 figures)
+	Klaatu. Star Wars The Power of the Force, Kenner/Hasbro.
 Billy Dee Williams
 	Lando Calrissian. Star Wars, Kenner. (3 figures)
 	Lando Calrissian. Star Wars The Power of the Force, Kenner/Hasbro. (3 figures)
@@ -1186,6 +1217,7 @@ Paul Winfield
 	Captain Dathon. Star Trek, Playmates.
 Jason Wingreen
 	Boba Fett. Star Wars, Kenner.
+	Boba Fett. Star Wars The Power of the Force, Kenner/Hasbro. (2 figures)
 Maurice Dean Wint
 	Sergeant Scout Baker. Captain Power and the Soldiers of the Future, Mattel.
 Michael Wisher
