@@ -15,7 +15,7 @@
 		~ TNG
 		~ Playmates
 	** G.I. Joe A Real American Hero
-	** ReAction\Super 7
+	** Funko ReAction
 	** Super Heroes
 		~ Mego Comic Action Heroes
 		~ Mego Pocket Super Heroes
@@ -47,7 +47,12 @@
 		~ Micronauts
 		~ The New Adventures of Flash Gordon
 		~ Toy Island Movie Tie-ins
+			-- Rambo
+			-- Robocop
+			-- Terminator 2
 		~ Tron
+		~ Tron Neca
+		~ Tron Real Action Heroes
 		~ Tron: Legacy
 	** Horror
 		~ Burger King Universal Monsters
@@ -102,10 +107,10 @@
 -- Arcade Cabinets
 
 -- Index
-	-- by manufacturer
-	-- by toy line
-	-- by genre
-	-- by media
+	** by manufacturer
+	** by toy line
+	** by genre
+	** by media
 
 -- Toyline
 
