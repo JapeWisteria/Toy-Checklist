@@ -23,7 +23,6 @@
 -- Add View-Master reels connected to each toyline
 -- Add Golden Books connected to each toyline
 -- Add Disney read-along books
--- Add Star Trek trading cards
 
 
 
