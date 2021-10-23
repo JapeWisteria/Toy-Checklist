@@ -1,44 +1,132 @@
 Reaction
-Funko. ????. 1:18 Scale (3.75").
+Funko. 2014-2017. 1:18 Scale (3.75").
 Waves: ?. Figures: ?.
 -----------------------------------------------
 All figures have solid construction.
 
-Reaction figures are made to resemble vintage 70s 5 POA figures, but are based on both modern and vintage movie and television franchises. Funko started the line in ????, and the brand was transferred to Super7 in ????. This list only covers Funko-issued Reaction figures.
+Reaction figures are made to resemble vintage 70s 5 POA figures, but are based on both modern and vintage movie and television franchises. Funko started the line in 2014, and the brand was transferred to Super7 in 2018. This list only covers Funko-issued Reaction figures.
 
 Because Reaction has so many sub-lines, the list is organized in this way, alphabetically by franchise.
 
 TODO:
-Alien
-Arrow
-Buffy
-The Dark Crystal
-Escape from New York
-Flash
-Predator
-Rocketeer
-Star Trek
+Aliens
+The Golden Girls
+Rocky Horror Picture Show
+Street Fighter II
 Teen Wolf
-Texas Chainsaw Massacre
-Tomorrowland
 Toxic Avenger ??
-Universal Monsters
 
 Batman66
 Suicide Squad
 Ready Player One
 
 
+
+
+Alien 2013-2015
+~~~~~~
+Funko released the first wave exclusively at SDCC with blue cards. The clear alien and alien/Kane prototypes were never released on regular cards.
+Alien And Kane Prototypes - 2013 SDCC
+	These figures were molded in beige plastic without paint applications.
+	Head dome
+Alien
+	Head dome
+Alien clear - 2013 SDCC
+	The clear alien was also released inside an egg as a random assortment of 'mystery' figures.
+	Head dome
+Alien glitter
+	This figure was released exclusively inside an egg as a random assortment of 'mystery' figures.
+	Head dome
+Alien metallic
+	Head dome
+Alien Glow in the dark 2016
+	This figure was a pack-in with an Alien-themed figure carry case.
+	Head dome
+Ash Flight suit
+	Motion tracker
+Dallas Flight suit
+	Flamethrower
+Kane Nostromo Space Suit
+Kane Chestburster
+Kane Chestburster clear
+	This figure was released exclusively inside an egg as a random assortment of 'mystery' figures.
+Kane Chestburster glitter
+	This figure was released exclusively inside an egg as a random assortment of 'mystery' figures.
+Kane Facehugger
+	Facehugger
+Ripley Flight suit
+	Flamethrower
+Ripley Flight suit clear
+	This figure was released exclusively inside an egg as a random assortment of 'mystery' figures.
+	Flamethrower
+Ripley Flight suit glitter
+	This figure was released exclusively inside an egg as a random assortment of 'mystery' figures.
+	Flamethrower
+Ripley spacesuit
+	Helmet
+Ripley spacesuit clear
+	This figure was released exclusively inside an egg as a random assortment of 'mystery' figures.
+	Helmet
+Ripley spacesuit glitter
+	This figure was released exclusively inside an egg as a random assortment of 'mystery' figures.
+	Helmet
+Nostromo Crew (Dallas, Kane, Lambert) - 2015
+	All 3 figures were released in a 3-pack together.
+	Dallas pink spacesuit
+	Kane yellow spacesuit
+	Lambert blue spacesuit
+
+
+Aliens 2016
+~~~~~~
+
+
+
+
+Arrow 2015
+~~~~~~
+Arrow masked
+	Bow
+Arrow unmasked with hood up
+	Bow
+Arrow unmasked - 2015 San Diego Comic-Con
+	Bow
+Black Canary
+	Staff
+Dark Archer
+	Bow
+Deathstroke
+	Sword
+Deathstroke Unmasked - Gamestop 2015
+	Sword
+John Diggle Arrow costume - Barnes and Noble 2015
+	Bow
+
+
+Back to the Future 2014
+~~~~~~
+Biff Tannen
+Doc Brown
+	RC remote
+George McFly
+Marty McFly
+	Skateboard
+Marty McFly and Einstein
+	This figure was released on a Japanese-language card.
+	Einstein
+
+
 Big Trouble in Little China 2015
 ~~~~~~
-Jack Burton
-	Submachine gun, knife
 Gracie Law
 	Crown
+Jack Burton
+	Submachine gun, knife
 Lightning
 	2 double-bladed knives
 Lo Pan
 	Sewer spy
+Lo Pan Ghost - PX Previews 2015
 Rain
 	2 fighting rakes
 Thunder
@@ -70,6 +158,50 @@ Walter White (Cook)
 	Gas mask, beaker
 
 
+Buffy the Vampire Slayer 2014
+~~~~~~
+Angel
+Buffy
+	Vampire stake
+Oz
+	Guitar
+Spike
+The Gentleman
+Willow Rosenberg
+
+
+The Dark Crystal
+~~~~~~
+Landstrider and Jen - 2016 San Diego Comic-Con
+	Slingshot
+
+
+Escape from New York 2014
+~~~~~~
+Snake Plissken
+	Machine gun, pistol
+Snake Plissken w Jacket
+	Machine gun, pistol
+
+
+The Fifth Element 2015
+~~~~~~
+Diva Plavalaguna
+	Water element
+Korben Dallas
+	Pistol, Earth element
+Leeloo
+	Multipass, Air element
+Leeloo Straps
+	Pistol, Fire element
+Mangalore
+	Alien gun, pistol
+Ruby Rhod
+	Microphone cane
+Zorg
+	ZF1 gun
+
+
 Fight Club 2016
 ~~~~~~
 Marla Singer
@@ -78,7 +210,36 @@ Tyler Durden
 Shirtless Tyler Durden
 
 
-The Goonies 2016
+Firefly 2014
+~~~~~~
+Hoban Washburne
+	2 toy dinosaurs (red and blue)
+Jayne Cobb
+	Rifle, pistol
+Jayne Cobb with hat - 2014 San Diego Comic-Con
+	Rifle, pistol
+Kaylee Frye
+	Wrench
+Malcolm Reynolds
+	Pistol
+Malcolm Reynolds Blue Shirt
+	Lever-action rifle
+Malcolm Reynolds coat - 2014 San Diego Comic-Con
+	Pistol, cloth trenchcoat
+Zoe Washburne
+	Lever-action rifle
+
+
+The Flash 2015
+~~~~~~
+Captain Cold
+	Cold pistol
+The Flash Unmasked - 2015 San Diego Comic-Con
+The Flash masked
+Reverse Flash
+
+
+The Goonies 2014
 ~~~~~~
 Chunk
 	Baby Ruth Chocolate Bar
@@ -112,18 +273,27 @@ Mogwai Stripe
 	Desktop video arcade game
 
 
-Horror Series 2014
+Horror Series 2014-2016
 ~~~~~~
-Eric Draven - The Crow
+Eric Draven (The Crow)
 	Church steeple
-Freddy Krueger - A Nightmare on Elm Street
-Jason Voorhees - Friday the 13th
+Freddy Krueger (A Nightmare on Elm Street)
+	Hat
+Freddy Krueger NES (A Nightmare on Elm Street) - Toy Tokyo NYCC
+	Hat
+Ghost Face (Scream)
+	Knife
+Jason Voorhees (Friday the 13th)
 	Machete
-Michael Myers - Halloween
+Jason Voorhees Bloody (Friday the 13th) - Super7 NYCC 2016
+	Machete
+Jason Voorhees NES (Friday the 13th) - Toy Tokyo NYCC
+	Machete
+Michael Myers (Halloween)
 	Kitchen knife
-Pinhead - Hellraiser
+Pinhead (Hellraiser)
 	Puzzle box
-Sam - Trick 'r Treat
+Sam (Trick 'r Treat)
 	Half-eaten halloween sucker
 
 
@@ -145,17 +315,19 @@ Karate Kid 2015
 ~~~~~~
 Ali Mills
 	Boombox
-Daniel LaRusso - Street Clothes
+Daniel LaRusso Street Clothes
 	Paint brush, paint bucket
-Daniel LaRusso - Karate Uniform
+Daniel LaRusso Karate Uniform
 	Trophy
-Johnny Lawrence
 John Kreese
+Johnny Lawrence
 Mr. Miyagi
+	Bonsai tree
+Mr. Miyagi with headband
 	Bonsai tree
 
 
-Nightmare Before Christmas 2014
+Nightmare Before Christmas 2014-2015
 ~~~~~~
 Barrel
 	Doll
@@ -169,39 +341,99 @@ Jack Skellington - Happy
 	Book
 Jack Skellington - Surprised
 	Book
-Jack Skellington (2014 San Diego Comic-Con exclusive)
+Jack Skellington - 2014 San Diego Comic-Con
 	Zero
+Jack Skellington in pumpkin - 2015 San Diego Comic-Con
+	This figure came in a blow-molded jack-o-lantern, and was made in orange plastic and paint applications.
 Mayor
 	Bullhorn, scroll
 Sally
 	Spoon, bucket
+Sally in pumpkin - 2015 San Diego Comic-Con
+	This figure came in a blow-molded jack-o-lantern, and was made in orange plastic and paint applications.
 
 
-Pulp Fiction 2014
+Predator 2014-2015
+~~~~~~
+Predator clear masked
+Predator clear masked with blood damage - 2014 San Diego Comic-Con
+Predator open mouth
+Predator closed mouth
+Predator masked
+Predator Arcade masked - 2015
+Predator Glow in the dark masked - Entertainment Earth 2015
+Predator Thermal Vision - Toys r Us 2015
+
+
+Pulp Fiction 2014-2015
 ~~~~~~
 Butch Coolidge
 	Samurai Sword
 The Gimp
+	The Gimp was released carded in 2015, and as an exclusive in a crate in 2014.
 Jimmie Dimmick
 	Coffee Mug
 Jules Winnifield
+	Pistol
+Jules Winnifield bloody - 2014 San Diego Comic-Con
 	Pistol
 Marsellus Wallace
 	Pistol
 Mia Wallace
 Vincent Vega
 	Pistol
+Vincent Vega bloody - 2014 San Diego Comic-Con
+	Pistol
 The Wolf
 	Coffee Mug
 
 
-Funko Taxi Driver 2015
+
+The Rocketeer 2014
+~~~~~~
+Rocketeer
+	Helmet, rocket pack
+Rocketeer black and white - 2014 San Diego Comic-Con
+	Helmet, rocket pack
+
+
+Scarface 2015
+~~~~~~
+Tony Montana
+	M-16 with grenade launcher
+
+
+Star Trek 2015
+~~~~~~
+Dr. McCoy
+	Tricorder
+Gorn
+	Club
+Kirk
+	Phaser
+Kirk Transporting - Entertainment Earth
+	Phaser
+Scotty
+	Phaser
+Spock
+	Tricorder
+Spock Transporting - Entertainment Earth
+	Tricorder
+Sulu
+	Phaser
+Uhura
+	Communicator
+Vina
+
+
+
+Taxi Driver 2015
 ~~~~~~
 Travis Bickle
 	Revolver, pistol
 
 
-The Terminator 2016
+The Terminator 2014-2016
 ~~~~~~
 Kyle Reese
 	Shotgun, revolver, cloth trenchcoat
@@ -220,6 +452,10 @@ John Connor
 	Terminator arm, mini-computer
 Sarah Connor
 	M-16, shotgun
+Sarah Connor Sunglasses and hat
+	M-16, shotgun
+T1000 Officer
+	Pistol
 T1000 Officer Chrome
 T1000 Patrolman
 	Submachine gun
@@ -228,16 +464,55 @@ T1000 Frozen Patrolman Chrome - 2015 New York Comic Con exclusive
 T1000 Final Battle - Entertainment Earth
 T1000 Final Battle chest injuries - Entertainment Earth
 	Pistol
-T1000 w/ Hook Arms - 2015 San Diego Comic-Con
-T1000 w/ Hole in Head - 2016 San Diego Comic-Con
+T1000 Officer w/ Hook Arms - 2015 San Diego Comic-Con
+T1000 Officer w/ Hole in Head - 2016 San Diego Comic-Con
 	Pistol
-Terminator w/ Grenade Launcher - Toy Tokyo
+T800
+	Shotgun, pistol
+T800 w/ Grenade Launcher - Toy Tokyo
 	Grenade launcher, grenade belt
 
 
+The Texas Chainsaw Massacre 2014
+~~~~~~
+Leatherface
+	Chainsaw
 
 
+Tomorrowland 2014-2015
+~~~~~~
+Athena
+	Ray gun
+Casey Newton
+	Ray gun
+Dave Clark
+	Hand device
+David Nix
+	Hand device
+Frank Walker
+	Hand device
+Young Frank Walker - 2014 NYCC
+	Jetpack
 
+
+Universal Monsters 2014
+~~~~~~
+Super7 re-issued the Universal Monsters line with completely new figure sculpts, along with a larger roster of monsters.
+Bride of Frankenstein
+Creature from the Black Lagoon
+Creature from the Black Lagoon Black And White - NYCC 2014
+Creature from the Black Lagoon Glow in the dark
+Dracula
+Frankenstein
+Frankenstein Black and White - NYCC 2015
+The Invisible Man
+The Invisible Man clear - Entertainment Earth 2015
+The Mummy
+The Mummy Glows In The Dark
+Phantom of the Opera
+The Wolfman
+The Wolfman Black and White - NYCC 2014
+The Wolfman Flocked - Toy Tokyo 2015
 
 
 
