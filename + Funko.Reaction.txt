@@ -1,6 +1,6 @@
 Reaction
 Funko. 2014-2017. 1:18 Scale (3.75").
-Waves: ?. Figures: ?.
+Waves: 35. Figures: 241.
 -----------------------------------------------
 All figures have solid construction.
 
@@ -9,26 +9,19 @@ Reaction figures are made to resemble vintage 70s 5 POA figures, but are based o
 Because Reaction has so many sub-lines, the list is organized in this way, alphabetically by franchise.
 
 TODO:
-Aliens
-The Golden Girls
-Rocky Horror Picture Show
-Street Fighter II
-Teen Wolf
-Toxic Avenger ??
-
 Batman66
 Suicide Squad
 Ready Player One
 
 
-
-
-Alien 2013-2015
+Alien 2013-2015 (23)
 ~~~~~~
 Funko released the first wave exclusively at SDCC with blue cards. The clear alien and alien/Kane prototypes were never released on regular cards.
 Alien And Kane Prototypes - 2013 SDCC
 	These figures were molded in beige plastic without paint applications.
-	Head dome
+	Alien unpainted
+		Head dome
+	Kane unpainted
 Alien
 	Head dome
 Alien clear - 2013 SDCC
@@ -77,13 +70,17 @@ Nostromo Crew (Dallas, Kane, Lambert) - 2015
 	Lambert blue spacesuit
 
 
-Aliens 2016
+Aliens 2016 (3)
 ~~~~~~
+Alien Queen white and bloody - NYCC 2016
+	This figure came in a white "biohazard" bag
+Ripley, Power loader, and Alien Queen
+	Packaged together as a box set.
+	Ripley with power loader
+	Alien Queen
 
 
-
-
-Arrow 2015
+Arrow 2015 (8)
 ~~~~~~
 Arrow masked
 	Bow
@@ -103,7 +100,7 @@ John Diggle Arrow costume - Barnes and Noble 2015
 	Bow
 
 
-Back to the Future 2014
+Back to the Future 2014 (5)
 ~~~~~~
 Biff Tannen
 Doc Brown
@@ -116,7 +113,7 @@ Marty McFly and Einstein
 	Einstein
 
 
-Big Trouble in Little China 2015
+Big Trouble in Little China 2015 (7)
 ~~~~~~
 Gracie Law
 	Crown
@@ -133,7 +130,7 @@ Thunder
 	2 knives with bladed sickle handles
 
 
-Boondock Saints 2015
+Boondock Saints 2015 (2)
 ~~~~~~
 Connor MacManus
 	Pistol with silencer
@@ -141,7 +138,7 @@ Murphy MacManus
 	Pistol with silencer
 
 
-Breaking Bad 2015
+Breaking Bad 2015 (7)
 ~~~~~~
 Gustavo Fring
 	Drug vial
@@ -158,7 +155,7 @@ Walter White (Cook)
 	Gas mask, beaker
 
 
-Buffy the Vampire Slayer 2014
+Buffy the Vampire Slayer 2014 (6)
 ~~~~~~
 Angel
 Buffy
@@ -170,13 +167,30 @@ The Gentleman
 Willow Rosenberg
 
 
-The Dark Crystal
+The Dark Crystal 2016 (9)
 ~~~~~~
-Landstrider and Jen - 2016 San Diego Comic-Con
-	Slingshot
+Aughra
+	Crystal fragment
+Jen
+	Crystal base
+Kira & Fizzgig
+	Crystal fragment, Fizzgig
+The Chamberlain Skeksis
+	Crystal fragment
+UrSol the Mystic
+	Crystal fragment, wooden staff
+Landstrider and Jen - San Diego Comic-Con 2016
+	Landstrider
+	Jen
+		Slingshot
+The Garthim - Toys r Us (individually) 2017 and NYCC (with Kira Winged) 2017
+	This figure was available individually or packaged together with Kira Winged.
+Kira Winged - NYCC 2017
+	Kira Winged came exclusively packaged in a box set with the Garthim.
+	Fizzgig
 
 
-Escape from New York 2014
+Escape from New York 2014 (2)
 ~~~~~~
 Snake Plissken
 	Machine gun, pistol
@@ -184,7 +198,20 @@ Snake Plissken w Jacket
 	Machine gun, pistol
 
 
-The Fifth Element 2015
+E.T. The Extra-Terrestrial 2017 (4)
+~~~~~~
+Boxed set (E.T., Elliott, & Gertie)
+	E.T.
+		Speak and Spell
+	Elliott
+		Candy bag
+	Gertie
+		Doll
+E.T. Glows in The Dark - Entertainment Earth
+	Flower pot
+
+
+The Fifth Element 2015 (7)
 ~~~~~~
 Diva Plavalaguna
 	Water element
@@ -202,7 +229,7 @@ Zorg
 	ZF1 gun
 
 
-Fight Club 2016
+Fight Club 2016 (4)
 ~~~~~~
 Marla Singer
 Narrator
@@ -210,7 +237,7 @@ Tyler Durden
 Shirtless Tyler Durden
 
 
-Firefly 2014
+Firefly 2014 (8)
 ~~~~~~
 Hoban Washburne
 	2 toy dinosaurs (red and blue)
@@ -230,7 +257,7 @@ Zoe Washburne
 	Lever-action rifle
 
 
-The Flash 2015
+The Flash 2015 (4)
 ~~~~~~
 Captain Cold
 	Cold pistol
@@ -239,7 +266,18 @@ The Flash masked
 Reverse Flash
 
 
-The Goonies 2014
+The Golden Girls 2016 (4)
+~~~~~~
+All 4 figures came in a single box as a NYCC exclusive
+Rose
+Dorothy
+Blanche
+	Purse with strap
+Sophia
+	Handbag
+
+
+The Goonies 2014 (6)
 ~~~~~~
 Chunk
 	Baby Ruth Chocolate Bar
@@ -255,7 +293,7 @@ Sloth (Superman shirt) 2014 San Diego Comic-Con
 	Pirate Hat
 
 
-Gremlins 2015
+Gremlins 2015 (7)
 ~~~~~~
 Bandit Gremlin
 	Revolver
@@ -273,7 +311,7 @@ Mogwai Stripe
 	Desktop video arcade game
 
 
-Horror Series 2014-2016
+Horror Series 2014-2016 (10)
 ~~~~~~
 Eric Draven (The Crow)
 	Church steeple
@@ -297,7 +335,7 @@ Sam (Trick 'r Treat)
 	Half-eaten halloween sucker
 
 
-Jaws 2015
+Jaws 2015 (6)
 ~~~~~~
 Chief Brody
 	Rifle
@@ -308,10 +346,12 @@ Quint
 Great White Shark
 	Gas tank
 Bloody Quint and Shark - 2015 San Diego Comic-Con
-	Machete
+	Shark
+	Quint
+		Machete
 
 
-Karate Kid 2015
+Karate Kid 2015 (7)
 ~~~~~~
 Ali Mills
 	Boombox
@@ -327,7 +367,7 @@ Mr. Miyagi with headband
 	Bonsai tree
 
 
-Nightmare Before Christmas 2014-2015
+Nightmare Before Christmas 2014-2016 (18)
 ~~~~~~
 Barrel
 	Doll
@@ -351,9 +391,23 @@ Sally
 	Spoon, bucket
 Sally in pumpkin - 2015 San Diego Comic-Con
 	This figure came in a blow-molded jack-o-lantern, and was made in orange plastic and paint applications.
+Clown with the Tearaway Face
+	Display stand with unicycle
+Oogie Boogie
+	Doll's leg
+Oogie Boogie Glows In The Dark
+	Spider
+Pumpkin King Jack
+	Torch
+Santa Jack
+	Toy sack, drawing board
+Shock
+	Bone slingshot, jack in the box
+Wolfman
+	Double-handed tree saw
 
 
-Predator 2014-2015
+Predator 2014-2015 (8)
 ~~~~~~
 Predator clear masked
 Predator clear masked with blood damage - 2014 San Diego Comic-Con
@@ -365,7 +419,7 @@ Predator Glow in the dark masked - Entertainment Earth 2015
 Predator Thermal Vision - Toys r Us 2015
 
 
-Pulp Fiction 2014-2015
+Pulp Fiction 2014-2015 (10)
 ~~~~~~
 Butch Coolidge
 	Samurai Sword
@@ -388,8 +442,7 @@ The Wolf
 	Coffee Mug
 
 
-
-The Rocketeer 2014
+The Rocketeer 2014 (2)
 ~~~~~~
 Rocketeer
 	Helmet, rocket pack
@@ -397,13 +450,28 @@ Rocketeer black and white - 2014 San Diego Comic-Con
 	Helmet, rocket pack
 
 
-Scarface 2015
+Rocky Horror Picture Show 2016 (6)
+~~~~~~
+Brad Majors
+Columbia
+	Gold top hat
+Dr. Frank-N-Furter
+	Plastic cape
+Janet Weiss
+	Handbag
+Magenta
+	Feather duster
+Riff Raff
+	Bloody towel
+
+
+Scarface 2015 (1)
 ~~~~~~
 Tony Montana
 	M-16 with grenade launcher
 
 
-Star Trek 2015
+Star Trek 2015 (10)
 ~~~~~~
 Dr. McCoy
 	Tricorder
@@ -426,14 +494,21 @@ Uhura
 Vina
 
 
+Street Fighter II 2016 (3)
+~~~~~~
+This line was continued by Super7 in 2018.
+Ken
+Ryu Brown Gloves
+Ryu Red Gloves
 
-Taxi Driver 2015
+
+Taxi Driver 2015 (1)
 ~~~~~~
 Travis Bickle
 	Revolver, pistol
 
 
-The Terminator 2014-2016
+The Terminator 2014-2016 (6)
 ~~~~~~
 Kyle Reese
 	Shotgun, revolver, cloth trenchcoat
@@ -446,7 +521,7 @@ T800 The Terminator (punk clothes)
 	Uzi, pistol with laser sights
 
 
-Terminator 2: Judgment Day 2015-2016
+Terminator 2: Judgment Day 2015-2016 (14)
 ~~~~~~
 John Connor
 	Terminator arm, mini-computer
@@ -473,13 +548,13 @@ T800 w/ Grenade Launcher - Toy Tokyo
 	Grenade launcher, grenade belt
 
 
-The Texas Chainsaw Massacre 2014
+The Texas Chainsaw Massacre 2014 (1)
 ~~~~~~
 Leatherface
 	Chainsaw
 
 
-Tomorrowland 2014-2015
+Tomorrowland 2014-2015 (6)
 ~~~~~~
 Athena
 	Ray gun
@@ -495,13 +570,15 @@ Young Frank Walker - 2014 NYCC
 	Jetpack
 
 
-Universal Monsters 2014
+Universal Monsters 2014 (16)
 ~~~~~~
 Super7 re-issued the Universal Monsters line with completely new figure sculpts, along with a larger roster of monsters.
 Bride of Frankenstein
 Creature from the Black Lagoon
 Creature from the Black Lagoon Black And White - NYCC 2014
 Creature from the Black Lagoon Glow in the dark
+Creature from the Black Lagoon Glows In The Dark - NYCC 2016
+	This version has a different paint application from the previous glow in the dark figure.
 Dracula
 Frankenstein
 Frankenstein Black and White - NYCC 2015
@@ -513,7 +590,4 @@ Phantom of the Opera
 The Wolfman
 The Wolfman Black and White - NYCC 2014
 The Wolfman Flocked - Toy Tokyo 2015
-
-
-
 

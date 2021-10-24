@@ -96,6 +96,7 @@
 	** MOTU/She-Ra Mini-Comics
 	** Amurol Bubble Funnies
 	** Starlog Photo Guidebooks
+	** Terran Trade Authority
 	** The How and Why Wonder Books
 	** Fantasy Book Series
 
@@ -109,8 +110,9 @@
 -- Index
 	** by manufacturer
 	** by toy line
-	** by genre
 	** by media
+	** Actors
+	** GI Joe Indexes
 
 -- Toyline
 
