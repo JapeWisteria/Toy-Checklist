@@ -90,6 +90,9 @@
 		~ Mork and Mindy
 		~ The Six Million Dollar Man
 		~ The Wizard of Oz
+	** Civilians
+		~ Fisher Price Adventure People
+		~ Tonka Play People
 
 -- Books
 	** Golden Books
