@@ -16,6 +16,9 @@ Dapol
 Ertl
 	Star Trek III, 1984.
 
+Fisher-Price
+	Adventure People, 1975-1985.
+
 Funko.
 	Reaction, 2013-2017.
 
@@ -119,6 +122,7 @@ Tomy
 	Tron, 1981.
 
 Tonka
+	Play People, 1979-1981.
 	Super Naturals, 1987.
 
 Toy Biz
@@ -154,6 +158,8 @@ Toy Lines
 A-Team. Galoob, 1984
 
 Advanced Dungeons & Dragons. LJN, 1983-84.
+
+Adventure People, Fisher-Price, 1975-1985.
 
 Battle of the Planets. Popy, 1979.
 
@@ -224,6 +230,8 @@ Metal-Man. Zee Toys/Zylmex, 1976-1980.
 Micronauts. Mego, 1976-1981.
 
 Mork and Mindy. Mattel, 1980.
+
+Play People. Tonka, 1979-1981.
 
 Pocket Super Heroes. Mego, 1979-80.
 

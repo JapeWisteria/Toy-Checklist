@@ -3,7 +3,7 @@
 
 -- Table of Contents
 
--- Toys
+-- Action Figures
 	** Star Wars
 		~ Kenner ANH/ESB/RTJ/PotF
 		~ Kenner Droids
