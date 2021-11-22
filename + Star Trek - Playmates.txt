@@ -84,23 +84,38 @@ Captain Dathon (E: Darmok TNG 5/2) [Paul Winfield]
 Captain Jean-Luc Picard, Season One [Patrick Stewart]
 	Type 1 hand phaser, tricorder, personal view screen, PADD
 Lt. Commander Data in First Season Uniform [Brent Spiner]
+	Type II hand phaser, tricorder, diagnostic unit with monitor, 2 android access panels built into figure
 Commander Riker in S1 Uniform (same as 1992 figure with uniform rips painted over) [Jonathan Frakes]
+	Type II hand phaser, tricorder, directional UV source, away team field kit, analyzer
 Lt. (JG) Worf in 1st Season Uniform [Michael Dorn]
+	Type II hand phaser, tricorder, bat'leth, Klingon combat blade, Klingon sword
 Lt. (JG) La Forge in 1st Season Uniform [LeVar Burton]
+	Type II hand phaser, tricorder, 2 bio-engineering tools, dilithium crystals, away team portable computer gear
 Deanna Troi, Season 2 red Outfit [Marina Sirtis]
+	Tricorder, PADD, portable computer gear, desktop viewer
 Borg, Ver. 2 with chrome arm |Trooper|
+	Multifunctional rotation arm, shield generation coils, hydraulic mechanical ram arm, 2 hoses (attach to various limbs)
 
 Deep Space Nine : Series 1 (9)
 ******
 Commander Ben Sisko [Avery Brooks]
+	Type II hand phaser, PADD, DS9 monitor, Bajoran Orb case
 Odo [René Auberjonois]
+	Bajoran PADD, Bajoran tricorder, bucket sleeping chamber, DS9 monitor
 Chief Miles O'Brien [Colm Meaney]
+	Type II hand phaser, engineering kit, laser drill, fire extinguisher
 Quark [Armin Shimerman]
+	Staff of the Nagus, reptilian pet, 2 gold press latinum bars, bottle, Ferengi disruptor
 Lt. Jadzia Dax [Terry Farrell]
+	Tricorder, trill, bio sample collector, hypospray, portable computer gear
 Major Kira Nerys [Nana Visitor]
+	Bajoran pistol, Bajoran tricorder, duffle bag, Bajoran PADD
 Dr. Julian Bashir [Alexander Siddig]
+	Medical kit, medical tricorder, PADD, DNA scanner, Type II hand phaser
 Commander Gul Dukat [Marc Alaimo]
+	Cardassian pistol, Cardassian rifle, Cardassian field control unit, Cardassian PADD
 Morn [Mark Allen Shepherd]
+	Laser pistol, 2 pyramid dice, 2 latinum bars, glass
 
 
 1994
@@ -109,13 +124,21 @@ Morn [Mark Allen Shepherd]
 The Next Generation: Series 3 (18)
 ******
 Lt. Commander Data as a Romulan (E: Unification TNG 5/7+8) [Brent Spiner]
+	Phaser rifle, Klingon monitor, Type II phaser, Romulan PADD
 Lt. Commander Geordi as Tarchannen III Alien (E: Identity Crisis TNG 4/18) [LeVar Burton]
+	Searchlight, field kit, UV light source module, medical monitor
 Captain Picard as a Romulan (E: Unification TNG 5/7+8) [Patrick Stewart]
+	Romulan bowl, Romulan disguise kit, Romulan phaser, Romulan PADD
 Commander Riker as a Malcorian (E: First Contact TNG 4/15) [Jonathan Frakes]
+	Malcorian medical scanner, Malcorian syringe, Type II phaser, Malcorian monitor
 Deanna Troi, Season 6 duty uniform [Marina Sirtis]
+	Starfleet monitor, portable computer gear, PADD, tricorder
 Hugh of Borg [Jonathan Del Arco]
+	mechanical right hand, mechanical telescoping right arm, grey hose, scanner device, power regulator
 Lt. Worf in Rescue Outfit (E: Birthright TNG 6/16+17) [Michael Dorn]
+	Backpack, Klingon spear and ring, explosive charge, homing device
 Dr. Noonian Soong [Brent Spiner]
+	Miniature android, sub-processor, surgical tool, crystalline test tubes
 Q in Judge's Robes [John de Lancie]
 Lt. Reginald Barclay [Dwight Schultz]
 Ensign Ro Laren [Michelle Forbes]
