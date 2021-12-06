@@ -486,13 +486,18 @@ Kang (E: Blood Oath DS9 2/19) [Michael Ansara]
 Warp Factor : Series 5 (4)
 ******
 Kirk (E: City on the Edge of Forever TOS 1/28) [William Shatner]
+	Kettle, coffee mug, TOS phaser
 Spock (E: City on the Edge of Forever TOS 1/28) [Leonard Nimoy]
+	Coffee mug, primitive computer, row of vacuum tubes
 Seven of Nine (E: The Gift VOY 4/2) [Jeri Ryan]
+	Scanner, power regulator, Borg alcove
 Borg Queen (ST:First Contact) [Alice Krige]
+	The figure separates at the neck, as seen in the film.
+	Mechanical arm, power regulator, scanner
 
 Transporter Series TOS (5)
 ******
-These figures came with a light-up base and were molded in semi-transparent plastic. All figures are in original series uniforms.
+These figures came with a light-up base and were molded in semi-transparent plastic. All figures are in original series uniforms. Beyond the base, none of the figures had accessories.
 Transporting Kirk [William Shatner]
 Transporting McCoy [DeForest Kelley]
 Transporting Spock [Leonard Nimoy]
@@ -501,7 +506,7 @@ Transporting Scotty [James Doohan]
 
 Transporter Series TNG (5)
 ******
-These figures came with a light-up base and were molded in semi-transparent plastic.
+These figures came with a light-up base and were molded in semi-transparent plastic. Beyond the base, none of the figures had accessories.
 Transporting Picard [Patrick Stewart]
 Transporting Data [Brent Spiner]
 Transporting Worf [Michael Dorn]
@@ -514,39 +519,55 @@ Exclusives and Mail-Aways, all years
 
 JC Penny 1993
 ******
-Cmdr Data in red TNG uniform [Brent Spiner]
+Cmdr Data in red TNG uniform (E: Redemption TNG 4/26+5/1) [Brent Spiner]
+	Data never wore a red uniform in Redemption, despite the package listing.
+	Portable tractor beam, tricorder, Starfleet science kit, hand laser
 
 Spencer's 1996-1997 (10,000 each)
 ******
 Lt. Scott Spencer Exclusive (E: Pilot Where No Man Has Gone Before TOS 1/3) 1996 [James Doohan]
+	TOS tricorder, TOS phaser, TOS communicator
 Lt. Hikaru Sulu (E: Pilot Where No Man Has Gone Before TOS 1/3) 1996 [George Takei]
+	TOS tricorder, TOS phaser, TOS communicator
 Lt. Commander Jadzia Dax Dress Uniform 1997 [Terry Farrell]
+	Type II hand phaser, Risaen perfume, Zhian'tara pitcher, Zhian'tara candle
 Security Officer Neelix 1997 [Ethan Phillips]
+	PADD, Type II hand phaser, SIMS beacon, cooking pan
 
 Playmates Exclusives
 ******
 Cmdr Sisko TNG uniform (4,000) 1995 [Avery Brooks]
-	Mail-away from Deep Space Nine: Crossroads of Time NES cartridge
+	Mail-away from Deep Space Nine: Crossroads of Time NES cartridge.
+	No accessories
 Worf Klingon Uniform (40,000) 1997 [Michael Dorn]
 	Came with Return to Grace VHS collection
+	No accessories
 Trifold Borg 1996 |Trooper|
 	Distributed to Viacom employees and partners
+	No accessories
 
 New Force Comics
 ******
 Kathryn Janeway TOS movie uniform (E: Flashback VOY 3/2) (10,000) [Kate Mulgrew]
+	Type II hand phaser
 
 Star Trek Fan Club
 ******
 Captain Mackenzie Calhoun
+	Sword
 
 Toyfare
 ******
-Captain Picard TNG science uniform (E: Tapestry TNG 6/15) [Patrick Stewart]
+Lieutenant Picard TNG science uniform (E: Tapestry TNG 6/15) [Patrick Stewart]
+	Type II hand phaser
 Lt. Commander Geordi as Tarchannen III Alien (blue translucent) (E: Identity Crisis TNG 4/18) [LeVar Burton]
+	UV light source
 Transporting Natasha Yar [Denise Crosby]
+	No accessories and no electronic base.
 Mr. Spock environmental suit (E: The Tholian Web TOS 3/9) [Leonard Nimoy]
+	TOS tricorder
 Kirk in gangster outfit (E: A Piece of the Action TOS 2/17) [William Shatner]
+	TOS communicator
 
 Target
 ******
@@ -558,12 +579,19 @@ TOS Transporter series (10,000 each) 1998-99
 
 ST:TNG Movies (10,000 each) 1999
 - First Contact Picard [Patrick Stewart]
+	Type II hand phaser, tricorder, phaser compression rifle, borg scanner
 - First Contact Worf [Michael Dorn]
+	Bat'leth, Dk'tahg knife, tricorder
 - First Contact Data [Brent Spiner]
+	Type II hand phaser without beam, tricorder, test cylinder, laser drill
 
 Starfleet Command Series (10,000) 1999
 - Seven of Nine silver outfit [Jeri Ryan]
+	Phaser rifle, scanner, desktop monitor
+- Seven of Nine purple outfit [Jeri Ryan]
+	Borg scanner
 - Seven of Nine blue outfit (international release) [Jeri Ryan]
+	Engineering diagnostic, Type II hand phaser, PADD, laser drill
 
 
 Box sets, all years
@@ -572,12 +600,19 @@ Box sets, all years
 Star Trek Bridge Set TOS 1993
 ******
 Captain Kirk [William Shatner]
+	TOS communicator, TOS phaser
 Mr. Spock [Leonard Nimoy]
+	TOS communicator, TOS phaser
 Ensign Chekov [Walter Koenig]
+	TOS communicator, TOS phaser
 Lt. Sulu [George Takei]
+	TOS communicator, TOS phaser
 Lt. Uhura [Nichelle Nichols]
+	TOS communicator, TOS phaser
 Lt. Cmdr Scott [James Doohan]
+	TOS communicator, TOS phaser
 Dr. McCoy [DeForest Kelley]
+	TOS communicator, TOS phaser
 
 1701 Set 1998
 ******
@@ -593,21 +628,25 @@ Holodeck Twin Packs (E: Clues TNG 4x14)
 ******
 Captain Picard as Dixon Hill brown suit [Patrick Stewart]
 Guinan as Gloria [Whoopi Goldberg]
+	Fur scarf
 
 Holodeck Twin Packs (E: A Fistful of Datas TNG 6/08)
 ******
+These figures had different sculpts or paint applications then the original figures. No accessories.
 Lt. Cmdr Data in western attire [Brent Spiner]
 Sheriff Worf (re-issue) [Michael Dorn]
 Alexander Rozhenko (re-issue) [Jon Steuer, Brian Bonsall]
 
 Aliens Twin Packs (E: Corbomite Maneuver TOS 1/10)
 ******
+No accessories came with these figures.
 Balok [Clint Howard, Walker Edmiston]
 Balok's Puppet
 Captain Kirk (re-issue) [William Shatner]
 
 Aliens Twin Packs (E: Scorpion VOY 3/26 4/1)
 ******
+No accessories came with these figures.
 Ensign Harry Kim wounded [Garrett Wang]
 Species 8472 |Trooper|
 
@@ -618,11 +657,17 @@ Exclusive Box sets, all years
 Officers Set (Toys R Us) 1994
 ******
 Cmdr Sisko (re-issue) [Avery Brooks]
+	Phaser rifle, DS9 monitor
 Major Kira (re-issue) [Nana Visitor]
+	Bajoran pistol, Bajoran tricorder
 Picard in Dress Uniform [Patrick Stewart]
+	Type II hand phaser, Type I hand phaser, tricorder, Starfleet monitor
 Riker in Dress Uniform [Jonathan Frakes]
+	Type II hand phaser, Type I hand phaser, tricorder, Starfleet monitor
 Kirk in Dress Uniform [William Shatner]
+	TOS phaser, TOS communicator
 Spock in Dress Uniform [Leonard Nimoy]
+	TOS phaser, TOS communicator
 
 Target
 ******
