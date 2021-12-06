@@ -7,11 +7,13 @@
 -- Finish Star Trek Playmates
 
 -- Add: Hasbro 3.75 Marvel lines
+-- Add: Action Force
+-- Add: index to compare AF to ARAH
+-- Maybe: Sgt. Rock
 -- Maybe: Pirates of the Caribbean
 -- Maybe: Character Options Doctor Who
 -- Maybe: Remco and Lanard Joe KO's
 -- Maybe: FP Adventure People
--- Maybe: Tonka Play People
 
 -- redo: stats xls and add charts
 

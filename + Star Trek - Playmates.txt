@@ -383,11 +383,17 @@ Cadet Worf [Michael Dorn]
 Voyager : Series 2 (6)
 ******
 Seska [Martha Hackett]
+	Type II hand phaser, tricorder, 2 engineering tools, trajector device
 Lt. Carey [Josh Clark]
+	Type II hand phaser, PADD, test cylinder, engineering diagnostic
 Kazon |Trooper|
+	Kazon rifle, Kazon pistol, canteen
 Torres as a Klingon (E: Faces VOY 1/13) [Roxann Dawson]
+	Vidiian bioscanner, bat'leth, Dk'tahg knife, Klingon sword
 The Vidiian |Trooper|
+	Vidiian bioscanner, tricorder, hypospray, medical tool
 Chakotay as Maquis [Robert Beltran]
+	Type II hand phaser (without beam), tricorder, medicine bundle (black bird wings, stone from the river, and akoonah)
 
 
 1997
@@ -396,41 +402,69 @@ Chakotay as Maquis [Robert Beltran]
 All Series (11)
 ******
 Captain Kurn (E: Sons of Mogh DS9 4/15) [Tony Todd]
+	Klingon disruptor, Mevak knife, Klingon knife, Adanji incense
 Seska as a Cardassian (E: Maneuvers VOY 2/11) [Martha Hackett]
+	Transporter module, DNA sampler, Kazon interrogation device, Kazon communicator
 Captain Sisko (bald with beard) [Avery Brooks]
+	Type II hand phaser (without beam), phaser rifle, interphasic compensator, desktop computer
 Tom Paris Mutated (E: Threshold VOY 2/15) [Robert Duncan McNeill]
+	3 mutant offspring, Type II hand phaser (without beam)
 Gorn Captain (E: Arena TOS 1/18) [William Blackburn, Bobby Clark, Gary Combs, Ted Cassidy]
+	Primitive cannon, 3 diamond projectiles, stone pike, Metron translator
 Dr. Crusher in Generations Uniform [Gates McFadden]
+	Hypospray, medical tool, medical kit, Starfleet thermos
 The Mugatu (E: A Private Little War TOS 2/19) [Janos Prohaska]
+	Flintlock rifle, Mako root, drum, TOS Type II phaser
 Kirk in Environmental Outfit (E: The Tholian Web TOS 3/9) [William Shatner]
+	TOS phaser, TOS tricorder, desktop monitor, Tri-Ox compound, helmet
 Professor Data (E: All Good Things TNG 7/25+26) [Brent Spiner]
+	Tea kettle, tea cup, tray, vase
 Harry Mudd (E: Mudd's Women TOS 1/6) [Roger C. Carmel]
+	Goblet, 2 dilithium crystals, Venus drug, TOS communicator
 McCoy in Dress Uniform (E: Journey to Babel TOS 1/10) [DeForest Kelley]
+	TOS tricorder, TOS hypospray, TOS communicator, anabolic protoplaster
 
 Warp Factor : Series 1 (6)
 ******
+Each figure in this series had a limited edition run with 2 or 3 fuzzy tribbles to match against a game card to win prizes, as well as a regular release without. Only the accessories common to both are listed here. The tribbles listed below are plastic, and not meant for the contest.
 Chief O'Brien (E: Trials & Tribble-ations DS9 5/6) [Colm Meaney]
+	TOS tricorder, TOS communicator, engineering tool, 2 tribbles
 Lt. Commander Dax (E: Trials & Tribble-ations DS9 5/6) [Terry Farrell]
+	TOS PADD, TOS tricorder, medical tool, 2 tribbles
 Captain Sisko (E: Trials & Tribble-ations DS9 5/6) [Avery Brooks]
+	Orb of time, TOS PADD, TOS communicator, 2 tribbles
 Constable Odo (E: Trials & Tribble-ations DS9 5/6) [René Auberjonois]
+	Orb of time, bomb scanner, TOS tricorder, 2 tribbles
 Doctor Bashir (E: Trials & Tribble-ations DS9 5/6) [Alexander Siddig]
+	TOS tricorder, TOS communicator, TOS hypospray, 2 tribbles
 Captain Koloth (E: Trials & Tribble-ations DS9 5/6) [William Campbell]
+	3 tribbles, TOS Klingon disruptor, TOS Klingon knife
 
 Warp Factor : Series 2 (5)
 ******
 Sisko as a Klingon (E: Apocalypse Rising DS9 5/1) [Avery Brooks]
+	Bloodwine cup, Klingon disruptor, bat'leth, polaron emitter
 Ilia Probe [Persis Khambatta]
-Swarm Alien [Chuck Borden] |Trooper|
+	V'GER probe in 5 pieces
+Swarm Alien (E: The Swarm VOY 3/4 [Chuck Borden] |Trooper|
+	2 swarm pistols
 Leeta [Chase Masterson]
+	Dabo wheel, 2 bars of latinum
 Captain Beverly Picard (E: All Good Things TNG 7/25+26) [Gates McFadden]
+	Bonsai tree, optical medical tool, hypospray, PADD
 
 Warp Factor : Series 3 (5)
 ******
 Mirror Spock (E: Mirror Mirror TOS 2/4) [Leonard Nimoy]
+	TOS phaser, agonizer, desktop computer
 Edith Keeler (E: City on the Edge of Forever TOS 1/28) [Joan Collins]
+	Kettle, coffee mug, typewriter, handbag
 Cadet Deanna Troi [Marina Sirtis]
+	Data recorder, sample collector, backpack, Starfleet phaser
 Cadet Data [Brent Spiner]
+	Scanner, sample collector, Starfleet phaser, bio sensor
 Cadet Beverly Howard Crusher [Gates McFadden]
+	Bio sensor, sample analyzer, medical tool belt, radiation mask
 
 
 1998
@@ -439,10 +473,15 @@ Cadet Beverly Howard Crusher [Gates McFadden]
 Warp Factor : Series 4 (5)
 ******
 Andorian (E: Whom Gods Destroy TOS 3/14) [Richard Geary]
+	Ultrasonic neuralizer chair, Andorian Scrape (pink cloth outer garment)
 Keiko O'Brien [Rosalind Chao]
+	Type II hand phaser without beam, desktop computer, thermos
 Trelane (E: The Squire of Gothos TOS 1/17) [William Campbell]
+	Rapier, flintlock pistol, mirror machine
 Intendant Kira [Nana Visitor]
+	Bajoran rifle, Bajoran pistol, desktop monitor
 Kang (E: Blood Oath DS9 2/19) [Michael Ansara]
+	Bat'leth, Klingon disruptor, Mevak dagger
 
 Warp Factor : Series 5 (4)
 ******
