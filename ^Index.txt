@@ -323,53 +323,121 @@ Media
 
 Movies
 ~~~~~~
-The Black Hole. Mego, 1979-80.
-Butch & Sundance the Early Days. Kenner, 1979.
-Clash of the Titans. Mattel, 1980.
-The Day the Earth Stood Still. Monstarz, 2014.
-E.T. The Extra-Terrestrial. LJN, 1982.
-Indiana Jones. Hasbro, 2008-2011.
-Indiana Jones and The Temple of Doom. LJN, 1984.
-It! The Terror from Beyond Space. Monstarz, 2016.
-Jurassic World: Legacy Collection. Mattel, 2018-2021.
-The Legend of the Lone Ranger. Gabriel, 1982.
-Lord of the Rings. Knickerbocker, 1979.
-Adventures of Indiana Jones in Raiders of the Lost Ark. Kenner, 1982-83.
-Rambo: Champion of Liberty. Toy Island, 1995.
-Robocop: The Series. Toy Island, 1995.
-Star Trek. Playmates, 1993.
-Star Trek the Motion Picture. Mego, 1979-80.
-Star Trek III. Ertl, 1984.
-Star Wars. Kenner, 1978-85.
-Star Wars: The Power of The Force 2. Hasbro/Kenner, 1995-2000.
-Terminator 2: Judgment Day. Toy Island, 1995.
-The Time Machine. Monstarz, 2017.
+The Black Hole. Directed by Gary Nelson, Walt Disney Productions, 1979.
+
+Butch & Sundance the Early Days. Directed by Richard Lester, William Goldman Productions and Twentieth Century Fox, 1979.
+
+Clash of the Titans. Directed by Desmond Davis, Metro-Goldwyn-Mayer, 1981.
+
+The Day the Earth Stood Still. Directed by Robert Wise, 20th Century Fox, 1951.
+
+E.T. The Extra-Terrestrial. Directed by Steven Spielberg, Universal Pictures and Amblin Productions, 1982.
+
+Forbidden Planet. Directed by Fred M. Wilcox, Metro-Goldwyn-Mayer, 1956.
+
+Indiana Jones Trilogy
+	-- Raiders of the Lost Ark. Directed by Steven Spielberg, Lucasfilm Ltd. and Paramount Pictures, 1981.
+	-- Indiana Jones and the Temple of Doom. Directed by Steven Spielberg, Lucasfilm Ltd. and Paramount Pictures, 1984.
+	-- Indiana Jones and the Last Crusade. Directed by Steven Spielberg, Lucasfilm Ltd. and Paramount Pictures, 1989.
+
+It! The Terror from Beyond Space. Directed by Edward L. Cahn, Vogue Pictures, Inc. and United Artists, 1958.
+
+Jurassic Park Trilogy
+	-- Jurassic Park. Directed by Steven Spielberg, Amblin Entertainment and Universal Pictures, 1993.
+	-- The Lost World: Jurassic Park. Directed by Steven Spielberg, Amblin Entertainment and Universal Pictures, 1997.
+	-- Jurassic Park III. Directed by Joe Johnston, Amblin Entertainment and Universal Pictures, 2001.
+
+The Legend of the Lone Ranger. Directed by William A. Fraker, Universal Pictures and Associated Film Distribution, 1981.
+
+Lord of the Rings. Directed by Ralph Bakshi, Fantasy Films and United Artists, 1978.
+
+Star Trek
+	-- Star Trek: The Motion Picture. Directed by Robert Wise, Paramount Pictures, 1979.
+	-- Star Trek II: The Wrath of Khan. Directed by Nicholas Meyer, Paramount Pictures, 1982.
+	-- Star Trek III: The Search for Spock. Directed by Leonard Nimoy, Paramount Pictures, 1984.
+	-- Star Trek IV: The Voyage Home. Directed by Leonard Nimoy, Paramount Pictures, 1986.
+	-- Star Trek V: The Final Frontier. Directed by William Shatner, Paramount Pictures, 1989.
+	-- Star Trek VI: The Undiscovered Country. Directed by Nicholas Meyer, Paramount Pictures, 1991.
+	-- Star Trek Generations. Directed by David Carson, Paramount Pictures, 1994.
+	-- Star Trek: First Contact. Directed by Jonathan Frakes, Paramount Pictures, 1996.
+	-- Star Trek: Insurrection. Directed by Jonathan Frakes, Paramount Pictures, 1998.
+	-- Star Trek: Nemesis. Directed by Stuart Baird, Paramount Pictures, 2002.
+	-- Star Trek. Directed by J. J. Abrams, Spyglass Entertainment, Bad Robot Productions, and Paramount Pictures, 2009.
+	-- Star Trek Into Darkness. Directed by J. J. Abrams, Bad Robot Productions, Skydance Productions, K/O Paper Products, and Paramount Pictures, 2013.
+	-- Star Trek Beyond. Directed by Justin Lin, Skydance Media, Bad Robot Productions, Sneaky Shark Productions, Perfect Storm Entertainment, and Paramount Pictures, 2016.
+
+Star Wars
+	-- Star Wars: Episode IV – A New Hope. Directed by George Lucas, Lucasfilm Ltd. and 20th Century Fox, 1977.
+	-- Star Wars: Episode V – The Empire Strikes Back. Directed by Irvin Kershner, Lucasfilm Ltd. and 20th Century Fox, 1980.
+	-- Star Wars: Episode VI – Return of the Jedi. Directed by Richard Marquand, Lucasfilm Ltd. and 20th Century Fox, 1983.
+	-- Star Wars: Episode I – The Phantom Menace. Directed by George Lucas, Lucasfilm Ltd. and 20th Century Fox, 1999.
+	-- Star Wars: Episode II – Attack of the Clones. Directed by George Lucas, Lucasfilm Ltd. and 20th Century Fox, 2002.
+	-- Star Wars: Episode III – Revenge of the Sith. Directed by George Lucas, Lucasfilm Ltd. and 20th Century Fox, 2005.
+
+Terminator
+	-- Terminator. Directed by James Cameron, Hemdale, Pacific Western Productions, Euro Film Funding, Cinema '84, and Orion Pictures, 1984.
+	-- Terminator 2: Judgment Day. Directed by James Cameron, Carolco Pictures, Pacific Western Productions, Lightstorm Entertainment, Le Studio Canal+, and Tri-Star Pictures, 1991.
+
+The Time Machine. Directed by George Pal, Metro-Goldwyn-Mayer and Galaxy Films, 1960.
+
 Tron
-	Tomy, 1981.
-	Neca, 2002.
-	Medicom, 2002.
-Tron: Legacy. Spinmaster, 2010.
-The Wizard of Oz. Multi Toys, 1989.
+	-- Tron. Directed by Steven Lisberger, Walt Disney Productions and Lisberger-Kushner Productions, 1982.
+	-- Tron: Legacy. Directed by Joseph Kosinski, Walt Disney Pictures, 2010.
 
 Universal Horror
-Burger King Universal Monsters. Burger King, 1997.
-Creature Crypts. Taco Bell/KFC, 2003.
-Universal Monsters Mini-Monsters. Remco, 1979.
+	-- The Phantom of the Opera. Directed by Rupert Julian, Jewel Productions and Universal Pictures, 1925.
+	-- Dracula. Directed by Tod Browning, Universal Pictures, 1931.
+	-- Frankenstein. Directed by James Whale, Universal Pictures, 1931.
+	-- The Mummy. Directed by Karl Freund, Universal Pictures, 1932.
+	-- The Invisible Man. Directed by James Whale, Universal Pictures, 1933.
+	-- The Bride of Frankenstein. Directed by James Whale, Universal Pictures, 1935.
+	-- Son of Frankenstein. Directed by Rowland V. Lee, Universal Pictures, 1939.
+	-- The Invisible Man Returns. Directed by Joe May, Universal Pictures, 1940.
+	-- The Wolf Man. Directed by George Waggner, Universal Pictures, 1941.
+	-- The Ghost of Frankenstein. Directed by Erle C. Kenton, Universal Pictures, 1942.
+	-- Frankenstein Meets the Wolf Man. Directed by Roy William Neill, Universal Pictures, 1943.
+	-- Phantom of the Opera. Directed by Arthur Lubin, Universal Pictures, 1943.
+	-- The House of Frankenstein. Directed by Erle C. Kenton, Universal Pictures, 1944.
+	-- House of Dracula. Directed by Erle C. Kenton, Universal Pictures, 1945.
+	-- Creature from the Black Lagoon. Directed by Jack Arnold, Universal Pictures, 1954.
+	-- Revenge of the Creature. Directed by Jack Arnold, Universal Pictures, 1955.
+	-- The Creature Walks Among Us. Directed by John Sherwood, Universal Pictures, 1956.
+
+The Wizard of Oz. Directed by Victor Fleming, Metro-Goldwyn-Mayer, 1939.
 
 
 TV
 ~~~~~~
-A-Team. Galoob, 1984
-Battlestar Galactica. Mattel, 1978-79.
-Buck Rogers in the 25th Century. Mego, 1979.
-Captain Power and the Soldiers of the Future. Mattel, 1987-88.
-CHiPs. Mego, 1979.
+The A-Team. Frank Lupo and Stephen J. Cannell, creators. Universal Television and Stephen J. Cannell Productions, 1983-1987.
+
+Battlestar Galactica
+	-- Battlestar Galactica. Glen A. Larson, creator. Glen A. Larson Productions and Universal Television, 1978.
+	-- Galactica 1980. Glen A. Larson, creator. Glen A. Larson Productions and Universal Television, 1980.
+
+Buck Rogers in the 25th Century. Glen A. Larson and Leslie Stevens, creators. Glen A. Larson Productions, Bruce Lansbury Productions, John Mantley Productions, Leisure Concepts, and Universal Television, 1979-1981. 
+
+Captain Power and the Soldiers of the Future. Gary Goddard and Tony Christopher, creators. Landmark Entertainment Group, 1987.
+
+CHiPs. Rick Rosner, creator. Rosner Television and MGM Television, 1977-1983.
+
+The Dukes of Hazzard. Gy Waldron and Jerry Rushing, creators. Paul R. Picard Productions, Piggy Productions, Inc., and Lou Step Productions, 1979-1985.
+
+
+
+
+
+
+Daniels, Greg and Michael Schur, creators. Parks and Recreation. Deedle-Dee Productions and Universal Media Studios, 2015.
+
 Doctor Who. Dapol, 1988-2002.
-The Dukes of Hazzard. Mego, 1981.
+
 The Greatest American Hero. Mego, 1982.
+Lost in Space.
 The Love Boat. Mego, 1981.
 M*A*S*H. Tri-Star, 1982.
 Mork and Mindy. Mattel, 1980.
+Rambo: Champion of Liberty. Toy Island, 1995.
+Robocop: The Series. Toy Island, 1995.
 The Six Million Dollar Man. Zica, 2013.
 Space Precinct. Vivid Imaginations, 1994.
 Star Trek. Playmates, 1993.
@@ -386,8 +454,6 @@ Hanna-Barbera Collection. Jazwares, 2012.
 Rambo: Champion of Liberty. Toy Island, 1995.
 Robocop: The Series. Toy Island, 1995.
 Robotech
-	Matchbox, 1985.
-	Harmony Gold, 1992.
 Star Wars: Droids. The Adventures of R2-D2 and C-3PO.. Kenner, 1985.
 Star Wars: Ewoks. Kenner, 1985.
 Stingray. Matchbox, 1992.

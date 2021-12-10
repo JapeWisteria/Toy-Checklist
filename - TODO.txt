@@ -7,11 +7,14 @@
 
 -- Make an index of characters and their appearances (and costumes) from all the different Star Wars lines.
 
--- Add: Masudaya robots
+-- Add: Transformers you collect
+-- Add: McDonald's Transformers
+
 -- Add: Hasbro 3.75 Marvel lines
 -- Add: Action Force
 -- Add: index to compare AF to ARAH
 -- Maybe: Sgt. Rock
+-- Maybe: Bronze Bombers
 -- Maybe: Pirates of the Caribbean
 -- Maybe: Character Options Doctor Who
 -- Maybe: Remco and Lanard Joe KO's
