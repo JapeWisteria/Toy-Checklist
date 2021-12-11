@@ -8,22 +8,40 @@ Links
 
 Books
 ~~~~~~
--- Last Name, First Name. Title of Book. City of Publication, Publisher, Publication Date.
--- Crowley, Sharon, and Debra Hawhee. Ancient Rhetorics for Contemporary Students. 3rd ed., Pearson, 2004
+For most books, I've included ISBN numbers for easy lookup.
+
 
 General Guides
 ******
-
-Bellomo, Mark. The Ultimate Guide to G.I. Joe 1982-1994. 3rd ed., Stevens Point, Krause Publications, 2018. 9781440248795
-
-Bellomo, Mark. The Ultimate Guide to Vintage Star Wars Action Figures 1977-1985. Iola, Krause Publications, 2014. 9781440240591
-
-Bellomo, Mark. The Ultimate Guide to Vintage Transformers Action Figures. Iola, Krause Publications, 2016. 9781440246401
-
-Snyder, Jeffrey B. Collecting Star Wars Toys 1977-1997: An Unauthorized Practical Guide With Prices. Atglen, Schifer Publishing Ltd., 1998. 0764306510
+Heiler, Brian. Rack Toys: Cheap, Crazed Playthings 2nd Edition. Nacelle Publishing, 2021. 9780991692200
 
 Wells III, Stuart W. Science Fiction Collectibles Identification & Price Guide. Iola, Krause Publications, 1999. 0873416848
 
+
+G.I. Joe
+******
+Bellomo, Mark. The Ultimate Guide to G.I. Joe 1982-1994. 3rd ed., Stevens Point, Krause Publications, 2018. 9781440248795
+
+Santelmo, Vincent. The Complete Encyclopedia to G.I. Joe 2nd Edition. Iola, Krause Publications, 1997. 087341456x
+
+
+Star Trek
+******
+Hoffman, Kelly. Star Trek Toys by Playmates: The Unauthorized Handbook and Price Guide. Atglen, Schiffer Publishing Ltd., 2000. 0764311271
+
+
+Star Wars
+******
+Bellomo, Mark. The Ultimate Guide to Vintage Star Wars Action Figures 1977-1985. Iola, Krause Publications, 2014. 9781440240591
+
+Sansweet, Stephen J., and Josh Ling. Star Wars: The Action Figure Archive. London, Virgin Publishing Ltd, 1999. 1852277394
+
+Snyder, Jeffrey B. Collecting Star Wars Toys 1977-1997: An Unauthorized Practical Guide With Prices. Atglen, Schifer Publishing Ltd., 1998. 0764306510
+
+
+Transformers
+******
+Bellomo, Mark. The Ultimate Guide to Vintage Transformers Action Figures. Iola, Krause Publications, 2016. 9781440246401
 
 
 Warman's Field Guides
@@ -59,8 +77,6 @@ Zarnock, Michael. Warman's Hot Wheels Field Guide: Values and Identification. 3r
 Zarnock, Michael. Warman's Hot Wheels Field Guide: Values and Identification. 4th ed., Iola, Krause Publications, 2012. 9781440232091
 
 
-
-
 Topps Trading Cards
 ******
 Topps has reprinted many of their vintage trading card sets as hardcovers. Listed below are the ones relevant to the toy lines discussed.
@@ -84,12 +100,5 @@ Gerani, Gary. Star Wars Widevision: The Original Topps Trading Card Series, Volu
 
 Media
 ~~~~~~
-The Toys That Made Us.
-
-
-
-
-
-
-
+The Toys That Made Us. Brian Volk-Weiss, creator. The Nacelle Company and Netflix, 2017-2019.
 

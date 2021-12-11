@@ -1,29 +1,40 @@
 
 Tiny Arcade Keychain Machines
 -----------------------------------------------
-Tiny Arcade Galaga Tabletop Edition
-Tiny Arcade Pac Man Tabletop Edition
-Tiny Arcade Space Invaders Tabletop Edition
+Tiny Arcade are playable versions of each original arcade release with a keychain attached. In order to facilitate play at at that scale, they are not faithful to every detail of the coin-op machine.
 
-Tiny Arcade Hello Kitty Pac-Man
-Tiny Arcade Teenage Mutant Ninja Turtles
-Tiny Arcade Burger Time
-Tiny Arcade Mappy
-Tiny Arcade Dig Dug--
-Tiny Arcade Frogger--
-Tiny Arcade Galaga--
-Tiny Arcade Galaxian--
-Tiny Arcade New Rally X--
-Tiny Arcade Pac-Man--
-Tiny Arcade Ms. Pac-Man--
-Tiny Arcade Pole Position--
-Tiny Arcade Q*Bert--
-Tiny Arcade Space Invaders--
-Tiny Arcade Tetris--
+Wave 1
+~~~~~~
+Dig Dug--
+Frogger--
+Galaga--
+Galaxian--
+New Rally X--
+Pac-Man--
+Ms. Pac-Man--
+Pole Position--
+Q*Bert--
+Space Invaders--
+Tetris--
+
+Wave 2
+~~~~~~
+Hello Kitty Pac-Man
+Teenage Mutant Ninja Turtles
+Burger Time
+Mappy
+
+Tabletop Edition
+~~~~~~
+Galaga Tabletop Edition
+Pac Man Tabletop Edition
+Space Invaders Tabletop Edition
 
 
 Hallmark Ornaments
 -----------------------------------------------
+These are faithful recreations of every detail of the coin-op machines, but only feature fixed lights and audio, with a semi-transparent screen.
+
 2008 -- Pac-Man
 2009 -- Galaga
 2018 -- Donkey Kong

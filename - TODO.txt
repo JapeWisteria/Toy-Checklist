@@ -13,6 +13,12 @@
 -- Add: Hasbro 3.75 Marvel lines
 -- Add: Action Force
 -- Add: index to compare AF to ARAH
+
+-- Add: Funko non-Reaction lines:
+	Batman66
+	Suicide Squad
+	Ready Player One
+
 -- Maybe: Sgt. Rock
 -- Maybe: Bronze Bombers
 -- Maybe: Pirates of the Caribbean

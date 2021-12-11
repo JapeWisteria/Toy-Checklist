@@ -323,17 +323,47 @@ Media
 
 Movies
 ~~~~~~
+Alien
+	-- Alien. Directed by Ridley Scott, 20th Century-Fox and Brandywine Productions, 1979.
+	-- Aliens.Directed by James Cameron, 20th Century-Fox and Brandywine Productions, 1986.
+
+Back to the Future. Directed by Robert Zemeckis, Universal Pictures and Amblin Entertainment, 1985.
+
+Big Trouble in Little China. Directed by John Carpenter, 20th Century Fox, 1986.
+
 The Black Hole. Directed by Gary Nelson, Walt Disney Productions, 1979.
+
+Boondock Saints. Directed by Troy Duffy, Franchise Pictures, 1999.
 
 Butch & Sundance the Early Days. Directed by Richard Lester, William Goldman Productions and Twentieth Century Fox, 1979.
 
 Clash of the Titans. Directed by Desmond Davis, Metro-Goldwyn-Mayer, 1981.
 
+The Crow. Directed by Alex Proyas, Dimension Films, 1994.
+
+The Dark Crystal. Directed by Jim Henson and Frank Oz, ITC Entertainment and Henson Associates, 1982.
+
 The Day the Earth Stood Still. Directed by Robert Wise, 20th Century Fox, 1951.
+
+Escape from New York. Directed by John Carpenter, AVCO Embassy Pictures, 1981.
 
 E.T. The Extra-Terrestrial. Directed by Steven Spielberg, Universal Pictures and Amblin Productions, 1982.
 
+The Fifth Element. Directed by Luc Besson, Gaumont, 1997.
+
+Fight Club. Directed by David Fincher, Fox 2000 Pictures and Regency Enterprises, 1999.
+
 Forbidden Planet. Directed by Fred M. Wilcox, Metro-Goldwyn-Mayer, 1956.
+
+Friday the 13th Part 2. Directed by Steve Miner, Paramount Pictures, 1981.
+
+The Goonies. Directed by Richard Donner, Amblin Entertainment, 1985.
+
+Gremlins. Directed by Joe Dante, Warner Bros. and Amblin Entertainment, 1984.
+
+Halloween. Directed by John Carpenter, Compass International Pictures and Falcon International Productions, 1978.
+
+Hellraiser. Directed by Clive Barker, Film Futures, 1987.
 
 Indiana Jones Trilogy
 	-- Raiders of the Lost Ark. Directed by Steven Spielberg, Lucasfilm Ltd. and Paramount Pictures, 1981.
@@ -342,14 +372,34 @@ Indiana Jones Trilogy
 
 It! The Terror from Beyond Space. Directed by Edward L. Cahn, Vogue Pictures, Inc. and United Artists, 1958.
 
+Jaws. Directed by Steven Spielberg, Zanuck/Brown Company and Universal Pictures, 1975.
+
 Jurassic Park Trilogy
 	-- Jurassic Park. Directed by Steven Spielberg, Amblin Entertainment and Universal Pictures, 1993.
 	-- The Lost World: Jurassic Park. Directed by Steven Spielberg, Amblin Entertainment and Universal Pictures, 1997.
 	-- Jurassic Park III. Directed by Joe Johnston, Amblin Entertainment and Universal Pictures, 2001.
 
+The Karate Kid. Directed by John G. Avildsen, Columbia Pictures, 1984.
+
 The Legend of the Lone Ranger. Directed by William A. Fraker, Universal Pictures and Associated Film Distribution, 1981.
 
 Lord of the Rings. Directed by Ralph Bakshi, Fantasy Films and United Artists, 1978.
+
+The Nightmare Before Christmas. Directed by Henry Selick, Touchstone Pictures and Skellington Productions, 1993.
+
+A Nightmare on Elm Street. Directed by Wes Craven, New Line Cinema, 1984.
+
+Predator. Directed by John McTiernan, 20th Century Fox, 1987.
+
+Pulp Fiction. Directed by Quentin Tarantino, A Band Apart and Jersey Films, 1994.
+
+The Rocketeer. Directed by Joe Johnston, Walt Disney Pictures and Touchstone Pictures, 1991.
+
+The Rocky Horror Picture Show. Directed by Jim Sharman, Michael White Productions and 20th Century Fox, 1975.
+
+Scarface. Directed by Brian De Palma, Universal Pictures, 1983.
+
+Scream. Directed by Wes Craven, Woods Entertainment and Dimension Films, 1996.
 
 Star Trek
 	-- Star Trek: The Motion Picture. Directed by Robert Wise, Paramount Pictures, 1979.
@@ -374,11 +424,19 @@ Star Wars
 	-- Star Wars: Episode II – Attack of the Clones. Directed by George Lucas, Lucasfilm Ltd. and 20th Century Fox, 2002.
 	-- Star Wars: Episode III – Revenge of the Sith. Directed by George Lucas, Lucasfilm Ltd. and 20th Century Fox, 2005.
 
+Taxi Driver. Directed by Martin Scorsese, Columbia Pictures, 1976.
+
 Terminator
 	-- Terminator. Directed by James Cameron, Hemdale, Pacific Western Productions, Euro Film Funding, Cinema '84, and Orion Pictures, 1984.
 	-- Terminator 2: Judgment Day. Directed by James Cameron, Carolco Pictures, Pacific Western Productions, Lightstorm Entertainment, Le Studio Canal+, and Tri-Star Pictures, 1991.
 
+The Texas Chainsaw Massacre. Directed by Tobe Hooper, Vortex, 1974.
+
 The Time Machine. Directed by George Pal, Metro-Goldwyn-Mayer and Galaxy Films, 1960.
+
+Tomorrowland. Directed by Brad Bird, Walt Disney Pictures and A113 Productions, 2015.
+
+Trick 'r Treat. Directed by Michael Dougherty, Warner Premiere, Legendary Pictures, and Bad Hat Harry Productions, 2007.
 
 Tron
 	-- Tron. Directed by Steven Lisberger, Walt Disney Productions and Lisberger-Kushner Productions, 1982.
@@ -408,84 +466,130 @@ The Wizard of Oz. Directed by Victor Fleming, Metro-Goldwyn-Mayer, 1939.
 
 TV
 ~~~~~~
+Arrow. Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg, creators. Berlanti Productions, DC Entertainment, and Warner Bros. Television, 2012-2020.
+
 The A-Team. Frank Lupo and Stephen J. Cannell, creators. Universal Television and Stephen J. Cannell Productions, 1983-1987.
 
 Battlestar Galactica
 	-- Battlestar Galactica. Glen A. Larson, creator. Glen A. Larson Productions and Universal Television, 1978.
 	-- Galactica 1980. Glen A. Larson, creator. Glen A. Larson Productions and Universal Television, 1980.
 
+Breaking Bad. Vince Gilligan, creator. High Bridge Entertainment, Gran Via Productions, and Sony Pictures Television, 2008-2013.
+
 Buck Rogers in the 25th Century. Glen A. Larson and Leslie Stevens, creators. Glen A. Larson Productions, Bruce Lansbury Productions, John Mantley Productions, Leisure Concepts, and Universal Television, 1979-1981. 
+
+Buffy the Vampire Slayer. Joss Whedon, creator. Mutant Enemy Productions and 20th Century Fox Television, 1997-2003.
 
 Captain Power and the Soldiers of the Future. Gary Goddard and Tony Christopher, creators. Landmark Entertainment Group, 1987.
 
 CHiPs. Rick Rosner, creator. Rosner Television and MGM Television, 1977-1983.
 
+Doctor Who: Classic. Sydney Newman, C. E. Webber, and Donald Wilson, creators. BBC, 1963-1996.
+
 The Dukes of Hazzard. Gy Waldron and Jerry Rushing, creators. Paul R. Picard Productions, Piggy Productions, Inc., and Lou Step Productions, 1979-1985.
 
+Firefly. Joss Whedon, creator. Mutant Enemy Productions and 20th Century Fox Television, 2002.
 
+The Flash. Greg Berlanti, Andrew Kreisberg, and Geoff Johns, creators. Bonanza Productions, Berlanti Productions, DC Entertainment, and Warner Bros. Television, 2014-present.
 
+The Greatest American Hero. Stephen J. Cannell, creator. Stephen J. Cannell Productions, 1981-1983.
 
+The Golden Girls. Susan Harris, creator. Witt/Thomas/Harris Productions and Touchstone Television, 1985-1992.
 
+Lost in Space. Irwin Allen, creator. Irwin Allen Productions, Jodi Productions Inc., Van Bernard Productions Inc., 20th Century Fox Television, and CBS Television Network, 1965-1968.
 
-Daniels, Greg and Michael Schur, creators. Parks and Recreation. Deedle-Dee Productions and Universal Media Studios, 2015.
+The Love Boat. Jeraldine Saunders and Wilford Lloyd Baumes, creators. Douglas S. Cramer Productions and Aaron Spelling Productions, 1977-1986.
 
-Doctor Who. Dapol, 1988-2002.
+M*A*S*H. Richard Hooker and Larry Gelbart, creators. 20th Century Fox Television, 1972-1983.
 
-The Greatest American Hero. Mego, 1982.
-Lost in Space.
-The Love Boat. Mego, 1981.
-M*A*S*H. Tri-Star, 1982.
-Mork and Mindy. Mattel, 1980.
-Rambo: Champion of Liberty. Toy Island, 1995.
-Robocop: The Series. Toy Island, 1995.
-The Six Million Dollar Man. Zica, 2013.
-Space Precinct. Vivid Imaginations, 1994.
-Star Trek. Playmates, 1993.
-Star Trek the Next Generation. Galoob, 1988-89.
+Mork and Mindy. Garry Marshall, Dale McRaven, and Joe Glauberg, creators. Henderson Production Company, Inc., Miller-Milkis-Boyett Productions, and Paramount Television, 1978-1982.
+
+Robocop: The Series. Edward Neumeier and Michael Miner, creators. Rysher Entertainment, Skyvision Entertainment, and Rigel Entertainment, 1994.
+
+The Six Million Dollar Man. Harve Bennett and Kenneth Johnson, creators. MCA TV and NBCUniversal Television Distribution, 1973-1978.
+
+Space Precinct. Gerry Anderson, creator. Gerry Anderson Productions, Grove Television Enterprises, and Mentorn Films, 1994.
+
+Star Trek
+	-- Star Trek: The Original Series. Gene Roddenberry, creator. Desilu Productions, Paramount Television, and Norway Corporation, 1966-1969.
+	-- Star Trek: The Next Generation. Gene Roddenberry, creator. Paramount Domestic Television, 1987-1994.
+	-- Star Trek: Deep Space Nine. Rick Berman and Michael Piller, creators, 1993-1999.
+	-- Star Trek: Voyager. Rick Berman, Michael Piller, and Jeri Taylor, creators, 1995-2001.
 
 
 Animation
 ~~~~~~
-Battle of the Planets. Popy, 1979.
-Captain Scarlet and the Mysterons. Vivid Imaginations, 1993.
-The New Adventures of Flash Gordon. Mattel, 1979-80.
-G.I. Joe A Real American Hero. Hasbro, 1982-1994.
-Hanna-Barbera Collection. Jazwares, 2012.
-Rambo: Champion of Liberty. Toy Island, 1995.
-Robocop: The Series. Toy Island, 1995.
-Robotech
-Star Wars: Droids. The Adventures of R2-D2 and C-3PO.. Kenner, 1985.
-Star Wars: Ewoks. Kenner, 1985.
-Stingray. Matchbox, 1992.
-Super Naturals. Tonka, 1987.
-Tales from the Cryptkeeper. Ace Novelty, 1993.
-Terrahawks. Bandai, 1983.
-Thunderbirds. Matchbox, 1994.
-Thunderbirds are Go! Vivid Toy Group, 2014.
-Ulysses 31. Popy, 1986.
-Visionaries. Hasbro, 1987.
-Voltron. Panosh Place, 1985.
-Zorro. Gabriel, 1982.
+Battle of the Planets. Sandy Frank (based on the work of Tatsuo Yoshida), creators. Sandy Frank Entertainment and Gallerie International Films, 1978-1980.
+
+The New Adventures of Flash Gordon. Norm Prescott and Lou Scheimer, creators. Filmation and King Features Syndicate, 1979-1982.
+
+G.I. Joe A Real American Hero. Ron Friedman, creator. Sunbow Productions and Marvel Productions, 1983-1986.
+
+Gerry Anderson
+	-- Captain Scarlet and the Mysterons. Gerry and Sylvia Anderson, creators. Century 21 Television Productions, 1967-1968.
+	-- Stingray. Gerry and Sylvia Anderson, creators. AP Films, 1964-1965.
+	-- Terrahawks. Gerry Anderson and Christopher Burr, creators. Anderson Burr Pictures, 1983-1986.
+	-- Thunderbirds. Gerry and Sylvia Anderson, creators. AP Films, 1965-1966.
+	-- Thunderbirds are Go! Richard Taylor, creator. ITV Studios, Pukeko Pictures, and Weta Workshop, 2015-2020.
+
+Hanna Barbera
+	-- Captain Caveman and the Teen Angels. Joe Ruby and Ken Spears, creators. Hanna-Barbera Productions, 1977-1980.
+	-- The Flintstones. William Hanna and Joseph Barbera, creators. Hanna-Barbera Productions, 1960-1966.
+	-- Hong Kong Phooey. William Hanna and Joseph Barbera, creators. Hanna-Barbera Productions, 1974.
+	-- The Huckleberry Hound Show. William Hanna and Joseph Barbera, creators. Hanna-Barbera Productions and MGM Television, 1958-1978.
+	-- The Jetsons. William Hanna and Joseph Barbera, creators. Hanna-Barbera Productions, 1962-63, 1985-1987.
+	-- The Atom Ant/Secret Squirrel Show. William Hanna and Joseph Barbera, creators. Hanna-Barbera Productions, 1965-1967.
+	-- Tom and Jerry. William Hanna and Joseph Barbera, creators. MGM Cartoons, Rembrandt Films, and MGM Animation/Visual Arts, 1940-1967.
+	-- The Yogi Bear Show. William Hanna and Joseph Barbera, creators. Hanna-Barbera Productions, Turner Entertainment, and PorchLight Entertainment, 1961-1962.
+
+Rambo: The Force of Freedom. Joe Ruby and Ken Spears, creators. Ruby-Spears Enterprises and Carolco Pictures, 1986.
+
+Robotech. Carl Macek, creator. Harmony Gold USA, 1985.
+
+Star Wars
+	-- Star Wars: Droids. The Adventures of R2-D2 and C-3PO. Peter Sauder and Ben Burtt, creators. Nelvana, Lucasfilm, and 20th Century Fox Television, 1985.
+	-- Star Wars: Ewoks. Paul Dini and Bob Carrau, creators. Nelvana, Lucasfilm, Wang Film Productions, and 20th Century Fox Television, 1985-1986.
+
+Tales from the Cryptkeeper. Libby Hinson and Ben Joseph, creators. Nelvana and Fantome Animation, 1993-1999.
+
+Ulysses 31. Nina Wolmark and Jean Chalopin, creators. DIC Audiovisuel and TMS Entertainment, 1981.
+
+Visionaries: Knights of the Magical Light. Flint Dille, creator. Hasbro, Sunbow Productions, and TMS Entertainment, 1987.
+
+Voltron. Ted Koplar and Peter Keefe (based on the work of Saburo Yatsude), creators. World Events Productions and Toei Animation, 1984-1985.
+
+The New Adventures of Zorro. Don Christensen, Norm Prescott, and Lou Scheimer, creators. Filmation, 1981.
 
 
-Comics
+Comics and Novels
 ~~~~~~
-DC
-Comic Action Heroes. Mego, 1975.
-DC Comics Super Heroes. Toy Biz, 1989-1991.
-Pocket Super Heroes. Mego, 1979-80.
-Super Powers Collection. Kenner, 1984-1986.
+Star Wars: Thrawn trilogy
+	-- Zahn, Timothy. Heir to the Empire. Bantam Spectra, 1991.
+	-- Zahn, Timothy. Dark Force Rising. Bantam Spectra, 1992.
+	-- Zahn, Timothy. The Last Command. Bantam Spectra, 1993.
 
-Marvel
-Comic Action Heroes. Mego, 1975.
-Pocket Super Heroes. Mego, 1979-80.
+Marvel Comics
+******
+The Saga of Crystar Crysal Warrior. Mary Jo Duffy and John Duffy, writers. Bret Blevins, Ricardo Villagran and Ron Frenz, artists. Marvel Comics, 1983-1985.
 
-Marvel Specific
-The Saga of Crystar Crysal Warrior. Remco, 1982.
-G.I. Joe A Real American Hero. Hasbro, 1982-1994.
-Marvel Super Heroes Secret Wars. Mattel, 1984-1985.
-Micronauts. Mego, 1976-1981.
+G.I. Joe
+	-- G.I. Joe A Real American Hero. Larry Hama, writer. Herb Trimpe, Larry Hama, Frank Springer, Rod Whigham, M. D. Bright, Andrew Wildman, Mike Zeck, and Phil Gosier, artists. Marvel Comics, 1982-1994.
+	-- G.I. Joe: Special Missions. Larry Hama, writer. Herb Trimpe, and Mike Zeck, artists. Marvel Comics, 1986-1989.
+
+Marvel Super Heroes Secret Wars. Jim Shooter, writer. Mike Zeck and Bob Layton, artists. Marvel Comics, 1984-1985.
+
+Micronauts. Bill Mantlo, writer. Michael Golden, Howard Chaykin, Pat Broderick, Keith Giffen, Greg LaRocque, Gil Kane, Jackson Guice, and Kelley Jones, artists. Marvel Comics, 1979-1984.
 
 Dark Horse
-Star Wars: The Power of The Force 2. Hasbro/Kenner, 1995-2000.
+******
+Star Wars: Dark Empire. Tom Veitch, writer. Cam Kennedy, artist. Dark Horse Comics, 1991-1992.
+
+Star Wars: Dark Empire II. Tom Veitch, writer. Cam Kennedy, artist. Dark Horse Comics, 1994-1995.
+
+
+Video Games
+~~~~~~
+Star Wars: Dark Forces. LucasArts, 1995.
+
+Street Fighter II. Arcade version, Capcom, 1991.
 
