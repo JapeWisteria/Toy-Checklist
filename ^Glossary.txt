@@ -1,14 +1,15 @@
 
-Abbreviations
+Action figure value terms
 -----------------------------------------------
 MOC -- Mint On Card
 MLC -- Mint Loose and Complete
 MISB -- Mint In Sealed Box
 MIB -- Mint In Box
 MISP -- Mint In Sealed Package
+Beater -- Figure with enough defects as to be considered almost worthless. Beaters are often childhood toys kept for sentimental value or purchased to "fill in" a part of a collection until a better figure is procured.
 
 
-Action Figure Scales
+Action figure scales
 -----------------------------------------------
 1:4 Scale (approx. 18")
 1:6 Scale (approx. 12")
@@ -19,7 +20,17 @@ Action Figure Scales
 1:48 Scale (approx. 2")
 
 
+Action figure construction
+-----------------------------------------------
+Solid -- All parts are solid plastic and/or metal solid pieces, sealed or riveted together at the torso.
 
+O-ring -- The torso is hollow, containing a rubber o-ring that links together the parts...the torso is either screwed shut, riveted shut, or sealed.
+
+Figurine -- No moving parts...essentially a statue.
+
+Foot peg holes -- Started by Kenner with the 3.75" Star Wars line, holes were left in the soles of action figures, allowing them to be slotted into dioramas and figure stands. Vintage figures often had larger foot peg holes than modern figures, as there was no cross-company standard followed.
+
+Backpack peg holes -- Figures with o-ring construction often had a torso hole in the back where the screw was located, and this was used to allow backpacks and other accessories to be added to the figure. Early examples include Mego Micronauts and Zee Toys Metal Man.
 
 
 
