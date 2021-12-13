@@ -59,6 +59,8 @@ Most of the toy lines contain their own introductions, detailing the decisions I
 
 Trooper - an army-builder figure that isn't any specific character.
 
+Actor(s) - if a figure was based on a live-action property, the actor or actors playing the role (including voice actors) are included.
+
 Acknowledgments
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This book rests on the laurels of research done by many different collectors, collector communities, and public databases and websites. Mentioning them all would be too long a list. I've added a list of primary links and books in the bibliography.
