@@ -84,7 +84,7 @@ Han Solo (Hoth outfit) (mail-away coin) [Harrison Ford]
 	Heavy blaster pistol
 IG-88
 	Imperial blaster, long-barrel blaster rifle
-Snowtrooper (mail-away coin)
+Snowtrooper |Trooper| (mail-away coin)
 	White vinyl skirt, Imperial rifle
 Lando Calrissian (mail-away coin) [Billy Dee Williams]
 	Painted or unpainted mouth\eyes variations.

@@ -38,3 +38,13 @@ Solid -- All parts are solid plastic and/or metal solid pieces, sealed or rivete
 
 Sprue -- Sprues are a plastic frame that is used to connect and distribute small parts. More prevalent in plastic model kits, but sometimes accessories for figures are packed this way (notably the original Teenage Mutant Ninja Turtles line by Playmates). Often called runners as well.
 
+
+Star Trek series acronyms
+-----------------------------------------------
+TOS -- Star Trek: The Original Series, 1966-1969
+TAS -- Star Trek: The Animated Series, 1973-1974
+TNG -- Star Trek: The Next Generation, 1987-1994
+DS9 -- Star Trek: Deep Space 9, 1993-1999
+VOY -- Star Trek: Voyager, 1995-2001
+ENT -- Enterprise, 2001-2005
+
