@@ -16,240 +16,262 @@ Several figures have been found by collectors for which no information exists. T
 
 All figures featured solid construction.
 
+I've organized the figures below into broad categories.
 
-1. Female Paramedic red cross
-Sets: #350 Rescue Team, #399 Tan Card (possibly)
 
-2. Female Paramedic green cross
-Sets: #350 Rescue Team, #399 Tan Card, #383 Paramedic Illustrated Card
+Astronauts and Space
+~~~~~~
+Male Astronaut
+	Sets: #325 Alpha Probe
 
-3. Male Construction Worker
-Sets: #352 Construction Workers
+Female Astronaut blond hair
+	Sets: #325 Alpha Probe
 
-4. Male TV Crew
-Sets: #309 TV Action Team
+Female Astronaut brown hair
+	Sets: #325 Alpha Probe
 
-5. Male TV Crew
-Sets: #309 TV Action Team
+Male Astronaut
+	Sets: #360 Alpha Recon
 
-6. Female TV Reporter
-Rubber skirt (permanently attached)
-Sets: #309 TV Action Team
+Male Astronaut
+	Sets: #326 Alpha Star
 
-7. Male Parachuter
-Sets: #354 Daredevil Skydiver, #399 Tan Card
+Male Astronaut
+	Sets: #368 Alpha Interceptor
 
-8. Male Parachuter
-Variant to 7 with blue coloured shoes
-Sets: #354 Daredevil Skydiver, #399 Tan Card (Possibly)
+Male Alpha Pilot
+	Sets: #389 Alpha Pilot Illustrated Card
 
-9. Male Outdoorsman
-Sets: #312 Northwoods Trailblazer, #399 Tan Card
+Male Alien Pilot
+	Sets: #357 Firestar I
 
-10. Male Dunebuster
-Sets: #322 Dune Buster
+Space Commander
+	Sets: #374 Space Commander Illustrated Card
 
-12. Male Turbo Hawk Pilot
-Sets: #367 Turbo Hawk
+Robot Opticon
+	Sets: #371 Opticon Illustrated Card
 
-13. Male Astronaut
-Sets: #325 Alpha Probe
+X-Ray Man
+	Sets: #381 X-Ray Man Illustrated Card
 
-14. Female Astronaut blond hair
-Sets: #325 Alpha Probe
+X-Ray Woman
+	Sets: #378 X-Ray Woman Illustrated Card
 
-15. Female Astronaut brown hair
-Sets: #325 Alpha Probe
+Male Hang Glider Pilot
+	Sets: #377 Astro Knight, #379 Astro Knight Illustrated Card
 
-16. Male Astronaut
-Sets: #360 Alpha Recon
+Male Hang Glider Pilot
+	Sets: #377 Astro Knight, #379 Astro Knight Illustrated Card
 
-17. Male Scuba Diver
-Comes with diving helmet
-Sets: #358 Deep Sea Diver
+Male Alien Robot Brainoid right arm claw
+	Sets: #390 Brainoid Illustrated Card
 
-18. Male Safari Dad short sleeves
-Sets: #304 Safari, #399 Individial Tan Card
+Male Alien Robot Brainoid left arm claw
+	Sets: #390 Brainoid Illustrated Card
 
-19. Male Safari Dad long sleeves
-Sets: #304 Safari
+Male Robot Clawtron
+	Sets: #380 Clawtron Illustrated Card
 
-20. Male Pilot helmet
-Sets: #306 Daredevil Sport Plane
 
-21. Male Pilot long sleeves
-Sets: #306 Daredevil Sport Plane
+Air and Pilots
+~~~~~~
+Male Parachuter
+	Sets: #354 Daredevil Skydiver, #399 Tan Card
 
-22. Male Pilot short sleeves
-Sets: #306 Daredevil Sport Plane
+Male Parachuter
+	Variant to 7 with blue coloured shoes
+	Sets: #354 Daredevil Skydiver, #399 Tan Card (Possibly)
 
-23. Female Safari Mom
-Sets: #304 Safari, #399 Tan Card
+Male Turbo Hawk Pilot
+	Sets: #367 Turbo Hawk
 
-24. Female Mountain Climber
-Sets: #351 Mountain Climbers
+Male Pilot helmet
+	Sets: #306 Daredevil Sport Plane
 
-25. Male Race Car Driver tight pants and boots
-Sets: #308 Super Speed Racer, #387 Indy Driver Illustrated Card, #399 Tan Card
+Male Pilot long sleeves
+	Sets: #306 Daredevil Sport Plane
 
-26. Male Race Car Driver bell-bottom pants and small brown shoes
-Sets: #308 Super Speed Racer
+Male Pilot short sleeves
+	Sets: #306 Daredevil Sport Plane
 
-27. Male Swimmer
-Sets: #310 Sea Explorer
+Male Daredevil
+	Sets: #318 Daredevil Sports Van
 
-28. Female Swimmer
-Sets: #310 Sea Explorer
+Male Pilot long sleeves
+	Sets: #305 Rescue Copter
 
-29. Male Diver
-Sets: #334 Sea Shark
+Male Pilot short sleeves
+	Sets: #305 Rescue Copter
 
-30. Male Daredevil
-Sets: #318 Daredevil Sports Van
+Male Pilot african-american long sleeves
+	Sets: #305 Rescue Copter
 
-31. Male Cowboy/Driver
-Sets: #370 Trail Boss 4x4
+Male Pilot african-american short sleeves
+	Sets: #305 Rescue Copter, #382 Rescue Pilot Illustrated Card, #399 Tan Card
 
-32. Male Motorcycler
-Sets: #335 Motocross Team
+Male Helicopter Pilot
+	Sets: #323 Aero-Marine Team, #382 Rescue Pilot Illustrated Card
 
-33. Male Astronaut
-Sets: #326 Alpha Star
+Male Supersonic Pilot
+	Sets: #372 Supersonic Pilot Illustrated Card
 
-35. Male Pilot long sleeves
-Sets: #305 Rescue Copter
+Male Stunt Man
+	Sets: #375 Sky Surfer, #388 Stunt Man Illustrated Card
 
-36. Male Pilot short sleeves
-Sets: #305 Rescue Copter
+Male Wilderness Pilot
+	Sets: #307 Wilderness Patrol
 
-37. Male Pilot african-american long sleeves
-Sets: #305 Rescue Copter
 
-38. Male Pilot african-american short sleeves
-Sets: #305 Rescue Copter, #382 Rescue Pilot Illustrated Card, #399 Tan Card
+Car and Motorcycle
+~~~~~~
+Male Race Car Driver tight pants and boots
+	Sets: #308 Super Speed Racer, #387 Indy Driver Illustrated Card, #399 Tan Card
 
-39. Male Hang Glider Pilot
-Sets: #377 Astro Knight, #379 Astro Knight Illustrated Card
+Male Race Car Driver bell-bottom pants and small brown shoes
+	Sets: #308 Super Speed Racer
 
-41. Male Motorcycle Rider
-Articulated knee joints
-Sets: #356 Cycle Racing Team
+Male Motorcycler
+	Sets: #335 Motocross Team
 
-42. Male Motorcycle Rider
-Sets: #356 Cycle Racing Team, #385 Cycle Racer Illustrated Card, #399 Tan Card
+Male Motorcycle Rider
+	Articulated knee joints
+	Sets: #356 Cycle Racing Team
 
-43. Male Astronaut
-Sets: #368 Alpha Interceptor
+Male Motorcycle Rider
+	Sets: #356 Cycle Racing Team, #385 Cycle Racer Illustrated Card, #399 Tan Card
 
-44. Male Mountain Climber
-Sets: #351 Mountain Climbers, #307 Wilderness Patrol
+Male Motorcycler
+	Articulated knee joints
+	Sets: #318 Daredevil Sports Van
 
-45. Male Swimmer
-Sets: #334 Sea Shark
+Land Speed Racer
+	Sets: #359 Land Speed Racer
 
-46. Male Motorcycler
-Articulated knee joints
-Sets: #318 Daredevil Sports Van
+Male Dragster Driver
+	Sets: #333 Wheelie Dragster
 
-47. Dune Buster
-Sets: #386 Dune Buster Illustrated Card
+Male Dragster Racer
+	Sets: #333 Wheelie Dragster
 
-48. Space Commander
-Sets: #374 Space Commander Illustrated Card
+Male Racer
+	Sets: #369 Ground Shaker Funny Car
 
-49. Land Speed Racer
-Sets: #359 Land Speed Racer
 
-50. Robot Opticon
-Sets: #371 Opticon Illustrated Card
+Emergency Services
+~~~~~~
+Female Paramedic red cross
+	Sets: #350 Rescue Team, #399 Tan Card (possibly)
 
-51. Female Diver
-Sets: #353 Scuba Divers
+Female Paramedic green cross
+	Sets: #350 Rescue Team, #399 Tan Card, #383 Paramedic Illustrated Card
 
-52. Male Diver
-Sets: #353 Scuba Divers
+Male Paramedic
+	Sets: #350 Rescue Team, #303 Rescue Truck, #383 Paramedic Illustrated Card
 
-53. Male Kayaker
-Sets: #355 White Water Kayak
+Female Paramedic
+	Sets: #303 Rescue Truck, #383 Paramedic Illustrated Card
 
-54. Male Kayaker
-Sets: #355 White Water Kayak
+Male Highway Trooper
+	Sets: #373 Highway Trooper Illustrated Card
 
-55. Female Safari Daughter
-Sets: #304 Safari
 
-56. Male Construction Worker
-Sets: #352 Construction Workers
+Water
+~~~~~~
+Male Scuba Diver
+	Comes with diving helmet
+	Sets: #358 Deep Sea Diver
 
-57. Male Ranger different head sculpt and no shirt pockets
-Sets: #307 Wilderness Patrol
+Male Swimmer
+	Sets: #310 Sea Explorer
 
-58. Male Ranger shirt pockets
-Sets: #307 Wilderness Patrol, #399 Tan Card
+Female Swimmer
+	Sets: #310 Sea Explorer
 
-59. X-Ray Man
-Sets: #381 X-Ray Man Illustrated Card
+Male Diver
+	Sets: #334 Sea Shark
 
-60. X-Ray Woman
-Sets: #378 X-Ray Woman Illustrated Card
+Male Swimmer
+	Sets: #334 Sea Shark
 
-61. Male Helicopter Pilot
-Sets: #323 Aero-Marine Team, #382 Rescue Pilot Illustrated Card
+Female Diver
+	Sets: #353 Scuba Divers
 
-62. Male Supersonic Pilot
-Sets: #372 Supersonic Pilot Illustrated Card
+Male Diver
+	Sets: #353 Scuba Divers
 
-63. Male Stunt Man
-Sets: #375 Sky Surfer, #388 Stunt Man Illustrated Card
+Male Kayaker
+	Sets: #355 White Water Kayak
 
-64. Male Frogman Diver
-Sets: #323 Aero-Marine Team, #384 Frogman Illustrated Card
+Male Kayaker
+	Sets: #355 White Water Kayak
 
-65. Male Hang Glider Pilot
-Sets: #377 Astro Knight, #379 Astro Knight Illustrated Card
+Male Frogman Diver
+	Sets: #323 Aero-Marine Team, #384 Frogman Illustrated Card
 
-66. Male Safari Son
-Sets: #304 Safari, #399 Tan Card
 
-67. Male Paramedic
-Sets: #350 Rescue Team, #303 Rescue Truck, #383 Paramedic Illustrated Card
+Workers
+~~~~~~
+Male Construction Worker
+	Sets: #352 Construction Workers
 
-68. Female Paramedic
-Sets: #303 Rescue Truck, #383 Paramedic Illustrated Card
+Male TV Crew
+	Sets: #309 TV Action Team
 
-69. Male Dragster Driver
-Sets: #333 Wheelie Dragster
+Male TV Crew
+	Sets: #309 TV Action Team
 
-70. Male Outdoorsman
-Sets: #312 Northwoods Trailblazer, #399 Tan Card
+Female TV Reporter
+	Rubber skirt (permanently attached)
+	Sets: #309 TV Action Team
 
-71. Male Wilderness Pilot
-Sets: #307 Wilderness Patrol
+Male Construction Worker
+	Sets: #352 Construction Workers
 
-72. Male Alien Robot Brainoid right arm claw
-Sets: #390 Brainoid Illustrated Card
+Male Ranger different head sculpt and no shirt pockets
+	Sets: #307 Wilderness Patrol
 
-72. Male Alien Robot Brainoid left arm claw
-Sets: #390 Brainoid Illustrated Card
+Male Ranger shirt pockets
+	Sets: #307 Wilderness Patrol, #399 Tan Card
 
-73. Male Alpha Pilot
-Sets: #389 Alpha Pilot Illustrated Card
 
-75. Male Dragster Racer
-Sets: #333 Wheelie Dragster
+General
+~~~~~~
+Male Outdoorsman
+	Sets: #312 Northwoods Trailblazer, #399 Tan Card
 
-77. Male Highway Trooper
-Sets: #373 Highway Trooper Illustrated Card
+Male Dunebuster
+	Sets: #322 Dune Buster
 
-78. Male Cowboy
-Sets: #335 Motocross Team
+Male Safari Dad short sleeves
+	Sets: #304 Safari, #399 Individial Tan Card
 
-79. Male Robot Clawtron
-Sets: #380 Clawtron Illustrated Card
+Male Safari Dad long sleeves
+	Sets: #304 Safari
 
-80. Male Racer
-Sets: #369 Ground Shaker Funny Car
+Female Safari Mom
+	Sets: #304 Safari, #399 Tan Card
 
-81. Male Alien Pilot
-Sets: #357 Firestar I
+Female Mountain Climber
+	Sets: #351 Mountain Climbers
+
+Male Cowboy/Driver
+	Sets: #370 Trail Boss 4x4
+
+Male Mountain Climber
+	Sets: #351 Mountain Climbers, #307 Wilderness Patrol
+
+Dune Buster
+	Sets: #386 Dune Buster Illustrated Card
+
+Female Safari Daughter
+	Sets: #304 Safari
+
+Male Safari Son
+	Sets: #304 Safari, #399 Tan Card
+
+Male Outdoorsman
+	Sets: #312 Northwoods Trailblazer, #399 Tan Card
+
+Male Cowboy
+	Sets: #335 Motocross Team
 

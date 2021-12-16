@@ -22,29 +22,19 @@ Action figure scales
 
 Action figure construction
 -----------------------------------------------
-Solid -- All parts are solid plastic and/or metal solid pieces, sealed or riveted together at the torso.
+Accessory -- Anything that comes with the figure (gun, sword, cape) or can be detached from the figure (backpack, clothing).
 
-O-ring -- The torso is hollow, containing a rubber o-ring that links together the parts...the torso is either screwed shut, riveted shut, or sealed.
+Action feature -- Some figures will come built-in springs, motors, and even electronics requiring batteries.
+
+Backpack peg holes -- Figures with o-ring construction often had a torso hole in the back where the screw was located, and this was used to allow backpacks and other accessories to be added to the figure. Early examples include Mego Micronauts and Zee Toys Metal Man.
 
 Figurine -- No moving parts...essentially a statue.
 
 Foot peg holes -- Started by Kenner with the 3.75" Star Wars line, holes were left in the soles of action figures, allowing them to be slotted into dioramas and figure stands. Vintage figures often had larger foot peg holes than modern figures, as there was no cross-company standard followed.
 
-Backpack peg holes -- Figures with o-ring construction often had a torso hole in the back where the screw was located, and this was used to allow backpacks and other accessories to be added to the figure. Early examples include Mego Micronauts and Zee Toys Metal Man.
+O-ring -- The torso is hollow, containing a rubber o-ring that links together the parts...the torso is either screwed shut, riveted shut, or sealed.
 
+Solid -- All parts are solid plastic and/or metal solid pieces, sealed or riveted together at the torso.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Sprue -- Sprues are a plastic frame that is used to connect and distribute small parts. More prevalent in plastic model kits, but sometimes accessories for figures are packed this way (notably the original Teenage Mutant Ninja Turtles line by Playmates). Often called runners as well.
 

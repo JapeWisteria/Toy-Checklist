@@ -1,24 +1,21 @@
 
 -- SPELLING! Get grey/gray sorted out: Canadian is grey
 
--- Finish Trading cards
 -- Finish Bibliography
 -- Finish Index
 
 -- Make an index of characters and their appearances (and costumes) from all the different Star Wars lines.
 
--- Add: Transformers you collect
--- Add: McDonald's Transformers
-
 -- Add: Hasbro 3.75 Marvel lines
 -- Add: Action Force
 -- Add: index to compare AF to ARAH
 
--- Add: Funko non-Reaction lines:
+-- Maybe: Funko non-Reaction lines:
 	Batman66
 	Suicide Squad
 	Ready Player One
-
+-- Maybe: Transformers you collect
+-- Maybe: McDonald's Transformers
 -- Maybe: Sgt. Rock
 -- Maybe: Bronze Bombers
 -- Maybe: Pirates of the Caribbean
@@ -32,12 +29,6 @@
 -- list out unique accessories in Kenner Star Wars
 
 -- Add View-Master reels connected to each toyline
--- Add Golden Books connected to each toyline
--- Add Disney read-along books
-
-
-
-
 
 
 
