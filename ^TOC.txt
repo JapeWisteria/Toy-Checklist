@@ -1,7 +1,9 @@
 
--- Introduction
+-- Acknowledgments
 
 -- Preface
+
+-- Introduction
 
 -- Table of Contents
 
@@ -61,6 +63,7 @@
 		~ Tron: Legacy
 	** Horror
 		~ Burger King Universal Monsters
+		~ Legends of Cthulhu
 		~ Taco Bell/KFC Creature Crypts
 		~ Tales from the Cryptkeeper
 		~ Universal Monsters Mini-Monsters

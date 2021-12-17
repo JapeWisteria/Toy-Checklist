@@ -16,6 +16,8 @@ Figures that came with a playset are marked, but not all have been listed.
 
 Major figure variations are listed under the figure's entry, and aren't counted towards the figure total above.
 
+In many cases, proper character names were unknown (eg. Walrus Man, Hammerhead) at the time. I've added these to the character names.
+
 Star Wars Wave 1 1978
 ~~~~~~
 R2-D2 [Kenny Baker]
@@ -53,13 +55,13 @@ Star Wars Wave 2 1978-79
 ~~~~~~
 Greedo (mail-away coin) [Paul Blake]
 	Heavy blaster pistol
-Hammerhead
+Hammerhead (Momaw Nadon)
 	Imperial blaster
-Snaggletooth (red)
+Snaggletooth (Zutton) (red)
 	Heavy blaster pistol
-Snaggletooth (blue) (came with Sears Cantina Adventure playset)
+Snaggletooth (Zutton) (blue) (came with Sears Cantina Adventure playset)
 	Heavy blaster pistol
-Walrus Man [Tommy Ilsley]
+Walrus Man (Ponda Baba) [Tommy Ilsley]
 	Imperial blaster
 R5-D4
 	Sticker sheet on body
@@ -198,7 +200,7 @@ Salacious Crumb (came bundled with Jabba the Hut playset) [Mark Dodson]
 
 Return of the Jedi Wave 2 1984
 ~~~~~~
-The Emperor (re-issue coin) [Marjorie Eaton, Ian McDiarmid, Clive Revill]
+The Emperor (Sheev Palpatine/Darth Sidious) (re-issue coin) [Marjorie Eaton, Ian McDiarmid, Clive Revill]
 	Grey cane
 AT-ST Driver |Trooper| (re-issue coin)
 	Pilot blaster
@@ -211,7 +213,7 @@ Leia Organa (in combat poncho) (re-issue coin) [Carrie Fisher]
 	Green camo pattern fabric poncho, belt, rebel commando helmet, pilot blaster
 Prune Face (Orrimaarko) [Colin Hunt]
 	Tan fabric cloak with hood, rifle with strap
-Rancor Keeper [Paul Brooke, Ernie Fosselius]
+Rancor Keeper (Malakili) [Paul Brooke, Ernie Fosselius]
 	Hood, gaffi vibroblade
 Teebo (re-issue coin) [Jack Purvis]
 	Headdress, horn with sling, stone axe
@@ -257,6 +259,6 @@ Romba (coin on card) [Debbie Lee Carrington]
 	Headdress, spear
 Warok (coin on card)
 	Headdress, bow, quiver
-Yak Face (coin on card) [Sean Crawford]
+Yak Face (Saelt Marae) (coin on card) [Sean Crawford]
 	Skiff guard battle staff
 

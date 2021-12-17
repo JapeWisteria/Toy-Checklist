@@ -1,6 +1,9 @@
+Glossary
+-----------------------------------------------
+
 
 Action figure value terms
------------------------------------------------
+~~~~~~
 MOC -- Mint On Card
 MLC -- Mint Loose and Complete
 MISB -- Mint In Sealed Box
@@ -10,7 +13,7 @@ Beater -- Figure with enough defects as to be considered almost worthless. Beate
 
 
 Action figure scales
------------------------------------------------
+~~~~~~
 1:4 Scale (approx. 18")
 1:6 Scale (approx. 12")
 1:9 Scale (approx. 8")
@@ -21,12 +24,14 @@ Action figure scales
 
 
 Action figure construction
------------------------------------------------
+~~~~~~
 Accessory -- Anything that comes with the figure (gun, sword, cape) or can be detached from the figure (backpack, clothing).
 
 Action feature -- Some figures will come built-in springs, motors, and even electronics requiring batteries.
 
 Backpack peg holes -- Figures with o-ring construction often had a torso hole in the back where the screw was located, and this was used to allow backpacks and other accessories to be added to the figure. Early examples include Mego Micronauts and Zee Toys Metal Man.
+
+Build-a-figure (BAF) -- In an effort to get a consumer to purchase an entire wave or group of figures, separate pieces of an additional figure will be distributed among all the figures of that wave or group. The Marvel Legends 6" line is famous (or notorious) for this tactic.
 
 Figurine -- No moving parts...essentially a statue.
 
@@ -40,7 +45,7 @@ Sprue -- Sprues are a plastic frame that is used to connect and distribute small
 
 
 Star Trek series acronyms
------------------------------------------------
+~~~~~~
 TOS -- Star Trek: The Original Series, 1966-1969
 TAS -- Star Trek: The Animated Series, 1973-1974
 TNG -- Star Trek: The Next Generation, 1987-1994
