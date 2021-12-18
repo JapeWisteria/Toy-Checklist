@@ -2,119 +2,119 @@ The How and Why Wonder Books
 -----------------------------------------------
 The How and Why Wonder Books were a series of illustrated non-fiction children's books released between 1960 and 1976. They were mainly on science, history and nature topics.
 
-They were released in both North America (Grosset & Dunlap) and the United Kingdom (Transworld Publishers of London) with slightly different title lists.
+They were released in both North America (Grosset & Dunlap) and the United Kingdom (Transworld Publishers of London) with slightly different title lists. The UK editions would often revise portions of the NA copy to better fit the educational needs of the UK market; those revised editions are noted.
 
-The series was issued in both soft and hardcover in a variety of formats in different markets (schools, libraries and bookstores). Below only the softcover bookstore editions are listed.
+The series was issued in both soft and hardcover in a variety of formats in different markets (schools, libraries and bookstores). Below only the softcover bookstore editions are listed. The last set of North American books were issued with photo covers instead of artwork...these are indicated.
 
 Below the North American number is listed first, followed by the UK number. If a UK title is issued with multiple text revisions, both numbers are listed.
 
-Shared Titles
+Shared NA/UK Titles
 ~~~~~~
-5001\6501 - Dinosaurs
-5002\6502, 6592 (revision to 6502) - Weather
-5003\6525 - Electricity
-5004\6531, 6548 (revision to 6531) - Rocks and Minerals
-5005 - Rockets and Missiles
-5006 - Stars (reissued as 5064 Stars)
-5007\6571 (revised NA edition) - Insects
-5008\6530 - Reptiles and Amphibians
-5009\6553 (revised NA edition) - Birds
-5010\6513 - Our Earth
-5011\6532, 6581 (revision to 6532) - Beginning Science
-5012\6526 - Machines
-5013\6504 - The Human Body
-5014 - Sea Shells
-5015\6522 - Atomic Energy
-5016\6519 - The Microscope
-5017 - The Civil War
-5018\6516 - Mathematics
-5019\6520 - Flight (reissued as 5065 Airplanes and the Story of Flight)
-5020\6524 - Ballet
-5021\6505 - Chemistry
-5022\6506 - Horses
-5023\6515 - Explorations and Discoveries
-5024\6517 - Primitive Man
-5025 - North America
-5026\6507, 6586 (revision of 6507) - Planets and Interplanetary Travel
-5027\6508 - Wild Animals
-5028\6527 - Sound
-5029\6509 - Lost Cities
-5030\6528 - Ants and Bees
-5031\6561 (revised NA edition) - Wild Flowers
-5032\6510, 6580 (revision of 6510) - Dogs
-5033\6521 - Prehistoric Mammals
-5034\6518 - Science Experiments
-5035\6557 (revised NA edition) - World War II
-5036\6536 - Florence Nightingale (UK title: The Lady of the Lamp)
-5037\6568 (revised NA edition) - Butterflies and Moths
-5038\6511 - Fish (reissued as 5066 Fish)
-5039\6523, 6572 (revision of 6523) - Robots and Electronic Brains
-5040\6529 - Light and Color
-5041\6537 - Winning of the West
-5042 - The American Revolution
-5043\6512 - Caves to Skyscrapers
-5044\6579 - Ships (reissued as 5067 Boats and Ships)
-5045\6538 - Time
-5046\6540 - Magnets and Magnetism
-5047 - Guns
-5048 - The Moon (reissued as 5068 The Moon)
-5049\6533 - Famous Scientists
-5050\6541 - The Old Testament
-5051\6543 - Building
-5052\6552 (new text) - Railroads (reissued as 5069 Trains and Railroads)
-5053\6562 - Trees
-5054\6542 - Oceanography
-5055\6535 - North American Indians
-5056 - Mushrooms Ferns and Mosses
-5057\6534 - The Polar Regions
-5058\6554 (new text) - Coins and Currency
-5059\6539 - Basic Inventions
-5060\6514 - The First World War
-5061\6550, 6575 (revision of 6550) - Electronics
-5062\6544, 6595 - Deserts
-5063\6551 - Air and Water
-5064\6503 - Stars
-5065 - Airplanes and the Story of Flight
-5066 - Fish
-5067 - Boats and Ships
-5068 - The Moon
-5069 - Trains and Railroads
-5070 - Ecology (NA photo cover)
-5071 - The Environment and You (NA photo cover)
-5072\6555 - Extinct Animals (NA photo cover)
-5073\6585 - Snakes (NA photo cover)
-5076\6564 - Fossils (NA photo cover)
+__ 5001, __ 6501 -- Dinosaurs
+__ 5002, __ 6502, __ 6592 (rev. of 6502) -- Weather
+__ 5003, __ 6525 -- Electricity
+__ 5004, __ 6531, __ 6548 (rev. of 6531) -- Rocks and Minerals
+__ 5005 -- Rockets and Missiles
+__ 5006 -- Stars (reissued as 5064)
+__ 5007, __ 6571 (rev. NA ed.) -- Insects
+__ 5008, __ 6530 -- Reptiles and Amphibians
+__ 5009, __ 6553 (rev. NA ed.) -- Birds
+__ 5010, __ 6513 -- Our Earth
+__ 5011, __ 6532, __ 6581 (rev. of 6532) -- Beginning Science
+__ 5012, __ 6526 -- Machines
+__ 5013, __ 6504 -- The Human Body
+__ 5014 -- Sea Shells
+__ 5015, __ 6522 -- Atomic Energy
+__ 5016, __ 6519 -- The Microscope
+__ 5017 -- The Civil War
+__ 5018, __ 6516 -- Mathematics
+__ 5019, __ 6520 -- Flight (reissued as 5065)
+__ 5020, __ 6524 -- Ballet
+__ 5021, __ 6505 -- Chemistry
+__ 5022, __ 6506 -- Horses
+__ 5023, __ 6515 -- Explorations and Discoveries
+__ 5024, __ 6517 -- Primitive Man
+__ 5025 -- North America
+__ 5026, __ 6507, __ 6586 (rev. of 6507) -- Planets and Interplanetary Travel
+__ 5027, __ 6508 -- Wild Animals
+__ 5028, __ 6527 -- Sound
+__ 5029, __ 6509 -- Lost Cities
+__ 5030, __ 6528 -- Ants and Bees
+__ 5031, __ 6561 (rev. NA ed.) -- Wild Flowers
+__ 5032, __ 6510, 6580 (rev. of 6510) -- Dogs
+__ 5033, __ 6521 -- Prehistoric Mammals
+__ 5034, __ 6518 -- Science Experiments
+__ 5035, __ 6557 (rev. NA ed.) -- World War II
+__ 5036, __ 6536 -- Florence Nightingale (UK title: The Lady of the Lamp)
+__ 5037, __ 6568 (rev. NA ed.) -- Butterflies and Moths
+__ 5038, __ 6511 -- Fish (reissued as 5066)
+__ 5039, __ 6523, __ 6572 (rev. of 6523) -- Robots and Electronic Brains
+__ 5040, __ 6529 -- Light and Color
+__ 5041, __ 6537 -- Winning of the West
+__ 5042 -- The American Revolution
+__ 5043, __ 6512 -- Caves to Skyscrapers
+__ 5044, __ 6579 -- Ships (reissued as 5067)
+__ 5045, __ 6538 -- Time
+__ 5046, __ 6540 -- Magnets and Magnetism
+__ 5047 -- Guns
+__ 5048 -- The Moon (reissued as 5068)
+__ 5049, __ 6533 -- Famous Scientists
+__ 5050, __ 6541 -- The Old Testament
+__ 5051, __ 6543 -- Building
+__ 5052, __ 6552 (new text) -- Railroads (reissued as 5069)
+__ 5053, __ 6562 -- Trees
+__ 5054, __ 6542 -- Oceanography
+__ 5055, __ 6535 -- North American Indians
+__ 5056 -- Mushrooms Ferns and Mosses
+__ 5057, __ 6534 -- The Polar Regions
+__ 5058, __ 6554 (new text) -- Coins and Currency
+__ 5059, __ 6539 -- Basic Inventions
+__ 5060, __ 6514 -- The First World War
+__ 5061, __ 6550, __ 6575 (rev. of 6550) -- Electronics
+__ 5062, __ 6544, __ 6595 -- Deserts
+__ 5063, __ 6551 -- Air and Water
+__ 5064, __ 6503 -- Stars
+__ 5065 -- Airplanes and the Story of Flight
+__ 5066 -- Fish
+__ 5067 -- Boats and Ships
+__ 5068 -- The Moon
+__ 5069 -- Trains and Railroads
+__ 5070 -- Ecology (NA photo cover)
+__ 5071 -- The Environment and You (NA photo cover)
+__ 5072, __ 6555 -- Extinct Animals (NA photo cover)
+__ 5073, __ 6585 -- Snakes (NA photo cover)
+__ 5076, __ 6564 -- Fossils (NA photo cover)
 
 
 UK only titles
 ~~~~~~
-6545 The Tower of London
-6546 Stamps
-6547 Seashore
-6549 Castles
-6556 The Spoilt Earth
-6558 Communications
-6559 Dance
-6560 Kings and Queens
-6563 Photography
-6565 Ancient Rome
-6566 Common Market
-6567 Volcanoes
-6569 Vikings
-6570 Cats
-6573 Costume
-6574 The Crusades
-6576 The Motor Car
-6577 Energy and Power Sources
-6578 Radio and TV
-6583 Heraldry
-6587 Deep Sea
-6589 Pets
-6591 Arms and Armour
-6596 Rare Animals
-6597 Ancient Egypt
-6598 Oil
-6599 Parliament
-6600 The Ice Age
-6601 Arab World
+__ 6545 -- The Tower of London
+__ 6546 -- Stamps
+__ 6547 -- Seashore
+__ 6549 -- Castles
+__ 6556 -- The Spoilt Earth
+__ 6558 -- Communications
+__ 6559 -- Dance
+__ 6560 -- Kings and Queens
+__ 6563 -- Photography
+__ 6565 -- Ancient Rome
+__ 6566 -- Common Market
+__ 6567 -- Volcanoes
+__ 6569 -- Vikings
+__ 6570 -- Cats
+__ 6573 -- Costume
+__ 6574 -- The Crusades
+__ 6576 -- The Motor Car
+__ 6577 -- Energy and Power Sources
+__ 6578 -- Radio and TV
+__ 6583 -- Heraldry
+__ 6587 -- Deep Sea
+__ 6589 -- Pets
+__ 6591 -- Arms and Armour
+__ 6596 -- Rare Animals
+__ 6597 -- Ancient Egypt
+__ 6598 -- Oil
+__ 6599 -- Parliament
+__ 6600 -- The Ice Age
+__ 6601 -- Arab World
 

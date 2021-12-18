@@ -6,30 +6,30 @@ All figures have solid construction.
 
 Wave 1 1988
 ~~~~~~
-Jean-Luc Picard [Patrick Stewart]
-	Tricorder
-William Riker [Jonathan Frakes]
-	Tricorder
-Data [Brent Spiner]
-	Tricorder
-Geordi La Forge [LeVar Burton]
-	Tricorder
-Worf [Michael Dorn]
-	Tricorder
-Tasha Yar [Denise Crosby]
-	Tricorder
+__ Jean-Luc Picard [Patrick Stewart]
+	Tricorder __
+__ William Riker [Jonathan Frakes]
+	Tricorder __
+__ Data [Brent Spiner]
+	Tricorder __
+__ Geordi La Forge [LeVar Burton]
+	Tricorder __
+__ Worf [Michael Dorn]
+	Tricorder __
+__ Tasha Yar [Denise Crosby]
+	Tricorder __
 
 Wave 2 1989
 ~~~~~~
-Antican |Trooper|
-Ferengi |Trooper| [Armin Shimerman]
-	Energy whip
-Q [John de Lancie]
-Selay |Trooper|
+__ Antican |Trooper|
+__ Ferengi |Trooper| [Armin Shimerman]
+	Energy whip __
+__ Q [John de Lancie]
+__ Selay |Trooper|
 
 Prototype
 ~~~~~~
-Romulan |Trooper| [Marc Alaimo]
-	Tricorder
-Wesley Crusher [Wil Wheaton]
+__ Romulan |Trooper| [Marc Alaimo]
+	Tricorder __
+__ Wesley Crusher [Wil Wheaton]
 

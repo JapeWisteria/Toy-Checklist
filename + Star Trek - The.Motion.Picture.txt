@@ -6,21 +6,21 @@ All figures have solid construction and only two came with accessories.
 
 Wave 1 1979
 ~~~~~~
-Kirk [William Shatner]
-Decker [Stephen Collins]
-Ilia [Persis Khambatta]
-McCoy [DeForest Kelley]
-Spock [Leonard Nimoy]
-Scotty [James Doohan]
+__ Kirk [William Shatner]
+__ Decker [Stephen Collins]
+__ Ilia [Persis Khambatta]
+__ McCoy [DeForest Kelley]
+__ Spock [Leonard Nimoy]
+__ Scotty [James Doohan]
 
 Wave 2 1980
 ~~~~~~
-Arcturian |Trooper|
-Betelgusian |Trooper|
-	Red cloth cape
-Klingon |Trooper| [Mark Lenard]
-Megarite |Trooper|
-	Black cloth cape
-Rigellian |Trooper|
-Zaranite |Trooper|
+__ Arcturian |Trooper|
+__ Betelgusian |Trooper|
+	Red cloth cape __
+__ Klingon |Trooper| [Mark Lenard]
+__ Megarite |Trooper|
+	Black cloth cape __
+__ Rigellian |Trooper|
+__ Zaranite |Trooper|
 

@@ -2,45 +2,46 @@ Star Trek Galaxy Collection
 Playmates. 2009. 1:18 Scale (3.75").
 Waves: 1. Figures: 19.
 -----------------------------------------------
-This line was based off the 2009 film, which re-cast the original crew. All figures came with a piece of the Enterprise that fit together into playsets.
+This line was based off the 2009 film, which re-cast the original TOS crew. All figures came with a piece of the Enterprise that fit together into playsets.
 
 All figures are solid construction.
 
-Chekov (Cadet Uniform) [Anton Yelchin]
-	B13 Bridge accessories, Utility Belt, Phaser, Data Tablet, Gold Starfleet Emblem figure stand
-Chekov (Enterprise Uniform) [Anton Yelchin]
-	B15 Bridge Accessories, Utility belt, Phaser
-Kirk (Cadet Uniform) [Chris Pine]
-	B3 Bridge accessories, Utility Belt, Phaser, Data Tablet
-Kirk (Enterprise Uniform) [Chris Pine]
-	B9 Bridge accessories, Utility Belt, Phaser, Silver Starfleet Emblem figure stand
-Kirk (Off Duty Uniform) [Chris Pine]
-	B3 Bridge accessories, Utility Belt, Phaser
-Kirk (Space Suit) [Chris Pine]
-	T1 Transporter Accessories, Helmet, Phaser, Parachute
-Leonard "Bones" McCoy (Enterprise Uniform) [Karl Urban]
-	B7 Bridge Accessories, Utility Belt, Phaser, Hypospray
-Leonard "Bones" McCoy (Cadet Uniform) [Karl Urban]
-	B10 Bridge Accessories, Utility Belt, Phaser, Data Tablet, Hypospray, Gold Starfleet Emblem figure stand
-Scotty (Enterprise Uniform) [Simon Pegg]
-	B11 Bridge Accessories, Utility Belt, Phaser, Silver Starfleet Emblem figure stand
-Spock (Enterprise Uniform) [Zachary Quinto]
-	B1 Bridge Accessories, Utility Belt, Phaser, Interchangable Vulcan salute hand, Silver Starfleet Emblem figure stand
-Sulu (Enterprise Uniform) [John Cho]
-	B4 Bridge Accessories, Utility Belt, Phaser, Silver Starfleet Emblem figure stand
-Sulu (Space Suit) [John Cho]
-	T2 Transporter Accessories, Helmet, Phaser, Parachute, Sword
-Uhura (Enterprise Uniform) [Zoe Saldana]
-	T2 Transporter Accessories, Utility Belt, Phaser, Silver Starfleet Emblem figure stand
-Pike (Enterprise Uniform) [Bruce Greenwood]
-	B2 Bridge Accessories, Utility Belt, Phaser, Silver Starfleet Emblem figure stand
-Keenser [Deep Roy]
-	Goggles
-Original Spock [Leonard Nimoy]
-	T4 Transporter Accessories, Interchangable Vulcan salute hand, Display stand
-Sarek [Ben Cross]
-	T4 Transporter Accessories, Interchangable Vulcan salute hand, Display stand
-General Ayel [Clifton Collins, Jr.]
-	B14 Bridge Accessory, Romulan Disruptor, Belt with holster
-Nero [Eric Bana]
-	T3 Transporter Accessories, Romulan Disruptor, Teral'n spear, Display stand
+__ Chekov (Cadet Uniform) [Anton Yelchin]
+	B13 Bridge accessories __, Utility Belt __, Phaser __, Data Tablet __, Gold Starfleet Emblem figure stand __
+__ Chekov (Enterprise Uniform) [Anton Yelchin]
+	B15 Bridge Accessories __, Utility belt __, Phaser __
+__ Kirk (Cadet Uniform) [Chris Pine]
+	B3 Bridge accessories __, Utility Belt __, Phaser __, Data Tablet __
+__ Kirk (Enterprise Uniform) [Chris Pine]
+	B9 Bridge accessories __, Utility Belt __, Phaser __, Silver Starfleet Emblem figure stand __
+__ Kirk (Off Duty Uniform) [Chris Pine]
+	B3 Bridge accessories __, Utility Belt __, Phaser __
+__ Kirk (Space Suit) [Chris Pine]
+	T1 Transporter Accessories __, Helmet __, Phaser __, Parachute __
+__ Leonard "Bones" McCoy (Enterprise Uniform) [Karl Urban]
+	B7 Bridge Accessories __, Utility Belt __, Phaser __, Hypospray __
+__ Leonard "Bones" McCoy (Cadet Uniform) [Karl Urban]
+	B10 Bridge Accessories __, Utility Belt __, Phaser __, Data Tablet __, Hypospray __, Gold Starfleet Emblem figure stand __
+__ Scotty (Enterprise Uniform) [Simon Pegg]
+	B11 Bridge Accessories __, Utility Belt __, Phaser __, Silver Starfleet Emblem figure stand __
+__ Spock (Enterprise Uniform) [Zachary Quinto]
+	B1 Bridge Accessories __, Utility Belt __, Phaser __, Interchangable Vulcan salute hand __, Silver Starfleet Emblem figure stand __
+__ Sulu (Enterprise Uniform) [John Cho]
+	B4 Bridge Accessories __, Utility Belt __, Phaser __, Silver Starfleet Emblem figure stand __
+__ Sulu (Space Suit) [John Cho]
+	T2 Transporter Accessories __, Helmet __, Phaser __, Parachute __, Sword __
+__ Uhura (Enterprise Uniform) [Zoe Saldana]
+	T2 Transporter Accessories __, Utility Belt __, Phaser __, Silver Starfleet Emblem figure stand __
+__ Pike (Enterprise Uniform) [Bruce Greenwood]
+	B2 Bridge Accessories __, Utility Belt __, Phaser __, Silver Starfleet Emblem figure stand __
+__ Keenser [Deep Roy]
+	Goggles __
+__ Original Spock [Leonard Nimoy]
+	T4 Transporter Accessories __, Interchangable Vulcan salute hand __, Display stand __
+__ Sarek [Ben Cross]
+	T4 Transporter Accessories __, Interchangable Vulcan salute hand __, Display stand __
+__ General Ayel [Clifton Collins, Jr.]
+	B14 Bridge Accessory __, Romulan Disruptor __, Belt with holster __
+__ Nero [Eric Bana]
+	T3 Transporter Accessories __, Romulan Disruptor __, Teral'n spear __, Display stand __
+
