@@ -6,26 +6,27 @@ All figures have solid construction.
 
 Wave 1 1978
 ~~~~~~
-Commander Adama [Lorne Greene]
-	Laser pistol, blue cape
-Cylon Centurian |Trooper|
-	Laser rifle
-Daggit
+__ Commander Adama [Lorne Greene]
+	Laser pistol __, blue cape __
+__ Cylon Centurian |Trooper|
+	Laser rifle __
+__ Daggit
 	No accessories
-Imperious Leader [Patrick Macnee]
-	Purple cape
-Ovion |Trooper|
-	Webbed cape
-Starbuck [Dirk Benedict]
-	Laser pistol, brown cape
+__ Imperious Leader [Patrick Macnee]
+	Purple cape __
+__ Ovion |Trooper|
+	Webbed cape __
+__ Starbuck [Dirk Benedict]
+	Laser pistol __, brown cape __
 
 Wave 2 1979
 ~~~~~~
-Baltar [John Colicos]
-	Laser pistol
-Boray
-	Brown club
-Cylon Commander |Trooper|
-	Laser rifle
-Lucifer [Jonathan Harris]
+__ Baltar [John Colicos]
+	Laser pistol __
+__ Boray
+	Brown club __
+__ Cylon Commander |Trooper|
+	Laser rifle __
+__ Lucifer [Jonathan Harris]
 	No accessories
+

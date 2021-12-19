@@ -4,11 +4,11 @@ Waves: 1. Figures: 4.
 -----------------------------------------------
 All figures are solid construction.
 
-Calibos [Neil McCarthy]
-	Sword, soft plastic tail
-Charon
-	Sword
-Perseus [Harry Hamlin]
-	Sword, shield
-Thallo [Tim Pigott-Smith]
-	Sword, shield
+__ Calibos [Neil McCarthy]
+	Sword __, soft plastic tail __
+__ Charon
+	Sword __
+__ Perseus [Harry Hamlin]
+	Sword __, shield __
+__ Thallo [Tim Pigott-Smith]
+	Sword __, shield __

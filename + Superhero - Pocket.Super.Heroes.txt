@@ -6,22 +6,22 @@ All have solid construction.
 
 Wave 1 1979
 ~~~~~~
-Batman
-Hulk
-Jor-El
-Lex Luthor
-Robin
-Spider-Man
-Superman
-Zod
+__ Batman
+__ Hulk
+__ Jor-El
+__ Lex Luthor
+__ Robin
+__ Spider-Man
+__ Superman
+__ Zod
 
 Wave 2 1980
 ~~~~~~
-Aquaman
-Captain America
-	Red shield
-Green Goblin
-	Brown handbag
-Wonder Woman
-	Lasso
+__ Aquaman
+__ Captain America
+	Red shield __
+__ Green Goblin
+	Brown handbag __
+__ Wonder Woman
+	Lasso __
 

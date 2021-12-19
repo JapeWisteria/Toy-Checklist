@@ -6,20 +6,20 @@ This toyline was distinct from the main Mystic Knights of Tir Na Nog line, which
 
 Lugad, Miter, Queen Maeve and Torc all had a "build-a-figure" accessory that formed a dragon. Each piece could also be placed onto the figure.
 
-Rohan [Lochlainn O'Mearain]
+__ Rohan [Lochlainn O'Mearain]
 	No accessories
-Queen Maeve [Charlotte Bradley]
-	Cloth cape, dragon BAF head
-Angus [Vincent Walsh]
+__ Queen Maeve [Charlotte Bradley]
+	Cloth cape __, dragon BAF head __
+__ Angus [Vincent Walsh]
 	No accessories
-Torc [Gerry O'Brien]
-	Plastic cape, dragon BAF hands
-Deidre [Lisa Dwan]
+__ Torc [Gerry O'Brien]
+	Plastic cape __, dragon BAF hands __
+__ Deidre [Lisa Dwan]
 	No accessories
-Mider [Ned Dennehy]
-	Dragon BAF wings
-Ivar [Justin Pierre]
+__ Mider [Ned Dennehy]
+	Dragon BAF wings __
+__ Ivar [Justin Pierre]
 	No accessories
-Lugad [Eric O'Cuinn]
-	Dragon BAF legs and torso
+__ Lugad [Eric O'Cuinn]
+	Dragon BAF legs and torso __
 

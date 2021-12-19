@@ -8,14 +8,16 @@ These figures were released in many different forms, each coming with unique acc
 
 The figures were either human or robots. I've listed humans first, then the robots.
 
-Wave 1
+Humans
 ~~~~~~
-Corporal Chrome
-Major Mercury
-Rescueman
-Sergeant Silver
+__ Corporal Chrome
+__ Major Mercury
+__ Rescueman
+__ Sergeant Silver
 
-Questar
-Radon
-Roton
+Robots
+~~~~~~
+__ Questar
+__ Radon
+__ Roton
 

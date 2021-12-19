@@ -6,35 +6,35 @@ All figures featured solid construction with an action feature. Molds were based
 
 This line started out as a tie-in to the 1989 Batman live-action film, but those figures aren't listed here.
 
-Lex Luthor
-	Pistol, briefcase
-Penguin (with tails)
-	Umbrella (came in 3 variants: short missile, long missile, non-firing)
-Penguin (without tails)
-	Umbrella (non-firing)
-Riddler
-	Paper clues
-Aquaman (orange arms)
-	Yellow trident, sea horse
-Aquaman (green arms)
-	Yellow trident, sea horse
-Flash (Running Arm Movement)
+__ Lex Luthor
+	Pistol __, briefcase __
+__ Penguin (with tails)
+	Umbrella (came in 3 variants: short missile __, long missile __, non-firing __)
+__ Penguin (without tails)
+	Umbrella (non-firing) __
+__ Riddler
+	Paper clues __
+__ Aquaman (orange arms)
+	Yellow trident __, sea horse __
+__ Aquaman (green arms)
+	Yellow trident __, sea horse __
+__ Flash (Running Arm Movement)
 	No accessories
-Flash (Turbo Platform)
-	Figure stand (Turbo platform)
-Green Lantern
-	Power ring (lifesize), power battery, water pump
-Hawkman
-	Removable wings, silver mace
-Mr. Freeze (Clear Helmet)
-	Removable helmet, hose attachments
-Mr. Freeze (Orange Helmet)
-	Removable helmet, hose attachments
-Robin
-	Yellow cape
-Superman
-	Red cape, kryptonite ring (lifesize)
-Two-Face
+__ Flash (Turbo Platform)
+	Figure stand (Turbo platform) __
+__ Green Lantern
+	Power ring (lifesize) __, power battery __, water pump __
+__ Hawkman
+	Removable wings __, silver mace __
+__ Mr. Freeze (Clear Helmet)
+	Removable helmet __, hose attachments __ __
+__ Mr. Freeze (Orange Helmet)
+	Removable helmet __, hose attachments __ __
+__ Robin
+	Yellow cape __
+__ Superman
+	Red cape __, kryptonite ring (lifesize) __
+__ Two-Face
 	No accessories
-Wonder Woman
-	Golden lasso
+__ Wonder Woman
+	Golden lasso __

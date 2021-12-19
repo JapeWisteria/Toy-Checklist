@@ -2,13 +2,13 @@ Indiana Jones and The Temple of Doom
 LJN. 1984. 1:12 Scale (5").
 Waves: 1. Figures: 3.
 -----------------------------------------------
-All figures have solid construction and came with a 'battle-matic' feature.
+All figures have solid construction and came with a 'battle-matic' action feature.
 
 
-Indiana Jones [Harrison Ford]
-	a fedora, a whip, a bag, and a sword.
-Mola Ram [Amrish Puri]
-	a hat, a dagger, and a staff.
-Giant Huggee [Pat Roach]
-	an ax, a sword, and a rope.
+__ Indiana Jones [Harrison Ford]
+	Fedora __, whip __, bag __, sword __
+__ Mola Ram [Amrish Puri]
+	Hat __, dagger __, staff __
+__ Giant Huggee [Pat Roach]
+	Axe __, sword __, rope __
 

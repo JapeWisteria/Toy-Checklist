@@ -82,7 +82,7 @@ __ Arrow masked [Stephen Amell]
 	Bow __
 __ Arrow unmasked with hood up [Stephen Amell]
 	Bow __
-__ Arrow unmasked - 2015 San Diego Comic-Con [Stephen Amell]
+__ Arrow unmasked - 2015 SDCC [Stephen Amell]
 	Bow __
 __ Black Canary [Katie Cassidy]
 	Staff __
@@ -138,7 +138,7 @@ Breaking Bad 2015 (7)
 ~~~~~~
 __ Gustavo Fring [Giancarlo Esposito]
 	Drug vial __
-__ Gustavo Fring (Dead) - 2015 San Diego Comic-Con [Giancarlo Esposito]
+__ Gustavo Fring (Dead) - 2015 SDCC [Giancarlo Esposito]
 __ Heisenberg [Bryan Cranston]
 	Revolver __
 __ Jesse Pinkman [Aaron Paul]
@@ -177,7 +177,7 @@ __ The Chamberlain Skeksis [Barry Dennen]
 	Crystal fragment __
 __ UrSol the Mystic [Simon J. Williamson]
 	Crystal fragment __, wooden staff __
-Landstrider and Jen - San Diego Comic-Con 2016
+Landstrider and Jen - SDCC 2016
 	__ Landstrider
 	__ Jen [Stephen Garlick]
 		Slingshot __
@@ -242,7 +242,7 @@ __ Hoban Washburne [Alan Tudyk]
 	2 toy dinosaurs (red and blue) __ __
 __ Jayne Cobb [Adam Baldwin]
 	Rifle __, pistol __
-__ Jayne Cobb with hat - 2014 San Diego Comic-Con [Adam Baldwin]
+__ Jayne Cobb with hat - 2014 SDCC [Adam Baldwin]
 	Rifle __, pistol __
 __ Kaylee Frye [Jewel Staite]
 	Wrench __
@@ -250,7 +250,7 @@ __ Malcolm Reynolds [Nathan Fillion]
 	Pistol __
 __ Malcolm Reynolds Blue Shirt [Nathan Fillion]
 	Lever-action rifle __
-__ Malcolm Reynolds coat - 2014 San Diego Comic-Con [Nathan Fillion]
+__ Malcolm Reynolds coat - 2014 SDCC [Nathan Fillion]
 	Pistol __, cloth trenchcoat __
 __ Zoe Washburne [Gina Torres]
 	Lever-action rifle __
@@ -260,7 +260,7 @@ The Flash 2015 (4)
 ~~~~~~
 __ Captain Cold [Wentworth Miller]
 	Cold pistol __
-__ The Flash Unmasked - 2015 San Diego Comic-Con [Grant Gustin]
+__ The Flash Unmasked - 2015 SDCC [Grant Gustin]
 __ The Flash masked [Grant Gustin]
 __ Reverse Flash [Matt Letscher]
 
@@ -288,7 +288,7 @@ __ Mouth [Corey Feldman]
 	Treasure Map __
 __ Sloth [John Matuszak]
 	Pirate Hat __
-__ Sloth (Superman shirt) 2014 San Diego Comic-Con [John Matuszak]
+__ Sloth (Superman shirt) 2014 SDCC [John Matuszak]
 	Pirate Hat __
 
 
@@ -344,7 +344,7 @@ __ Quint [Robert Shaw]
 	Harpoon gun __
 __ Great White Shark
 	Gas tank __
-Bloody Quint and Shark - 2015 San Diego Comic-Con
+Bloody Quint and Shark - 2015 SDCC
 	__ Shark
 	__ Quint [Robert Shaw]
 		Machete __
@@ -380,15 +380,15 @@ __ Jack Skellington - Happy [Chris Sarandon, Danny Elfman]
 	Book __
 __ Jack Skellington - Surprised [Chris Sarandon, Danny Elfman]
 	Book __
-__ Jack Skellington - 2014 San Diego Comic-Con [Chris Sarandon, Danny Elfman]
+__ Jack Skellington - 2014 SDCC [Chris Sarandon, Danny Elfman]
 	Zero __
-__ Jack Skellington in pumpkin - 2015 San Diego Comic-Con [Chris Sarandon, Danny Elfman]
+__ Jack Skellington in pumpkin - 2015 SDCC [Chris Sarandon, Danny Elfman]
 	This figure came in a blow-molded jack-o-lantern, and was made in orange plastic and paint applications.
 __ Mayor [Glenn Shadix]
 	Bullhorn __, scroll __
 __ Sally [Catherine O'Hara]
 	Spoon __, bucket __
-__ Sally in pumpkin - 2015 San Diego Comic-Con [Catherine O'Hara]
+__ Sally in pumpkin - 2015 SDCC [Catherine O'Hara]
 	This figure came in a blow-molded jack-o-lantern, and was made in orange plastic and paint applications.
 __ Clown with the Tearaway Face [Danny Elfman]
 	Display stand with unicycle __
@@ -409,7 +409,7 @@ __ Wolfman [Glenn Walters]
 Predator 2014-2015 (8)
 ~~~~~~
 __ Predator clear masked [Kevin Peter Hall, Peter Cullen]
-__ Predator clear masked with blood damage - 2014 San Diego Comic-Con [Kevin Peter Hall, Peter Cullen]
+__ Predator clear masked with blood damage - 2014 SDCC [Kevin Peter Hall, Peter Cullen]
 __ Predator open mouth [Kevin Peter Hall, Peter Cullen]
 __ Predator closed mouth [Kevin Peter Hall, Peter Cullen]
 __ Predator masked [Kevin Peter Hall, Peter Cullen]
@@ -428,14 +428,14 @@ __ Jimmie Dimmick [Quentin Tarantino]
 	Coffee Mug __
 __ Jules Winnifield [Samuel L. Jackson]
 	Pistol __
-__ Jules Winnifield bloody - 2014 San Diego Comic-Con [Samuel L. Jackson]
+__ Jules Winnifield bloody - 2014 SDCC [Samuel L. Jackson]
 	Pistol __
 __ Marsellus Wallace [Ving Rhames]
 	Pistol __
 __ Mia Wallace [Uma Thurman]
 __ Vincent Vega [John Travolta]
 	Pistol __
-__ Vincent Vega bloody - 2014 San Diego Comic-Con [John Travolta]
+__ Vincent Vega bloody - 2014 SDCC [John Travolta]
 	Pistol __
 __ The Wolf [Harvey Keitel]
 	Coffee Mug __
@@ -445,7 +445,7 @@ The Rocketeer 2014 (2)
 ~~~~~~
 __ Rocketeer [Bill Campbell]
 	Helmet __, rocket pack __
-__ Rocketeer black and white - 2014 San Diego Comic-Con [Bill Campbell]
+__ Rocketeer black and white - 2014 SDCC [Bill Campbell]
 	Helmet __, rocket pack __
 
 
@@ -538,8 +538,8 @@ __ T1000 Frozen Patrolman Chrome - 2015 New York Comic Con exclusive [Robert Pat
 __ T1000 Final Battle - Entertainment Earth [Robert Patrick]
 __ T1000 Final Battle chest injuries - Entertainment Earth [Robert Patrick]
 	Pistol __
-__ T1000 Officer w/ Hook Arms - 2015 San Diego Comic-Con [Robert Patrick]
-__ T1000 Officer w/ Hole in Head - 2016 San Diego Comic-Con [Robert Patrick]
+__ T1000 Officer w/ Hook Arms - 2015 SDCC [Robert Patrick]
+__ T1000 Officer w/ Hole in Head - 2016 SDCC [Robert Patrick]
 	Pistol __
 __ T800 [Arnold Schwarzenegger]
 	Shotgun __, pistol __

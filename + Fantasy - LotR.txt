@@ -4,19 +4,20 @@ Waves: 1. Figures: 6.
 -----------------------------------------------
 All figures have solid construction. The figures are scaled slightly larger than 1:18, but less than 1:12 scale.
 
-Aragorn
-	Sheath and sword
-Frodo
-	Sheath and short sword
-Samwise
-	Sheath and short sword
-Gandalf
-	Hat and staff
-Ringwraith |Trooper|
-	Sheath, sword and battle-axe
-Gollum
+__ Aragorn
+	Sheath __, sword __
+__ Frodo
+	Sheath __, short sword __
+__ Samwise
+	Sheath __, short sword __
+__ Gandalf
+	Hat __, staff __
+__ Ringwraith |Trooper|
+	Sheath __, sword __, battle-axe __
+__ Gollum
 	No accessories
-Frodo's horse
-	Saddle and reins
-Charger of the Ringwraith
-	Saddle, reins and shield
+__ Frodo's horse
+	Saddle __, reins __
+__ Charger of the Ringwraith
+	Saddle __, reins __, shield __
+

@@ -4,11 +4,11 @@ Waves: 1. Figures: 6.
 -----------------------------------------------
 All figures feature solid construction.
 
-Amigo
-	Sword and revolver
-Captain Ramon
-	Sword and revolver
-Sergeant Gonzales
-	Sword, revolver, and hat
-Zorro
-	Sword, revolver, red and black cape
+__ Amigo
+	Sword __, revolver __
+__ Captain Ramon
+	Sword __, revolver
+__ Sergeant Gonzales
+	Sword __, revolver __, hat __
+__ Zorro
+	Sword __, revolver __, red and black cape __

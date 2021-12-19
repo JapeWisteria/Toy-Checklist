@@ -4,14 +4,14 @@ Waves: 1. Figures: 5.
 -----------------------------------------------
 All figures are solid construction. Three unproduced prototypes (not listed).
 
-Butch Cassidy [Tom Berenger]
-	Revolver.
-Marshall LeFors [Peter Weller]
-	Revolver.
-O.C. Hanks [Brian Dennehy]
-	Revolver.
-Sheriff Bledsoe [Jeff Corey]
-	Revolver.
-The Sundance Kid [William Katt]
-	Revolver.
+__ Butch Cassidy [Tom Berenger]
+	Revolver __
+__ Marshall LeFors [Peter Weller]
+	Revolver __
+__ O.C. Hanks [Brian Dennehy]
+	Revolver __
+__ Sheriff Bledsoe [Jeff Corey]
+	Revolver __
+__ The Sundance Kid [William Katt]
+	Revolver __
 

@@ -6,26 +6,29 @@ There were both non-posable figurines and larger articulated figures. There were
 
 Figurines
 ~~~~~~
-E.T. (in dress)
-E.T. (with flower pot)
-E.T. (with blue blanket and book)
-E.T. (with robe)
-E.T. (with white sheet and Speak and Spell)
-E.T. (with phone)
-E.T. (with ghost sheet)
-E.T. (with doll)
-E.T. (with umbrella)
+__ E.T. (in dress)
+__ E.T. (with flower pot)
+__ E.T. (with blue blanket and book)
+__ E.T. (with robe)
+__ E.T. (with white sheet and Speak and Spell)
+__ E.T. (with phone)
+__ E.T. (with ghost sheet)
+__ E.T. (with doll)
+__ E.T. (with umbrella)
 
 
 Figures
 ~~~~~~
-E.T. Action Figure (with Speak and Spell)
-Wind Up E.T.
+__ E.T. Action Figure
+	Speak and Spell __
+__ Wind Up E.T.
 
 
 Die-cast Vehicles
 ~~~~~~
-E.T. and Elliott Powered Bicycle
-E.T. and Spaceship Launcher
-Pop-Up Spaceship
-Stunt Spaceship
+__ E.T. and Elliott Powered Bicycle
+__ E.T. and Spaceship Launcher
+	E.T. __
+__ Pop-Up Spaceship
+__ Stunt Spaceship
+

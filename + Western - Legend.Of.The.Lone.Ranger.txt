@@ -4,14 +4,14 @@ Waves: 1. Figures: 5.
 -----------------------------------------------
 All figures have solid construction.
 
-Buffalo Bill Cody [Ted Flicker]
-	Repeater rifle
-Butch Cavendish [Christopher Lloyd]
-	Pistol
-General George Custer [Lincoln Tate]
-	Pistol
-The Lone Ranger [Klinton Spilsbury, James Keach]
-	Pistol (2)
-Tonto [Michael Horse]
-	Pistol and knife
+__ Buffalo Bill Cody [Ted Flicker]
+	Repeater rifle __
+__ Butch Cavendish [Christopher Lloyd]
+	Pistol __
+__ General George Custer [Lincoln Tate]
+	Pistol __
+__ The Lone Ranger [Klinton Spilsbury, James Keach]
+	2 Pistols __ __
+__ Tonto [Michael Horse]
+	Pistol __, knife __
 

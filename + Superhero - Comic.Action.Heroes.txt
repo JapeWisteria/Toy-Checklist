@@ -4,28 +4,28 @@ Waves: 1. Figures: 12.
 -----------------------------------------------
 All figures are solid construction and each came with an orange stand.
 
-Aquaman
+__ Aquaman
 	No accessories
-Batman
-	Yellow bat-rope
-Captain America
-	Red shield
-Green Goblin
-	Brown handbag
-Hulk
+__ Batman
+	Yellow bat-rope __
+__ Captain America
+	Red shield __
+__ Green Goblin
+	Brown handbag __
+__ Hulk
 	No accessories
-Joker
-	Orange cane
-Penguin
-	Black umbrella
-Robin
-	Yellow bat-rope
-Shazam!
+__ Joker
+	Orange cane __
+__ Penguin
+	Black umbrella __
+__ Robin
+	Yellow bat-rope __
+__ Shazam!
 	No accessories
-Spider-Man
+__ Spider-Man
 	No accessories
-Superman
+__ Superman
 	No accessories
-Wonder Woman
-	Yellow lasso, removable top
+__ Wonder Woman
+	Yellow lasso __, removable top __
 

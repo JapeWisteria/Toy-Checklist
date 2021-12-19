@@ -6,83 +6,83 @@ All figures featured solid construction with an action feature, and came with a 
 
 Wave 1 1984
 ~~~~~~
-Aquaman
-	Trident
-Batman
-	Blue cloth cape
-Brainiac
+__ Aquaman
+	Trident __
+__ Batman
+	Blue cloth cape __
+__ Brainiac
 	No accessories
-Flash
+__ Flash
 	No accessories
-Green Lantern
-	Green power lantern
-Hawkman
-	Removable wings and mace
-Joker
-	Green mallet
-Lex Luthor
+__ Green Lantern
+	Green power lantern __
+__ Hawkman
+	Removable wings __ and mace __
+__ Joker
+	Green mallet __
+__ Lex Luthor
 	No accessories
-Penguin
-	Umbrella
-Robin
-	Yellow cape
-Superman
-	Red cape
-Wonder Woman
-	Gold lasso
+__ Penguin
+	Umbrella __
+__ Robin
+	Yellow cape __
+__ Superman
+	Red cape __
+__ Wonder Woman
+	Gold lasso __
 
 Wave 2 1985
 ~~~~~~
-Darkseid
-	Blue cape
-Desaad
-	Hoses and pipes
-Dr. Fate
-	Yellow cape
-Firestorm
+__ Darkseid
+	Blue cape __
+__ Desaad
+	Hoses __ __ and pipes __ __
+__ Dr. Fate
+	Yellow cape __
+__ Firestorm
 	No accessories
-Green Arrow
-	Bow, quiver
-Kalibak
-	Club
-Mantis
+__ Green Arrow
+	Bow __, quiver __
+__ Kalibak
+	Club __
+__ Mantis
 	No accessories
-Martian Manhunter
-	Blue cape
-Parademon |Trooper|
-	Yellow energy pistol
-Red Tornado
-	Blue cape with red trim
-Steppenwolf
-	Axe with string
+__ Martian Manhunter
+	Blue cape __
+__ Parademon |Trooper|
+	Yellow energy pistol __
+__ Red Tornado
+	Blue cape with red trim __
+__ Steppenwolf
+	Axe with string __
 
 Wave 3 1986
 ~~~~~~
-Cyborg
-	Two silver arm attachments
-Plastic Man
+__ Cyborg
+	Two silver arm attachments __ __
+__ Plastic Man
 	No accessories
-Mr. Miracle
-	Green cape, manacles
-Shazam
-	White cape with yellow trim
-Golden Pharaoh
-	Yellow staff
-Orion
+__ Mr. Miracle
+	Green cape __, manacles __
+__ Shazam
+	White cape with yellow trim __
+__ Golden Pharaoh
+	Yellow staff __
+__ Orion
 	No accessories
-Tyr
+__ Tyr
 	No accessories
-Samurai
-	Green samurai shirt, yellow sword
-Cyclotron
-	Removable face and chest
-Mr. Freeze
-	Silver cords
+__ Samurai
+	Green samurai shirt __, yellow sword __
+__ Cyclotron
+	Removable face and chest __
+__ Mr. Freeze
+	Silver cords __
 
 Mail-aways
 ~~~~~~
-Clark Kent
+__ Clark Kent
 	No accessories
-Riddler
+__ Riddler
 	No accessories
 	Riddler was only released in Argentina

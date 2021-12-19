@@ -4,28 +4,28 @@ Waves: 1. Figures: 12.
 -----------------------------------------------
 All figures have o-ring construction and featured holograms on built-in chest pieces and some accessories. There was four figures included in vehicles.
 
-Leoric
-	Helmet, staff, whip
-Arzon
-	Helmet, staff, spiked mace
-Cryotek
-	Helmet, staff, cat of nine tails
-Witterquick
-	Helmet, staff, boomerang
-Darkstorm
-	Helmet, staff, bladed mace
-Cravex
-	Helmet, staff, axe
-Lexor
-	Helmet, staff, knuckle duster
-Cindarr
-	Helmet, staff, heavy mace
+__ Leoric
+	Helmet __, staff __, whip __
+__ Arzon
+	Helmet __, staff __, spiked mace __
+__ Cryotek
+	Helmet __, staff __, cat of nine tails __
+__ Witterquick
+	Helmet __, staff __, boomerang __
+__ Darkstorm
+	Helmet __, staff __, bladed mace __
+__ Cravex
+	Helmet __, staff __, axe __
+__ Lexor
+	Helmet __, staff __, knuckle duster __
+__ Cindarr
+	Helmet __, staff __, heavy mace __
+__ Ectar (Lancer Cycle)
+	Helmet __, knuckle duster __
+__ Mortdred (Sky Claw)
+	Helmet __, curved sword __
+__ Feryl (Capture Chariot)
+	Helmet __, mace-knife __
+__ Reekon (Dagger Assault Vehicle)
+	Helmet __, chain-sword __
 
-Ectar (Lancer Cycle)
-	Helmet, knuckle duster
-Mortdred (Sky Claw)
-	Helmet, curved sword
-Feryl (Capture Chariot)
-	Helmet, mace-knife
-Reekon (Dagger Assault Vehicle)
-	Helmet, chain-sword
