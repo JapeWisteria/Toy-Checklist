@@ -4,22 +4,22 @@ Waves: 1. Figures: 9.
 -----------------------------------------------
 All figures featured solid construction. Brains and M.A.X. came in a set.
 
-Alan Tracy
-	Helmet, visor, 2 wrist accessories
-Brains
+__ Alan Tracy
+	Helmet __, visor __, 2 wrist accessories __ __
+__ Brains
 	No accesories
-M.A.X.
+__ M.A.X.
 	No accesories
-Gordon Tracy
-	Helmet, visor, scuba gear
-The Hood
-	Stun gadget, seaquake device
-John Tracy
-	Helmet, visor, communications backpack
-Kayo Kyrano
-	Helmet, visor, wrist communicator
-Scott Tracy
-	Helmet, visor, jet pack
-Virgil Tracy
-	Helmet, visor, LED flashlight
+__ Gordon Tracy
+	Helmet __, visor __, scuba gear __
+__ The Hood
+	Stun gadget __, seaquake device __
+__ John Tracy
+	Helmet __, visor __, radio backpack __
+__ Kayo Kyrano
+	Helmet __, visor __, wrist communicator __
+__ Scott Tracy
+	Helmet __, visor __, jet pack __
+__ Virgil Tracy
+	Helmet __, visor __, LED flashlight __
 

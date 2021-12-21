@@ -4,15 +4,16 @@ Waves: 1. Figures: 7.
 -----------------------------------------------
 All figures are solid construction, and all came with a cape, gun and helmet. 7-Zark-7 & 1-Rover-1 were packaged together and added by a European re-seller, Jecsan.
 
-Mark
-	Cape, gun and helmet
-Jason
-	Cape, gun and helmet
-Princess
-	Cape, gun and helmet
-Keyop
-	Cape, gun and helmet
-Tiny
-	Cape, gun and helmet
-7-Zark-7
-1-Rover-1
+__ Mark
+	Cape __, gun __ and helmet __
+__ Jason
+	Cape __, gun __ and helmet __
+__ Princess
+	Cape __, gun __ and helmet __
+__ Keyop
+	Cape __, gun __ and helmet __
+__ Tiny
+	Cape __, gun __ and helmet __
+__ 7-Zark-7
+__ 1-Rover-1
+

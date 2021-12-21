@@ -4,10 +4,8 @@ Waves: 1. Figures: 2.
 -----------------------------------------------
 All figures featured solid construction, and were shipped together.
 
-Gort [Lock Martin]
+__ Gort [Lock Martin]
 	No accessories
-Klaatu [Michael Rennie]
-	Additional head
-
-
+__ Klaatu [Michael Rennie]
+	Additional head __
 

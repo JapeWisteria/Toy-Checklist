@@ -5,9 +5,10 @@ Waves: 1. Figures: 6.
 
 All figures are solid construction, and none came with accessories (Ulisse has a blue cape attached to the figure).
 
-Nono
-Robot Atleta
-Robot Ingegner
-Themis
-Telemaco
-Ulisse
+__ Nono
+__ Robot Atleta
+__ Robot Ingegner
+__ Themis
+__ Telemaco
+__ Ulisse
+	blue cape __

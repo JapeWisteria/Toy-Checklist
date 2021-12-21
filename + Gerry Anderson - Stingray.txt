@@ -4,13 +4,13 @@ Waves: 1. Figures: 5.
 -----------------------------------------------
 All figures featured solid construction. These figures are slightly smaller than 1:18 scale.
 
-Marina
-	Modified WASP pistol
-Phones
-	Hydrophone
-Sam Shore
-	WASP pistol
-Titan
-	Aquaphibian rifle
-Troy Tempest
-	WASP pistol
+__ Marina
+	Modified WASP pistol __
+__ Phones
+	Hydrophone __
+__ Sam Shore
+	WASP pistol __
+__ Titan
+	Aquaphibian rifle __
+__ Troy Tempest
+	WASP pistol __

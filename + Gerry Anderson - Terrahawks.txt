@@ -4,19 +4,19 @@ Waves: 1. Figures: 8.
 -----------------------------------------------
 All figures featured solid construction.
 
-Captain Kate Kestrel
-	Belt, wrist laser
-Captain Mary Falconer
-	Belt, wrist laser
-Lieutenant Hiro
-	Belt, wrist laser
-Lieutenant Hawkeye
-	Belt, wrist laser, laser rifle
-Doctor Ninestein
-	Belt, wrist laser
-Space Sergeant 101
-	Removable head
-Sergeant Major Zero
-	Removable head
-Zelda
-	Cape and staff
+__ Captain Kate Kestrel
+	Belt __, wrist laser __
+__ Captain Mary Falconer
+	Belt __, wrist laser __
+__ Lieutenant Hiro
+	Belt __, wrist laser __
+__ Lieutenant Hawkeye
+	Belt __, wrist laser __, laser rifle __
+__ Doctor Ninestein
+	Belt __, wrist laser __
+__ Space Sergeant 101
+	Removable head __
+__ Sergeant Major Zero
+	Removable head __
+__ Zelda
+	Cape __, staff __

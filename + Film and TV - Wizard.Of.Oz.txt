@@ -4,15 +4,16 @@ Waves: 1. Figures: 6.
 -----------------------------------------------
 All figures have solid construction.
 
-Cowardly Lion [Bert Lahr]
+__ Cowardly Lion [Bert Lahr]
 	No accessories
-Dorothy [Judy Garland]
-	Basket with Toto
-Glinda [Billie Burke]
-	Wand
-Scarecrow [Ray Bolger]
+__ Dorothy [Judy Garland]
+	Basket with Toto __
+__ Glinda [Billie Burke]
+	Wand __
+__ Scarecrow [Ray Bolger]
 	No accessories
-Tinman [Jack Haley]
-	Axe
-Wicked Witch [Margaret Hamilton]
-	Broom
+__ Tinman [Jack Haley]
+	Axe __
+__ Wicked Witch [Margaret Hamilton]
+	Broom __
+

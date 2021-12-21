@@ -4,23 +4,24 @@ Waves: 1. Figures: 10.
 -----------------------------------------------
 All figures featured solid construction. These figures are slightly smaller than 1:18 scale.
 
-Alan Tracy
-	Astro tanks
-Gordon Tracy
-	Stun pistol
-Jeff Tracy
-	Clip board rescue schedule
-John Tracy
-	Intercom
-Scott Tracy
-	Thunder stun rifle
-Virgil Tracy
-	Thunder Visor
-Brains
-	Hiramaster computer
-Lady Penelope
-	Travel bag
-Parker
-	Tool kit
-The Hood
-	Sword
+__ Alan Tracy
+	Astro tanks __
+__ Gordon Tracy
+	Stun pistol __
+__ Jeff Tracy
+	Clip board rescue schedule __
+__ John Tracy
+	Intercom __
+__ Scott Tracy
+	Thunder stun rifle __
+__ Virgil Tracy
+	Thunder Visor __
+__ Brains
+	Hiramaster computer __
+__ Lady Penelope
+	Travel bag __
+__ Parker
+	Tool kit __
+__ The Hood
+	Sword __
+

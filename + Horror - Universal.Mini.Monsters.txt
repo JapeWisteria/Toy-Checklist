@@ -4,20 +4,26 @@ Waves: 1. Figures: 12.
 -----------------------------------------------
 All figures have solid construction, and most have no accessories. Each figure was also released in a glow-in-the-dark variant.
 
-Creature from the Black Lagoon [Ricou Browning, Ben Chapman]
-Creature from the Black Lagoon [Ricou Browning, Ben Chapman] (glow in the dark)
-Dracula [Bela Lugosi]
-	Red and black plastic cape
-Dracula [Bela Lugosi] (glow in the dark)
-	Red and black plastic cape
-Frankenstein [Boris Karloff]
-Frankenstein [Boris Karloff] (glow in the dark)
-Mummy [Boris Karloff]
-Mummy [Boris Karloff] (glow in the dark)
-Phantom of the Opera [Lon Chaney]
-	Black vinyl cape
-Phantom of the Opera [Lon Chaney] (glow in the dark)
-	Black vinyl cape
-Wolfman [Lon Chaney Jr.]
-Wolfman [Lon Chaney Jr.] (glow in the dark)
+Regular
+~~~~~~
+__ Creature from the Black Lagoon [Ricou Browning, Ben Chapman]
+__ Dracula [Bela Lugosi]
+	Red and black plastic cape __
+__ Frankenstein [Boris Karloff]
+__ Mummy [Boris Karloff]
+__ Phantom of the Opera [Lon Chaney]
+	Black vinyl cape __
+__ Wolfman [Lon Chaney Jr.]
+
+
+Glow in the dark
+~~~~~~
+__ Creature from the Black Lagoon [Ricou Browning, Ben Chapman]
+__ Dracula [Bela Lugosi]
+	Red and black plastic cape __
+__ Frankenstein [Boris Karloff]
+__ Mummy [Boris Karloff]
+__ Phantom of the Opera [Lon Chaney]
+	Black vinyl cape __
+__ Wolfman [Lon Chaney Jr.]
 

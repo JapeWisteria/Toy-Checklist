@@ -6,26 +6,26 @@ All figures have solid construction.
 
 Wave 1
 ~~~~~~
-Flash Gordon
-	White gun
-Lizard Woman |Trooper|
-	White staff
-Ming
-	White gun
-Thun
-	White staff
+__ Flash Gordon
+	White gun __
+__ Lizard Woman |Trooper|
+	White staff __
+__ Ming
+	White gun __
+__ Thun
+	White staff __
 
 Wave 2
 ~~~~~~
-Dr. Zarkov
+__ Dr. Zarkov
 	No accessories
-Beastman |Trooper|
+__ Beastman |Trooper|
 	No accessories
 
 Wave 3
 ~~~~~~
-Captain Arak
+__ Captain Arak
 	No accessories
-Vultan
-	Brown wings
+__ Vultan
+	Brown wings __
 

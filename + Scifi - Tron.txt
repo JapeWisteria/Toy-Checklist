@@ -4,14 +4,14 @@ Waves: 1. Figures: 4.
 -----------------------------------------------
 All figures have solid construction.
 
-Flynn [Jeff Bridges]
-	Identity disc
-Sark [David Warner]
-	Identity disc
-Tron [Bruce Boxleitner]
-	Identity disc
-Warrior |Trooper|
-	Staff
+__ Flynn [Jeff Bridges]
+	Identity disc __
+__ Sark [David Warner]
+	Identity disc __
+__ Tron [Bruce Boxleitner]
+	Identity disc __
+__ Warrior |Trooper|
+	Staff __
 
 
 Tron
@@ -20,14 +20,14 @@ Waves: 1. Figures: 4.
 -----------------------------------------------
 These are re-issues of the original Tomy molds cast in slightly different colours and different copyright marks on loose figures.
 
-Flynn [Jeff Bridges]
-	Identity disc
-Sark [David Warner]
-	Identity disc
-Tron [Bruce Boxleitner]
-	Identity disc
-Warrior |Trooper|
-	Staff
+__ Flynn [Jeff Bridges]
+	Identity disc __
+__ Sark [David Warner]
+	Identity disc __
+__ Tron [Bruce Boxleitner]
+	Identity disc __
+__ Warrior |Trooper|
+	Staff __
 
 
 Tron Real Action Heroes
@@ -38,14 +38,14 @@ All figures feature solid construction.
 
 Each figure came boxed with a light cycle based off the original Tomy mold, and a removable plastic digital trail for the cycle.
 
-Flynn [Jeff Bridges]
-	Identity disc, light cycle activation rod, red lightcycle, lightcycle trail
-Sark [David Warner]
-	Identity disc, light cycle activation rod, blue lightcycle, lightcycle trail
-Tron [Bruce Boxleitner]
-	Identity disc, light cycle activation rod, orange lightcycle, lightcycle trail
-Warrior |Trooper|
-	Staff, yellow lightcycle, lightcycle trail
+__ Flynn [Jeff Bridges]
+	Identity disc __, light cycle activation rod __, red lightcycle __, lightcycle trail __
+__ Sark [David Warner]
+	Identity disc __, light cycle activation rod __, blue lightcycle __, lightcycle trail __
+__ Tron [Bruce Boxleitner]
+	Identity disc __, light cycle activation rod __, orange lightcycle __, lightcycle trail __
+__ Warrior |Trooper|
+	Staff __, yellow lightcycle __, lightcycle trail __
 
 
 Tron: Legacy
@@ -56,24 +56,24 @@ All figures feature solid construction. All figures were packaged with batteries
 
 Series 1
 ~~~~~~
-Black Guard |Trooper|
-	Identity disc, 2 batons, display stand
-Clu [Jeff Bridges]
-	Identity disc, sword, display stand
-Clu's Sentry |Trooper|
-	Identity disc, staff, display stand
-Kevin Flynn [Jeff Bridges]
-	Identity disc, white baton, display stand
-Rinzler [Anis Cheurfa, Bruce Boxleitner]
-	2 Identity discs, 2 batons, staff, display stand
-Sam Flynn [Garrett Hedlund]
-	Identity disc, baton, display stand
+__ Black Guard |Trooper|
+	Identity disc __, 2 batons __ __, display stand __
+__ Clu [Jeff Bridges]
+	Identity disc __, sword __, display stand __
+__ Clu's Sentry |Trooper|
+	Identity disc __, staff __, display stand __
+__ Kevin Flynn [Jeff Bridges]
+	Identity disc __, white baton __, display stand __
+__ Rinzler [Anis Cheurfa, Bruce Boxleitner]
+	2 Identity discs __ __, 2 batons __ __, staff __, display stand __
+__ Sam Flynn [Garrett Hedlund]
+	Identity disc __, baton __, display stand __
 
 Series 2
 ~~~~~~
 Black Guard, Clu, Rinzler, Sam Flynn were re-released in wave 2, but are the same figure. A Castor figure was created but never distributed.
-Jarvis [James Frain]
-	Identity disc, datapad, display stand
-Quorra [Olivia Wilde]
-	Identity disc, sword, display stand
+__ Jarvis [James Frain]
+	Identity disc __, datapad __, display stand __
+__ Quorra [Olivia Wilde]
+	Identity disc __, sword __, display stand __
 

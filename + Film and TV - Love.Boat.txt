@@ -4,15 +4,16 @@ Waves: 1. Figures: 6.
 -----------------------------------------------
 All figures have solid construction. The skirts included with Julie and Vicky are non-removable.
 
-Captain Stubing [Gavin MacLeod]
-	White hat
-"Doc" Bricker [Bernie Kopell]
-	White hat
-"Gopher" [Fred Grandy]
-	White hat
-Isaac [Ted Lange]
+__ Captain Stubing [Gavin MacLeod]
+	White hat __
+__ "Doc" Bricker [Bernie Kopell]
+	White hat __
+__ "Gopher" [Fred Grandy]
+	White hat __
+__ Isaac [Ted Lange]
 	No accessories
-Julie [Lauren Tewes]
-	Skirt
-Vicky [Jill Whelan]
-	Skirt
+__ Julie [Lauren Tewes]
+	Skirt __
+__ Vicky [Jill Whelan]
+	Skirt __
+

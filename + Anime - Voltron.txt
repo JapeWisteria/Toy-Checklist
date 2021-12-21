@@ -4,27 +4,28 @@ Waves: 1. Figures: 12.
 -----------------------------------------------
 All figures are solid construction.
 
-Kieth
-	Helmet and key
-Lance
-	Helmet and key
-Pidge
-	Helmet and key
-Princess Allura
-	Helmet and key
-Hunk
-	Helmet and key
-Doom Commander
-	Shield
-Skull Scavenger
-	Shield
-Robeast Mutilator
-	Stone sword
-Robeast Scorpius
-	Mace
-Prince Lotor
-	Shield
-King Zarkon
-	Shield
-Haggar the Witch
-	Shield and staff
+__ Kieth
+	Helmet __, key __
+__ Lance
+	Helmet __, key __
+__ Pidge
+	Helmet __, key __
+__ Princess Allura
+	Helmet __, key __
+__ Hunk
+	Helmet __, key __
+__ Doom Commander
+	Shield __
+__ Skull Scavenger
+	Shield __
+__ Robeast Mutilator
+	Stone sword __
+__ Robeast Scorpius
+	Mace __
+__ Prince Lotor
+	Shield __
+__ King Zarkon
+	Shield __
+__ Haggar the Witch
+	Shield __, staff __
+

@@ -4,9 +4,10 @@ Waves: 1. Figures: 3.
 -----------------------------------------------
 All figures featured solid construction. All figures are the same mold with different plastic/paint apps.
 
-Morlock (Midnight Attack) |Trooper|
-	6 hands (3 left; 3 right), display stand
-Morlock (Glow-In-Dark) |Trooper|
-	6 hands (3 left; 3 right), display stand
-Morlock (Cave Battle) |Trooper|
-	6 hands (3 left; 3 right), display stand
+__ Morlock (Midnight Attack) |Trooper|
+	6 hands (3 left __ __ __; 3 right __ __ __), display stand __
+__ Morlock (Glow-In-Dark) |Trooper|
+	6 hands (3 left __ __ __; 3 right __ __ __), display stand __
+__ Morlock (Cave Battle) |Trooper|
+	6 hands (3 left __ __ __; 3 right __ __ __), display stand __
+

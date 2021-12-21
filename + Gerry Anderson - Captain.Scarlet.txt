@@ -6,27 +6,27 @@ All figures featured solid construction.
 
 Wave 1
 ~~~~~~
-Captain Scarlet
-	Electron gun
-Captain Black
-	Radio, explosives kit
-Captain Blue
-	Laser bazooka
-Destiny Angel
-	Flight helmet, pistol
-Colonel White
-	Spectrum defence chart, pointer
-Lieutenant Green
-	Portable computer
+__ Captain Scarlet
+	Electron gun __
+__ Captain Black
+	Radio __, explosives kit __
+__ Captain Blue
+	Laser bazooka __
+__ Destiny Angel
+	Flight helmet __, pistol __
+__ Colonel White
+	Spectrum defence chart __, pointer __
+__ Lieutenant Green
+	Portable computer __
 
 Wave 2
 ~~~~~~
-Harmony Angel
-	Flight helmet, pistol
-Captain Magenta
-	Turbo jet pack
-Captain Black (as spy)
-	Laser rifle
-Captain Scarlet (as astronaut)
-	Spectrum astronaut gun
+__ Harmony Angel
+	Flight helmet __, pistol __
+__ Captain Magenta
+	Turbo jet pack __
+__ Captain Black (spy)
+	Laser rifle __
+__ Captain Scarlet (astronaut)
+	Spectrum astronaut gun __
 

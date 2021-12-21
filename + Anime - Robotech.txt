@@ -6,49 +6,49 @@ All figures exhibit o-ring construction except the 8" figures, which are solid c
 
 3.75" figures
 ~~~~~~
-Rick Hunter
-	Helmet, large pistol
-Lisa Hayes
-	Helmet, pistol
-Roy Fokker
-	Helmet, pistol
-Max Sterling
-	Helmet, pistol
-Miriya (red flight suit)
-	Helmet, pistol
-Miriya (black flight suit)
-	Helmet, pistol
-Micronized Zentraedi |Trooper|
-	Helmet, blaster
-Dana Sterling
-	Helmet, rifle, wings
-Zor Prime
-	Knife and artifact
-Bioroid Terminator |Trooper|
-	Rifle
-Robotech Master |Trooper|
+__ Rick Hunter
+	Helmet __, large pistol __
+__ Lisa Hayes
+	Helmet __, pistol __
+__ Roy Fokker
+	Helmet __, pistol __
+__ Max Sterling
+	Helmet __, pistol __
+__ Miriya (red flight suit)
+	Helmet __, pistol __
+__ Miriya (black flight suit)
+	Helmet __, pistol __
+__ Micronized Zentraedi |Trooper|
+	Helmet __, blaster __
+__ Dana Sterling
+	Helmet __, rifle __, wings __
+__ Zor Prime
+	Knife __, artifact __
+__ Bioroid Terminator |Trooper|
+	Rifle __
+__ Robotech Master |Trooper|
 	No accessories
-Scott Bernard
-	Helmet and blaster
-Rand
-	Pistol
-Rook Bartley
-	Rifle
-Lunk
-	Rifle
-Corg
-	rifle
+__ Scott Bernard
+	Helmet __, blaster __
+__ Rand
+	Pistol __
+__ Rook Bartley
+	Rifle __
+__ Lunk
+	Rifle __
+__ Corg
+	rifle __
+
 
 8" figures
 ~~~~~~
-Breetai
-Exedore
-Khyron
-Dolza
-Miriya
-Armoured Zentraedi Warrior |Trooper|
-	Helmet
-
+__ Breetai
+__ Exedore
+__ Khyron
+__ Dolza
+__ Miriya
+__ Armoured Zentraedi Warrior |Trooper|
+	Helmet __
 
 
 Robotech.
@@ -59,33 +59,34 @@ Harmony Gold re-released the Matchbox 1:18 scale figures in 1992. No 8" figures 
 
 3.75" figures
 ~~~~~~
-Rick Hunter
-	Helmet, large pistol
-Lisa Hayes
-	Helmet, pistol
-Roy Fokker
-	Helmet, pistol
-Max Sterling (White/blue flight suit)
-	Helmet, pistol
-Max Sterling (Yellow/blue flight suit)
-	Helmet, pistol
-Miriya (purple flight suit)
-	Helmet, pistol
-Micronized Zentraedi |Trooper|
-	Helmet, blaster
-Dana Sterling
-	Helmet, rifle, wings
-Zor Prime
-	Knife and artifact
-Bioroid Terminator |Trooper|
-	Rifle
-Robotech Master |Trooper|
+__ Rick Hunter
+	Helmet __, large pistol __
+__ Lisa Hayes
+	Helmet __, pistol __
+__ Roy Fokker
+	Helmet __, pistol __
+__ Max Sterling (White/blue flight suit)
+	Helmet __, pistol __
+__ Max Sterling (Yellow/blue flight suit)
+	Helmet __, pistol __
+__ Miriya (purple flight suit)
+	Helmet __, pistol __
+__ Micronized Zentraedi |Trooper|
+	Helmet __, blaster __
+__ Dana Sterling
+	Helmet __, rifle __, wings __
+__ Zor Prime
+	Knife __, artifact __
+__ Bioroid Terminator |Trooper|
+	Rifle __
+__ Robotech Master |Trooper|
 	No accessories
-Scott Bernard
-	Helmet and blaster
-Rand
-	Pistol
-Rook Bartley
-	Rifle
-Lynn Minmei
-	Microphone
+__ Scott Bernard
+	Helmet __, blaster __
+__ Rand
+	Pistol __
+__ Rook Bartley
+	Rifle __
+__ Lynn Minmei
+	Microphone __
+

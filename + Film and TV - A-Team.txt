@@ -2,35 +2,36 @@ A-Team.
 Galoob. 1984. 1:18 Scale (3.75").
 Waves: 1. Figures: 15.
 -----------------------------------------------
-The A-Team was originally distributed in a 4-pack, and the figure colours available in that pack were blue (Hannibal), light green (B.A.), black (Face), and orange (Murdock). Variants were generally released with vehicles or playsets. The figures are a mix of o-ring and solid construction.
+The A-Team was originally distributed in a 4-pack. The outfits  in that pack were blue (Hannibal), light green (B.A.), black (Face), and orange (Murdock). Variants were released with vehicles or playsets. The A-Team was o-ring and the 4 bad guys solid construction.
 
-B.A. Baracus (o-ring, light green carded) [Mr. T]
-	Tool backpack, M-60
-B.A. Baracus (o-ring, dark green) [Mr. T]
-	Tool backpack, M-60
-B.A. Baracus (o-ring, blue) [Mr. T]
-	Tool backpack, M-60
-Face (o-ring, black carded) [Dirk Benedict]
-	Flamethrower, M-60
-Face (o-ring, green) [Dirk Benedict]
-	Flamethrower, M-60
-Hannibal (o-ring, light green) [George Peppard]
-	Demolition backpack, detonator, M-60
-Hannibal (o-ring, blue carded) [George Peppard]
-	Demolition backpack, detonator, M-60
-Murdock (o-ring, orange open vest carded) [Dwight Schultz]
-	Mortar, M-60
-Murdock (o-ring, orange closed vest) [Dwight Schultz]
-	Mortar, M-60
-Murdock (o-ring, light green) [Dwight Schultz]
-	Mortar, M-60
-Murdock (o-ring, blue) [Dwight Schultz]
-	Mortar, M-60
-Cobra (solid)
-	Demolition backpack, detonator, M-60
-Python (solid)
-	Flamethrower, M-60
-Rattler (solid)
-	Mortar, M-60
-Viper (solid)
-	Tool backpack, M-60
+__ B.A. Baracus (o-ring, light green carded) [Mr. T]
+	Tool backpack __, M-60 __
+__ B.A. Baracus (o-ring, dark green) [Mr. T]
+	Tool backpack __, M-60 __
+__ B.A. Baracus (o-ring, blue) [Mr. T]
+	Tool backpack __, M-60 __
+__ Face (o-ring, black carded) [Dirk Benedict]
+	Flamethrower __, M-60 __
+__ Face (o-ring, green) [Dirk Benedict]
+	Flamethrower __, M-60 __
+__ Hannibal (o-ring, light green) [George Peppard]
+	Demolition backpack __, detonator __, M-60 __
+__ Hannibal (o-ring, blue carded) [George Peppard]
+	Demolition backpack __, detonator __, M-60 __
+__ Murdock (o-ring, orange open vest carded) [Dwight Schultz]
+	Mortar __, M-60 __
+__ Murdock (o-ring, orange closed vest) [Dwight Schultz]
+	Mortar __, M-60 __
+__ Murdock (o-ring, light green) [Dwight Schultz]
+	Mortar __, M-60 __
+__ Murdock (o-ring, blue) [Dwight Schultz]
+	Mortar __, M-60 __
+__ Cobra (solid)
+	Demolition backpack __, detonator __, M-60 __
+__ Python (solid)
+	Flamethrower __, M-60 __
+__ Rattler (solid)
+	Mortar __, M-60 __
+__ Viper (solid)
+	Tool backpack __, M-60 __
+
