@@ -10,9 +10,9 @@ Characters were re-issued often, sometimes with different military specialties, 
 
 All figures were released with a file card, listing their names, specialties and biographies. This is listed as an accessory. Details were often changed based on the country the figure was issued in (Rock 'n Roll's birthplace was changed from Malibu, California to Ottawa, Canada, for instance).
 
-From 1983 to 1988, Hasbro re-issued accessories as "Battle Gear" packs...these typically contained some accessories from the previous year's figures in different coloured plastic. If Battle Gear accessories were issued for a figure, I list original release accessories as "carded" and re-issues as "Battle Gear". If a carded accessory isn't listed under Battle Gear, it was never re-issued that way.
+From 1983 to 1988, Hasbro re-issued accessories as “Battle Gear” packs...these typically contained some accessories from the previous year's figures in different coloured plastic. If Battle Gear accessories were issued for a figure, I list original release accessories as “carded” and re-issues as “Battle Gear”. If a carded accessory isn't listed under Battle Gear, it was never re-issued that way.
 
-All figures in the 1982 release were missing the 'battle grip' point of articulation.
+All figures in the 1982 release were missing the “battle grip” point of articulation.
 
 Wave 1 1982 (16)
 ~~~~~~
@@ -916,171 +916,171 @@ Joes
 ******
 __ Backblast; Anti-Aircraft Soldier; v1
 	File card __
-	Green missile launcher system, green missile tubes, 3 red missiles, grey knife, black monocular, orange bandolier
+	Green missile launcher system __, green missile tubes __, 3 red missiles __ __ __, grey knife __, black monocular __, orange bandolier __
 __ Countdown; Astronaut; v1
 	File card __
-	Silver gun, silver backpack, silver grappling hook and silver weight attached by black string, silver helmet
+	Silver gun __, silver backpack __, silver grappling hook and silver weight attached by black string __, silver helmet __
 __ Deep Six; Deep Sea Diver; v2
 	File card __
-	Orange helmet, grey rifle, black backpack, black hose, grey buoy
+	Orange helmet __, grey rifle __, black backpack __, black hose __, grey buoy __
 __ Downtown; Mortar Man; v1
 	File card __
-	Red helmet, black backpack, mortar, mortar mount, mortar tripod, black revolver, 6 black mortar shells
+	Red helmet __, black backpack __, mortar __, mortar mount __, mortar tripod __, black revolver __, 6 black mortar shells __ __ __ __ __ __
 __ Recoil; Long Range Recon Patrol; v1
 	File card __
-	Blue rifle, blue pistol, dark grey backpack, backpack antenna, green mine case
+	Blue rifle __, blue pistol __, dark grey backpack __, backpack antenna __, green mine case __
 __ Rock 'n Roll; Gatling Gunner; v2
 	File card __
-	2 grey Gatling guns, 2 grey bandoliers, grey ammo-feeding backpack, grey rifle
+	2 grey Gatling guns __ __, 2 grey bandoliers __ __, grey ammo-feeding backpack __, grey rifle __
 __ Scoop; Combat Information Specialist; v1
 	File card __
-	Green helmet, green microphone, grey satellite relay station backpack, grey hi-tech camera, black pistol, black hose
+	Green helmet __, green microphone __, grey satellite relay station backpack __, grey hi-tech camera __, black pistol __, black hose __
 __ Snake-Eyes; Commando; v3
 	File card __
-	Black backpack, silver sword, grey submachine gun, 3 silver nunchuk pieces, silver blow gun
+	Black backpack __, silver sword __, grey submachine gun __, 3 silver nunchuk pieces __ __ __, silver blow gun __
 __ Stalker; Tundra Ranger; v2
 	File card __
-	White rifle, white mask, grey knife, white paddle, white kayak, white kayak arm, white kayak counterweight, brown kayak machine gun
+	White rifle __, white mask __, grey knife __, white paddle __, white kayak __, white kayak arm __, white kayak counterweight __, brown kayak machine gun __
 
 Battle Force 2000
 ******
 __ Dee-Jay; Comm-Tech Trooper; v1
 	File card __
-	Red laser rifle, blue loudspeaker backpack, black hose, 2 white plugs, white antenna.
+	Red laser rifle __, blue loudspeaker backpack __, black hose __, 2 white plugs __ __, white antenna __
 
 Cobra
 ******
 __ Alley Viper; Cobra Urban Assault Trooper; v1 |Trooper|
 	File card __
-	Orange/blue face shield, black rifle, orange/blue shield, black backpack, grappling hook
+	Orange/blue face shield __, black rifle __, orange/blue shield __, black backpack __, grappling hook __
 __ Frag-Viper; Cobra Grenade Thrower; v1 |Trooper|
 	File card __
-	Black submachine gun, black backpack, black cesta, black hose, black tube, 3 black grenades
+	Black submachine gun __, black backpack __, black cesta __, black hose __, black tube __, 3 black grenades __ __ __
 __ H.E.A.T. Viper; Cobra Bazooka Man; v1 |Trooper|
 	File card __
-	Grey bazooka, grey hose, grey backpack, 6 grey bazooka shells, black hose
+	Grey bazooka __, grey hose __, grey backpack __, 6 grey bazooka shells __ __ __ __ __ __, black hose __
 __ Night-Viper; Cobra Night Fighter; v1 |Trooper|
 	File card __
-	Black rifle, black backpack, green monocle, green goggles
+	Black rifle __, black backpack __, green monocle __, green goggles __
 
 Dreadnoks
 ******
 __ Gnawgahyde; Dreadnok Poacher; v1
 	File card __
-	Black rifle, black bipod, silver machete, silver knife, black bow, black quiver, tan hat, boar
+	Black rifle __, black bipod __, silver machete __, silver knife __, black bow __, black quiver __, tan hat __, boar __
 
 Iron Grenadiers
 ******
 __ Annihilator; Destro's Elite Trooper; v1 |Trooper|
 	File card __
-	Black hand gun, grey helicopter backpack, grey helicopter blade, grey helicopter post, black machine gun, and a black handle
+	Black hand gun __, grey helicopter backpack __, grey helicopter blade __, grey helicopter post __, black machine gun __, black handle __
 __ T.A.R.G.A.T.; Trans Atmospheric Rapid Global Assault Trooper; v1 |Trooper|
 	File card __
-	Blue face shield, grey jetpack shell, gold laser gun, grey joystick, black hose
+	Blue face shield __, grey jetpack shell __, gold laser gun __, grey joystick __, black hose __
 
 Vehicle Drivers Joes
 ******
 __ Dogfight; Mudfighter Pilot; v1 -- Mudfighter bomber
 	File card __
-	Black handgun
+	Black handgun __
 __ Hot Seat; Raider Driver; v1 -- Raider 4-track assault vehicle
 	File card __
-	Black helmet
+	Black helmet __
 __ Long Range; Thunderclap Driver; v1 -- Thunderclap long-range targeting cannon
 	File card __
-	Grey helmet, black pistol
+	Grey helmet __, black pistol __
 __ Payload; Astronaut; v2 -- Crusader Space Shuttle
 	File card __
-	Yellow helmet, grey Manned Maneuvering Unit Backpack, 2 grey control arms
+	Yellow helmet __, grey Manned Maneuvering Unit Backpack __, 2 grey control arms __ __
 __ Windchill; Arctic Blast Driver; v1 -- Arctic Blast tundra assault sled
 	File card __
-	Black rifle, 2 black skis
+	Black rifle __, 2 black skis __ __
 
 Vehicle Drivers Cobra
 ******
 __ Aero-Viper; Condor Z25 Pilot; v1 -- Cobra Condor Z-25 |Trooper|
 	File card __
-	Gold helmet
+	Gold helmet __
 __ Track Viper; H.I.S.S. II Driver; v1 -- Cobra H.I.S.S. II tank |Trooper|
 	File card __
-	Black pistol
+	Black pistol __
 
 Vehicle Drivers Iron Grenadiers
 ******
 __ Darklon; Evader Driver; v1 -- Darklon's Evader
 	File card __
-	Black rifle
+	Black rifle __
 __ Wild Boar; Razorback Driver; v1 -- Destro's Razorback tank |Trooper|
 	File card __
-	Black helmet, black hose
+	Black helmet __, black hose __
 
 Slaughter's Marauders
 ******
 __ Barbecue; Firefighter; v2
 	File card __
-	Grey fire axe, grey nozzle gun, silver foam tanks, grey backpack, black hose
+	Grey fire axe __, grey nozzle gun __, silver foam tanks __, grey backpack __, black hose __
 __ Footloose; Infantry Trooper; v2
 	File card __
-	Black PASGT helmet, black backpack, black M-16 rifle with shoulder strap, black M73-A1 LAWS rocket launcher with shoulder strap
+	Black PASGT helmet __, black backpack __, black M-16 rifle with shoulder strap __, black M73-A1 LAWS rocket launcher with shoulder strap __
 __ Low-Light; Night Spotter; v2
 	File card __
-	Black sniper rifle, black bipod, black uzi, black backpack
+	Black sniper rifle __, black bipod __, black uzi __, black backpack __
 __ Mutt & Junkyard; Animal Control/Utilization Technician; v2
 	File card __
-	Black helmet, black face mask, black Ingram Mac-11, black night stick, black leash, Junkyard
+	Black helmet __, black face mask __, black Ingram Mac-11 __, black night stick __, black leash __, Junkyard __
 __ Sgt. Slaughter; Slaughter's Marauders Commander; v4
 	File card __
-	Brown baton
+	Brown baton __
 __ Spirit; Tracker; v2
 	File card __
-	Black and brown belt, black arrow cassette backpack, black auto-arrow launcher, Freedom
+	Black and brown belt __, black arrow cassette backpack __, black auto-arrow launcher __, Freedom __
 
 Python Patrol
 ******
 __ Copperhead; Swamp Fighter; v2
 	File card __
-	Black M16/M203 rifle, black backpack
+	Black M16/M203 rifle __, black backpack __
 __ Crimson Guard; Elite Trooper; v2 |Trooper|
 	File card __
-	Black dress backpack, black AK48A rifle with bayonet
+	Black dress backpack __, black AK48A rifle with bayonet __
 __ Python Officer; Officer; v1 |Trooper|
 	File card __
-	Dragunov sniper rifle
+	Dragunov sniper rifle __
 __ Tele-Viper; Communications; v2 |Trooper|
 	File card __
-	Black VS-11 Scanner, black Communipac backpack, black hose
+	Black VS-11 Scanner __, black Communipac backpack __, black hose __
 __ Python Trooper; Infantry; v1 |Trooper|
 	File card __
-	Black AK-47 assault rifle
+	Black AK-47 assault rifle __
 __ Viper; Assault Viper; v2 |Trooper|
 	File card __
-	Black fieldpack, light grey RDT 7 rifle
+	Black fieldpack __, light grey RDT 7 rifle __
 
 Night Force
 ******
 __ Charbroil; Flamethrower; v2
 	File card __
-	Dark blue thermo-insulated helmet, black thermochemical backpack (with hologram sticker), black flamethrower, large thick black hose
+	Dark blue thermo-insulated helmet __, black thermochemical backpack (with hologram sticker) __, black flamethrower __, large thick black hose __
 __ Lightfoot; Explosives Expert; v2
 	File card __
-	Black night vision helmet, black backpack (with lenticular sticker), black mine detector unit, black hose, black robot (with lenticular sticker)
+	Black night vision helmet __, black backpack (with lenticular sticker) __, black mine detector unit __, black hose __, black robot (with lenticular sticker) __
 __ Muskrat; Swamp Fighter; v2
 	File card __
-	Black Super 90 shotgun, black machete, black "swamp skimmer"
+	Black Super 90 shotgun __, black machete __, black "swamp skimmer" __
 __ Repeater; Steadi-Cam Machine Gunner; v2
 	File card __
-	Black machine gun, black stabilizing arm, black backpack
+	Black machine gun __, black stabilizing arm __, black backpack __
 __ Shockwave; S.W.A.T. Specialist; v2
 	File card __
-	Black submachine gun, black handgun, black knife, black backpack
+	Black submachine gun __, black handgun __, black knife __, black backpack __
 __ Spearhead & Max; Point Man and Bobcat; v2
 	File card __
-	Black helmet, black backpack, large black rifle, black knife, Max
+	Black helmet __, black backpack __, large black rifle __, black knife __, Max __
 
 Mail-aways
 ******
-__ Rampage; Mauler M.B.T. Tank Driver; v1 (mail-away, same character as Heavy Metal)
-	Black submachine gun
+__ Rampage; Mauler M.B.T. Tank Driver; v1 (mail-away __, same character as Heavy Metal)
+	Black submachine gun __
 
 
 Wave 9 1990 (36)
@@ -1090,85 +1090,85 @@ Joes
 ******
 __ Ambush; Concealment Specialist; v1
 	File card __
-	Grey helmet, grey pistol, black rifle, dark grey backpack, 4 brown tent poles, body fabric, tent fabric
+	Grey helmet __, grey pistol __, black rifle __, dark grey backpack __, 4 brown tent poles __ __ __ __, body fabric __, tent fabric __
 __ Bullhorn; Intervention Specialist; v1
 	File card __
-	Black helmet, black rifle, green gas gun, green bullhorn, black rifle stock, black rifle barrel, black rifle scope, grey backpack case
+	Black helmet __, black rifle __, green gas gun __, green bullhorn __, black rifle stock __, black rifle barrel __, black rifle scope __, grey backpack case __
 __ Captain Grid-Iron; Hand to Hand Combat Specialist; v1
 	File card __
-	Green football helmet, clear visor, 2 orange elbow pads, green backpack, grey missile launcher, 4 grey missiles, light grey shotgun, 3 grey football grenades
+	Green football helmet __, clear visor __, 2 orange elbow pads __ __, green backpack __, grey missile launcher __, 4 grey missiles __ __ __ __, light grey shotgun __, 3 grey football grenades __ __ __
 __ Freefall; Paratrooper; v1
 	File card __
-	Dark grey rifle, green helmet, black airmask, dark grey backpack, black hose
+	Dark grey rifle __, green helmet __, black airmask __, dark grey backpack __, black hose __
 __ Pathfinder; Jungle Assault Specialist; v1
 	File card __
-	2 white machine guns, 2 grey ammo belts, white ammo backpack, black arm for the "weed eater", silver "weed eater" blade, black hose
+	2 white machine guns __ __, 2 grey ammo belts __ __, white ammo backpack __, black arm for the "weed eater" __, silver "weed eater" blade __, black hose __
 __ Rampart; Shoreline Defender; v1
 	File card __
-	Black rifle, 2 black stands, light grey missile launcher, grey control cable, 2 black missiles
+	Black rifle __, 2 black stands __ __, light grey missile launcher __, grey control cable __, 2 black missiles __ __
 __ Rapid-Fire; G.I.Joe Fast Attack Expert; v1
 	File card __
-	Bright green helmet, bright green submachine gun, VHS tape
+	Bright green helmet __, bright green submachine gun __, VHS tape __
 __ Salvo; Anti-Armor Trooper; v1
 	File card __
-	Brown helmet, brown missile backpack, brown mine launcher, black cache, 5 brown missiles, 5 brown mines
+	Brown helmet __, brown missile backpack __, brown mine launcher __, black cache __, 5 brown missiles __ __ __ __ __, 5 brown mines __ __ __ __ __
 __ Stretcher; Medical Specialist; v1
 	File card __
-	Light grey sled, clear sled windshield, light grey control stick, green backpack, thin green antenna, dark grey gun, dark grey flashlight, black hose
+	Light grey sled __, clear sled windshield __, light grey control stick __, green backpack __, thin green antenna __, dark grey gun __, dark grey flashlight __, black hose __
 __ Sub-Zero; Winter Operations Specialist; v1
 	File card __
-	Grey machine gun, grey machine gun bipod, gold ammo belt, 2 grey snowshoes, white mortar, white mortar stand, 4 grey mortar shells, white backpack
+	Grey machine gun __, grey machine gun bipod __, gold ammo belt __, 2 grey snowshoes __ __, white mortar __, white mortar stand __, 4 grey mortar shells __ __ __ __, white backpack __
 __ Topside; Navy Assault Seaman; v1
 	File card __
-	White submachine gun, light-grey helmet, light grey backpack, light grey backpack bipod, 3 red missiles
+	White submachine gun __, light-grey helmet __, light grey backpack __, light grey backpack bipod __, 3 red missiles __ __ __
 
 Cobra
 ******
 __ Laser-Viper; Cobra Laser Trooper; v1 |Trooper|
 	File card __
-	Silver helmet, silver backpack, silver control arm, 2 black hoses, 2 silver laser gun bases, 2 silver laser gun barrels
+	Silver helmet __, silver backpack __, silver control arm __, 2 black hoses __ __, 2 silver laser gun bases __ __, 2 silver laser gun barrels __ __
 __ Night Creeper; Cobra Ninja; v1 |Trooper|
 	File card __
-	Black crossbow, black kris sword, black barbed sword, maroon backpack
+	Black crossbow __, black kris sword __, black barbed sword __, maroon backpack __
 __ Range-Viper; Cobra Wilderness Troopers; v1 |Trooper|
 	File card __
-	Black grenade launcher, black grenade launcher chamber, dark grey backpack, black knife, black hose, grey missile launcher, grey missile
+	Black grenade launcher __, black grenade launcher chamber __, dark grey backpack __, black knife __, black hose __, grey missile launcher __, grey missile __
 __ Rock-Viper; Cobra Mountain Trooper; v1 |Trooper|
 	File card __
-	Tan rifle, tan pistol, black hose, black backpack, black grappling hook with black string
+	Tan rifle __, tan pistol __, black hose __, black backpack __, black grappling hook with black string __
 __ S.A.W.-Viper; Cobra Heavy Machine Gunner; v1 |Trooper|
 	File card __
-	Black machine gun, black bipod, purple backpack, grey ammo-belt
+	Black machine gun __, black bipod __, purple backpack __, grey ammo-belt __
 
 Iron Grenadiers
 ******
 __ Metal-Head; Destro's Anti-Tank Specialist; v1
 	File card __
-	Light grey helmet, light grey backpack frame, light grey missile launcher, light grey pistol, 2 light grey leg missile packs, 6 yellow missiles, 2 black hoses
+	Light grey helmet __, light grey backpack frame __, light grey missile launcher __, light grey pistol __, 2 light grey leg missile packs __ __, 6 yellow missiles __ __ __ __ __ __, 2 black hoses __ __
 __ Undertow; Destro's Frogmen; v1 |Trooper|
 	File card __
-	Grey mask, black harpoon, dark grey sled, red missile, 2 grey flippers, black hose, silver barracuda
+	Grey mask __, black harpoon __, dark grey sled __, red missile __, 2 grey flippers __ __, black hose __, silver barracuda __
 
 Vehicle Drivers Joes
 ******
 __ Cold Front; Avalanche Driver; v1 -- Avalanche
 	File card __
-	White handgun, orange visor, white helmet microphone
+	White handgun __, orange visor __, white helmet microphone __
 __ Major Storm; General Commander; v1 -- General mobile assault fort
 	File card __
-	Gold pistol, gold helmet
+	Gold pistol __, gold helmet __
 __ Updraft; Retaliator Pilot; v1 -- Retaliator
 	File card __
-	Grey helmet, dark grey pistol
+	Grey helmet __, dark grey pistol __
 
 Vehicle Drivers Cobra
 ******
 __ Decimator; Cobra Hammerhead Driver; v1 -- Hammerhead |Trooper|
 	File card __
-	Light grey helmet, dark grey speargun
+	Light grey helmet __, dark grey speargun __
 __ Overlord; Cobra Dictator Driver; v1 -- Dictator
 	File card __
-	Gold helmet, 2 gold claws
+	Gold helmet __, 2 gold claws __ __
 __ Vapor; Cobra Hurricane VTOL Pilot; v1 -- Hurricane
 	File card __
 	No accessories
@@ -1177,46 +1177,49 @@ Sky Patrol
 ******
 __ Airborne; Parachute Assembler; v2
 	File card __
-	Dark grey helmet, black rifle, grey backpack/parachute case, working silver parachute, parachute instructions
+	Dark grey helmet __, black rifle __, grey backpack/parachute case __, working silver parachute __, 
+parachute instructions __
 __ Airwave; Audible Frequency Specialist; v1
 	File card __
-	Silver helmet, tan visor, silver rifle, brown backpack/parachute case, working silver parachute, parachute instructions
+	Silver helmet __, tan visor __, silver rifle __, brown backpack/parachute case __, working silver parachute __, parachute instructions __
 __ Altitude; Recon Scout; v1
 	File card __
-	Silver helmet, gold visor, black pistol, black missile launcher, black missile, green backpack/parachute case, working silver parachute, parachute instructions
+	Silver helmet __, gold visor __, black pistol __, black missile launcher __, black missile __, green backpack/parachute case __, working silver parachute __, parachute 
+instructions __
 __ Drop Zone; Weapons Specialist; v1
 	File card __
-	Grey helmet, brown visor, brown chest guns, brown backpack/parachute case, working silver parachute, parachute instructions
+	Grey helmet __, brown visor __, brown chest guns __, brown backpack/parachute case __, working silver parachute __, parachute instructions __
 __ Skydive; Sky Patrol Leader; v1
 	File card __
-	Grey rifle, grey handgun, dark grey helmet, blue backpack/parachute case, working silver parachute, parachute instructions
+	Grey rifle __, grey handgun __, dark grey helmet __, blue backpack/parachute case __, working silver parachute __, parachute instructions __
 __ Static Line; Demolitions Expert; v1
 	File card __
-	Silver chest gun, grey helmet, silver handgun, white backpack/parachute case, working silver parachute, parachute instructions
+	Silver chest gun __, grey helmet __, silver handgun __, white backpack/parachute case __, working silver parachute __, parachute instructions __
 
 Sonic Fighters Joes
 ******
 __ Dial-Tone; Communications; v3
 	File card __
-	Black machine gun, black laser pistol, black grenade launcher, black grenade launcher chamber, black laser gun, large black electronic backpack, battery cover
+	Black machine gun __, black laser pistol __, black grenade launcher __, black grenade launcher chamber __, black laser gun __, large black electronic backpack __, battery cover __
 __ Dodger; Heavy Ordinance Operator; v2
 	File card __
-	Black photon rifle, black submachine gun, black rifle, black laser rifle, large blue electronic backpack, battery cover
+	Black photon rifle __, black submachine gun __, black rifle __, black laser rifle __, large blue electronic backpack __, battery cover __
 __ Law; M.P.; v2
 	File card __
-	White helmet, black machine gun, black tripod, black futuristic rifle, futuristic black pistol, black pistol, large tan electronic backpack, battery cover
+	White helmet __, black machine gun __, black tripod __, black futuristic rifle __, futuristic black pistol __, black pistol __, large tan electronic backpack __, battery cover __
 __ Tunnel Rat; E.O.D.; v3
 	File card __
-	Black laser pistol, black futuristic anti-aircraft pistol, black machine gun, black missile launcher, black missile launcher stand, large drab green electronic backpack, battery cover
+	Black laser pistol __, black futuristic anti-aircraft pistol __, black machine gun __, black missile launcher __, black missile launcher stand __, large drab green electronic backpack __, battery cover __
 
 Sonic Fighters Cobra
 ******
 __ Lampreys; Cobra Amphibious Assault Trooper; v2 |Trooper|
 	File card __
-	Black sniper rifle, black assult rifle, black futuristic gun, black submachine gun, large black electronic backpack, battery cover
+	Black sniper rifle __, black assult rifle __, black futuristic gun __, black submachine gun __, large black electronic 
+backpack __, battery cover __
 __ Viper; Cobra Infantryman; v3 |Trooper|
 	File card __
-	Gold machine gun, gold laser pistol, gold pistol, gold grenade launcher, gold grenade launcher mount, gold grenade launcher tripod, large gold electronic backpack, battery cover
+	Gold machine gun __, gold laser pistol __, gold pistol __, gold grenade launcher __, gold grenade launcher mount __, gold grenade launcher tripod __, large gold electronic backpack __, battery cover __
 
 
 Wave 10 1991 (35)
@@ -1226,144 +1229,144 @@ Joes
 ******
 __ Big Ben; SAS Fighter; v1
 	File card __
-	Black machine gun, black machine gun bipod, dark green backpack, dark green grenade pouch with strap, 2 black grenades
+	Black machine gun __, black machine gun bipod __, dark green backpack __, dark green grenade pouch with strap __, 2 black grenades __ __
 __ Dusty & Sandstorm; Desert Trooper & Coyote; v3
 	File card __
-	Brown submachine gun, brown submachine gun sliding stock, brown pistol, brown backpack, grey coyote Sandstorm
+	Brown submachine gun __, brown submachine gun sliding stock __, brown pistol __, brown backpack __, grey coyote Sandstorm __
 __ General Hawk; G.I. Joe Commander; v1
 	File card __
-	Gold helmet, clear helmet visor, dark grey machine gun, dark grey jet pack, 4 gold missiles
+	Gold helmet __, clear helmet visor __, dark grey machine gun __, dark grey jet pack __, 4 gold missiles __ __ __ __
 __ Grunt; Infantry Squad Leader; v3
 	File card __
-	Black rifle, dark green helmet, black missile launcher, bright orange missile, orange missile stand
+	Black rifle __, dark green helmet __, black missile launcher __, bright orange missile __, orange missile stand __
 __ Heavy Duty; Heavy Ordnance Trooper; v1
 	File card __
-	Dark green backpack, dark green launcher base, red missile site, black center mount cannon, dark green side-mount missile launchers, 2 light green missiles
+	Dark green backpack __, dark green launcher base __, red missile site __, black center mount cannon __, dark green side-mount missile launchers __, 2 light green missiles __ __
 __ Low-Light; Night Fighter; v3
 	File card __
-	Black rifle, black knife, black helmet, black helmet visor, black flashlight, black backpack
+	Black rifle __, black knife __, black helmet __, black helmet visor __, black flashlight __, black backpack __
 __ Mercer; Mercenary; v2
 	File card __
-	2 different orange rifles, blue backpack/missile launcher, light orange missile, black figure stand
+	2 different orange rifles __ __, blue backpack/missile launcher __, light orange missile __, black figure stand __
 __ Red Star (Oktober Guard); Oktober Guard Officer; v1
 	File card __
-	Blue hat, black assault rifle, black knife, black double-barrelled hand cannon, brown backpack, black ammo belt, black antenna, black missile launcher, red missile
+	Blue hat __, black assault rifle __, black knife __, black double-barrelled hand cannon __, brown backpack __, black ammo belt __, black antenna __, black missile launcher __, red missile __
 __ Sci-Fi; Directed Energy Expert; v2
 	File card __
-	Black helmet, silver gun, silver backpack, silver missile launcher, 2 black hoses, yellow missile
+	Black helmet __, silver gun __, silver backpack __, silver missile launcher __, 2 black hoses __ __, yellow missile __
 __ Snake Eyes; Commando; v4
 	File card __
-	Red machine gun, 2 red swords, blue backpack with grappling hook launcher, red grappling hook, black string, black figure stand
+	Red machine gun __, 2 red swords __ __, blue backpack with grappling hook launcher __, red grappling hook __, black string __, black figure stand __
 __ Tracker; Navy S.E.A.L.; v1
 	File card __
-	Black visor, orange submachine gun, 2 orange oars, inflatable orange and black raft, black figure stand
+	Black visor __, orange submachine gun __, 2 orange oars __ __, inflatable orange and black raft __, black figure stand __
 
 Cobra
 ******
 __ B.A.T.; Battle Android Trooper; v2 |Trooper|
 	File card __
-	Orange right hand attachment, orange grenade launcher attachment, black modular missile launcher, green missile, black battle stand, lenticular chest piece
+	Orange right hand attachment __, orange grenade launcher attachment __, black modular missile launcher __, green missile __, black battle stand __, lenticular chest piece __
 __ Cobra Commander; Cobra Leader; v4
 	File card __
-	Gold machine gun, two-piece plastic glider, blue spring-loaded flying surveillance launcher, orange launcher bipod, black battle stand
+	Gold machine gun __, two-piece plastic glider __ __, blue spring-loaded flying surveillance launcher __, orange launcher bipod __, black battle stand __
 __ Crimson Guard Immortal; Cobra Elite Trooper; v1 |Trooper|
 	File card __
-	Black gun\missile launcher, black double-missile launcher, black backpack, black ammo belt, 6 black missiles
+	Black gun\missile launcher __, black double-missile launcher __, black backpack __, black ammo belt __, 6 black missiles __ __ __ __ __ __
 __ Desert Scorpion; Cobra Desert Trooper; v1 |Trooper|
 	File card __
-	Black machine pistol, black backpack, black missile rack, a black hose, 2 black digger devices, light orange missile, black scorpion
+	Black machine pistol __, black backpack __, black missile rack __, a black hose __, 2 black digger devices __ __, light orange missile __, black scorpion __
 __ Incinerators; Cobra Flamethrowers; v1 |Trooper|
 	File card __
-	Silver flamethrower, black backpack, silver catapult, orange rubber band, 2 orange "flame" projectiles, black hose
+	Silver flamethrower __, black backpack __, silver catapult __, orange rubber band __, 2 orange "flame" projectiles __ __, black hose __
 __ Snow Serpent; Cobra Snow Trooper; v2 |Trooper|
 	File card __
-	White rifle, white handgun, purple snowboard, purple backpack, purple missile launcher, white missile, 2 black hoses
+	White rifle __, white handgun __, purple snowboard __, purple backpack __, purple missile launcher __, white missile __, 2 black hoses __ __
 
 Vehicle Drivers Joes
 ******
 __ Major Altitude; Battle Copter Pilot; v1 -- G.I. Joe Battle Copter
 	File card __
-	Light green helmet, silver rifle
+	Light green helmet __, silver rifle __
 
 Vehicle Drivers Cobra
 ******
 __ Interrogator; Cobra Battle Copter Pilot; v1 -- Cobra Battle Copter
 	File card __
-	Black rifle with a claw at the end
+	Black rifle with a claw at the end __
 
 Eco-Warriors Joes
 ******
 __ Clean-Sweep; Anti-Tox Trooper; v1
 	File card __
-	Yellow helmet, green pistol, yellow "sweeper", green sweeper control panel, green backpack
+	Yellow helmet __, green pistol __, yellow "sweeper" __, green sweeper control panel __, green backpack __
 __ Flint; Eco-Warriors Commander; v3
 	File card __
-	Yellow-orange helmet, blue rifle, blue water rifle, blue and orange backpack, orange hose
+	Yellow-orange helmet __, blue rifle __, blue water rifle __, blue and orange backpack __, orange hose __
 __ Ozone; Ozone Replenisher Trooper; v1
 	File card __
-	Green "vacuum" gun, blue and yellow helmet, green water rifle with an orange hose, green and yellow backpack
+	Green "vacuum" gun __, blue and yellow helmet __, green water rifle with an orange hose __, green and yellow backpack __
 
 Eco-Warriors Cobra
 ******
 __ Cesspool; C.E.O.- Chief Environmental Operative; v1
 	File card __
-	Gold and orange helmet, gold helmet breather, gold chainsaw, blue rifle, blue and orange backpack, orange hose
+	Gold and orange helmet __, gold helmet breather __, gold chainsaw __, blue rifle __, blue and orange backpack __, orange hose __
 __ Sludge Viper; Hazardous Waste Viper; v1 |Trooper|
 	File card __
-	Purple pistol, purple backpack, purple water-firing cannon, black figure stand
+	Purple pistol __, purple backpack __, purple water-firing cannon __, black figure stand __
 __ Toxo-Viper; Hostile Environment Trooper; v2 |Trooper|
 	File card __
-	Purple gun, purple backpack, green cannon, black figure stand
+	Purple gun __, purple backpack __, green cannon __, black figure stand __
 
 Sonic Fighters Joes
 ******
 __ Lt. Falcon; Green Beret; v2
 	File card __
-	Blue electronic backpack, battery cover, black copter blades, black assault rifle, black laser rifle, black display stand
+	Blue electronic backpack __, battery cover __, black copter blades __, black assault rifle __, black laser rifle __, black display stand __
 __ Psyche-Out; Deceptive Warfare; v3
 	File card __
-	black E.C.M. microphone, 2 small blue E.C.M. dishes, black laser rifle, large blue E.C.M. dish, white electronic backpack, battery cover, black antenna, black radar dish, black radar screen, black hose, black figure stand.
+	black E.C.M. microphone __, 2 small blue E.C.M. dishes __ __, black laser rifle __, large blue E.C.M. dish __, white electronic backpack __, battery cover __, black antenna __, black radar dish __, black radar screen __, black hose __, black figure stand __
 __ Rock n' Roll; Machine Gunner; v3
 	File card __
-	Brown machine gun, brown cannon, green stand, green electronic backpack, battery cover
+	Brown machine gun __, brown cannon __, green stand __, green electronic backpack __, battery cover __
 __ Zap; Ground Artillery Soldier; v2
 	File card __
-	Grey helmet, grey electronic backpack, battery cover, small grey backpack gun, grey double barreled rocket launcher, grey sonic rocket launcher, grey muzzle, black figure stand
+	Grey helmet __, grey electronic backpack __, battery cover __, small grey backpack gun __, grey double barreled rocket launcher __, grey sonic rocket launcher __, grey muzzle __, black figure stand __
 
 Sonic Fighters Cobra
 ******
 __ Major Bludd; Mercenary; v2
 	File card __
-	Yellow rifle, dark grey sonic disruptor, dark grey muzzle, dark grey electronic backpack, battery cover, black figure stand
+	Yellow rifle __, dark grey sonic disruptor __, dark grey muzzle __, dark grey electronic backpack __, battery cover __, black figure stand __
 __ Road Pig; Dreadnok; v2
 	File card __
-	Orange machine gun, orange double-barreled flamethrower, orange shoulder pads, green electronic backpack, battery cover, black figure stand
+	Orange machine gun __, orange double-barreled flamethrower __, orange shoulder pads __, green electronic backpack __, battery cover __, black figure stand __
 
 Air Commandos Joes
 ******
 Each figure came carded with a soft plastic glider with hard supports and weapons. Accessories listed below are for the figure without the glider.
 __ Cloudburst; Glider Trooper; v1
 	File card __
-	Blue visor, red/pink submachine gun
+	Blue visor __, red/pink submachine gun __
 __ Skymate; Glider Trooper; v1
 	File card __
-	Blue visor, red/pink boomerang, yellow bow
+	Blue visor __, red/pink boomerang __, yellow bow __
 
 Air Commandos Cobra
 ******
 __ Night Vulture; Air Recon Trooper; v1 |Trooper|
 	File card __
-	Purple crossbow
+	Purple crossbow __
 __ Sky Creeper; Air Recon Leader; v1
 	File card __
-	Blue pistol
+	Blue pistol __
 
 Mail-aways
 ******
 __ Lifeline; Rescue Trooper; v3
 Kellog's Rice Krispies mail-away. This figure came with no weapons and different leg molds.
 	File card __
-	Silver backpack, White medical case
+	Silver backpack __, White medical case __
 
 
 Wave 11 1992 (37)
@@ -1373,154 +1376,154 @@ Joes
 ******
 __ Barricade; Bunker Buster; v1
 	File card __
-	Gold and red helmet, dark blue submachine gun, dark blue missile launcher, dark blue backpack, yellow "battering ram" missile, black figure stand
+	Gold and red helmet __, dark blue submachine gun __, dark blue missile launcher __, dark blue backpack __, yellow "battering ram" missile __, black figure stand __
 __ Big Bear; Oktober Guard Anti-Armor Specialist; v1
 	File card __
-	Black rifle, black backpack, black missile launcher, 2 yellow missiles, black figure stand
+	Black rifle __, black backpack __, black missile launcher __, 2 yellow missiles __ __, black figure stand __
 __ Duke; Master Sergeant; v3
 	File card __
-	Tan helmet, tan cannon, red seat, brown cannon tripod, red missile, brown submachine gun, brown knife, black figure stand
+	Tan helmet __, tan cannon __, red seat __, brown cannon tripod __, red missile __, brown submachine gun __, brown knife __, black figure stand __
 __ General Flagg; G.I.Joe General; v1
 	File card __
-	Black rifle, brown hat, black missile, black figure stand, catapult: green base, green arm, black lever, rubber band
+	Black rifle __, brown hat __, black missile __, black figure stand __, catapult: green base __, green arm __, black lever __, rubber band __
 __ Gung-Ho; U.S. Marine; v3
 	File card __
-	Black backpack, black missile launcher, blue missile, black machine gun, American flag, black figure stand
+	Black backpack __, black missile launcher __, blue missile __, black machine gun __, American flag __, black figure stand __
 __ Roadblock; Heavy Machine Gunner; v4
 This version of Roadblock had a product recall due to accessories. It was released in both 1992 and 1993 with different accessories (figure identical). The 1992 version had the recall and it's accessories are rarer as a result.
 	File card __
-	1992: Black machine gun, black knife, blue rotor launcher, black rotor, black figure stand
-	1993: Light blue missile launcher, black plastic "tree" of weapons: 2 rifles, pistol, knife, 2 missiles, black figure stand
+	1992: Black machine gun __, black knife __, blue rotor launcher __, black rotor __, black figure stand __
+	1993: Light blue missile launcher __, black plastic sprue of weapons: 2 rifles __ __, pistol __, knife __, 2 missiles __ __, black figure stand __
 __ Wet-Suit; S.E.A.L.; v3
 	File card __
-	Yellow harpoon gun, yellow helmet, 2 yellow fins, black sled, 3 orange missiles, black figure stand
+	Yellow harpoon gun __, yellow helmet __, 2 yellow fins __ __, black sled __, 3 orange missiles __ __ __, black figure stand __
 __ Wild Bill; Air Cavalry Scout; v2
 	File card __
-	Brown pistol, brown knife, brown backpack, blue cowboy hat, blue missile launcher, brown missile, black figure stand
+	Brown pistol __, brown knife __, brown backpack __, blue cowboy hat __, blue missile launcher __, brown missile __, black figure stand __
 
 Cobra
 ******
 __ Destro; Enemy Weapons Supplier; v3
 	File card __
-	Black rifle, black disc launcher, 2 red discs, black figure stand
+	Black rifle __, black disc launcher __, 2 red discs __ __, black figure stand __
 __ Eels; Cobra Underwater Demolitions; v2 |Trooper|
 	File card __
-	2 silver flippers, silver shark with removable upper jaw, dorsal fin, and tail, yellow missile, yellow trident/harpoon gun, black figure stand
+	2 silver flippers __ __, silver shark with removable upper jaw __ __, dorsal fin __, and tail __, yellow missile __, yellow trident/harpoon gun __, black figure stand __
 __ Firefly; Cobra Saboteur; v2
 	File card __
-	Green rifle, gold "blade launcher," green top, green zipcord, black figure stand
+	Green rifle __, gold "blade launcher __," green top __, green zipcord __, black figure stand __
 __ Flak-Viper; Cobra Anti-Aircraft Trooper; v1 |Trooper|
 	File card __
-	Light blue rifle, green backpack/missile launcher, 2 light blue missiles, black figure stand
+	Light blue rifle __, green backpack/missile launcher __, 2 light blue missiles __ __, black figure stand __
 
 Vehicle Drivers Joes
 ******
 __ Ace; Battle Copter Pilot; v2 -- G.I. Joe Battle Copter
 	File card __
-	White helmet, black airmask, black submachine gun
+	White helmet __, black airmask __, black submachine gun __
 
 Vehicle Drivers Cobra
 ******
 __ Heli-Vipers; Cobra Battle Copter Troopers; v1 -- Cobra Battle Copter |Trooper|
 	File card __
-	Purple rifle
+	Purple rifle __
 
 DEF Joes
 ******
 All the DEF missile launchers had electronic features.
 __ Bullet-Proof; D.E.F. Leader; v1
 	File card __
-	Green helmet, removable green helmet microphone, green assault rifle, green backpack, green Electronic Battle-Flash Missile Launcher, green missile, black figure stand
+	Green helmet __, removable green helmet microphone __, green assault rifle __, green backpack __, green Electronic Battle-Flash Missile Launcher __, green missile __, black figure stand __
 __ Cutter; Sea Operations Specialist; v2
 	File card __
-	White submachine gun, white flashlight, white grappling hook, black string, red Electronic Battle-Flash grappling Hook Launcher, white tripod, black figure stand
+	White submachine gun __, white flashlight __, white grappling hook __, black string __, red Electronic Battle-Flash grappling Hook Launcher __, white tripod __, black figure stand __
 __ Mutt & Junkyard; K-9 Officer & Attack Dog; v3
 	File card __
-	Black handgun, blue Electronic Battle-Flash Net Launcher, net with 2 black launching poles and 2 black weights, Junkyard, black figure stand
+	Black handgun __, blue Electronic Battle-Flash Net Launcher __, net with 2 black launching poles and 2 black weights __, Junkyard __, black figure stand __
 __ Shockwave; S.W.A.T. Specialist; v3
 	File card __
-	Black helmet, black assault rifle, yellow Electronic Battle-Flash Battering Ram Tank, black battering-ram missile, black figure stand
+	Black helmet __, black assault rifle __, yellow Electronic Battle-Flash Battering Ram Tank __, black battering-ram missile __, black figure stand __
 
 DEF Cobra
 ******
 __ Headhunters; Headman's Narcotic Guard; v1 |Trooper|
 	File card __
-	Black shotgun, black backpack, purple Electronic Battle-Flash Rocket Launcher, black missile, black figure stand
+	Black shotgun __, black backpack __, purple Electronic Battle-Flash Rocket Launcher __, black missile __, black figure stand __
 __ Headman; Drug Kingpin; v1
 	File card __
-	Red Electronic Battle-Flash Missile Launcher, gold missile, gold rifle, black figure stand
+	Red Electronic Battle-Flash Missile Launcher __, gold missile __, gold rifle __, black figure stand __
 
 Eco-Warriors Joes
 ******
 __ Barbecue; Firefighter; v3
 	File card __
-	Yellow water rifle with orange hose, red and yellow backpack, clear yellow helmet visor, black figure stand
+	Yellow water rifle with orange hose __, red and yellow backpack __, clear yellow helmet visor __, black figure stand __
 __ Deep Six; Deep Water Specialist; v3
 	File card __
-	Black rifle, 2 pink flippers, grey dolphin Finback, black figure stand
+	Black rifle __, 2 pink flippers __ __, grey dolphin Finback __, black figure stand __
 
 Eco-Warriors Cobra
 ******
 __ Toxo-Zombie; Cobra Toxic Disaster Trooper; v1 |Trooper|
 	File card __
-	Green water cannon, removable black plunger, black figure stand
+	Green water cannon __, removable black plunger __, black figure stand __
 
 Ninja Force Joes
 ******
 All Ninja Force figures came with fabric belts and headbands attached to the figure.
 __ Dojo; Silent Weapons Ninja; v1
 	File card __
-	Blue sword, blue two-piece sickle (handle and blade with black string), black figure stand
+	Blue sword __, blue two-piece sickle (handle and blade with black string) __, black figure stand __
 __ Nunchuk; Nunchaku Ninja; v1
 	File card __
-	Black sword, black nunchuks, black figure stand
+	Black sword __, black nunchuks __, black figure stand __
 __ Storm Shadow; Ninja Force Leader; v3
 	File card __
-	White sword, white sickle, black figure stand
+	White sword __, white sickle __, black figure stand __
 __ T'Jbang; Ninja Swordsman; v1
 	File card __
-	Light blue sword, light blue double-edge battle axe, black figure stand
+	Light blue sword __, light blue double-edge battle axe __, black figure stand __
 
 Ninja Force Cobra
 ******
 __ Dice; Cobra Bo-Staff Ninja; v1
 	File card __
-	Silver axe, silver bo-staff, black figure stand
+	Silver axe __, silver bo-staff __, black figure stand __
 __ Slice; Cobra Ninja Swordsman; v1
 	File card __
-	Butterfly knife, black heavy sword, black figure stand
+	Butterfly knife __, black heavy sword __, black figure stand __
 
 Talking Battle Commanders Joes
 ******
 All 4 figures had the backpack permanently attached to the figure. All backpacks were electronic. 
 __ General Hawk; G.I. Joe Commander; v2
 	File card __
-	Gold pistol, gold rifle, gold antenna, black figure stand
+	Gold pistol __, gold rifle __, gold antenna __, black figure stand __
 __ Stalker; Ranger; v3
 	File card __
-	Black rifle, black laser pistol, black figure stand
+	Black rifle __, black laser pistol __, black figure stand __
 
 Talking Battle Commanders Cobra
 ******
 __ Cobra Commander; Cobra Leader; v5
 	File card __
-	Black missile launcher, 2 removable black missiles, black rifle, black figure stand
+	Black missile launcher __, 2 removable black missiles __ __, black rifle __, black figure stand __
 __ Overkill; B.A.T. Leader; v1
 	File card __
-	Red right hand, red claw attachment, hand-held red rifle/cannon, black figure stand
+	Red right hand __, red claw attachment __, hand-held red rifle/cannon __, black figure stand __
 
 Air Commandos Joes
 ******
 Each figure came carded with a soft plastic glider with hard supports and weapons. Accessories listed below are for the figure without the glider.
 __ Spirit; Air Commandos Leader; v3
 	File card __
-	Black pistol
+	Black pistol __
 
 Air Commandos Cobra
 ******
 __ Cobra Air Devil; Acrobatic Aerial Assault Trooper; v1 |Trooper|
 	File card __
-	Clear face shield, black rifle
+	Clear face shield __, black rifle __
 
 Mail-Aways
 ******
@@ -1528,11 +1531,11 @@ __ Steel Brigade v2
 This figure didn't come with a pre-written file card...children were allowed to write their own to become a 'member' of G.I. Joe. This version is identical to Steel Brigade v1E, but with different colours on the plastic.
 	Version E: Duke torso, Scrap Iron legs, Cobra Soldier waist, Flash arms
 	File card __
-	Dark grey rifle (Recoil), dark green backpack, special Steel Brigade patch
+	Dark grey rifle (Recoil) __, dark green backpack __, special Steel Brigade patch __
 
 __ Cobra Ninja Viper v1
 	File card __
-	2 dark grey swords
+	2 dark grey swords __ __
 
 
 Wave 12 1993 (109)
@@ -1543,362 +1546,362 @@ Battle Corps Joes
 ******
 __ Backblast; Anti-Aircraft Soldier; v2
 	File card __
-	Sprue: black submachine gun, black rifle, black knife, 2 black missiles, black figure stand
-	Loose: black missile launcher
+	Sprue: black submachine gun __, black rifle __, black knife __, 2 black missiles __ __, black figure stand __
+	Loose: black missile launcher __
 __ Barricade; Bunker Buster; v2
 	File card __
-	Gold and red helmet, blue submachine gun, blue backpack, blue missile launcher, yellow battering ram missile, black figure stand
+	Gold and red helmet __, blue submachine gun __, blue backpack __, blue missile launcher __, yellow battering ram missile __, black figure stand __
 __ Bazooka; Missile Specialist; v3
 	File card __
-	Sprue: 3 different light green guns, 2 light green missiles, light green figure stand
-	Loose: blue missile launcher
+	Sprue: 3 different light green guns __ __ __, 2 light green missiles __ __, light green figure stand __
+	Loose: blue missile launcher __
 __ Beach-Head; Ranger; v2
 	File card __
-	Sprue: 3 different yellow guns, 2 yellow missiles, yellow knife, yellow figure stand
-	Loose: black missile launcher
+	Sprue: 3 different yellow guns __ __ __, 2 yellow missiles __ __, yellow knife __, yellow figure stand __
+	Loose: black missile launcher __
 __ Bullet-Proof; Urban Commander; v2
 	File card __
-	Green helmet, green rifle, green backpack, green missile launcher, green missile, black figure stand
+	Green helmet __, green rifle __, green backpack __, green missile launcher __, green missile __, black figure stand __
 __ Colonel Courage; Strategic Commander; v1
 	File card __
-	Sprue: 4 light green guns, light green machete, light green knife, light green missile, light green figure stand
-	Loose: gold missile launcher
+	Sprue: 4 light green guns __ __ __ __, light green machete __, light green knife __, light green missile __, light green figure stand __
+	Loose: gold missile launcher __
 __ Cross-Country; Transport Expert; v2
 	File card __
-	Sprue: 3 black guns, black knife, 2 black missiles, black figure stand
-	Loose: blue missile launcher, orange backpack
+	Sprue: 3 black guns __ __ __, black knife __, 2 black missiles __ __, black figure stand __
+	Loose: blue missile launcher __, orange backpack __
 __ Duke; Battle Commander; v4
 	File card __
-	Sprue: 3 black guns, black machete, 2 black missiles, black figure stand
-	Loose: gold missile launcher
+	Sprue: 3 black guns __ __ __, black machete __, 2 black missiles __ __, black figure stand __
+	Loose: gold missile launcher __
 __ Frostbite; Arctic Commander; v3
 	File card __
-	Sprue: White mask, 3 white guns, white machete, 2 white missiles, white figure stand
-	Loose: orange missile launcher
+	Sprue: White mask __, 3 white guns __ __ __, white machete __, 2 white missiles __ __, white figure stand __
+	Loose: orange missile launcher __
 __ General Flagg; G.I. Joe General; v2
 	File card __
-	Black rifle, brown hat, black missile, black figure stand, catapult: green base, green arm, black lever, rubber band
+	Black rifle __, brown hat __, black missile __, black figure stand __, catapult: green base __, green arm __, black lever __, rubber band __
 __ Gung-Ho; U.S. Marine; v4
 	File card __
-	Black backpack, black missile launcher, blue missile, black machine gun, American flag, black figure stand
+	Black backpack __, black missile launcher __, blue missile __, black machine gun __, American flag __, black figure stand __
 __ Iceberg; Arctic Assault Trooper; v2
 	File card __
-	Sprue: White rifle, white handgun, white knife, white machete, white snowboard, 2 white missiles
-	Loose: green missile launcher
+	Sprue: White rifle __, white handgun __, white knife __, white machete __, white snowboard __, 2 white missiles __ __
+	Loose: green missile launcher __
 __ Keel-Haul; Admiral; v2
 	File card __
-	Sprue: Blue rifle, blue submachine gun, blue knife, 2 blue missiles, blue figure stand
-	Loose: brown missile launcher
+	Sprue: Blue rifle __, blue submachine gun __, blue knife __, 2 blue missiles __ __, blue figure stand __
+	Loose: brown missile launcher __
 __ Law; MP; v3
 	File card __
-	Sprue: 2 yellow guns, yellow knife, yellow shield, 2 yellow missiles, yellow figure stand
-	Loose: blue missile launcher
+	Sprue: 2 yellow guns __ __, yellow knife __, yellow shield __, 2 yellow missiles __ __, yellow figure stand __
+	Loose: blue missile launcher __
 __ Leatherneck; Infantry Training Specialist; v3
 	File card __
-	Sprue: 3 black rifles, black handgun, black knife, black missile, black figure stand
-	Loose: orange missile launcher
+	Sprue: 3 black rifles __ __ __, black handgun __, black knife __, black missile __, black figure stand __
+	Loose: orange missile launcher __
 __ Long Arm; First Strike Specialist; v1
 	File card __
-	Sprue: 2 red guns, red knife, red shield, 2 red missiles, red figure stand
-	Loose: orange helmet, black missile launcher
+	Sprue: 2 red guns __ __, red knife __, red shield __, 2 red missiles __ __, red figure stand __
+	Loose: orange helmet __, black missile launcher __
 __ Mace; Undercover Operative; v1
 	File card __
-	Sprue: 2 yellow rifles, yellow pistol, yellow knife, 2 yellow missiles, yellow figure stand
-	Loose: yellow helmet, black missile launcher
+	Sprue: 2 yellow rifles __ __, yellow pistol __, yellow knife __, 2 yellow missiles __ __, yellow figure stand __
+	Loose: yellow helmet __, black missile launcher __
 __ Muskrat; Heavy Fire Specialist; v3
 	File card __
-	Sprue: 3 dark blue guns, dark blue knife, 2 dark blue missiles, dark blue figure stand
-	Loose: green helmet, orange missile launcher
+	Sprue: 3 dark blue guns __ __ __, dark blue knife __, 2 dark blue missiles __ __, dark blue figure stand __
+	Loose: green helmet __, orange missile launcher __
 __ Mutt & Junkyard; K-9 Officer & Attack Dog; v4
 	File card __
-	Black handgun, gold rifle, red missile launcher, gold missile, Junkyard, black figure stand
+	Black handgun __, gold rifle __, red missile launcher __, gold missile __, Junkyard __, black figure stand __
 __ Outback; Survival Specialist; v3
 	File card __
-	Sprue: 3 red rifles, 2 red missiles, red figure stand
-	Loose: dark blue/purple missile launcher
+	Sprue: 3 red rifles __ __ __, 2 red missiles __ __, red figure stand __
+	Loose: dark blue/purple missile launcher __
 __ Outback; Survival Specialist; v4 (repaint of Outback v3)
 	File card __
-	Sprue: 3 red rifles, 2 red missiles, red figure stand
-	Loose: dark blue/purple missile launcher
+	Sprue: 3 red rifles __ __ __, 2 red missiles __ __, red figure stand __
+	Loose: dark blue/purple missile launcher __
 __ Roadblock; Heavy Machine Gunner; v5
 	File card __
-	Sprue: 2 rifles, pistol, knife, 2 missiles, figure stand
-	Loose: light blue missile launcher
+	Sprue: 2 rifles __ __, pistol __, knife __, 2 missiles __ __, figure stand __
+	Loose: light blue missile launcher __
 __ Snow Storm; High-Tech Snow Trooper; v1
 	File card __
-	Sprue: 2 white rifles, white handgun, white knife, 2 white missiles, white figure stand
-	Loose: brown missile launcher
+	Sprue: 2 white rifles __ __, white handgun __, white knife __, 2 white missiles __ __, white figure stand __
+	Loose: brown missile launcher __
 __ Snow Storm; High-Tech Snow Trooper; v2 (repaint of Snow Storm v1)
 	File card __
-	Sprue: 2 white rifles, white handgun, white knife, 2 white missiles, white figure stand
-	Loose: brown missile launcher
+	Sprue: 2 white rifles __ __, white handgun __, white knife __, 2 white missiles __ __, white figure stand __
+	Loose: brown missile launcher __
 __ Wet-Suit; Navy S.E.A.L.; v4
 	File card __
-	Orange helmet, orange harpoon gun, 2 orange fins, black sled/missile launcher, 3 orange missiles, black figure stand
+	Orange helmet __, orange harpoon gun __, 2 orange fins __ __, black sled/missile launcher __, 3 orange missiles __ __ __, black figure stand __
 __ Wild Bill; Aero Scout; v3
 	File card __
-	Brown pistol, brown knife, brown backpack, blue cowboy hat, blue missile launcher, brown missile, black figure stand
+	Brown pistol __, brown knife __, brown backpack __, blue cowboy hat __, blue missile launcher __, brown missile __, black figure stand __
 
 Battle Corps Cobra
 ******
 __ Alley Viper; Urban Assault Trooper; v2 |Trooper|
 	File card __
-	Black face mask, 2 black rifles, black backpack, yellow missile launcher, 2 black missiles, black Cobra shield, black figure stand
+	Black face mask __, 2 black rifles __ __, black backpack __, yellow missile launcher __, 2 black missiles __ __, black Cobra shield __, black figure stand __
 __ Cobra Commander; Cobra Supreme Leader; v6
 	File card __
-	Sprue: 4 silver guns, 2 silver missiles, silver figure stand
-	Loose: red missile launcher
+	Sprue: 4 silver guns __ __ __ __, 2 silver missiles __ __, silver figure stand __
+	Loose: red missile launcher __
 __ Crimson Guard Commander; Cobra Elite Officer; v1 |Trooper|
 	File card __
-	Sprue: 4 black guns, 2 black missiles, black figure stand
+	Sprue: 4 black guns __ __ __ __, 2 black missiles __ __, black figure stand __
 	Loose: yellow missile launcher
 __ Dr. Mindbender; Master of Mind Control; v2
 	File card __
-	Sprue: 5 different yellow guns, yellow knife, yellow figure stand
-	Loose: purple missile launcher, yellow missile
+	Sprue: 5 different yellow guns __ __ __ __ __, yellow knife __, yellow figure stand __
+	Loose: purple missile launcher __, yellow missile __
 __ Eels; Underwater Demolitions Specialist; v3 |Trooper|
 	File card __
-	Sprue: 4 red guns, 2 red missiles, red figure stand
-	Loose: 2 yellow flippers, yellow missile launcher
+	Sprue: 4 red guns __ __ __ __, 2 red missiles __ __, red figure stand __
+	Loose: 2 yellow flippers __ __, yellow missile launcher __
 __ Firefly; Cobra Saboteur; v3
 	File card __
-	Green rifle, black "blade launcher," green top, green zipcord, black figure stand
+	Green rifle __, black "blade launcher __," green top __, green zipcord __, black figure stand __
 __ Flak-Viper; Cobra Anti-Aircraft Trooper; v2 |Trooper|
 	File card __
-	Orange rifle, green backpack/missile launcher, 2 orange missiles, black figure stand
+	Orange rifle __, green backpack/missile launcher __, 2 orange missiles __ __, black figure stand __
 __ Gristle; Urban Crime Commander; v1
 	File card __
-	Sprue: 2 maroon rifles, maroon knife, 2 maroon missiles, maroon figure stand
-	Loose: yellow missile launcher
+	Sprue: 2 maroon rifles __ __, maroon knife __, 2 maroon missiles __ __, maroon figure stand __
+	Loose: yellow missile launcher __
 __ Headhunters; Cobra Street Troopers; v2 |Trooper|
 	File card __
-	Black shotgun, black backpack, purple rocket launcher, black missile, black figure stand
+	Black shotgun __, black backpack __, purple rocket launcher __, black missile __, black figure stand __
 __ Headhunter Stormtroopers; Elite Urban Crime Guards; v1 |Trooper|
 	File card __
-	Sprue: 2 black rifles, black knife, 2 black missiles, black figure stand
+	Sprue: 2 black rifles __ __, black knife __, 2 black missiles __ __, black figure stand __
 	Loose: orange missile launcher
 __ H.E.A.T. Viper; High-Explosive Anti-Tank Trooper; v2 |Trooper|
 	File card __
-	Sprue: 3 light green guns, 2 green missiles, green figure stand
-	Loose: black missile launcher
+	Sprue: 3 light green guns __ __ __, 2 green missiles __ __, green figure stand __
+	Loose: black missile launcher __
 __ Night Creeper Leader; Ninja Supreme Master; v1
 	File card __
-	Sprue: 2 orange swords, orange knife, 2 orange crossbows, orange shield, orange figure stand
-	Loose: black missile launcher, orange missile,
+	Sprue: 2 orange swords __ __, orange knife __, 2 orange crossbows __ __, orange shield __, orange figure stand __
+	Loose: black missile launcher __, orange missile __
 
 Battle Corps Vehicle Drivers Joes
 ******
 __ Ace; Fighter Pilot; v3 -- Ghoststriker X-16
 	File card __
-	Black uzi submachine gun, black helmet, black airmask
+	Black uzi submachine gun __, black helmet __, black airmask __
 __ Cutter; Coast Guard Specialist; v3 -- SHARK 9000
 	File card __
-	Black submachine gun
+	Black submachine gun __
 
 Battle Corps Vehicle Drivers Cobra
 ******
 __ Nitro-Viper; Detonator Driver; v1 -- Cobra Detonator |Trooper|
 	File card __
-	Black handgun
+	Black handgun __
 
 Dino Hunters
 ******
 Dino Hunters were a Toys R Us exclusive. Both figures were bundled with a vehicle and dinosaur (not listed).
 __ Ambush; Dinosaur Camouflage Specialist; v2
 	File card __
-	Tan helmet, 2 green rifles, green laser pistol, green handgun, green machete, green knife, green figure stand
+	Tan helmet __, 2 green rifles __ __, green laser pistol __, green handgun __, green machete __, green knife __, green figure stand __
 __ Low-Light; Dinosaur Night Spotter; v4
 	File card __
-	3 black rifles, black handgun, black knife, black helmet, black visor, black figure stand
+	3 black rifles __ __ __, black handgun __, black knife __, black helmet __, black visor __, black figure stand __
 
 Mega Marines Joes
 ******
 Several figures came with a jar of Play-Doh and a mold for shaping it directly onto the figure Hasbro called moldable bio-armor...it's listed as an accessory for each figure that had it.
 __ Blast-Off; Flame Thrower; v1
 	File card __
-	Sprue: 2 blue guns, blue knife, 2 blue missiles, blue figure stand
-	Loose: orange helmet, red missile launcher, red armor mold, jar of moldable bio-armor
+	Sprue: 2 blue guns __ __, blue knife __, 2 blue missiles __ __, blue figure stand __
+	Loose: orange helmet __, red missile launcher __, red armor mold __, jar of moldable bio-armor __
 __ Clutch; Monster Blaster A.P.C. Driver; v3
 	File card __
-	Sprue: 3 black guns, black machete, 2 black missiles, black figure stand
-	Loose: yellow missile launcher, yellow armor mold, jar of moldable bio-armor
+	Sprue: 3 black guns __ __ __, black machete __, 2 black missiles __ __, black figure stand __
+	Loose: yellow missile launcher __, yellow armor mold __, jar of moldable bio-armor __
 __ Gung-Ho; Mega-Marine Commander; v5
 	File card __
-	Sprue: 3 black rifles, black machete, 2 black missiles, black figure stand
-	Loose: orange helmet, orange missile launcher, yellow armor mold, jar of moldable bio-armor
+	Sprue: 3 black rifles __ __ __, black machete __, 2 black missiles __ __, black figure stand __
+	Loose: orange helmet __, orange missile launcher __, yellow armor mold __, jar of moldable bio-armor __
 __ Mirage; Bio-Artillery Expert; v1
 	File card __
-	Sprue: Green submachine gun, green rifle, green knife, 2 green missiles, green figure stand
-	Loose: blue missile launcher, a blue armor mold, jar of moldable bio-armor
+	Sprue: Green submachine gun __, green rifle __, green knife __, 2 green missiles __ __, green figure stand __
+	Loose: blue missile launcher __, a blue armor mold __, jar of moldable bio-armor __
 
 Mega Marines Cobra
 ******
 __ Bio-Vipers; Genetically Enhanced Undersea Monster; v1 |Trooper|
 	File card __
-	Red missile launcher, black missile
+	Red missile launcher __, black missile __
 __ Cyber-Vipers; Cybernetic Officers; v1 |Trooper|
 	File card __
-	Sprue: 4 grey guns, 2 grey missiles, grey figure stand
-	Loose: yellow missile launcher, light green armor mold, jar of moldable bio-armor
+	Sprue: 4 grey guns __ __ __ __, 2 grey missiles __ __, grey figure stand __
+	Loose: yellow missile launcher __, light green armor mold __, jar of moldable bio-armor __
 __ Mega-Vipers; Mega-Monster Trainers; v1 |Trooper|
 	File card __
-	Sprue: 4 yellow guns, 2 yellow missiles, yellow figure stand
-	Loose: pink missile launcher, black armor mold, jar of moldable bio-armor
+	Sprue: 4 yellow guns __ __ __ __, 2 yellow missiles __ __, yellow figure stand __
+	Loose: pink missile launcher __, black armor mold __, jar of moldable bio-armor __
 __ Monstro-Vipers; Genetically Enhanced Bio-Beast; v1 |Trooper|
 	File card __
-	Gold rifle, gold flail, jar of moldable bio-armor
+	Gold rifle __, gold flail __, jar of moldable bio-armor __
 
 Ninja Force Joes
 ******
 Most figures came with a spring-loaded action feature. As a result, most of these figures are solid construction.
 __ Banzai; Rising Sun Ninja; v1
 	File card __
-	Sprue: 2 pink swords, pink wide knife, 2 pink dueling knives, pink sickle, pink axe, pink figure stand
+	Sprue: 2 pink swords __ __, pink wide knife __, 2 pink dueling knives __ __, pink sickle __, pink axe __, pink figure stand __
 __ Bushido; Snow Ninja; v1
 	File card __
-	Sprue: 2 white swords, white wide knife, 2 white dueling knives, white sickle, white axe, white figure stand
+	Sprue: 2 white swords __ __, white wide knife __, 2 white dueling knives __ __, white sickle __, white axe __, white figure stand __
 __ Scarlett; Counter Intelligence Specialist; v2
 	File card __
-	Sprue: 3 different yellow swords, yellow knife, 2 yellow claws, yellow nunchuks, yellow figure stand
+	Sprue: 3 different yellow swords __ __ __, yellow knife __, 2 yellow claws __ __, yellow nunchuks __, yellow figure stand __
 __ Snake Eyes; Covert Mission Specialist; v5
 	File card __
-	Sprue: 3 different blue swords, blue knife, 2 blue claws, blue nunchuks, blue figure stand
+	Sprue: 3 different blue swords __ __ __, blue knife __, 2 blue claws __ __, blue nunchuks __, blue figure stand __
 
 Ninja Force Cobra
 ******
 __ Night Creeper; Cobra Ninja; v2 |Trooper|
 	File card __
-	Sprue: light blue bow, light blue sword, light blue machete, light blue sickle, 2 light blue dueling knives, light blue figure stand
+	Sprue: light blue bow __, light blue sword __, light blue machete __, light blue sickle __, 2 light blue dueling knives __ __, light blue figure stand __
 __ Slice; Cobra Ninja Swordsman; v2
 	File card __
-	Sprue: Black bisento spear, black wide knife, black axe, 2 black double sided knives, black hooked sword, black figure stand
+	Sprue: Black bisento spear __, black wide knife __, black axe __, 2 black double sided knives __ __, black hooked sword __, black figure stand __
 __ Zartan; Master of Disguise; v2
 	File card __
-	Sprue: Orange bow, orange sword, orange machete, orange sickle, 2 orange knives, orange figure stand
+	Sprue: Orange bow __, orange sword __, orange machete __, orange sickle __, 2 orange knives __ __, orange figure stand __
 
 Ninja Force Vehicle Drivers Joes
 ******
 __ T'Gin-Zu; Pile Driver Operator; v1 -- Pile Driver
 	File card __
-	Black sword
+	Black sword __
 
 Ninja Force Vehicle Drivers Cobra
 ******
 __ Red Ninjas; Battle Ax Operators; v1 -- Battle Ax |Trooper|
 	File card __
-	Orange axe
+	Orange axe __
 
 Star Brigade Joes
 ******
 Several figures featured solid construction.
 __ Countdown; Combat Astronaut; v2
 	File card __
-	Sprue: 2 yellow guns, yellow knife, 2 yellow missiles, yellow figure stand
-	Loose: red helmet, brown or black missile launcher
+	Sprue: 2 yellow guns __ __, yellow knife __, 2 yellow missiles __ __, yellow figure stand __
+	Loose: red helmet __, brown __ or black __ missile launcher
 __ Duke; Star Brigade Commander; v5
 	File card __
-	Sprue: 2 different red guns, red knife, 2 red missiles, red figure stand
-	Loose: silver helmet
+	Sprue: 2 different red guns __ __, red knife __, 2 red missiles __ __, red figure stand __
+	Loose: silver helmet __
 __ Heavy Duty; Heavy Ordnance Specialist; v2
 	File card __
-	Sprue: 2 black guns, black knife, 2 black missiles, black figure stand
-	Loose: green helmet
+	Sprue: 2 black guns __ __, black knife __, 2 black missiles __ __, black figure stand __
+	Loose: green helmet __
 __ Ozone; Astro-Infantry Trooper; v2
 	File card __
-	Sprue: 3 black guns, knife, 2 black missiles, black figure stand
-	Loose: red helmet, orange missile launcher
+	Sprue: 3 black guns __ __ __, knife __, 2 black missiles __ __, black figure stand __
+	Loose: red helmet __, orange missile launcher __
 __ Ozone; Astro-Infantry Trooper; v3 (repaint of Ozone v2)
 	File card __
-	Sprue: 3 black guns, knife, 2 black missiles, black figure stand
-	Loose: red helmet, orange missile launcher
+	Sprue: 3 black guns __ __ __, knife __, 2 black missiles __ __, black figure stand __
+	Loose: red helmet __, orange missile launcher __
 __ Payload; Astro-Pilot; v3
 	File card __
-	Sprue: 3 pink guns, pink knife, 2 pink missiles, pink figure stand
-	Loose: gold missile launcher
+	Sprue: 3 pink guns __ __ __, pink knife __, 2 pink missiles __ __, pink figure stand __
+	Loose: gold missile launcher __
 __ Roadblock; Space Gunner; v6
 	File card __
-	Sprue: 3 gold guns, gold machete, 2 gold missiles, gold figure stand
-	Loose: blue helmet with red face shield, dark blue missile launcher
+	Sprue: 3 gold guns __ __ __, gold machete __, 2 gold missiles __ __, gold figure stand __
+	Loose: blue helmet with red face shield __, dark blue missile launcher __
 __ Robo-JOE; Jet-Tech Operations Expert; v1
 	File card __
-	Sprue: 3 different gold guns, gold machete, 2 gold missiles, gold figure stand
-	Loose: black helmet, orange missile launcher
+	Sprue: 3 different gold guns __ __ __, gold machete __, 2 gold missiles __ __, gold figure stand __
+	Loose: black helmet __, orange missile launcher __
 __ Rock n' Roll; Robo-Gunner; v4
 	File card __
-	Sprue: 3 yellow guns, yellow machete, 2 yellow missiles, yellow figure stand
-	Loose: silver helmet, silver missile launcher
+	Sprue: 3 yellow guns __ __ __, yellow machete __, 2 yellow missiles __ __, yellow figure stand __
+	Loose: silver helmet __, silver missile launcher __
 
 Star Brigade Cobra
 ******
 __ Astro-Viper; Cobranaut; v2 |Trooper|
 	File card __
-	Sprue: 2 orange rifles, orange knife, 2 orange missiles, orange figure stand
-	Loose: black helmet, gold missile launcher
+	Sprue: 2 orange rifles __ __, orange knife __, 2 orange missiles __ __, orange figure stand __
+	Loose: black helmet __, gold missile launcher __
 __ Cobra B.A.A.T.; Battle Armored Android Trooper; v1 |Trooper|
 	File card __
-	Sprue: 4 different yellow guns, yellow knife, 2 yellow missiles, yellow figure stand
-	Loose: red missile launcher
+	Sprue: 4 different yellow guns __ __ __ __, yellow knife __, 2 yellow missiles __ __, yellow figure stand __
+	Loose: red missile launcher __
 __ Destro; Cobra Tech Commander; v4
 	File card __
-	Sprue: 4 different silver guns, silver knife, 2 silver missiles, silver figure stand
-	Loose: clear helmet
+	Sprue: 4 different silver guns __ __ __ __, silver knife __, 2 silver missiles __ __, silver figure stand __
+	Loose: clear helmet __
 __ T.A.R.G.A.T.; Trans Atmospheric Rapid Global Assault Trooper; v2 |Trooper|
 	File card __
-	Sprue: 2 pink missiles, pink rifle, pink submachine gun, pink pistol, pink figure stand
-	Loose: purple face shield, a red missile launcher
+	Sprue: 2 pink missiles __ __, pink rifle __, pink submachine gun __, pink pistol __, pink figure stand __
+	Loose: purple face shield __, red missile launcher __
 
 Star Brigade Vehicle Drivers Joes
 ******
 __ General Hawk; G.I. Joe Armor-Tech Commander; v4 -- Armor-bot
 	File card __
-	gold helmet, pink or black laser rifle
+	gold helmet __, pink __ or black __ laser rifle
 __ Sci-Fi; Starfighter Pilot; v3 -- Starfighter Space Jet
 	File card __
-	Silver rifle, white helmet
+	Silver rifle __, white helmet __
 
 Arctic Commandos (Mail-away)
 ******
 There was a single file card for all 4 figures.
 __ Dee-Jay v2
 	File card __
-	Gold submachine gun, white helmet antenna, black figure stand
+	Gold submachine gun __, white helmet antenna __, black figure stand __
 __ Stalker v4
 	File card __
-	Silver knife, black figure stand
+	Silver knife __, black figure stand __
 __ Sub-Zero v2
 	File card __
-	Black rifle, black figure stand
+	Black rifle __, black figure stand __
 
 __ Snow Serpent v3 |Trooper|
 	File card __
-	Black rifle, black figure stand
+	Black rifle __, black figure stand __
 
 Battle Copter Pilots (Mail-away)
 ******
 There was a single file card for both figures.
 __ Major Altitude v2
 	File card __
-	Grey submachine gun, orange helmet, black figure stand
+	Grey submachine gun __, orange helmet __, black figure stand __
 
 __ Interrogator v2
 	File card __
-	Grey knife, black figure stand
+	Grey knife __, black figure stand __
 
 International Action Force (Mail-away)
 ******
 There was a single file card for all 4 figures.
 __ Big Bear v2
 	File card __
-	Black rifle, black figure stand
+	Black rifle __, black figure stand __
 __ Big Ben v2
 	File card __
-	Black rifle, black figure stand
+	Black rifle __, black figure stand __
 __ Budo v2
 	File card __
-	Blue and orange helmet, silver sword, black figure stand
+	Blue and orange helmet __, silver sword __, black figure stand __
 __ Spirit v4
 	File card __
-	Green knife, black figure stand
+	Green knife __, black figure stand __
 
 Rapid Deployment Force (Mail-away)
 ******
@@ -1910,53 +1913,53 @@ __ Repeater v2
 __ Shockwave v2
 	File card __
 
-All: Gold submachine gun, black sniper's rifle, black rifle, 6 black figure stands
+All: Gold submachine gun __, black sniper's rifle __, black rifle __, 6 black figure stands __ __ __ __ __ __
 
 Capcom Street Fighter II
 ******
 __ Balrog; Heavyweight Boxer; v1
 	File card __
-	Sprue: 2 black rifles, a black knife, 2 black missiles, black figure stand
-	Loose: 2 red boxing gloves, orange missile launcher, black grappling hook, a black string
+	Sprue: 2 black rifles __ __, a black knife __, 2 black missiles __ __, black figure stand __
+	Loose: 2 red boxing gloves __ __, orange missile launcher __, black grappling hook __, a black string __
 __ Blanka; Jungle Fighter; v1
 	File card __
-	Sprue: 2 purple rifles, a purple knife, 2 purple missiles, purple figure stand
-	Loose: Orange missile launcher, black grappling hook, black string
+	Sprue: 2 purple rifles __ __, a purple knife __, 2 purple missiles __ __, purple figure stand __
+	Loose: Orange missile launcher __, black grappling hook __, black string __
 __ Chun Li; Kung Fu Fighter; v1
 	File card __
-	Sprue: 3 different yellow swords, yellow knife, 2 yellow claws, yellow nunchuks, yellow figure stand
+	Sprue: 3 different yellow swords __ __ __, yellow knife __, 2 yellow claws __ __, yellow nunchuks __, yellow figure stand __
 __ Dhalsim; Yoga Fighter; v1
 	File card __
-	Sprue: purple bow, purple sword, purple machete, purple sickle, 2 purple knives, purple figure stand
+	Sprue: purple bow __, purple sword __, purple machete __, purple sickle __, 2 purple knives __ __, purple figure stand __
 __ Edmond Honda; Sumo Wrestler; v1
 	File card __
-	Sprue: 2 dark blue swords, dark blue axe, dark blue sickle, dark blue wide knife, 2 dark blue dueling knives, dark blue figure stand
-	Loose: Blue mawashi 
+	Sprue: 2 dark blue swords __ __, dark blue axe __, dark blue sickle __, dark blue wide knife __, 2 dark blue dueling knives __ __, dark blue figure stand __
+	Loose: Blue mawashi __
 __ Guile; Special Forces Fighter; v1
 	File card __
-	Sprue: 2 black guns, black shield, 2 black missiles, black knife, black figure stand
-	Loose: orange missile launcher, bright yellow grappling hook, black string
+	Sprue: 2 black guns __ __, black shield __, 2 black missiles __ __, black knife __, black figure stand __
+	Loose: orange missile launcher __, bright yellow grappling hook __, black string __
 __ Ken Masters; Shotokan Karate Fighter; v1
 	File card __
-	Sprue: Black sword, black machete, 2 black knives, black sickle, black bow, black figure stand
+	Sprue: Black sword __, black machete __, 2 black knives __ __, black sickle __, black bow __, black figure stand __
 __ Ryu; Kung-Fu Fighter; v1
 	File card __
-	Sprue: 2 blue swords, blue axe, 2 blue dueling knives, blue wide knife, blue sickle, blue figure stand
+	Sprue: 2 blue swords __ __, blue axe __, 2 blue dueling knives __ __, blue wide knife __, blue sickle __, blue figure stand __
 __ Sagat; Thai Fighter; v1
 	File card __
-	Sprue: 3 different purple swords, purple nunchuks, purple knife, 2 purple claws, purple figure stand
+	Sprue: 3 different purple swords __ __ __, purple nunchuks __, purple knife __, 2 purple claws __ __, purple figure stand __
 __ Zangief; Russian Bear Wrestler; v1
 	File card __
-	Sprue: 3 orange rifles, 2 orange missiles, orange figure stand
-	Loose: orange missile launcher, black string, orange grappling hook
+	Sprue: 3 orange rifles __ __ __, 2 orange missiles __ __, orange figure stand __
+	Loose: orange missile launcher __, black string __, orange grappling hook __
 
 __ M. Bison; Grand Master; v1
 	File card __
-	Sprue: Black rifle, black submachine gun, black pistol, 2 black missiles, black figure stand
-	Loose: Green missile launcher, orange grappling hook, a black string
+	Sprue: Black rifle __, black submachine gun __, black pistol __, 2 black missiles __ __, black figure stand __
+	Loose: Green missile launcher __, orange grappling hook __, a black string __
 __ Vega; Spanish Ninja; v1
 	File card __
-	Sprue: 2 different gold swords, gold axe, gold knife, 2 gold dueling knives, gold sickle, gold figure stand
+	Sprue: 2 different gold swords __ __, gold axe __, gold knife __, 2 gold dueling knives __ __, gold sickle __, gold figure stand __
 
 Capcom Street Fighter II Vehicle Drivers
 ******
@@ -1984,14 +1987,14 @@ Mail-Aways
 ******
 __ Deep Six; Deep Sea Diver; v4
 	File card __
-	Yellow helmet, gold gun, black figure stand
+	Yellow helmet __, gold gun __, black figure stand __
 __ General Hawk; G.I. Joe Commander; v3
 	File card __
-	Green rifle, black electronic backpack, yellow helmet, gold faceplate, black figure stand
+	Green rifle __, black electronic backpack __, yellow helmet __, gold faceplate __, black figure stand __
 
 __ Create-a-Cobra v1 |Trooper|
 	File card __
-	Silver rifle, black figure stand
+	Silver rifle __, black figure stand __
 
 
 Wave 13 1994 (44)
@@ -2001,127 +2004,127 @@ Battle Corps Joes
 ******
 __ Beach-Head; Ranger; v3
 	File card __
-	Sprue: Yellow rifle, 2 different yellow handguns, 2 yellow missiles, yellow knife, yellow figure stand
-	Loose: Black missile launcher
+	Sprue: Yellow rifle __, 2 different yellow handguns __ __, 2 yellow missiles __ __, yellow knife __, yellow figure stand __
+	Loose: Black missile launcher __
 __ Dial-Tone; Communications Expert; v4
 	File card __	
-	Sprue: Yellow machine gun, yellow submachine gun, yellow handgun, yellow knife, 2 yellow missiles, yellow figure stand
-	Loose: dark blue helmet, a silver "sonic" launcher
+	Sprue: Yellow machine gun __, yellow submachine gun __, yellow handgun __, yellow knife __, 2 yellow missiles __ __, yellow figure stand __
+	Loose: dark blue helmet __, a silver "sonic" launcher __
 __ Flint; Desert Paratrooper; v4
 	File card __
-	Sprue: 3 different black rifles, 2 black missiles, black figure stand
-	Loose: orange missile launcher, tan beret with goggles
+	Sprue: 3 different black rifles __ __ __, 2 black missiles __ __, black figure stand __
+	Loose: orange missile launcher __, tan beret with goggles __
 __ Ice Cream Soldier; Flamethrower Commando; v1
 	File card __
-	Sprue: White flamethrower, white submachine gun, white handgun, white machete, 2 white missiles, white figure stand
-	Loose: Black missile launcher
+	Sprue: White flamethrower __, white submachine gun __, white handgun __, white machete __, 2 white missiles __ __, white figure stand __
+	Loose: Black missile launcher __
 __ Lifeline; Rescue Trooper; v4
 	File card __
-	Sprue: Yellow flare launcher, yellow flashlight, yellow knife, yellow case, yellow figure stand
-	Loose: Grey microphone, a black missile launcher, black string, yellow grappling hook
+	Sprue: Yellow flare launcher __, yellow flashlight __, yellow knife __, yellow case __, yellow figure stand __
+	Loose: Grey microphone __, a black missile launcher __, black string __, yellow grappling hook __
 __ Shipwreck; Navy S.E.A.L.; v2
 	File card __
-	Sprue: 3 different black guns, black knife, 2 black missiles, black figure stand
-	Loose: Black airmask, 2 black flippers, grey missile launcher
+	Sprue: 3 different black guns __ __ __, black knife __, 2 black missiles __ __, black figure stand __
+	Loose: Black airmask __, 2 black flippers __ __, grey missile launcher __
 __ Snow Storm; High-Tech Snow Trooper; v3
 	File card __
-	Sprue: 2 cream rifles, cream handgun, cream knife, 2 cream missiles, cream figure stand
-	Loose: Orange missile launcher
+	Sprue: 2 cream rifles __ __, cream handgun __, cream knife __, 2 cream missiles __ __, cream figure stand __
+	Loose: Orange missile launcher __
 __ Stalker; Ranger; v5
 	File card __
-	Sprue: 3 different black guns, black machete, 2 black missiles, black figure stand
-	Loose: Black missile launcher
+	Sprue: 3 different black guns __ __ __, black machete __, 2 black missiles __ __, black figure stand __
+	Loose: Black missile launcher __
 
 Battle Corps Cobra
 ******
 __ Alley Viper; Urban Assault Trooper; v3 |Trooper|
 	File card __
-	Sprue: 2 orange missiles, 2 orange guns, orange shield, orange figure stand
-	Loose: orange face mask, a blue missile launcher 
+	Sprue: 2 orange missiles __ __, 2 orange guns __ __, orange shield __, orange figure stand __
+	Loose: orange face mask __, a blue missile launcher  __
 __ Major Bludd; Mercenary; v3
 	File card __
-	Sprue: 2 red rifles, red knife, 2 red missiles, red figure stand
-	Loose: Black missile launcher
+	Sprue: 2 red rifles __ __, red knife __, 2 red missiles __ __, red figure stand __
+	Loose: Black missile launcher __
 __ Metal-Head; Anti-Tank Specialist; v2
 	File card __
-	Sprue: Purple rifle, purple submachine gun, purple pistol, 2 purple missiles, purple figure stand
-	Loose: Red missile launcher
+	Sprue: Purple rifle __, purple submachine gun __, purple pistol __, 2 purple missiles __ __, purple figure stand __
+	Loose: Red missile launcher __
 __ Night Creeper Leader; Cobra Ninja Supreme Master; v2
 	File card __
-	Sprue: 2 gold swords, gold knife, gold shield, gold crossbow, gold wrist crossbow, gold figure stand
-	Loose: Gold missile launcher, 2 black missiles
+	Sprue: 2 gold swords __ __, gold knife __, gold shield __, gold crossbow __, gold wrist crossbow __, gold figure stand __
+	Loose: Gold missile launcher __, 2 black missiles __ __
 __ Viper; Cobra Infantry Trooper; v4 |Trooper|
 	File card __
-	Sprue: 3 different red guns, red knife, 2 red missiles, red figure stand
-	Loose: Yellow missile launcher
+	Sprue: 3 different red guns __ __ __, red knife __, 2 red missiles __ __, red figure stand __
+	Loose: Yellow missile launcher __
 
 Battle Corps Vehicle Drivers Joes
 ******
 __ Windchill; Blockbuster Driver; v2 -- Blockbuster
 	File card __
-	Black rifle
+	Black rifle __
 
 Star Brigade Joes
 ******
 __ Countdown; Combat Astronaut; v3
 	File card __
-	Sprue: Black rifle, black submachine gun, black knife, 2 black missiles, black figure stand
-	Loose: Green and blue helmet, a blue missile launcher
+	Sprue: Black rifle __, black submachine gun __, black knife __, 2 black missiles __ __, black figure stand __
+	Loose: Green and blue helmet __, a blue missile launcher __
 __ Duke; Star Brigade Commander; v6
 	File card __
-	Black mask with clear face shield, black laser pistol, red backpack, red missile launcher, black missile
+	Black mask with clear face shield __, black laser pistol __, red backpack __, red missile launcher __, black missile __
 __ Effects; Explosives Expert; v1
 	File card __
-	Purple and black helmet, green rifle, three-piece black catapult, rubber band, 2 round orange projectiles
+	Purple and black helmet __, green rifle __, three-piece black catapult __, rubber band __, 2 round orange projectiles __ __
 __ Ozone; Astro-Infantry Trooper; v4
 	File card __
-	Sprue: 3 different silver guns, silver machete, 2 silver missiles, silver figure stand
-	Loose: Maroon helmet, orange missile launcher
+	Sprue: 3 different silver guns __ __ __, silver machete __, 2 silver missiles __ __, silver figure stand __
+	Loose: Maroon helmet __, orange missile launcher __
 __ Payload; Astro-Pilot; v4
 	File card __
-	Sprue: 2 different grey rifles, grey pistol, grey knife, 2 grey missiles, grey figure stand
-	Loose: gold missile launcher
+	Sprue: 2 different grey rifles __ __, grey pistol __, grey knife __, 2 grey missiles __ __, grey figure stand __
+	Loose: gold missile launcher __
 __ Payload; Astro-Pilot; v5 (repaint of Payload v4)
 	File card __
-	Sprue: 2 different grey rifles, grey pistol, grey knife, 2 grey missiles, grey figure stand
-	Loose: gold missile launcher
+	Sprue: 2 different grey rifles __ __, grey pistol __, grey knife __, 2 grey missiles __ __, grey figure stand __
+	Loose: gold missile launcher __
 __ Roadblock; Space Gunner; v7
 	File card __
-	Sprue: Gold rifle, gold shotgun, gold submachine gun, gold machete, 2 gold missiles, gold figure stand
-	Loose: Black helmet with a red face shield, a silver missile launcher
+	Sprue: Gold rifle __, gold shotgun __, gold submachine gun __, gold machete __, 2 gold missiles __ __, gold figure stand __
+	Loose: Black helmet with a red face shield __, a silver missile launcher __
 __ Sci-Fi; Star Brigade Pilot; v4
 	File card __
-	Black handgun, black string, 2 black weights, grey helmet with pink faceshield, pink backpack, black cannon, black missile launcher, 2 black missiles
+	Black handgun __, black string __, 2 black weights __ __, grey helmet with pink faceshield __, pink backpack __, black cannon __, black missile launcher __, 2 black missiles __ __
 __ Space Shot; Combat Freighter Pilot; v1
 	File card __
-	White helmet, black pistol, blue backpack
+	White helmet __, black pistol __, blue backpack __
 
 Star Brigade Cobra
 ******
 __ Cobra Blackstar; Elite Space Pilot; v1
 	File card __
-	Black pistol, green missile launcher, green backpack, 2 black missiles, black figure stand
+	Black pistol __, green missile launcher __, green backpack __, 2 black missiles __ __, black figure stand __
 __ Cobra Commander; Cobra Supreme Leader; v7
 	File card __
-	Yellow rifle, black and yellow helmet, yellow harness, black harness support, black and yellow crawler
+	Yellow rifle __, black and yellow helmet __, yellow harness __, black harness support __, black and yellow crawler __
 
 Star Brigade Aliens
 ******
 __ Carcass; Alien Destroyer; v1
 	File card __
-	Sprue: 4 different green guns, green knife, green figure stand
+	Sprue: 4 different green guns __ __ __ __, green knife __, green figure stand __
 __ Lobotomaxx; Stellar Explorer; v1
 	File card __
-	Sprue: 5 different yellow guns, yellow knife, yellow figure stand
+	Sprue: 5 different yellow guns __ __ __ __ __, yellow knife __, yellow figure stand __
 __ Predacon; Alien Bounty Hunter; v1
 	File card __
-	Sprue: 2 different black rifles, 2 different black pistols, black machete, black knife, black figure stand
+	Sprue: 2 different black rifles __ __, 2 different black pistols __ __, black machete __, black knife __, black figure stand __
 
 Star Brigade Vehicle Drivers Joes
 ******
 __ Gears; Invention Technician; v1 -- G.I. Joe Power Fighter
 	File card __
-	Silver and green helmet
+	Silver and green helmet __
 
 Star Brigade Vehicle Drivers Cobra
 ******
@@ -2134,25 +2137,25 @@ Shadow Ninjas Joes
 Figures came with light and water sensitive plastic that changed colours; most also had a spring-loaded attack.
 __ Bushido; Snow Ninja; v2
 	File card __
-	Sprue: Blue axe, blue knife, 2 different blue swords, 2 blue dueling knives, blue sickle, blue figure stand
+	Sprue: Blue axe __, blue knife __, 2 different blue swords __ __, 2 blue dueling knives __ __, blue sickle __, blue figure stand __
 __ Nunchuk; Nunchaku Ninja; v2
 	File card __
-	Sprue: Pink bow, pink sword, pink machete, pink sickle, 2 pink knives, pink figure stand
+	Sprue: Pink bow __, pink sword __, pink machete __, pink sickle __, 2 pink knives __ __, pink figure stand __
 __ Snake-Eyes; Covert Mission Specialist; v6
 	File card __
-	Sprue: 3 different grey swords, grey knife, grey nunchuks, 2 grey claws, grey figure stand
+	Sprue: 3 different grey swords __ __ __, grey knife __, grey nunchuks __, 2 grey claws __ __, grey figure stand __
 __ Storm Shadow; Shadow Ninja Leader; v4
 	File card __
-	Sprue: 3 different blue swords, 2 blue claws, blue knife, blue nunchuks, blue figure stand
+	Sprue: 3 different blue swords __ __ __, 2 blue claws __ __, blue knife __, blue nunchuks __, blue figure stand __
 
 Shadow Ninjas Cobra
 ******
 __ Night Creeper; Cobra Ninja; v3 |Trooper|
 	File card __
-	Sprue: Blue bow, blue sword, blue machete, 2 blue knives, blue sickle, blue figure stand
+	Sprue: Blue bow __, blue sword __, blue machete __, 2 blue knives __ __, blue sickle __, blue figure stand __
 __ Slice; Cobra Ninja Swordsman; v3
 	File card __
-	Sprue: Blue bisento spear, blue wide knife, 2 blue dueling knives, blue axe, blue sword, blue figure stand
+	Sprue: Blue bisento spear __, blue wide knife __, 2 blue dueling knives __ __, blue axe __, blue sword __, blue figure stand __
 
 30th Anniversary
 ******
@@ -2162,42 +2165,42 @@ Most figures came individually boxed or available in a 5 figure commemorative se
 
 __ Action Marine; Marine Corps Commando; v1 -- both |Trooper|
 	File card __
-	Sprue: Black rifle, black missile, two-piece black raft, black oar, black rifle post
-	Loose: Green backpack, green missile launcher
+	Sprue: Black rifle __, black missile __, two-piece black raft __ __, black oar __, black rifle post __
+	Loose: Green backpack __, green missile launcher __
 __ Action Pilot; Air Force Fighter Pilot; v1 -- boxed |Trooper|
 	File card __
-	Sprue: Green rifle, green pistol, green parachute backpack, 
-	Loose: White helmet, a black air mask, white parachute, black parachute strap
+	Sprue: Green rifle __, green pistol __, green parachute backpack __
+	Loose: White helmet __, a black air mask __, white parachute __, black parachute strap __
 __ Action Pilot; Air Force Fighter Pilot; v2 -- set |Trooper|
 	File card __
-	Sprue: Green rifle, green pistol, green parachute backpack, 
-	Loose: White helmet, a black air mask, white parachute, black parachute strap
+	Sprue: Green rifle __, green pistol __, green parachute backpack __
+	Loose: White helmet __, a black air mask __, white parachute __, black parachute strap __
 __ Action Pilot Astronaut; Astronaut; v1 -- set only |Trooper|
 	File card __
-	White helmet, clear visor
+	White helmet __, clear visor __
 __ Action Sailor; Navy Frogman; v1 -- set |Trooper|
 	File card __
-	Sprue: blue spear gun, blue missile, blue flashlight, two-piece blue scuba tank, two-piece blue sea sled
-	Loose: Black hose, 2 black flippers, blue missile launcher
+	Sprue: blue spear gun __, blue missile __, blue flashlight __, two-piece blue scuba tank __ __, two-piece blue sea sled __ __
+	Loose: Black hose __, 2 black flippers __ __, blue missile launcher __
 __ Action Sailor; Navy Frogman; v2 -- boxed |Trooper|
 	File card __
-	Sprue: Black spear gun, black missile, black flashlight, two-piece black scuba tank, two-piece black sea sled
-	Loose: Black hose, 2 black flippers, black missile launcher
+	Sprue: Black spear gun __, black missile __, black flashlight __, two-piece black scuba tank __ __, two-piece black sea sled __ __
+	Loose: Black hose __, 2 black flippers __ __, black missile launcher __
 __ Action Soldier; U.S. Army Infantryman; v1 -- both |Trooper|
 	File card __
-	Sprue (boxed): Brown rifle, brown handgun, brown missile, five-piece brown wall
-	Sprue (set): Black rifle, black handgun, black missile, five-piece black wall
-	Loose: green backpack, a green missile launcher
+	Sprue (boxed): Brown rifle __, brown handgun __, brown missile __, five-piece brown wall __ __ __ __ __
+	Sprue (set): Black rifle __, black handgun __, black missile __, five-piece black wall __ __ __ __ __
+	Loose: green backpack __, green missile launcher __
 
 Mail-Away
 ******
 __ G.I. Joe v1
 	File card __
-	Black machine gun
+	Black machine gun __
 
 1994 G.I. Joe Convention Exclusive
 ******
 __ Fighter Pilot; Air Force Fighter Pilot; v1 |Trooper|
 	File card __
-	Black helmet, grey airmask, black backpack, parachute (either silver/black or white/blue)
+	Black helmet __, grey airmask __, black backpack __, parachute (either silver/black __ or white/blue __)
 

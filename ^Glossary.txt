@@ -4,12 +4,12 @@ Glossary
 
 Action figure value terms
 ~~~~~~
-MOC -- Mint On Card
-MLC -- Mint Loose and Complete
-MISB -- Mint In Sealed Box
-MIB -- Mint In Box
-MISP -- Mint In Sealed Package
-Beater -- Figure with enough defects as to be considered almost worthless. Beaters are often childhood toys kept for sentimental value or purchased to "fill in" a part of a collection until a better figure is procured.
+MOC — Mint On Card
+MLC — Mint Loose and Complete
+MISB — Mint In Sealed Box
+MIB — Mint In Box
+MISP — Mint In Sealed Package
+Beater — Figure with enough defects as to be considered almost worthless. Beaters are often childhood toys kept for sentimental value or purchased to "fill in" a part of a collection until a better figure is procured.
 
 
 Action figure scales
@@ -25,23 +25,31 @@ Action figure scales
 
 Action figure construction
 ~~~~~~
-Accessory -- Anything that comes with the figure (gun, sword, cape) or can be detached from the figure (backpack, clothing).
+Accessory — Anything that comes with the figure (gun, sword, cape) or can be detached from the figure (backpack, clothing).
 
-Action feature -- Some figures will come built-in springs, motors, and even electronics requiring batteries.
+Action feature — Some figures will come built-in springs, motors, and even electronics requiring batteries.
 
-Backpack peg holes -- Figures with o-ring construction often had a torso hole in the back where the screw was located, and this was used to allow backpacks and other accessories to be added to the figure. Early examples include Mego Micronauts and Zee Toys Metal Man.
+Backpack peg holes — Figures with o-ring construction often had a torso hole in the back where the screw was located, and this was used to allow backpacks and other accessories to be added to the figure. Early examples include Mego Micronauts and Zee Toys Metal Man.
 
-Build-a-figure (BAF) -- In an effort to get a consumer to purchase an entire wave or group of figures, separate pieces of an additional figure will be distributed among all the figures of that wave or group. The Marvel Legends 6" line is famous (or notorious) for this tactic.
+Build-a-figure (BAF) — In an effort to get a consumer to purchase an entire wave or group of figures, separate pieces of an additional figure will be distributed among all the figures of that wave or group. The Marvel Legends 6" line is famous (or notorious) for this tactic.
 
-Figurine -- No moving parts...essentially a statue.
+Die-cast — Metal is shaped using a mold and riveted (occasionally screwed) into place. More often used in cars like Hot Wheels.
 
-Foot peg holes -- Started by Kenner with the 3.75" Star Wars line, holes were left in the soles of action figures, allowing them to be slotted into dioramas and figure stands. Vintage figures often had larger foot peg holes than modern figures, as there was no cross-company standard followed.
+Figurine — No moving parts…essentially a statue.
 
-O-ring -- The torso is hollow, containing a rubber o-ring that links together the parts...the torso is either screwed shut, riveted shut, or sealed.
+Flocked/Flocking — Short fibers deposited in a uniform pattern across the surface of a figure and held in place with adhesive. Produces a “furry” texture.
 
-Solid -- All parts are solid plastic and/or metal solid pieces, sealed or riveted together at the torso.
+Foot peg holes — Started by Kenner with the 3.75" Star Wars line, holes were left in the soles of action figures, allowing them to be slotted into dioramas and figure stands. Vintage figures often had larger foot peg holes than modern figures, as there was no cross-company standard followed.
 
-Sprue -- Sprues are a plastic frame that is used to connect and distribute small parts. More prevalent in plastic model kits, but sometimes accessories for figures are packed this way (notably the original Teenage Mutant Ninja Turtles line by Playmates). Often called runners as well.
+Glow-in-the-dark — Plastic made with an added material that absorbs light. Figures will continue to glow for some time after light sources are removed.
+
+O-ring — The torso is hollow, containing a rubber o-ring that links together the parts…the torso is either screwed shut, riveted shut, or sealed.
+
+Rooted hair — Thin plastic wires stitched directly into a figure to emulate natural hair. Barbie and other fashion dolls use this technique more than action figures.
+
+Solid — All parts are solid plastic and/or metal solid pieces, sealed or riveted together at the torso.
+
+Sprue — Sprues are a plastic frame that is used to connect and distribute small parts. More prevalent in plastic model kits, but sometimes accessories for figures are packed this way (notably the original Teenage Mutant Ninja Turtles line by Playmates). Often called runners as well.
 
 
 Star Trek series acronyms

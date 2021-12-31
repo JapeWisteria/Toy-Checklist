@@ -3,7 +3,7 @@ Beater, Loose, Incomplete: A Partial Checklist for 1:18 Scale Vintage and Modern
 
 Acknowledgments
 -----------------------------------------------
-This book rests on the laurels of research done by many different collectors, collector communities, and public databases and websites. Mentioning them all would be too long a list. I've added a list of primary links and books in the bibliography.
+This book rests on the laurels of research done by many different collectors, collector communities, and public databases and websites. Mentioning them all would be too long a list. I've added a list of primary links and books in the Resources section.
 
 I'd like to thank all the groups who did pain-staking research, and released that information to the public. This book is my own personal distillation of that, based on my own collecting preferences. You should track down the original sources for a much more thorough and in-depth look at these amazing pieces of plastic, metal, and imagination.
 
@@ -12,11 +12,11 @@ Preface
 -----------------------------------------------
 It all started with Bossk, as things often do.
 
-Back in 2016, while rummaging around in Value Village (Savers in the US, a for-profit thrift chain modelled after Goodwill and The Salvation Army), I wandered to the toy aisle and found a vintage Kenner Bossk hiding in a bag of random toys. Price: $4. On a whim, I picked him up.
+Back in 2016, while rummaging around in Value Village (Savers in the US, a for-profit thrift chain modeled after Goodwill and The Salvation Army), I wandered to the toy aisle and found a vintage Kenner Bossk hiding in a bag of random toys. Price: $4. On a whim, I picked him up.
 
-It triggered a memory. Before the Pantages theater in Toronto was restored, it spent time in the 70s and 80s as a movie theater called The Imperial Six. I saw many, many childhood favorites there: Empire Strikes Back, Return of the Jedi, most of the Indy films...my first Bond (For Your Eyes Only). I get why it was restored to a live performance venue, but I _really_ miss that movie theater.
+It triggered a memory. Before the Pantages theater in Toronto was restored, it spent time in the 70s and 80s as a movie theater called The Imperial Six. I saw many, many childhood favorites there: Empire Strikes Back, Return of the Jedi, most of the Indy films...my first Bond (For Your Eyes Only). I understand why it was restored to a live performance venue, but I _really_ miss that movie theater.
 
-My brother (much older and living in Calgary) was paying us a visit, and with my mom, we all went downtown to see The Raiders of the Lost Ark at The Imperial Six. Beside the theater is The Eaton Center, one of Toronto's largest malls, anchored at the time by 2 now-defunct department stores: Simpson's at one end and Eaton's at the other. So we ate at the food court and shopped to while away the time before the show.
+My brother (much older and living in Calgary) was paying us a visit, and with my mom, we all went downtown to see The Raiders of the Lost Ark at The Imperial Six. Beside the theater is The Eaton Centre, one of Toronto's largest malls, anchored at the time by 2 now-defunct department stores: Simpson's at one end and Eaton's at the other. We ate at the food court and shopped to while away the time before the show.
 
 Of course, I wanted to see the toy departments. During his visit, my brother bought me a Dengar, and my mom bought me a Fast 111's (a die-cast car line whose gimmick was randomized license plates...no 2 were alike, they claimed).
 
@@ -32,11 +32,11 @@ When I started this trip in 2016, I made a promise to myself: only buy what you 
 
 Going through thrift shops, toy shows, conventions, and all the various ways to re-acquire my childhood, I inevitably bought things I already owned. I knew I needed a better solution than my crusty memory if I wanted to avoid that in the future.
 
-Enter the genesis for this book. It started with a small list of toylines and grew, and grew, and grew...and _really_ grew. I had to draw a line in the sand somewhere, and this is it. Maybe someday I'll have a complete list, but not today.
+Enter the genesis for this book. It started with a small list of toy lines and grew, and grew, and grew...and _really_ grew. I had to draw a line in the sand somewhere, and this is it. Maybe someday I'll have a complete list, but not today.
 
 You'll notice that this book almost exclusively covers 1:18 scale figures, or 3.75" (9.525 cm for the Metric crowd). I had a few Transformers and some figures in other scales, but I fell in love with 3.75 early. It was the perfect size to fit into pockets and pencil cases, smuggling them out of the house for recess, trips, and after-school adventures.
 
-While many other scales had figures available from multiple franchises, the overwhelming variety of genres available to a kid in 3.75 from the mid-70s to the mid-90s was staggering. Zorro could fence with Vader. Han could hang out with Batman. Starbuck and Luke could hang out on The Love Boat. It was fertile ground for a kid's imagination...we really didn't worry about copyright and studio rights in our backyards.
+While many other scales had figures available from multiple franchises, the overwhelming variety of genres available to a kid in 3.75" from the mid-70s to the mid-90s was staggering. Zorro could fence with Vader. Han could hang out with Batman. Starbuck and Luke could hang out on The Love Boat. It was fertile ground for a kid's imagination...we really didn't worry about copyright and studio rights in our backyards.
 
 Of course I'll never own all all of these. I doubt I'll get past a quarter of this list. It's been exhausting compiling all of this information, but worth it for the joy of digging through websites, old books, and having my memory jogged by all of these wonderful toys.
 
@@ -49,7 +49,9 @@ Introduction
 
 Preamble
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-This list comprises over 2,000 action figures and their accessories, across over 75 distinct lines from almost 40 companies, from 1975 to 2021. It doesn't include playsets, vehicles, and associated merchandise.
+This list comprises more than 2,000 action figures and their accessories, across over 75 distinct lines and almost 40 companies, from 1975 to 2021. There is an extensive set of indexes at the back that help explore what is and isn't listed.
+
+I haven't listed playsets, vehicles, accessory sets, known prototypes, or anything beyond the figures themselves. I don't have the space or money for those big-ticket purchases. If a toy line comes in multiple scales (Micronauts, for example), I've only listed the 3.75" figures. When I make an exception, I explain why in the toy line's entry.
 
 It's organized by broad categories, such as Horror, Science Fiction, Film & TV, etc. A few of the larger franchises are broken out into their own categories.
 
@@ -65,7 +67,10 @@ Conventions Used in This Book
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Most of the toy lines contain their own introductions, detailing the decisions I made on how to document the line and any quirks that line has.
 
+At the beginning of each entry, I list the company name, years the toy line was released, scale (or approximate scale), the number of waves, and the total number of released figures. An example is below.
+
+Kenner. 1978-85. 1:18. W: 9. F: 104.
+
 Trooper - an army-builder figure that isn't any specific character.
 
-Actor(s) - if a figure was based on a live-action property, the actor or actors playing the role (including voice actors) are included.
 

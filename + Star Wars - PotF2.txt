@@ -4,7 +4,7 @@ Waves: 6. Figures: 224.
 -----------------------------------------------
 All figures feature solid construction.
 
-Hasbro bought Kenner prior to releasing this line, and initially marketed it under that brand. Because Kenner released the last 2 waves of Star Wars figures under the name "The Power of The Force" after Return of the Jedi was released, but this line has the same name, it is referred to by collectors as "The Power of The Force 2".
+Hasbro bought Kenner prior to releasing this line, and initially marketed it under that brand. Because Kenner released the last 2 waves of Star Wars figures under the name “The Power of The Force” after Return of the Jedi was released, but this line has the same name, it is referred to by collectors as “The Power of The Force 2”.
 
 The Power of The Force 2 contains the first figures of characters introduced in the Special Edition edits of the original trilogy, as well as figures based on production concepts and Expanded Universe/Legends content. It also contained the first figures released for The Phantom Menace.
 
@@ -14,7 +14,7 @@ The same figure would often be released multiple times with different packaging.
 
 There was a re-release on launch of 4 classic Kenner figures from the 1978-85 line: Chewbacca, Darth Vader, Han Solo (1978) and Luke Skywalker (Tatooine). The copyright stamp is different on these figures. They aren't listed here.
 
-As the line progressed, Commtech Chips were introduced, which would speak lines of dialogue when combined with a reader device (sold seperately). There were also "freeze frames", film cells that could be partially animated. These aren't listed, as many figures were issued with or without them.
+As the line progressed, Commtech Chips were introduced, which would speak lines of dialogue when combined with a reader device (sold separately). There were also “freeze frames”, film cells that could be partially animated. These aren't listed, as many figures were issued with or without them.
 
 In addition, Hasbro released many premium figures, exclusives, mail-aways and limited releases. These are listed at the end.
 
@@ -420,7 +420,7 @@ __ Rebel Speeder Bike Pilot (McQuarrie concept art, came with concept Speeder Bi
 
 Complete Galaxy
 ******
-Complete Galaxy were "snow globes" with a figure.
+Complete Galaxy were “snow globes” with a figure.
 __ Dagobah with Yoda [Frank Oz]
 	Dagobah sphere __, Gimer Stick __, Bogwing __
 __ Death Star with Darth Vader [David Prowse, James Earl Jones, Sebastian Shaw]

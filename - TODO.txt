@@ -1,9 +1,6 @@
 
 -- SPELLING! Get grey/gray sorted out: Canadian is grey
 
--- Finish Bibliography
--- Finish Index
-
 -- Make an index of characters and their appearances (and costumes) from all the different Star Wars lines.
 
 -- Add: Hasbro 3.75 Marvel lines
@@ -24,11 +21,8 @@
 
 -- redo: stats xls and add charts
 
--- list 'army builder' figures
-
 -- list out unique accessories in Kenner Star Wars
 
--- Add View-Master reels connected to each toyline
 
 
 
