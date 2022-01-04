@@ -15,7 +15,7 @@ __ Moltar
 __ Ogeode
 	Blue staff __, blue cloak __, blue prism staff __
 __ Warbow
-	Green crossbow __, green bandolier __, green prism staff __
+	Green crossbow __, green bandoleer __, green prism staff __
 __ Zardeth
 	Red chain mace __, red prism staff __
 
