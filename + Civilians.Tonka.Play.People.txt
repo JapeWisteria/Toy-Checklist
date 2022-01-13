@@ -11,52 +11,51 @@ Figures below are organized by general body type, then by occupation and colour 
 All figures featured solid construction.
 
 
-"Service Man"
+“Service Man”
 Man with mustache, wearing a service uniform and baseball cap.
-	Army Truck Driver - solid green uniform/cap
-	Man (Blue Uniform) - light blue shirt, dark blue pants/cap
-	Phone Repairman - tan uniform/cap
-	A.J. Foyt Indy Race Team Pit Crew - beige uniform, red cap
+	__ Army Truck Driver - solid green uniform/cap
+	__ Man (Blue Uniform) - light blue shirt, dark blue pants/cap
+	__ Phone Repairman - tan uniform/cap
+	__ A.J. Foyt Indy Race Team Pit Crew - beige uniform, red cap
 
-"Construction Worker"
+“Construction Worker”
 Man with t-shirt, pants, and hard hat
-	Construction Worker - navy shirt/pants, yellow hard hat
-	Construction Crew - light blue shirt/pants, yellow hard hat
-	Rapid Deployment Team - light green shirt, dark green pants and hard hat
+	__ Construction Worker - navy shirt/pants, yellow hard hat
+	__ Construction Crew - light blue shirt/pants, yellow hard hat
+	__ Rapid Deployment Team - light green shirt, dark green pants and hard hat
 
-"Fireman"
+“Fireman”
 Same body mold with 2 different head sculpts, one African-American and one white.
-	Hook & Ladder Team (Black)
-	Hook & Ladder Team (White)
+	__ Hook & Ladder Team (Black)
+	__ Hook & Ladder Team (White)
 
-"Repair Man"
+“Repair Man”
 Slightly slimmer mold than the Service Man, jacket over shirt and pants, no hat.
-	Man - solid orange uniform, Tonka logo on chest
-	Mr. Goodwrench - white jacket, blue shirt/pants, Mr. Goodwrench logo on chest
-	U.S. Army Medic - solid white uniform, black belt, US Army first aid logo on chest
-	Rapid Deployment Team - solid green uniform, brown hair, painted mustache
+	__ Man - solid orange uniform, Tonka logo on chest
+	__ Mr. Goodwrench - white jacket, blue shirt/pants, Mr. Goodwrench logo on chest
+	__ U.S. Army Medic - solid white uniform, black belt, US Army first aid logo on chest
+	__ Rapid Deployment Team - solid green uniform, brown hair, painted mustache
 
-"Service Woman"
+“Service Woman”
 Short-haired woman in zippered jacket and slacks, no hat
-	Woman - solid navy uniform, blonde hair
-	Woman - solid tan uniform, blonde hair
+	__ Woman - solid navy uniform, blonde hair
+	__ Woman - solid tan uniform, blonde hair
 
-"Motorcyclist"
+“Motorcyclist”
 Racing helmet, leather jacket and pants, gloves, and articulated knees
-	Cycle Team - solid black uniform/helmet with white stripes on jacket
-	Racing Team - solid black uniform, red gloves/helmet
+	__ Cycle Team - solid black uniform/helmet with white stripes on jacket
+	__ Racing Team - solid black uniform, red gloves/helmet
 
-"Pilot"
-	Flight jacket and gloves, pants, baseball cap with sunglasses and headphones
-	Flight Squadron - solid white uniform, blue gloves/cap, green sunglasses
-	Rapid Deployment Team - solid green uniform/cap, black gloves, silver sunglasses
+“Pilot”
+	__ Flight jacket and gloves, pants, baseball cap with sunglasses and headphones
+	__ Flight Squadron - solid white uniform, blue gloves/cap, green sunglasses
+	__ Rapid Deployment Team - solid green uniform/cap, black gloves, silver sunglasses
 
 Single figures
-	Cowboy
-	Cowgirl
-	Man (White Shirt / Blue Shorts)
-	Woman (Red Shirt / Red Shorts)
-	Pilot - this pilot had a leather hat and goggles, with a scarf and high-top boots
-	A.J. Foyt Racing Team - similar sculpt to Motorcyclist, but with no knee articulation. Solid white uniform with read gloves/helmet.
-
+	__ Cowboy
+	__ Cowgirl
+	__ Man (White Shirt / Blue Shorts)
+	__ Woman (Red Shirt / Red Shorts)
+	__ Pilot - this pilot had a leather hat and goggles, with a scarf and high-top boots
+	__ A.J. Foyt Racing Team - similar sculpt to Motorcyclist, but with no knee articulation. Solid white uniform with read gloves/helmet.
 
