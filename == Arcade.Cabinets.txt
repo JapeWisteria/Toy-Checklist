@@ -1,7 +1,7 @@
 
 Tiny Arcade Keychain Machines
 -----------------------------------------------
-Tiny Arcade are playable versions of each original arcade release with a keychain attached. In order to facilitate play at at that scale, they are not faithful to every detail of the coin-op machine.
+Tiny Arcade are playable versions of each original arcade release with a keychain attached. In order to facilitate play at at that scale, they are not faithful to every detail of the coin-op machine. Each requires 3 AAA batteries.
 
 Wave 1
 ~~~~~~
@@ -30,10 +30,22 @@ Galaga Tabletop Edition
 Pac Man Tabletop Edition
 Space Invaders Tabletop Edition
 
+Boardwalk
+~~~~~~
+Dance Dance Revolution Red
+Pop-A-Shot
+Skeeball
+Teenage Mutant Ninja Turtles Pinball
+Whac-A-Mole
+
+Consoles
+~~~~~~
+Atari 2600
+
 
 Hallmark Ornaments
 -----------------------------------------------
-These are faithful recreations of every detail of the coin-op machines, but only feature fixed lights and audio, with a semi-transparent screen.
+These are faithful recreations of every detail of the coin-op machines, but only feature fixed lights and audio, with a semi-transparent screen. Each requires 3 LR44 batteries.
 
 2008 -- Pac-Man
 2009 -- Galaga
